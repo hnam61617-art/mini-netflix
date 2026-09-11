@@ -1,5 +1,6 @@
 # mini-netflix
 Thành viên nhóm:
+
 Hoàng Hải Đăng N25DCAT071 (EMAIL: n25dcat071@student.ptithcm.edu.vn)
 
 Châu Thanh Bình N25DCAT070 (EMAIL: n25dcat070@student.ptithcm.edu.vn)
