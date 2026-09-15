@@ -19,7 +19,7 @@ Mini-Netflix mô phỏng một nền tảng xem phim trực tuyến. Hệ thốn
 ## Công nghệ
 
 - Backend: **Python Flask**
-- Database: **SQLite** (`instance/netflix.db`)
+- Database: **MYSQL** (`instance/netflix.db`)
 - Frontend: HTML, CSS, JavaScript
 
 ## Mô hình dữ liệu
