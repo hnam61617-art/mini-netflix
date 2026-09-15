@@ -31,7 +31,6 @@ Các bảng chính:
 `content` là thực thể cha; `movie` và `episode` là hai thực thể con. Mỗi `episode` thuộc về một `tv_series`.
 
 ## Cấu trúc thư mục
-
  mini-netflix
     ├── README.md
     ├── app.py
@@ -53,7 +52,8 @@ Các bảng chính:
         ├── movies.html
         ├── profile.html
         └── register.html
-```
+
+   
 
 
 ## Quy tắc nghiệp vụ nổi bật
