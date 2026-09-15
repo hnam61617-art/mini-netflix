@@ -40,7 +40,7 @@ mini-netflix/
 │   ├── sample_data.sql     # Dữ liệu mẫu
 │   └── schema.sql          # Script tạo cấu trúc dữ liệu
 ├── instance/
-│   └── netflix.db          # SQLite database
+│   └── netflix.db          
 ├── static/
 │   ├── images/
 │   └── file.txt
@@ -56,21 +56,6 @@ mini-netflix/
 │   └── register.html
 ```
 
-## Cài đặt cơ sở dữ liệu
-
-1. Cài Python 3 và Flask:
-
-```bash
-pip install flask
-```
-
-2. Chạy ứng dụng:
-
-```bash
-python app.py
-```
-
-3. Mở trình duyệt tại địa chỉ Flask hiển thị trong terminal (thường là `http://127.0.0.1:5000`).
 
 ## Chức năng giao diện
 
@@ -88,12 +73,11 @@ python app.py
 
 ## Thành viên nhóm
 
-- Hoàng Hải Đăng
-- Huỳnh Hữu Diên
-- Châu Thanh Bình
+Hoàng Hải Đăng N25DCAT071 (EMAIL: n25dcat071@student.ptithcm.edu.vn) (hnam61617-art)
 
-## Ghi chú làm việc nhóm
+Châu Thanh Bình N25DCAT070 (EMAIL: n25dcat070@student.ptithcm.edu.vn) (bnhchu313207)
 
-- Không push trực tiếp lên nhánh `main` khi chưa thống nhất.
-- Mỗi thành viên làm phần việc trên branch riêng: `database`, `backend`, `frontend`, hoặc `docs`.
-- Tạo Pull Request trước khi merge vào `main`.
+Huỳnh Hữu Diên N25DCAT072  (EMAIL: n25dcat072@student.ptithcm.edu.vn)(HDIEN2802)
+
+
+
