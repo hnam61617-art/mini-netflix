@@ -32,34 +32,29 @@ Các bảng chính:
 
 ## Cấu trúc thư mục
 
-```text
-mini-netflix/
-├── database/
-│   ├── schema.sql          # Tạo database và các bảng
-│   ├── seed.sql            # Dữ liệu mẫu
-│   └── queries.sql         # Các câu truy vấn minh hoạ
-├── backend/                # Xử lý API và nghiệp vụ (nếu có)
-├── frontend/               # Giao diện web (nếu có)
-├── docs/
-│   ├── ERD.png             # Sơ đồ ER/EER
-│   └── business-rules.md   # Business Rules và Constraints
-└── README.md
+ mini-netflix
+    ├── README.md
+    ├── app.py
+    ├── database
+    │   ├── sample_data.sql
+    │   └── schema.sql
+    ├── instance
+    │   └── netflix.db
+    ├── static
+    │   ├── css
+    │   │   └── style.css
+    │   ├── images
+    │   │   └── file.txt
+    │   └── js
+    │       └── main.js
+    └── templates
+        ├── index.html
+        ├── login.html
+        ├── movies.html
+        ├── profile.html
+        └── register.html
 ```
 
-## Cài đặt cơ sở dữ liệu
-
-1. Cài đặt MySQL.
-2. Tạo database và bảng:
-
-```bash
-mysql -u root -p < database/schema.sql
-```
-
-3. (Tuỳ chọn) Nạp dữ liệu mẫu:
-
-```bash
-mysql -u root -p mini_netflix < database/seed.sql
-```
 
 ## Quy tắc nghiệp vụ nổi bật
 
@@ -71,9 +66,12 @@ mysql -u root -p mini_netflix < database/seed.sql
 
 ## Thành viên nhóm
 
-- Hoàng Hải Đăng
-- Huỳnh Hữu Diên
-- Châu Thanh Bình
+Hoàng Hải Đăng N25DCAT071 (EMAIL: n25dcat071@student.ptithcm.edu.vn) (hnam61617-art)
+
+Châu Thanh Bình N25DCAT070 (EMAIL: n25dcat070@student.ptithcm.edu.vn) (bnhchu313207)
+
+Huỳnh Hữu Diên N25DCAT072  (EMAIL: n25dcat072@student.ptithcm.edu.vn)(HDIEN2802)
+
 
 ## Ghi chú làm việc nhóm
 
