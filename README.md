@@ -19,6 +19,28 @@ GIẢNG VIÊN HƯỚNG DẪN : Lê Hà Thanh (lehathanh@ptithcm.edu.vn)
 
 
 ## 1. Chạy bản mới bằng Docker Desktop
+### 1. Cài Git trên Windows
+
+Nếu máy chưa có Git, mở PowerShell và chạy:
+
+```powershell
+winget install --id Git.Git -e
+```
+
+Cài xong, đóng PowerShell rồi mở lại. Kiểm tra bằng lệnh:
+
+```powershell
+git --version
+```
+
+### 2. Tải mã nguồn
+
+Chạy các lệnh sau trong PowerShell:
+
+```powershell
+
+git clone https://github.com/hnam61617-art/mini-netflix.git
+cd mini-netflix
 
   mở thư mục có `compose.yaml` bằng VS Code. Bật Docker Desktop, chọn Linux containers; ở terminal:
 
