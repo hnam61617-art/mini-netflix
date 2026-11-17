@@ -18,7 +18,7 @@ THÀNH VIÊN NHÓM
 GIẢNG VIÊN HƯỚNG DẪN : Lê Hà Thanh (lehathanh@ptithcm.edu.vn)
 
 
-## 1. Chạy bản mới bằng Docker Desktop
+## 1. Chạy demo bằng Docker Desktop
 ### 1. Cài Git trên Windows
 
 Nếu máy chưa có Git, mở PowerShell và chạy:
