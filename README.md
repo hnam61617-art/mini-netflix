@@ -15,7 +15,7 @@
 | Châu Thanh Bình | N25DCAT070 | n25dcat070@student.ptithcm.edu.vn | [bnhchu313207](https://github.com/bnhchu313207) |
 | Huỳnh Hữu Diên | N25DCAT072 | n25dcat072@student.ptithcm.edu.vn | [HDIEN2802](https://github.com/HDIEN2802) |
 
-T
+
 
 ## 1. Chạy bản mới bằng Docker Desktop
 
