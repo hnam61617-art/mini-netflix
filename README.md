@@ -128,6 +128,4 @@ docker compose -p mn_verify -f compose.verify.yaml down
 
 Compose kiểm thử không mở cổng máy chủ, dùng tmpfs riêng; script có chốt chống chạy vào DB nguồn. Kết quả fixture được ghi `evidence/fixture/` trong container kiểm thử; bản kết quả bàn giao đã nằm trong ZIP. Việc vượt test fixture không chứng minh đây là dữ liệu khách hàng thật. Xem [KET_QUA_KIEM_CHUNG.md](KET_QUA_KIEM_CHUNG.md).
 
-## 6. Phạm vi và dữ liệu thiếu
 
-13 user là tài khoản kỹ thuật để gắn 13 hồ sơ nguồn, tên Việt là bí danh; không có danh tính/email/mật khẩu khách hàng thật. 3 gói là cấu hình demo. subscriptions, payments, watch_lists ban đầu trống. Nhiều ngày phát hành NULL vì nguồn chỉ có năm; không đổi thành 01/01 giả. Không có bản quyền video để phát trực tuyến.
