@@ -1,6 +1,6 @@
 # Mini-Netflix · Nhóm G2 — bản dữ liệu có nguồn
 
-Đọc [DATA_SOURCES.md](DATA_SOURCES.md) về nguồn và cách sử dụng; [SOURCE_INVENTORY.md](SOURCE_INVENTORY.md) về nguồn đã xét; [DU_LIEU_CON_TRONG.md](DU_LIEU_CON_TRONG.md) về các phần thiếu. Báo cáo Word gốc tại [docs/bao_cao_do_an.docx](docs/bao_cao_do_an.docx) không được sửa; 
+Đọc [DATA_SOURCES.md](DATA_SOURCES.md) về nguồn và cách sử dụng; [SOURCE_INVENTORY.md](SOURCE_INVENTORY.md) về nguồn đã xét;. Bài báo cáo của đề tài nằm tại [Bao_Cao_Mini_Netflix_G2.pdf](Bao_Cao_Mini_Netflix_G2.pdf) ; 
 
 ## Thông tin nhóm và repo
 
@@ -8,13 +8,14 @@
 - Repo nhóm: https://github.com/hnam61617-art/mini-netflix
 - Mã nhóm: **G2**; mã môn **INT1313**; lớp **D25CQAT02-N**.
 
-
+THÀNH VIÊN NHÓM 
 | Họ và tên | MSSV | Email trường | GitHub |
 |---|---|---|---|
 | Hoàng Hải Đăng | N25DCAT071 | n25dcat071@student.ptithcm.edu.vn | [hnam61617-art](https://github.com/hnam61617-art) |
 | Châu Thanh Bình | N25DCAT070 | n25dcat070@student.ptithcm.edu.vn | [bnhchu313207](https://github.com/bnhchu313207) |
 | Huỳnh Hữu Diên | N25DCAT072 | n25dcat072@student.ptithcm.edu.vn | [HDIEN2802](https://github.com/HDIEN2802) |
 
+GIẢNG VIÊN HƯỚNG DẪN : Lê Hà Thanh (lehathanh@ptithcm.edu.vn)
 
 
 ## 1. Chạy bản mới bằng Docker Desktop
@@ -34,7 +35,6 @@ docker compose ps -a
 
 `db` healthy, `init` Exited (0), `web` Up là bình thường. Mở **http://localhost:5000**. Đăng nhập **student001@gmail.com**, mật khẩu **MiniNetflix1313!**. Các tài khoản student001 đến student013 dùng cùng mật khẩu demo.
 
-Volume mới **mini_netflix_g2_sourced_v2** tách dữ liệu cũ; dữ liệu tự thêm ở các bản trước không tự chuyển sang bản này. Không dùng ZIP nhỏ để thay seed vào volume cũ. Không thêm `-v` khi dừng nếu muốn giữ dữ liệu. Sau chỉnh mã web: `docker compose up --build -d` rồi Ctrl+F5. Chỉnh seed không tự cập nhật DB đã có: `init` bảo toàn DB hoàn chỉnh.
 
 Nếu báo không tìm thấy dockerDesktopLinuxEngine, bật Docker Desktop, đợi Engine running rồi chạy lại. Nếu cổng 13306 bận, đổi **cổng bên trái** `127.0.0.1:13306:3306` thành cổng trống và dùng cổng đó trong Workbench; Flask nội bộ vẫn dùng `db:3306`.
 
