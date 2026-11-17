@@ -1,0 +1,11 @@
+{
+  "netflix_show_id": "s1386",
+  "netflix_title": "Demon Slayer: Kimetsu no Yaiba",
+  "search_url": "https://api.tvmaze.com/search/shows?q=Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "unresolved",
+  "reason": "exact_name_candidates=0",
+  "resolution_candidates": [],
+  "resolution_evidence": []
+}

@@ -1,0 +1,2130 @@
+{
+  "netflix_show_id": "s3602",
+  "netflix_title": "IZombie",
+  "search_url": "https://api.tvmaze.com/search/shows?q=IZombie",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 1589,
+    "url": "https://www.tvmaze.com/shows/1589/izombie",
+    "name": "iZombie",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Horror"
+    ],
+    "status": "Ended",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2015-03-17",
+    "ended": "2019-08-01",
+    "officialSite": "http://www.cwtv.com/shows/izombie",
+    "schedule": {
+      "time": "20:00",
+      "days": [
+        "Thursday"
+      ]
+    },
+    "rating": {
+      "average": 7.8
+    },
+    "weight": 99,
+    "network": {
+      "id": 5,
+      "name": "The CW",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": "https://www.cwtv.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 38804,
+      "thetvdb": 281470,
+      "imdb": "tt3501584"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/477/1194487.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/477/1194487.jpg"
+    },
+    "summary": "<p>Olivia \"Liv\" Moore is a rosy-cheeked, disciplined, over-achieving medical resident who had her life path completely mapped out... until the night she attended a party that unexpectedly turned into a zombie feeding frenzy. As one of the newly undead, Liv has devised a way to resist her baser urges to devour fresh human brains--she's taken a job in the Seattle coroner's office.</p><p>In this appropriately dead-end job, she can secretly snack on the brains of the many Jane and John Doe corpses that make a final stop in the morgue. Liv remains resigned to an eternity without hope or purpose, until she realizes that with every brain she consumes, she retains a portion of that person's memories, and she begins to experience visions from the point of view of the murder victims. It's not the same as being alive again, but at least she can find purpose in her undead existence by helping to solve the murders of those who are indeed fully dead.</p>",
+    "updated": 1793615369,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/1589"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1678864",
+        "name": "All's Well That Ends Well"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/1589/episodes",
+  "episodes": [
+    {
+      "id": 140028,
+      "url": "https://www.tvmaze.com/episodes/140028/izombie-1x01-pilot",
+      "name": "Pilot",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2015-03-17",
+      "airtime": "21:00",
+      "airstamp": "2015-03-18T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/548/1371676.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/548/1371676.jpg"
+      },
+      "summary": "<p>Olivia \"Liv\" Moore was a disciplined, over achieving medical resident who had her life path completely mapped out... until she is turned into a zombie. Now stuck somewhere between half alive and undead, Liv loses her drive and ambition. She breaks off her engagement with charming soul mate Major, fearful of infecting him with her condition. Liv transfers her medical residency to the city morgue in order to access the only form of sustenance left available to her - the only thing that allows her to maintain her humanity - brains. There are side effects to Liv's new diet: With each brain Liv consumes, she experiences \"visions\" - flashes of the corpse's memories - which often provide clues as to how they were killed. Her boss, the brilliant but eccentric Dr. Ravi Chakrabarti, encourages her to embrace this gift and to work with unproven homicide detective, Clive Babineaux,, to help solve these murders. In doing so, Liv finds a measure of peace, and a new sense of purpose in what her \"life\" has now become.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/140028"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 140029,
+      "url": "https://www.tvmaze.com/episodes/140029/izombie-1x02-brother-can-you-spare-a-brain",
+      "name": "Brother, Can You Spare a Brain?",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2015-03-24",
+      "airtime": "21:00",
+      "airstamp": "2015-03-25T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/24355.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/24355.jpg"
+      },
+      "summary": "<p>Liv, Ravi and Clive work together to solve the mysterious death of a well-known painter. Liv finds herself consumed with passion after eating his brain, and can't resist trying to seduce Major. Meanwhile, Blaine makes a surprise visit to the morgue.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/140029"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 140030,
+      "url": "https://www.tvmaze.com/episodes/140030/izombie-1x03-the-exterminator",
+      "name": "The Exterminator",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2015-03-31",
+      "airtime": "21:00",
+      "airstamp": "2015-04-01T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/271/679468.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/271/679468.jpg"
+      },
+      "summary": "<p>As Liv and Detective Babineaux investigate a hit and run case, they discover the victim was a sociopathic hit man responsible for the murder of a tech entrepreneur, a case that Peyton is prosecuting. Liv and Ravi dig deeper into a supposed zombie sighting that was posted on line which leads Liv to make a surprising discovery about someone from her past. Major moves on with his life and Peyton is shocked by Liv's reaction.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/140030"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 140667,
+      "url": "https://www.tvmaze.com/episodes/140667/izombie-1x04-liv-and-let-clive",
+      "name": "Liv and Let Clive",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2015-04-07",
+      "airtime": "21:00",
+      "airstamp": "2015-04-08T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/25227.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25227.jpg"
+      },
+      "summary": "<p>When Clive identifies a John Doe in the morgue as one of his former criminal contacts from his days on the vice squad, Liv is surprised that Clive is so quick to refuse her help in solving the murder. Liv and Ravi investigate on their own which puts them in a precarious situation. Liv's problems continue to mount when Major begins searching for a roommate and she believes he's considering a cute co-ed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/140667"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 140668,
+      "url": "https://www.tvmaze.com/episodes/140668/izombie-1x05-flight-of-the-living-dead",
+      "name": "Flight of the Living Dead",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2015-04-14",
+      "airtime": "21:00",
+      "airstamp": "2015-04-15T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/25786.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25786.jpg"
+      },
+      "summary": "<p>Liv reluctantly eats the brains of her recently murdered sorority sister Holly to help gain insight into her murder. This case takes Liv and Clive into Holly's world of extreme sporting where they meet professional snowboarder Carson McComb, a murder suspect who appears to be hiding a secret. Meanwhile, Liv has a strange connection with one of the other murder suspects and Major voices his concern to Clive over a young boy's disappearance.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/140668"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 144501,
+      "url": "https://www.tvmaze.com/episodes/144501/izombie-1x06-virtual-reality-bites",
+      "name": "Virtual Reality Bites",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2015-04-21",
+      "airtime": "21:00",
+      "airstamp": "2015-04-22T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/26239.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26239.jpg"
+      },
+      "summary": "<p>Liv, Clive and Ravi work together to investigate the murder of a computer-hacker. Liv inherits intense agoraphobia after consuming his brains along with mad skills at computer gaming. This delights Ravi, who urges her to play and offers to help her from inside the game, as they continue to search for the killer. Meanwhile, Blaine becomes acquainted with someone close to Liv.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144501"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 144502,
+      "url": "https://www.tvmaze.com/episodes/144502/izombie-1x07-maternity-liv",
+      "name": "Maternity Liv",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2015-04-28",
+      "airtime": "21:00",
+      "airstamp": "2015-04-29T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 5.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/26531.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26531.jpg"
+      },
+      "summary": "<p>Group of teens get a scare when a disheveled young pregnant woman approaches them muttering for help. Unfortunately, the woman doesn't survive but her baby does. Liv and Clive begin questioning suspects in her murder, and after consuming the victim's brain, a fierce maternal instinct kicks in for Liv. Meanwhile, Major makes a shocking discovery.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144502"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 144503,
+      "url": "https://www.tvmaze.com/episodes/144503/izombie-1x08-dead-air",
+      "name": "Dead Air",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2015-05-05",
+      "airtime": "21:00",
+      "airstamp": "2015-05-06T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 5.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/26946.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26946.jpg"
+      },
+      "summary": "<p>Liv and Clive work together to solve the murder of a morning radio talk show host who specialized in relationship straight talk. Liv becomes filled to the brim with insight after consuming the brains, making Clive extremely uncomfortable when Liv starts getting personal. Meanwhile, Peyton steps in to help Major, and Blaine issues a warning. Lastly, Ravi's unexpected romantic connection has the potential to make things awkward for Liv.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144503"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 144504,
+      "url": "https://www.tvmaze.com/episodes/144504/izombie-1x09-patriot-brains",
+      "name": "Patriot Brains",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2015-05-12",
+      "airtime": "21:00",
+      "airstamp": "2015-05-13T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 5.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1373138.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1373138.jpg"
+      },
+      "summary": "<p>Liv and Clive investigate the mysterious death of a former sniper, Everett, who has been working as an instructor at a paintball facility. They begin questioning family members including Everett's ex-wife and her new husband Sean and realize things are not what they seem. Meanwhile, Major continues to get closer and closer to the truth, and Blaine does the unthinkable.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144504"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 144505,
+      "url": "https://www.tvmaze.com/episodes/144505/izombie-1x10-mr-berserk",
+      "name": "Mr. Berserk",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2015-05-19",
+      "airtime": "21:00",
+      "airstamp": "2015-05-20T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1373140.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1373140.jpg"
+      },
+      "summary": "<p>Liv and Clive investigate the murder of a journalist working on a story linking psychotic episodes in a small number of consumers to the energy drink Max Rager. Liv goes straight to the top at Max Rager HQ and questions the man in charge, Vaughn Du Clark. Meanwhile, Ravi tries to help Major who continues to believe he's going crazy.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144505"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 156071,
+      "url": "https://www.tvmaze.com/episodes/156071/izombie-1x11-astroburger",
+      "name": "Astroburger",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2015-05-26",
+      "airtime": "21:00",
+      "airstamp": "2015-05-27T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/11/28282.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/28282.jpg"
+      },
+      "summary": "<p>When someone close to Major dies of an apparent suicide, Liv consumes the brains resulting in a mix of reality and paranoia. Clive questions Major and learns of a secret computer file that may contain important details in the investigation - and finding the killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/156071"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 156072,
+      "url": "https://www.tvmaze.com/episodes/156072/izombie-1x12-dead-rat-live-rat-brown-rat-white-rat",
+      "name": "Dead Rat, Live Rat, Brown Rat, White Rat",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2015-06-02",
+      "airtime": "21:00",
+      "airstamp": "2015-06-03T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1373401.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1373401.jpg"
+      },
+      "summary": "<p>High School Redux - A group of drunken teenagers take a late night joyride with disastrous consequences. As they cover up the accident, the man mysteriously comes back to life and attacks one of the girls. After Liv consumes the girl's brain, she is taken back to high school as she and Clive investigate the case. A surprise death of one of the victim's friends raises some serious questions about the case. Major believes Blaine's deli is not all it seems to be.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/156072"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 156073,
+      "url": "https://www.tvmaze.com/episodes/156073/izombie-1x13-blaines-world",
+      "name": "Blaine's World",
+      "season": 1,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2015-06-09",
+      "airtime": "21:00",
+      "airstamp": "2015-06-10T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1373424.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1373424.jpg"
+      },
+      "summary": "<p>After discovering new evidence in the Max Rager case, Liv and Clive pay a visit to Vaughn Du Clark at Max Rager HQ. Ravi continues his search for a cure. Meanwhile, Blaine makes Liv an offer she can't refuse. Lastly, Major finds himself in an unbelievable situation.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/156073"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 182147,
+      "url": "https://www.tvmaze.com/episodes/182147/izombie-2x01-grumpy-old-liv",
+      "name": "Grumpy Old Liv",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2015-10-06",
+      "airtime": "21:00",
+      "airstamp": "2015-10-07T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1373429.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1373429.jpg"
+      },
+      "summary": "<p>Liv deals with the aftermath of Major's death, Blaine's cure, and Evan's injuries in the explosion. Meanwhile, she consumes the brain of an old man and takes on his worst traits while trying to figure out who murdered him.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/182147"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 282621,
+      "url": "https://www.tvmaze.com/episodes/282621/izombie-2x02-zombie-bro",
+      "name": "Zombie Bro",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2015-10-13",
+      "airtime": "21:00",
+      "airstamp": "2015-10-14T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/550/1376615.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1376615.jpg"
+      },
+      "summary": "<p>While Liv eats the brain of a frat boy to help Clive solve his murder, Major agrees to go with Ravi to a club and observe him on Utopium. Meanwhile, Blaine turns to his father Angus for money so he can pay off the DA to go after a rival drug dealer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/282621"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 326732,
+      "url": "https://www.tvmaze.com/episodes/326732/izombie-2x03-real-dead-housewife-of-seattle",
+      "name": "Real Dead Housewife of Seattle",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2015-10-20",
+      "airtime": "21:00",
+      "airstamp": "2015-10-21T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/25/64164.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/25/64164.jpg"
+      },
+      "summary": "<p>Liv eats the brain of a rich dead housewife to try and solve her murder, and learns that she's connected to Vaughn. Meanwhile, Major meets Gilda, and Peyton returns to Seattle.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/326732"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 246330,
+      "url": "https://www.tvmaze.com/episodes/246330/izombie-2x04-even-cowgirls-get-the-black-and-blues",
+      "name": "Even Cowgirls Get the Black and Blues",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2015-10-27",
+      "airtime": "21:00",
+      "airstamp": "2015-10-28T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/23/57721.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/57721.jpg"
+      },
+      "summary": "<p>Liv works a case of a dead country-and-western-singer and the eaten brain begins to awaken feelings in her about how Major has been treating her. Meanwhile, Peyton crashes at Major and Ravi's place, Clive makes the acquaintance of a female FBI agent, and Major hits rock bottom.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/246330"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 379112,
+      "url": "https://www.tvmaze.com/episodes/379112/izombie-2x05-love-basketball",
+      "name": "Love & Basketball",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2015-11-03",
+      "airtime": "21:00",
+      "airstamp": "2015-11-04T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/27/69607.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/27/69607.jpg"
+      },
+      "summary": "<p>A moonlighting kid's basketball coach is shot while working as a security guard. Liv eats his brain and takes on his personality as a take-no-prisoners coach, just in time to deal with Major's depression. Meanwhile, Blaine gives Ravi some of the tainted Utopium so he can develop a cure, and Gilda begins to question Major's commitment to Max Rager's anti-zombie efforts.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/379112"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 397505,
+      "url": "https://www.tvmaze.com/episodes/397505/izombie-2x06-max-wager",
+      "name": "Max Wager",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2015-11-10",
+      "airtime": "21:00",
+      "airstamp": "2015-11-11T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/29/73447.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/29/73447.jpg"
+      },
+      "summary": "<p>Liv's newest brain is an inveterate gambler and his death may be connected to his habit. Meanwhile, Blaine pays a visit to his grandfather after Angus takes over Blaine's funeral home, and Ravi tries to find a condom strong enough so that Liv and Major can have sex.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/397505"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 410656,
+      "url": "https://www.tvmaze.com/episodes/410656/izombie-2x07-abra-cadaver",
+      "name": "Abra Cadaver",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2015-11-17",
+      "airtime": "21:00",
+      "airstamp": "2015-11-18T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/30/76766.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/30/76766.jpg"
+      },
+      "summary": "<p>A magician at a magician's convention turns up dead, and Liv eats his brain. She soon discovers that he was obsessed with death, and his fascination bleeds into her love life. Meanwhile, Blaine asks Liv for help breaking into Dale's apartment to learn what she knows about the Meat Cute murders, and Ravi breaks up with his girlfriend.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/410656"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 458726,
+      "url": "https://www.tvmaze.com/episodes/458726/izombie-2x08-the-hurt-stalker",
+      "name": "The Hurt Stalker",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2015-12-01",
+      "airtime": "21:00",
+      "airstamp": "2015-12-02T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/32/82489.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/32/82489.jpg"
+      },
+      "summary": "<p>A woman that Clive used to date turns up dead... shot with his police firearm. While Liv and Ravi try to find the real killer, Liv eats the planner's brain and picks up her obsessive stalking habits, which threaten her relaitionship with Major.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/458726"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 476433,
+      "url": "https://www.tvmaze.com/episodes/476433/izombie-2x09-cape-town",
+      "name": "Cape Town",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2015-12-08",
+      "airtime": "21:00",
+      "airstamp": "2015-12-09T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379239.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379239.jpg"
+      },
+      "summary": "<p>It's Christmas in Seattle, and Liv is called in on the case of a shop teacher who pursues criminals at night as a costumed vigilante... and turns up dead. Meanwhile, Major makes the acquaintance of a new zombie.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/476433"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 523738,
+      "url": "https://www.tvmaze.com/episodes/523738/izombie-2x10-method-head",
+      "name": "Method Head",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2016-01-12",
+      "airtime": "21:00",
+      "airstamp": "2016-01-13T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379240.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379240.jpg"
+      },
+      "summary": "<p>Liv gets in touch with her inner actor when she finds herself investigating the murder of a genre star in a zombie TV show to track down the killer. Meanwhile, Vaughn decides to test Major's loyalty to Max Rager, and Ravi continues his search for the tainted Utopium.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/523738"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 552156,
+      "url": "https://www.tvmaze.com/episodes/552156/izombie-2x11-fifty-shades-of-grey-matter",
+      "name": "Fifty Shades of Grey Matter",
+      "season": 2,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2016-02-02",
+      "airtime": "21:00",
+      "airstamp": "2016-02-03T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379244.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379244.jpg"
+      },
+      "summary": "<p>Liv and Clive investigate the poisoning death of a librarian who wrote erotic literature. Meanwhile, Clive and Dale tie Blaine to the Meat Cute Massacre and the Chaos Killer... but Peyton gets him released because of his testimony against Boss.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/552156"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 579816,
+      "url": "https://www.tvmaze.com/episodes/579816/izombie-2x12-physician-heal-thy-selfie",
+      "name": "Physician, Heal Thy Selfie",
+      "season": 2,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2016-02-09",
+      "airtime": "21:00",
+      "airstamp": "2016-02-10T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/43/107821.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/43/107821.jpg"
+      },
+      "summary": "<p>Liv eats the brain of a social media maven after Seattle's three most recent murder victims turn up without any brains... or heads. While she and Clive try to solve the triple-homicide, Liv grows closer to Drake but realizes that he's not being honest. Meanwhile, Ravi comforts Peyton, and Vaughn questions Major's loyalty to Max Rager.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/579816"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 590457,
+      "url": "https://www.tvmaze.com/episodes/590457/izombie-2x13-the-whopper",
+      "name": "The Whopper",
+      "season": 2,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2016-02-16",
+      "airtime": "21:00",
+      "airstamp": "2016-02-17T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/45/112533.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/45/112533.jpg"
+      },
+      "summary": "<p>Ravi and Major find a fresh corpse in the field where the Utopium-tainted bodies are hidden, and the dead man's brain provides Liv with a lead to find them. Meanwhile, Blaine has Major brought in and makes him a deal he can't refuse.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/590457"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 600638,
+      "url": "https://www.tvmaze.com/episodes/600638/izombie-2x14-eternal-sunshine-of-the-caffeinated-mind",
+      "name": "Eternal Sunshine of the Caffeinated Mind",
+      "season": 2,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2016-02-23",
+      "airtime": "21:00",
+      "airstamp": "2016-02-24T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/46/115288.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115288.jpg"
+      },
+      "summary": "<p>While Liv and Clive investigate the murder of an overly-positive coffee shop owner, Boss discovers who has been moving in on his business. Meanwhile, the police arrest Drake and bring him in for interrogation.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/600638"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 622459,
+      "url": "https://www.tvmaze.com/episodes/622459/izombie-2x15-he-blinded-me-with-science",
+      "name": "He Blinded Me... with Science",
+      "season": 2,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2016-03-22",
+      "airtime": "21:00",
+      "airstamp": "2016-03-23T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/49/124521.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/49/124521.jpg"
+      },
+      "summary": "<p>After eating the brain of a dead researcher with connections to Max Rager, Liv goes undercover to find out what Vaughn is up to. Meanwhile, Ravi creates a new cure and gives it to a newly rezombied Blaine, and Liv discovers that Drake is working for Boss.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/622459"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 646928,
+      "url": "https://www.tvmaze.com/episodes/646928/izombie-2x16-pour-some-sugar-zombie",
+      "name": "Pour Some Sugar, Zombie",
+      "season": 2,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2016-03-29",
+      "airtime": "21:00",
+      "airstamp": "2016-03-30T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/50/127393.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/50/127393.jpg"
+      },
+      "summary": "<p>To help Peyton get the goods on Boss, Liv eats the brain of a dead stripper who knew where a major stash house was. Meanwhile, Ravi breaks into Major's safe, and Blaine loses his memories after taking the zombie cure.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/646928"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 647337,
+      "url": "https://www.tvmaze.com/episodes/647337/izombie-2x17-reflections-of-the-way-liv-used-to-be",
+      "name": "Reflections of the Way Liv Used to Be",
+      "season": 2,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2016-04-05",
+      "airtime": "21:00",
+      "airstamp": "2016-04-06T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/51/129829.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/51/129829.jpg"
+      },
+      "summary": "<p>A college student turns up dead, and Liv discovers that she was a hyper-active overachieve... just like Liv was before she became a zombie. Liv eats the student's brain both to help solve her murder and to take her mind off of Drake's disappearance. Meanwhile, Major and Ravi work out a plan to determine if the zombie cure causes complete memory loss... by turning Vaughn into a zombie and then trying the cure on him.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/647337"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 647338,
+      "url": "https://www.tvmaze.com/episodes/647338/izombie-2x18-dead-beat",
+      "name": "Dead Beat",
+      "season": 2,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2016-04-12",
+      "airtime": "20:00",
+      "airstamp": "2016-04-13T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/52/132111.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/52/132111.jpg"
+      },
+      "summary": "<p>Dale arrests Major for the Chaos Killer murders, but she doesn't have any forensic evidence to connect him to the crimes. Meanwhile, Major is running out of time before he goes Romero, and Liv is forced to tell someone the truth about zombies to get him out of jail before it's too late.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/647338"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 647339,
+      "url": "https://www.tvmaze.com/episodes/647339/izombie-2x19-salivation-army",
+      "name": "Salivation Army",
+      "season": 2,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2016-04-12",
+      "airtime": "21:00",
+      "airstamp": "2016-04-13T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/52/132117.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/52/132117.jpg"
+      },
+      "summary": "<p>Liv, Major, and Clive infiltrate a Max Rager party to get to the secret basement and find the missing zombies... including Liv's boyfriend Drake. Meanwhile, Boss sends men after Blaine, who turns to Peyton and Ravi for help.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/647339"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 991412,
+      "url": "https://www.tvmaze.com/episodes/991412/izombie-3x01-heaven-just-got-a-little-bit-smoother",
+      "name": "Heaven Just Got a Little Bit Smoother",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2017-04-04",
+      "airtime": "21:00",
+      "airstamp": "2017-04-05T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/105/263670.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/105/263670.jpg"
+      },
+      "summary": "<p>In the aftermath of the Max Rager massacre, Liv and her friends talk to Vivian to see what she has in mind for a zombie homeland. Meanwhile, Ravi's old boss shows up, Peyton asks Blaine to come over and play cards, and Major finds it hard to get work after being suspect of killing people.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/991412"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 991413,
+      "url": "https://www.tvmaze.com/episodes/991413/izombie-3x02-zombie-knows-best",
+      "name": "Zombie Knows Best",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2017-04-11",
+      "airtime": "21:00",
+      "airstamp": "2017-04-12T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/106/267034.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/106/267034.jpg"
+      },
+      "summary": "<p>After eating the father's brain in a father-and-daughter murder, Liv gives Ravi some fatherly advice. Meanwhile, Clive remembers the past as he tries to find the person who killed Wally and his mother Anna.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/991413"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 991414,
+      "url": "https://www.tvmaze.com/episodes/991414/izombie-3x03-eat-pray-liv",
+      "name": "Eat, Pray, Liv",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2017-04-18",
+      "airtime": "21:00",
+      "airstamp": "2017-04-19T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/355/887839.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/355/887839.jpg"
+      },
+      "summary": "<p>Clive and Liv try to solve the murder of a mindfulness guru. Meanwhile, Major's condition worsens and his only chance is for Blaine to volunteer as a guinea pig.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/991414"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1048413,
+      "url": "https://www.tvmaze.com/episodes/1048413/izombie-3x04-wag-the-tongue-slowly",
+      "name": "Wag the Tongue Slowly",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2017-04-25",
+      "airtime": "21:00",
+      "airstamp": "2017-04-26T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/355/887844.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/355/887844.jpg"
+      },
+      "summary": "<p>Liv and Clive investigate the apparent murder of an office gossip at a dental supply company. Meanwhile, Peyton waits with Blaine to see if the memory serum works, and Major continues trying to find Natalie.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1048413"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1105957,
+      "url": "https://www.tvmaze.com/episodes/1105957/izombie-3x05-spanking-the-zombie",
+      "name": "Spanking the Zombie",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2017-05-02",
+      "airtime": "21:00",
+      "airstamp": "2017-05-03T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/110/275428.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/110/275428.jpg"
+      },
+      "summary": "<p>Liv takes on the brain of a dominatrix, infused with the memory serum that Ravi has been working on. Meanwhile, Major's condition continues to worsen.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1105957"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1105958,
+      "url": "https://www.tvmaze.com/episodes/1105958/izombie-3x06-some-like-it-hot-mess",
+      "name": "Some Like It Hot Mess",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2017-05-09",
+      "airtime": "21:00",
+      "airstamp": "2017-05-10T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/355/887863.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/355/887863.jpg"
+      },
+      "summary": "<p>To help Clive solve the murder of an irresponsible narcissist, Liv consumes her brain and literally becomes a hot mess. Meanwhile, Peyton learns some shocking news. Lastly, Ravi experiences a major setback.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1105958"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1105959,
+      "url": "https://www.tvmaze.com/episodes/1105959/izombie-3x07-dirt-nap-time",
+      "name": "Dirt Nap Time",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2017-05-16",
+      "airtime": "21:00",
+      "airstamp": "2017-05-17T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/355/887871.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/355/887871.jpg"
+      },
+      "summary": "<p>While Liv tries to track down who stole the cure, she and Clive investigate the murder of an aggressively cheerful preschool teacher who was a womanizer on the side. Meanwhile, Major discovers the downside of being human after he has to pretend to be a zombie to stay employed at Fillmore Graves.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1105959"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1105960,
+      "url": "https://www.tvmaze.com/episodes/1105960/izombie-3x08-eat-a-knievel",
+      "name": "Eat a Knievel",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2017-05-23",
+      "airtime": "21:00",
+      "airstamp": "2017-05-24T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/113/283467.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/113/283467.jpg"
+      },
+      "summary": "<p>An online prankster is killed, and Liv eats his brain and becomes just as obnoxious. Meanwhile, Blaine schemes to reclaim his business from his father Angus, and Liv and Ravi prepare to infiltrate a zombie truther meeting.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1105960"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1150075,
+      "url": "https://www.tvmaze.com/episodes/1150075/izombie-3x09-twenty-sided-die",
+      "name": "Twenty-Sided, Die",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2017-05-30",
+      "airtime": "21:00",
+      "airstamp": "2017-05-31T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/114/286391.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/286391.jpg"
+      },
+      "summary": "<p>Liv and Clive investigate the murder of a D^D dungeon master who lived a secret life. Meanwhile, a woman who understands Major's issues reaches out to him, and Ravi convinces the zombie truthers that he's working on a vaccine.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1150075"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1150076,
+      "url": "https://www.tvmaze.com/episodes/1150076/izombie-3x10-return-of-the-dead-guy",
+      "name": "Return of the Dead Guy",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2017-06-06",
+      "airtime": "21:00",
+      "airstamp": "2017-06-07T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/115/289030.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/115/289030.jpg"
+      },
+      "summary": "<p>Peyton convinces Liv to eat some of Weckler's blue brain to learn how he died. Meanwhile, Boss pays Blaine a visit, and the truthers have Ravi keep Don E sedated until they're ready to show the world that he's a zombie.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1150076"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1150077,
+      "url": "https://www.tvmaze.com/episodes/1150077/izombie-3x11-conspiracy-weary",
+      "name": "Conspiracy Weary",
+      "season": 3,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2017-06-13",
+      "airtime": "21:00",
+      "airstamp": "2017-06-14T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/116/291558.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/116/291558.jpg"
+      },
+      "summary": "<p>After Liv and Blaine rescue Don E, Liv eats one of the truthers' brains to try and find out where oldest brother Harley is. Meanwhile, Peyton digs further into the Weckler case, and Ravi explains the facts of death to Rachel.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1150077"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1150078,
+      "url": "https://www.tvmaze.com/episodes/1150078/izombie-3x12-looking-for-mr-goodbrain-1",
+      "name": "Looking for Mr. Goodbrain (1)",
+      "season": 3,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2017-06-20",
+      "airtime": "21:00",
+      "airstamp": "2017-06-21T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/117/293971.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/117/293971.jpg"
+      },
+      "summary": "<p>Ravi's ex-boss and lover Katty turns up dead, and Liv consumes her brain to learn how she died. She soon finds herself dealing with visions of Katty and Ravi being intimate, as well as Katty's impulse to pick up strange men at hotel bars. Meanwhile, Major is outed as a human, and Baracus makes Peyton a job offer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1150078"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1150079,
+      "url": "https://www.tvmaze.com/episodes/1150079/izombie-3x13-looking-for-mr-goodbrain-2",
+      "name": "Looking for Mr. Goodbrain (2)",
+      "season": 3,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2017-06-27",
+      "airtime": "21:00",
+      "airstamp": "2017-06-28T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/118/296245.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/118/296245.jpg"
+      },
+      "summary": "<p>The zombie apocalypse begins as the killer in the Tuttle-Reid murders is revealed. Meanwhile, Major rejoins the fold and Malcolm tells the truth to Dale.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1150079"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1271700,
+      "url": "https://www.tvmaze.com/episodes/1271700/izombie-4x01-are-you-ready-for-some-zombies",
+      "name": "Are You Ready for Some Zombies?",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2018-02-26",
+      "airtime": "21:00",
+      "airstamp": "2018-02-27T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/145/364180.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/145/364180.jpg"
+      },
+      "summary": "<p>In New Seattle, a Seahawks superfan is killed and Liv eats his brain to find out who is responsible. Meanwhile, Ravi deals with the side effects of the vaccine and Angus escapes from the well.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1271700"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1412575,
+      "url": "https://www.tvmaze.com/episodes/1412575/izombie-4x02-blue-bloody",
+      "name": "Blue Bloody",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2018-03-05",
+      "airtime": "21:00",
+      "airstamp": "2018-03-06T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/146/366274.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/146/366274.jpg"
+      },
+      "summary": "<p>Olivia eats the brain of a murdered dowager and becomes just as obnoxious as she and Clive try to figure out who murdered the woman. Meanwhile, Clive tries to figure a way around his intimacy issues with Dale, and Major has to choose between his friends and his duty when he discovers they're smuggling humans out of Seattle.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1412575"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1415383,
+      "url": "https://www.tvmaze.com/episodes/1415383/izombie-4x03-brainless-in-seattle-1",
+      "name": "Brainless in Seattle (1)",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2018-03-12",
+      "airtime": "21:00",
+      "airstamp": "2018-03-13T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/147/368808.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/147/368808.jpg"
+      },
+      "summary": "<p>Liv's newest brain is a helpless romantic who was killed while trying to find her soulmate in Seattle. The trail leads to a vicious coyote who is less than trustworthy. Meanwhile, Fillmore Graves faces a brain shortage and Chase goes to Blaine for help.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1415383"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1419461,
+      "url": "https://www.tvmaze.com/episodes/1419461/izombie-4x04-brainless-in-seattle-2",
+      "name": "Brainless in Seattle (2)",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2018-03-19",
+      "airtime": "21:00",
+      "airstamp": "2018-03-20T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/147/369427.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/147/369427.jpg"
+      },
+      "summary": "<p>Olivia and Clive enlist Ravi to help them trap the coyote serial killer. Meanwhile, Blaine eats the brain of an honest man to learn Renegade's whereabouts, and Major enters dangerous territory meets a familiar face.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1419461"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1422628,
+      "url": "https://www.tvmaze.com/episodes/1422628/izombie-4x05-goon-struck",
+      "name": "Goon Struck",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2018-03-26",
+      "airtime": "21:00",
+      "airstamp": "2018-03-27T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/148/370756.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/148/370756.jpg"
+      },
+      "summary": "<p>Clive and Liv track the murder of a hockey player, and discover that he was connected to Renegade's human-smuggling operation... and that Blaine killed him. Meanwhile, Peyton discovers first-hand that the brain-tube supply is decreasing, and Major and Don E abduct a young girl.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1422628"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1426898,
+      "url": "https://www.tvmaze.com/episodes/1426898/izombie-4x06-my-really-fair-lady",
+      "name": "My Really Fair Lady",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2018-04-09",
+      "airtime": "21:00",
+      "airstamp": "2018-04-10T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/150/376052.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/376052.jpg"
+      },
+      "summary": "<p>Liv sets out to take on Mama Leone's role smuggling humans into Seattle, and her newfound acting talents after eating a theater actor's brains prove invaluable. Meanwhile, Ravi eats a heroin addict's brain to help Liv, and Angus finally pays Blaine a visit.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1426898"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1426900,
+      "url": "https://www.tvmaze.com/episodes/1426900/izombie-4x07-dont-hate-the-player-hate-the-brain",
+      "name": "Don't Hate the Player, Hate the Brain",
+      "season": 4,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2018-04-16",
+      "airtime": "21:00",
+      "airstamp": "2018-04-17T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/152/380397.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/152/380397.jpg"
+      },
+      "summary": "<p>To solve the murder of a wingman-for-hire, Liv eats his brain and starts hitting on everyone in sight. Meanwhile, Clive tests his open relationship with Dale, and Chase orders Major to get close to Russ.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1426900"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1426901,
+      "url": "https://www.tvmaze.com/episodes/1426901/izombie-4x08-chivalry-is-dead",
+      "name": "Chivalry Is Dead",
+      "season": 4,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2018-04-23",
+      "airtime": "21:00",
+      "airstamp": "2018-04-24T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/152/380399.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/152/380399.jpg"
+      },
+      "summary": "<p>While Clive and Liv try to determine how a medieval LARPer died, Stacey returns to Seattle to find a stash of money... unaware that Petyon has it.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1426901"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1426903,
+      "url": "https://www.tvmaze.com/episodes/1426903/izombie-4x09-mac-liv-moore",
+      "name": "Mac-Liv-Moore",
+      "season": 4,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2018-04-30",
+      "airtime": "21:00",
+      "airstamp": "2018-05-01T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/152/380403.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/152/380403.jpg"
+      },
+      "summary": "<p>While Blaine begins a new scheme to make money from the zombie cure, the city goes into lockdown when a serial killer escapes. Liv, Ravi, Peyton, and Clive are trapped in the station and make the best of it, while Major tries to find the killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1426903"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1426904,
+      "url": "https://www.tvmaze.com/episodes/1426904/izombie-4x10-yipee-ki-brain-motherscratcher",
+      "name": "Yipee Ki Brain, Motherscratcher!",
+      "season": 4,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2018-05-07",
+      "airtime": "21:00",
+      "airstamp": "2018-05-08T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/155/387680.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/155/387680.jpg"
+      },
+      "summary": "<p>While Liv continues leading the human smuggling underground, Ravi agrees to act as father to Isobel while trying to find a zombie vaccine.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1426904"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1426906,
+      "url": "https://www.tvmaze.com/episodes/1426906/izombie-4x11-insane-in-the-germ-brain",
+      "name": "Insane in the Germ Brain",
+      "season": 4,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2018-05-14",
+      "airtime": "21:00",
+      "airstamp": "2018-05-15T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/155/389344.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/155/389344.jpg"
+      },
+      "summary": "<p>Angus' church continues to grow in power and influence with the zombie community, while Clive and Liv investigate the murder of a man posing as a woman. Meanwhile, Major meets with the head of the braintube-skimming operation, and Chase loses it.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1426906"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1426907,
+      "url": "https://www.tvmaze.com/episodes/1426907/izombie-4x12-youve-got-to-hide-your-liv-away",
+      "name": "You've Got to Hide Your Liv Away",
+      "season": 4,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2018-05-21",
+      "airtime": "21:00",
+      "airstamp": "2018-05-22T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/156/390958.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/156/390958.jpg"
+      },
+      "summary": "<p>Major abducts Liv‒but in a nice way‒so Ravi helps Clive with a case. Meanwhile, Blaine tries to convince his father to take his preachings nationwide, and Ravi makes a breakthrough with his anti-zombie vaccine.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1426907"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1426909,
+      "url": "https://www.tvmaze.com/episodes/1426909/izombie-4x13-and-he-shall-be-a-good-man",
+      "name": "And He Shall Be a Good Man",
+      "season": 4,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2018-05-28",
+      "airtime": "21:00",
+      "airstamp": "2018-05-29T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/156/392365.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/156/392365.jpg"
+      },
+      "summary": "<p>Fillmore-Graves prepares to execute Liv and Levon, while Ravi, Liv, and Peyton try to organize a rebellion. Meanwhile, Angus leads his followers against the U.S. Army encircling Seattle.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1426909"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1473837,
+      "url": "https://www.tvmaze.com/episodes/1473837/izombie-5x01-thug-death",
+      "name": "Thug Death",
+      "season": 5,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2019-05-02",
+      "airtime": "20:00",
+      "airstamp": "2019-05-03T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/194/485927.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/194/485927.jpg"
+      },
+      "summary": "<p>A zombie murder of a human woman raises tensions between the two sides in Seattle. Clive and Liv investigate the murder, while Ravi works with the CDC to find a cure and Blaine worries that he'll lose access to brains to feed the starving zombie population.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1473837"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1524163,
+      "url": "https://www.tvmaze.com/episodes/1524163/izombie-5x02-dead-lift",
+      "name": "Dead Lift",
+      "season": 5,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2019-05-09",
+      "airtime": "20:00",
+      "airstamp": "2019-05-10T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/489838.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/489838.jpg"
+      },
+      "summary": "<p>In the aftermath of the convenience store murder, human-zombie tensions continue to rise, and Major and Peyton both have to make tough decisions. Clive and Liv try to identify the victim, and Ravi gets advice on his sex life from a guru-brained Liv.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1524163"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1524164,
+      "url": "https://www.tvmaze.com/episodes/1524164/izombie-5x03-five-six-seven-ate",
+      "name": "Five, Six, Seven, Ate!",
+      "season": 5,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2019-05-16",
+      "airtime": "20:00",
+      "airstamp": "2019-05-17T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/493228.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/493228.jpg"
+      },
+      "summary": "<p>To find out who killed two dancers, Liv eats one of their brains and goes undercover with Ravi to find out who the murderer is. Fillmore-Graves is accused of drawing guns on elementary school students after they discover that the staff are conducting \"lice checks\" and segregating zombie children.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1524164"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1641851,
+      "url": "https://www.tvmaze.com/episodes/1641851/izombie-5x04-dot-zom",
+      "name": "Dot Zom",
+      "season": 5,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2019-05-23",
+      "airtime": "20:00",
+      "airstamp": "2019-05-24T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/198/497051.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/198/497051.jpg"
+      },
+      "summary": "<p>When a tech guru died, the trail leads to several suspects and Liv eats the guru's brain to find out who murdered him. Peyton and Ravi try to get <i>Hi, Zombie</i> off the ground, and a reporter interviews Blaine.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1641851"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1641852,
+      "url": "https://www.tvmaze.com/episodes/1641852/izombie-5x05-death-moves-pretty-fast",
+      "name": "Death Moves Pretty Fast",
+      "season": 5,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2019-05-30",
+      "airtime": "20:00",
+      "airstamp": "2019-05-31T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/199/499952.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/199/499952.jpg"
+      },
+      "summary": "<p>Clive injures himself during a case, leaving Liv and Ravi to find out who murdered a wealthy high school student. Al finishes her story on Blaine after getting some comments from Peyton, Major deals with dissension in the ranks, and the information about Freylich being a zombie cure gets out.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1641852"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1641853,
+      "url": "https://www.tvmaze.com/episodes/1641853/izombie-5x06-the-scratchmaker",
+      "name": "The Scratchmaker",
+      "season": 5,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2019-06-06",
+      "airtime": "20:00",
+      "airstamp": "2019-06-07T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/200/502425.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/200/502425.jpg"
+      },
+      "summary": "<p>When Al's story goes viral, Blaine's reputation is ruined, forcing him to take drastic measures. Don E partners with Stacey to supply brains to Fillmore-Graves, forcing Major to come up with an alternate supplier. Liv and Clive investigate the death of a matchmaker.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1641853"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1641854,
+      "url": "https://www.tvmaze.com/episodes/1641854/izombie-5x07-filleted-to-rest",
+      "name": "Filleted to Rest",
+      "season": 5,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2019-06-13",
+      "airtime": "20:00",
+      "airstamp": "2019-06-14T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/201/504872.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/201/504872.jpg"
+      },
+      "summary": "<p>Liv isn't happy with the perfectionist brain that she eats to solve the murder of a gourmet chef. Clive pays Michelle a visit at the hospital, Major tries to find the traitor within Fillmore-Graves, and Ravi helps Charlie bond with her twin sister.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1641854"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1641855,
+      "url": "https://www.tvmaze.com/episodes/1641855/izombie-5x08-death-of-a-car-salesman",
+      "name": "Death of a Car Salesman",
+      "season": 5,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2019-06-20",
+      "airtime": "20:00",
+      "airstamp": "2019-06-21T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/506668.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506668.jpg"
+      },
+      "summary": "<p>A car salesman is murdered, and Ravi and Liv both eat his brain and become uber-competitive. Blaine puts the finishing touches on his Freylich-smuggling operation, Don E meets his soul mate, and Liv meets her father.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1641855"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1641856,
+      "url": "https://www.tvmaze.com/episodes/1641856/izombie-5x09-the-fresh-princess",
+      "name": "The Fresh Princess",
+      "season": 5,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2019-06-27",
+      "airtime": "20:00",
+      "airstamp": "2019-06-28T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/203/508034.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508034.jpg"
+      },
+      "summary": "<p>Liv tries to look out for Martin and deal with Evan's medical problems, while working on a case with Clive about a beauty-queen contestant who was given spiked makeup, went into anaphylactic shock 20 years ago, and recently died. Major searches for the missing Sloane, and Ravi and Peyton track down Beanpole Bob.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1641856"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1641857,
+      "url": "https://www.tvmaze.com/episodes/1641857/izombie-5x10-night-and-the-zombie-city",
+      "name": "Night and the Zombie City",
+      "season": 5,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2019-07-11",
+      "airtime": "20:00",
+      "airstamp": "2019-07-12T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/204/512222.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/512222.jpg"
+      },
+      "summary": "<p>Liv eats the brain of a murdered PI and goes noir on Clive, Ravi, and Blaine. Peyton goes to karaoke night at Don E B Goodz, and the Chairwoman casts the deciding vote on whether to bomb Seattle.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1641857"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1665352,
+      "url": "https://www.tvmaze.com/episodes/1665352/izombie-5x11-killer-queen",
+      "name": "Killer Queen",
+      "season": 5,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2019-07-18",
+      "airtime": "20:00",
+      "airstamp": "2019-07-19T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/205/513876.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/205/513876.jpg"
+      },
+      "summary": "<p>While Liv and Clive investigate the death of a drag queen strangled with a pearl necklace, Ravi asks Major to pose as \"gigolo bait\" to help track down some missing Freylich's kids.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1665352"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1678138,
+      "url": "https://www.tvmaze.com/episodes/1678138/izombie-5x12-bye-zombies",
+      "name": "Bye, Zombies",
+      "season": 5,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2019-07-25",
+      "airtime": "20:00",
+      "airstamp": "2019-07-26T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/206/515680.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/206/515680.jpg"
+      },
+      "summary": "<p>Liv, Ravi, and Clive set out to recover the Utopium formula from the CDC. Major deals with a zombie uprising, and Blaine and Don E get a lead on the missing Freylich kids.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1678138"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    },
+    {
+      "id": 1678864,
+      "url": "https://www.tvmaze.com/episodes/1678864/izombie-5x13-alls-well-that-ends-well",
+      "name": "All's Well That Ends Well",
+      "season": 5,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2019-08-01",
+      "airtime": "20:00",
+      "airstamp": "2019-08-02T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/207/517513.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/207/517513.jpg"
+      },
+      "summary": "<p>Liv, Ravi, and Clive head back to Seattle with the cure. Blaine and Don E get in deep, and Major leaves a message for Liv as the human-zombie conflict comes to a head.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1678864"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1589",
+          "name": "iZombie"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+[
+  {
+    "code": "VT01a",
+    "name": "Email trùng",
+    "passed": true,
+    "actual": "(1062, \"Duplicate entry 'student001@gmail.com' for key 'users.uq_users_email'\")"
+  },
+  {
+    "code": "VT01b",
+    "name": "Email sai miền",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_users_email' is violated.\")"
+  },
+  {
+    "code": "VT01c",
+    "name": "Số điện thoại sai",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_users_phone' is violated.\")"
+  },
+  {
+    "code": "VT01d",
+    "name": "Tên chỉ khoảng trắng",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_users_name' is violated.\")"
+  },
+  {
+    "code": "VT01e",
+    "name": "Không sửa user_id",
+    "passed": true,
+    "actual": "(1644, 'user_id is immutable')"
+  },
+  {
+    "code": "VT02",
+    "name": "Hồ sơ tham chiếu sai",
+    "passed": true,
+    "actual": "(1452, 'Cannot add or update a child row: a foreign key constraint fails (`mini_netflix`.`profiles`, CONSTRAINT `fk_profiles_user` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE ON UPDATE RESTRICT)')"
+  },
+  {
+    "code": "VT03a",
+    "name": "Giá gói âm",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_tiers_price' is violated.\")"
+  },
+  {
+    "code": "VT03b",
+    "name": "Giới hạn thiết bị bằng 0",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_tiers_devices' is violated.\")"
+  },
+  {
+    "code": "VT03c",
+    "name": "Chất lượng sai",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_tiers_quality' is violated.\")"
+  },
+  {
+    "code": "VT04a",
+    "name": "Ngày kết thúc bằng ngày bắt đầu",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_subscriptions_dates' is violated.\")"
+  },
+  {
+    "code": "VT04b",
+    "name": "Trạng thái sai",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_subscriptions_status' is violated.\")"
+  },
+  {
+    "code": "VT04c",
+    "name": "Boolean sai",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_subscriptions_auto' is violated.\")"
+  },
+  {
+    "code": "VT05a",
+    "name": "Thanh toán âm",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_payments_price' is violated.\")"
+  },
+  {
+    "code": "VT05b",
+    "name": "Không sửa thanh toán",
+    "passed": true,
+    "actual": "(1644, 'Recorded payments are immutable')"
+  },
+  {
+    "code": "VT05c",
+    "name": "Không xóa thanh toán chưa đủ 6 tháng",
+    "passed": true,
+    "actual": "(1644, 'Payment retention period has not ended')"
+  },
+  {
+    "code": "VT06",
+    "name": "Tiêu đề rỗng",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_contents_title' is violated.\")"
+  },
+  {
+    "code": "VT07a",
+    "name": "Sai lớp con",
+    "passed": true,
+    "actual": "(1644, 'Content type does not match subtype')"
+  },
+  {
+    "code": "VT07b",
+    "name": "Không xóa riêng lớp con",
+    "passed": true,
+    "actual": "(1644, 'Delete content through contents table')"
+  },
+  {
+    "code": "VT07c",
+    "name": "Thời lượng bằng 0",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_movies_duration' is violated.\")"
+  },
+  {
+    "code": "VT08",
+    "name": "Tổng tập âm",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_series_episodes' is violated.\")"
+  },
+  {
+    "code": "VT09a",
+    "name": "Trùng số tập cùng bộ",
+    "passed": true,
+    "actual": "(1062, \"Duplicate entry '51-1' for key 'episodes.uq_episode_number'\")"
+  },
+  {
+    "code": "VT09b",
+    "name": "Số tập bằng 0",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_episode_number' is violated.\")"
+  },
+  {
+    "code": "VT10",
+    "name": "Thể loại trùng",
+    "passed": true,
+    "actual": "(1062, \"Duplicate entry 'Hành động' for key 'genres.uq_genres_name'\")"
+  },
+  {
+    "code": "VT11a",
+    "name": "Trùng cặp nội dung–thể loại",
+    "passed": true,
+    "actual": "(1062, \"Duplicate entry '1-1' for key 'content_genres.PRIMARY'\")"
+  },
+  {
+    "code": "VT11b",
+    "name": "Không xóa thể loại đang dùng",
+    "passed": true,
+    "actual": "(1451, 'Cannot delete or update a parent row: a foreign key constraint fails (`mini_netflix`.`content_genres`, CONSTRAINT `fk_content_genres_genre` FOREIGN KEY (`genre_id`) REFERENCES `genres` (`genre_id`) ON DELETE RESTRICT ON UPDATE RESTRICT)')"
+  },
+  {
+    "code": "VT12",
+    "name": "Danh sách xem sau trùng",
+    "passed": true,
+    "actual": "(1062, \"Duplicate entry '1-1' for key 'watch_lists.PRIMARY'\")"
+  },
+  {
+    "code": "VT13a",
+    "name": "Tiến độ vượt 100",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_watch_progress' is violated.\")"
+  },
+  {
+    "code": "VT13b",
+    "name": "Tiến độ âm",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_watch_progress' is violated.\")"
+  },
+  {
+    "code": "VT13c",
+    "name": "Hai đích xem cùng NULL",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_history_target' is violated.\")"
+  },
+  {
+    "code": "VT13d",
+    "name": "Hai đích xem cùng có giá trị",
+    "passed": true,
+    "actual": "(3819, \"Check constraint 'chk_history_target' is violated.\")"
+  },
+  {
+    "code": "VT13e",
+    "name": "content_id không phải phim lẻ",
+    "passed": true,
+    "actual": "(1452, 'Cannot add or update a child row: a foreign key constraint fails (`mini_netflix`.`watch_histories`, CONSTRAINT `fk_watch_histories_content` FOREIGN KEY (`content_id`) REFERENCES `movies` (`content_id`) ON DELETE CASCADE ON UPDATE RESTRICT)')"
+  },
+  {
+    "code": "VT13f",
+    "name": "Lịch sử phim lẻ trùng",
+    "passed": true,
+    "actual": "(1062, \"Duplicate entry '1-1' for key 'watch_histories.uq_history_profile_movie'\")"
+  },
+  {
+    "code": "VT13g",
+    "name": "Lịch sử tập phim trùng",
+    "passed": true,
+    "actual": "(1062, \"Duplicate entry '1-1' for key 'watch_histories.uq_history_profile_episode'\")"
+  },
+  {
+    "code": "VT19a",
+    "name": "Không xóa tài khoản còn lượt đăng ký",
+    "passed": true,
+    "actual": "(1451, 'Cannot delete or update a parent row: a foreign key constraint fails (`mini_netflix`.`subscriptions`, CONSTRAINT `fk_subscriptions_user` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE RESTRICT ON UPDATE RESTRICT)')"
+  },
+  {
+    "code": "VT19b",
+    "name": "Không xóa lượt đăng ký còn payment",
+    "passed": true,
+    "actual": "(1451, 'Cannot delete or update a parent row: a foreign key constraint fails (`mini_netflix`.`payments`, CONSTRAINT `fk_payments_subscription` FOREIGN KEY (`subscription_id`) REFERENCES `subscriptions` (`subscription_id`) ON DELETE RESTRICT ON UPDATE RESTRICT)')"
+  },
+  {
+    "code": "BOUND0",
+    "name": "Tiến độ hợp lệ và ngưỡng hoàn thành 0",
+    "passed": true,
+    "actual": "Thành công; đã ROLLBACK"
+  },
+  {
+    "code": "BOUND89.99",
+    "name": "Tiến độ hợp lệ và ngưỡng hoàn thành 89.99",
+    "passed": true,
+    "actual": "Thành công; đã ROLLBACK"
+  },
+  {
+    "code": "BOUND90",
+    "name": "Tiến độ hợp lệ và ngưỡng hoàn thành 90",
+    "passed": true,
+    "actual": "Thành công; đã ROLLBACK"
+  },
+  {
+    "code": "BOUND100",
+    "name": "Tiến độ hợp lệ và ngưỡng hoàn thành 100",
+    "passed": true,
+    "actual": "Thành công; đã ROLLBACK"
+  },
+  {
+    "code": "COUNT-I",
+    "name": "Thêm tập tăng bộ đếm",
+    "passed": true,
+    "actual": "Thành công; đã ROLLBACK"
+  },
+  {
+    "code": "COUNT-D",
+    "name": "Xóa tập giảm bộ đếm",
+    "passed": true,
+    "actual": "Thành công; đã ROLLBACK"
+  },
+  {
+    "code": "COUNT-M",
+    "name": "Chuyển tập đồng bộ hai bộ đếm",
+    "passed": true,
+    "actual": "Thành công; đã ROLLBACK"
+  },
+  {
+    "code": "DELETE-P",
+    "name": "Xóa hồ sơ xóa watch_lists và watch_histories",
+    "passed": true,
+    "actual": "Thành công; đã ROLLBACK"
+  },
+  {
+    "code": "DELETE-C",
+    "name": "Xóa bộ xóa tập và lịch sử tập",
+    "passed": true,
+    "actual": "Thành công; đã ROLLBACK"
+  },
+  {
+    "code": "RETENTION",
+    "name": "Cho xóa payment đủ 6 tháng",
+    "passed": true,
+    "actual": "Thành công; đã ROLLBACK"
+  },
+  {
+    "code": "Q1",
+    "name": "Lọc phim theo thể loại và ngày phát hành",
+    "passed": true,
+    "actual": "0 hàng; 30 lần đo sau 5 lần làm nóng"
+  },
+  {
+    "code": "Q2",
+    "name": "Doanh thu theo tháng và mức tăng trưởng",
+    "passed": true,
+    "actual": "3 hàng; 30 lần đo sau 5 lần làm nóng"
+  },
+  {
+    "code": "Q3",
+    "name": "Xếp hạng nội dung theo số hồ sơ đã xem",
+    "passed": true,
+    "actual": "3438 hàng; 30 lần đo sau 5 lần làm nóng"
+  },
+  {
+    "code": "Q4",
+    "name": "Tiến độ hoàn thành phim bộ của một hồ sơ",
+    "passed": true,
+    "actual": "2676 hàng; 30 lần đo sau 5 lần làm nóng"
+  },
+  {
+    "code": "Q5",
+    "name": "Danh sách xem sau chưa hoàn thành",
+    "passed": true,
+    "actual": "5 hàng; 30 lần đo sau 5 lần làm nóng"
+  },
+  {
+    "code": "Q6",
+    "name": "Các lượt đăng ký cần xử lý hết hạn",
+    "passed": true,
+    "actual": "10 hàng; 30 lần đo sau 5 lần làm nóng"
+  },
+  {
+    "code": "Q7",
+    "name": "Doanh thu theo loại gói",
+    "passed": true,
+    "actual": "3 hàng; 30 lần đo sau 5 lần làm nóng"
+  },
+  {
+    "code": "Q8",
+    "name": "Hồ sơ đã bắt đầu xem mọi nội dung của một thể loại",
+    "passed": true,
+    "actual": "0 hàng; 30 lần đo sau 5 lần làm nóng"
+  },
+  {
+    "code": "Q9",
+    "name": "Top 3 nội dung theo số hồ sơ xem trong từng thể loại",
+    "passed": true,
+    "actual": "664 hàng; 30 lần đo sau 5 lần làm nóng"
+  },
+  {
+    "code": "Q10",
+    "name": "Tài khoản còn gói nhưng không xem trong 30 ngày gần nhất",
+    "passed": true,
+    "actual": "1 hàng; 30 lần đo sau 5 lần làm nóng"
+  },
+  {
+    "code": "REVENUE",
+    "name": "Q7 khớp tổng độc lập",
+    "passed": true,
+    "actual": "3700000.00 / 3700000.00"
+  },
+  {
+    "code": "SEC01",
+    "name": "mn_verify_report",
+    "passed": true,
+    "actual": "Cho phép"
+  },
+  {
+    "code": "SEC-Q1",
+    "name": "mn_report chạy Q1",
+    "passed": true,
+    "actual": "Đủ quyền nguồn"
+  },
+  {
+    "code": "SEC-Q2",
+    "name": "mn_report chạy Q2",
+    "passed": true,
+    "actual": "Đủ quyền nguồn"
+  },
+  {
+    "code": "SEC-Q3",
+    "name": "mn_report chạy Q3",
+    "passed": true,
+    "actual": "Đủ quyền nguồn"
+  },
+  {
+    "code": "SEC-Q4",
+    "name": "mn_report chạy Q4",
+    "passed": true,
+    "actual": "Đủ quyền nguồn"
+  },
+  {
+    "code": "SEC-Q5",
+    "name": "mn_report chạy Q5",
+    "passed": true,
+    "actual": "Đủ quyền nguồn"
+  },
+  {
+    "code": "SEC-Q6",
+    "name": "mn_report chạy Q6",
+    "passed": true,
+    "actual": "Đủ quyền nguồn"
+  },
+  {
+    "code": "SEC-Q7",
+    "name": "mn_report chạy Q7",
+    "passed": true,
+    "actual": "Đủ quyền nguồn"
+  },
+  {
+    "code": "SEC-Q8",
+    "name": "mn_report chạy Q8",
+    "passed": true,
+    "actual": "Đủ quyền nguồn"
+  },
+  {
+    "code": "SEC-Q9",
+    "name": "mn_report chạy Q9",
+    "passed": true,
+    "actual": "Đủ quyền nguồn"
+  },
+  {
+    "code": "SEC-Q10",
+    "name": "mn_report chạy Q10",
+    "passed": true,
+    "actual": "Đủ quyền nguồn"
+  },
+  {
+    "code": "SEC02",
+    "name": "mn_verify_report",
+    "passed": true,
+    "actual": "(1142, \"SELECT command denied to user 'mn_verify_report'@'localhost' for table 'users'\")"
+  },
+  {
+    "code": "SEC03",
+    "name": "mn_verify_report",
+    "passed": true,
+    "actual": "(1142, \"UPDATE command denied to user 'mn_verify_report'@'localhost' for table 'watch_histories'\")"
+  },
+  {
+    "code": "SEC05",
+    "name": "mn_verify_app",
+    "passed": true,
+    "actual": "(1142, \"UPDATE command denied to user 'mn_verify_app'@'localhost' for table 'payments'\")"
+  },
+  {
+    "code": "SEC06",
+    "name": "mn_verify_catalog",
+    "passed": true,
+    "actual": "Cho phép"
+  },
+  {
+    "code": "SEC07",
+    "name": "mn_verify_catalog",
+    "passed": true,
+    "actual": "(1142, \"UPDATE command denied to user 'mn_verify_catalog'@'localhost' for table 'tv_series'\")"
+  },
+  {
+    "code": "SEC08",
+    "name": "mn_verify_catalog",
+    "passed": true,
+    "actual": "(1142, \"SELECT command denied to user 'mn_verify_catalog'@'localhost' for table 'users'\")"
+  },
+  {
+    "code": "SEC09",
+    "name": "mn_verify_retention",
+    "passed": true,
+    "actual": "(1644, 'Payment retention period has not ended')"
+  },
+  {
+    "code": "SEC10",
+    "name": "mn_verify_report",
+    "passed": true,
+    "actual": "(1044, \"Access denied for user 'mn_verify_report'@'%' to database 'mini_netflix'\")"
+  },
+  {
+    "code": "VT15",
+    "name": "Hai yêu cầu gia hạn cùng thời hạn kỳ vọng",
+    "passed": true,
+    "actual": "[\"(1644, 'Stale renewal request')\", 'OK', 'payments=1', 'days=30']"
+  }
+]

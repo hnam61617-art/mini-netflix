@@ -1,0 +1,1863 @@
+{
+  "netflix_show_id": "s242",
+  "netflix_title": "Manifest",
+  "search_url": "https://api.tvmaze.com/search/shows?q=Manifest",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 31365,
+    "url": "https://www.tvmaze.com/shows/31365/manifest",
+    "name": "Manifest",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Science-Fiction",
+      "Mystery"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 56,
+    "premiered": "2018-09-24",
+    "ended": "2023-06-02",
+    "officialSite": "https://www.netflix.com/title/80241318",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 7
+    },
+    "weight": 99,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 349271,
+      "imdb": "tt8421350"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/462/1155059.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/462/1155059.jpg"
+    },
+    "summary": "<p>When Montego Air Flight 828 landed safely after a turbulent but routine flight, the crew and passengers were relieved. But in the span of those few hours, the world had aged five years - and their friends, families and colleagues, after mourning their loss, had given up hope and moved on. Now, faced with the impossible, they're all given a second chance. But as their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.</p>",
+    "updated": 1787957372,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/31365"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2521361",
+        "name": "Final Boarding"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/31365/episodes",
+  "episodes": [
+    {
+      "id": 1473828,
+      "url": "https://www.tvmaze.com/episodes/1473828/manifest-1x01-pilot",
+      "name": "Pilot",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2018-09-24",
+      "airtime": "22:00",
+      "airstamp": "2018-09-25T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/422/1055208.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055208.jpg"
+      },
+      "summary": "<p>Returning to New York from a family vacation in Jamaica, the Stone family is separated when adult siblings Michaela and Ben, along with Ben's gravely ill son Cal, are bumped to a later flight, while Ben's wife, daughter and parents fly ahead. When that later flight lands, the passengers are bewildered to discover that five and a half years have gone by. They attempt to reconnect with the loved ones who mourned their passing and moved on long ago, and try to make sense of a mystifying phenomenon steering them to act in ways they don't understand.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1473828"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1498166,
+      "url": "https://www.tvmaze.com/episodes/1498166/manifest-1x02-reentry",
+      "name": "Reentry",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2018-10-01",
+      "airtime": "22:00",
+      "airstamp": "2018-10-02T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/422/1055209.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055209.jpg"
+      },
+      "summary": "<p>The passengers from Flight 828 find themselves under government scrutiny as they struggle to resume their lives. Michaela is forced to confront the fact that Jared is married to her once-best friend, while Ben tries to help a fellow passenger reconnect with his son. Cal is approached by an obsessive stranger, as Grace and Olive disagree on whether or not to reveal a devastating secret.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1498166"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1533369,
+      "url": "https://www.tvmaze.com/episodes/1533369/manifest-1x03-turbulence",
+      "name": "Turbulence",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2018-10-08",
+      "airtime": "22:00",
+      "airstamp": "2018-10-09T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/422/1055210.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055210.jpg"
+      },
+      "summary": "<p>Ben and Michaela investigate a shocking murder in fear that it's connected to Flight 828. Meanwhile, Ben struggles to accept the life Grace led in his absence, while Olive and Cal realize that being twins after five and a half years apart is harder than they thought.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533369"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1536080,
+      "url": "https://www.tvmaze.com/episodes/1536080/manifest-1x04-unclaimed-baggage",
+      "name": "Unclaimed Baggage",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2018-10-15",
+      "airtime": "22:00",
+      "airstamp": "2018-10-16T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/422/1055211.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055211.jpg"
+      },
+      "summary": "<p>When a mysterious message leads Saanvi to the flight attendant of 828, she enlists Ben's help in uncovering a secret about the plane. Meanwhile, Michaela begins to question the nature of the callings when one goes horribly awry, leaving Jared to suffer the consequences.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1536080"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1536081,
+      "url": "https://www.tvmaze.com/episodes/1536081/manifest-1x05-connecting-flights",
+      "name": "Connecting Flights",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2018-10-22",
+      "airtime": "22:00",
+      "airstamp": "2018-10-23T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/422/1055212.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055212.jpg"
+      },
+      "summary": "<p>Stories unfold for those left behind in the aftermath of Flight 828's disappearance. Meanwhile in the present, Cal takes Ben on a mysterious adventure that awakens Ben to his son's perplexing abilities. Michaela tries to protect Jared from consequences at work, while keeping her romantic feelings at bay.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1536081"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1538463,
+      "url": "https://www.tvmaze.com/episodes/1538463/manifest-1x06-off-radar",
+      "name": "Off Radar",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2018-11-05",
+      "airtime": "22:00",
+      "airstamp": "2018-11-06T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/422/1055213.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055213.jpg"
+      },
+      "summary": "<p>When Cal wakes with a life-threatening fever, Grace worries it's a side-effect of his experimental cancer treatment, but Michaela and Ben suspect Cal's condition may be related to a mysterious passenger from Flight 828. As Cal's situation worsens, Ben and Michaela attempt to track down the now-missing passenger.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1538463"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1538464,
+      "url": "https://www.tvmaze.com/episodes/1538464/manifest-1x07-snafu",
+      "name": "S.N.A.F.U.",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2018-11-12",
+      "airtime": "22:00",
+      "airstamp": "2018-11-13T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/422/1055215.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055215.jpg"
+      },
+      "summary": "<p>With the detained passengers secretly moved and subjected to painful experimentation - and Cal's health directly linked to them - Ben takes advantage of an old friend to find out where the passengers were taken. Meanwhile, a mysterious new version of the calling pulls Michaela into a murder investigation that has deep personal ramifications for her.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1538464"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1538465,
+      "url": "https://www.tvmaze.com/episodes/1538465/manifest-1x08-point-of-no-return",
+      "name": "Point of No Return",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2018-11-19",
+      "airtime": "22:00",
+      "airstamp": "2018-11-20T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/175/438127.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/438127.jpg"
+      },
+      "summary": "<p>Ben forms an unlikely partnership with Vance in a high-stakes race to locate the missing passengers of Flight 828. Meanwhile, Michaela helps a suicidal passenger who believes he is the Angel of Death, and Cal goes back to school, navigating both his unwanted celebrity and his former friends, who are all now 16 years old.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1538465"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1538466,
+      "url": "https://www.tvmaze.com/episodes/1538466/manifest-1x09-dead-reckoning",
+      "name": "Dead Reckoning",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2018-11-26",
+      "airtime": "22:00",
+      "airstamp": "2018-11-27T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/175/439568.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439568.jpg"
+      },
+      "summary": "<p>When Ben and Michaela put everything on the line to save the other missing passengers, the mission goes horribly awry and not everyone makes it out alive. The devastating result pushes Ben and Grace to a traumatic brink, while pulling Michaela and Jared dangerously close together.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1538466"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1538467,
+      "url": "https://www.tvmaze.com/episodes/1538467/manifest-1x10-crosswinds",
+      "name": "Crosswinds",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2019-01-07",
+      "airtime": "22:00",
+      "airstamp": "2019-01-08T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/179/448633.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/179/448633.jpg"
+      },
+      "summary": "<p>Michaela's mystifying, next-level calling launches her on a mission that brings her relationship with Jared to a head. Determined to protect his family, Ben explores an alternate meaning to Michaela's calling that leads him to a new alliance and a powerful new adversary. Cal's struggle with Ben's absence from home forces the Stones into an agonizing confrontation that could alter the family's fabric forever.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1538467"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1580456,
+      "url": "https://www.tvmaze.com/episodes/1580456/manifest-1x11-contrails",
+      "name": "Contrails",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2019-01-14",
+      "airtime": "22:00",
+      "airstamp": "2019-01-15T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/180/450480.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/180/450480.jpg"
+      },
+      "summary": "<p>Willing to follow any lead to keep his son safe from The Major, Ben heeds Cal's calling to help Captain Daly clear his name for what happened to Flight 828. The journey uncovers a seeming conspiracy that stems all the way back to the day the plane disappeared. Meanwhile, Michaela assists Autumn in her own journey of redemption - but has Autumn truly set out to redeem herself, or is she still working against the passengers?</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580456"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1580457,
+      "url": "https://www.tvmaze.com/episodes/1580457/manifest-1x12-vanishing-point",
+      "name": "Vanishing Point",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2019-01-21",
+      "airtime": "22:00",
+      "airstamp": "2019-01-22T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/181/452820.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/181/452820.jpg"
+      },
+      "summary": "<p>When Cal is discovered missing from his bedroom, Grace and Ben launch a desperate search which takes them to the remote mountains of upstate New York. A tantalizing trail of breadcrumbs leads them to a startling, game-changing discovery. Meanwhile, Michaela confronts the deceptive Autumn, and the shadowy \"Major\" finally makes an appearance.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580457"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1580458,
+      "url": "https://www.tvmaze.com/episodes/1580458/manifest-1x13-cleared-for-approach",
+      "name": "Cleared for Approach",
+      "season": 1,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2019-01-28",
+      "airtime": "22:00",
+      "airstamp": "2019-01-29T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/181/454648.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/181/454648.jpg"
+      },
+      "summary": "<p>Still reeling from the shocking outcome of Cal's calling, Michaela digs deeper into her connection with a mysterious stranger. After a close call with Major's henchmen, Ben finds himself facing a terrifying new threat that is growing exponentially. Meanwhile Saanvi has new data to mine, and she's more than happy to dig into it until the threat arrives at her doorstep as well.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580458"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1580459,
+      "url": "https://www.tvmaze.com/episodes/1580459/manifest-1x14-upgrade",
+      "name": "Upgrade",
+      "season": 1,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2019-02-04",
+      "airtime": "22:00",
+      "airstamp": "2019-02-05T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/182/456784.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/182/456784.jpg"
+      },
+      "summary": "<p>When Saanvi goes missing, Ben suspects a fanatical group who have become obsessed with the passengers from Flight 828. Michaela must face the consequences of her reunion with Jared. Zeke returns to New York and has an ominous calling.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580459"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1580460,
+      "url": "https://www.tvmaze.com/episodes/1580460/manifest-1x15-hard-landing",
+      "name": "Hard Landing",
+      "season": 1,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2019-02-11",
+      "airtime": "22:00",
+      "airstamp": "2019-02-12T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/183/459225.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/183/459225.jpg"
+      },
+      "summary": "<p>When Michaela meets the mysterious James Griffin during a police investigation, the passengers learn what happens when the callings fall in the wrong hands. Meanwhile, Jared finds out about Zeke, setting him at odds with Michaela and her trust in the callings.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580460"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1580461,
+      "url": "https://www.tvmaze.com/episodes/1580461/manifest-1x16-estimated-time-of-departure",
+      "name": "Estimated Time of Departure",
+      "season": 1,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2019-02-18",
+      "airtime": "22:00",
+      "airstamp": "2019-02-19T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/184/461501.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/184/461501.jpg"
+      },
+      "summary": "<p>Ben and Michaela must confront a dire threat to the passengers' safety when Griffin schemes to take the callings public. Meanwhile, tensions between Jared and Zeke reach a boiling point, and Ben, Grace, and Olive make a devastating discovery.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580461"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1753636,
+      "url": "https://www.tvmaze.com/episodes/1753636/manifest-2x01-fasten-your-seatbelts",
+      "name": "Fasten Your Seatbelts",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2020-01-06",
+      "airtime": "22:00",
+      "airstamp": "2020-01-07T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/234/587100.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/234/587100.jpg"
+      },
+      "summary": "<p>As the Stone family reels in the aftermath of a devastating shooting, they're hit with their most foreboding Calling yet, sending Ben on a mission to locate two Flight 828 passengers who have mysteriously gone missing. Grace grapples with her new pregnancy, the Major attempts to tighten her grip on the unwitting Saanvi, all while the clock on the lives of the 828ers continues to tick towards zero.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1753636"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1784095,
+      "url": "https://www.tvmaze.com/episodes/1784095/manifest-2x02-grounded",
+      "name": "Grounded",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2020-01-13",
+      "airtime": "22:00",
+      "airstamp": "2020-01-14T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/235/589971.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/235/589971.jpg"
+      },
+      "summary": "<p>Ben forms a cautious alliance with an isolated college student from Flight 828, whose callings either uncovered a violent crime or helped him commit one. As Saanvi strives to further her research into the Death Date, Grace makes a startling discovery about her pregnancy, and Olive meets a kindred spirit.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1784095"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1786088,
+      "url": "https://www.tvmaze.com/episodes/1786088/manifest-2x03-false-horizon",
+      "name": "False Horizon",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2020-01-20",
+      "airtime": "22:00",
+      "airstamp": "2020-01-21T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/422/1055216.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055216.jpg"
+      },
+      "summary": "<p>The Stone Family struggles to unlock their mysterious wave of frightening 828 callings, while the person who may be key to solving them is trapped behind bars. Meanwhile, a shocking and disturbing incident leads Grace to suspect a local mom is in danger.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1786088"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1786090,
+      "url": "https://www.tvmaze.com/episodes/1786090/manifest-2x04-black-box",
+      "name": "Black Box",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2020-01-27",
+      "airtime": "22:00",
+      "airstamp": "2020-01-28T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/238/596493.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/238/596493.jpg"
+      },
+      "summary": "<p>Michaela is pushed into the midst of a high-stakes bank robbery perpetrated by a mystery assailant. As Ben and TJ piece together an arcane set of mythological clues, Adrian draws Olive further into the world of the Believers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1786090"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1786092,
+      "url": "https://www.tvmaze.com/episodes/1786092/manifest-2x05-coordinated-flight",
+      "name": "Coordinated Flight",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2020-02-03",
+      "airtime": "22:00",
+      "airstamp": "2020-02-04T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/239/599052.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/239/599052.jpg"
+      },
+      "summary": "<p>When Grace and Cal are involved in a suspicious hit-and-run, Ben is determined to get to the bottom of it. Michaela investigates a brutal attack at the Church of the Believers, but finds her efforts stymied by Adrian's refusal to cooperate. Zeke is tested when he tries to make amends with someone from his past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1786092"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1786098,
+      "url": "https://www.tvmaze.com/episodes/1786098/manifest-2x06-return-trip",
+      "name": "Return Trip",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2020-02-10",
+      "airtime": "22:00",
+      "airstamp": "2020-02-11T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/240/602018.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/240/602018.jpg"
+      },
+      "summary": "<p>Ben and Saanvi work together to orchestrate a surprising family reunion for an emotionally closed-off Flight 828 passenger. Meanwhile, Olive drifts further away from her family, Jared learns more about a growing cabal of anti-828 sentiment, and Michaela finds herself out on a limb when baggage from Zeke's past threatens to destroy his tenuous new life.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1786098"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1786099,
+      "url": "https://www.tvmaze.com/episodes/1786099/manifest-2x07-emergency-exit",
+      "name": "Emergency Exit",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2020-02-17",
+      "airtime": "22:00",
+      "airstamp": "2020-02-18T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605535.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605535.jpg"
+      },
+      "summary": "<p>Tensions flare as the passengers of Flight 828 finally come to understand the meaning of their increasingly terrifying callings. Afraid of losing his daughter to the Church of the Believers, Ben confronts Adrian. Zeke challenges Michaela's trust, and Saanvi seeks help from an old flame.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1786099"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1786100,
+      "url": "https://www.tvmaze.com/episodes/1786100/manifest-2x08-carry-on",
+      "name": "Carry On",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2020-03-02",
+      "airtime": "22:00",
+      "airstamp": "2020-03-03T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/422/1055217.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055217.jpg"
+      },
+      "summary": "<p>In the wake of a devastating tragedy, Ben tries to connect with a despondent Olive. Michaela questions Jared's loyalties, and Saanvi shares a medical breakthrough that could change the course of all their lives.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1786100"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1802453,
+      "url": "https://www.tvmaze.com/episodes/1802453/manifest-2x09-airplane-bottles",
+      "name": "Airplane Bottles",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2020-03-09",
+      "airtime": "22:00",
+      "airstamp": "2020-03-10T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/613609.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/613609.jpg"
+      },
+      "summary": "<p>As a storm rages outside the Stone home and anxieties boil over inside, Olive frantically searches for meaning in a centuries-old text. Meanwhile, Michaela faces unexpected scrutiny at work, and Zeke comes to Saanvi's aid when her lab research takes a dangerous turn.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1802453"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1802454,
+      "url": "https://www.tvmaze.com/episodes/1802454/manifest-2x10-course-deviation",
+      "name": "Course Deviation",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2020-03-16",
+      "airtime": "22:00",
+      "airstamp": "2020-03-17T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/614467.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/614467.jpg"
+      },
+      "summary": "<p>When Grace's pregnancy complicates the pursuit of a calling, Ben finds himself working alongside an uneasy new ally. Michaela tries to make amends with Jared, and the X'ers set their sights on Zeke.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1802454"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1814318,
+      "url": "https://www.tvmaze.com/episodes/1814318/manifest-2x11-unaccompanied-minors",
+      "name": "Unaccompanied Minors",
+      "season": 2,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2020-03-23",
+      "airtime": "22:00",
+      "airstamp": "2020-03-24T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/247/619584.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/247/619584.jpg"
+      },
+      "summary": "<p>As Zeke's condition worsens and the clock ticks towards his Death Date, he must confront his past while Saanvi tries to secure him a future. A pair of connected callings lead Ben and TJ to a surprising loved one, and Michaela faces a moral dilemma when her own calling instructs her to let a criminal go free.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1814318"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1817827,
+      "url": "https://www.tvmaze.com/episodes/1817827/manifest-2x12-call-sign",
+      "name": "Call Sign",
+      "season": 2,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2020-03-30",
+      "airtime": "22:00",
+      "airstamp": "2020-03-31T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/249/622603.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/249/622603.jpg"
+      },
+      "summary": "<p>Ben is drawn to help absolve a passenger of his guilt, while Saanvi enlists help in protecting herself from the Major. Jared and Drea attempt to extract a confession from a trio of ruthless meth dealers who would do anything to exact revenge on Michaela.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1817827"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1822313,
+      "url": "https://www.tvmaze.com/episodes/1822313/manifest-2x13-icing-conditions",
+      "name": "Icing Conditions",
+      "season": 2,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2020-04-06",
+      "airtime": "22:00",
+      "airstamp": "2020-04-07T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/250/625892.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/250/625892.jpg"
+      },
+      "summary": "<p>Michaela and Ben put everything on the line to attempt a daring rescue. As the final hours of Zeke's life approach, Saanvi and Vance make a last-ditch effort to appeal to the Major, who may be the only person who can save him from his Death Date.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1822313"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1978277,
+      "url": "https://www.tvmaze.com/episodes/1978277/manifest-3x01-tailfin",
+      "name": "Tailfin",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2021-04-01",
+      "airtime": "20:00",
+      "airstamp": "2021-04-02T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/311/777714.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/311/777714.jpg"
+      },
+      "summary": "<p>Ben heads on a international mission with Vance to seek a clue in hopes of finally unlocking the mystery of Flight 828. An intense calling leads newlyweds Michaela and Zeke on an adventure of their own. A guilt-ridden Saanvi attempts to forget her past sins by starting a new chapter. Jared's interest is piqued by an intriguing stranger. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1978277"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 1978278,
+      "url": "https://www.tvmaze.com/episodes/1978278/manifest-3x02-deadhead",
+      "name": "Deadhead",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2021-04-08",
+      "airtime": "20:00",
+      "airstamp": "2021-04-09T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/305/763538.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/305/763538.jpg"
+      },
+      "summary": "<p>A threat to the Stone family tests Michaela's commitment to play by the rules and forces Grace to make a difficult decision. Ben enlists the aid of an old rival to save an old friend. Olive helps a new friend solve a calling that unearths a startling connection.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1978278"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2014576,
+      "url": "https://www.tvmaze.com/episodes/2014576/manifest-3x03-wingman",
+      "name": "Wingman",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2021-04-15",
+      "airtime": "20:00",
+      "airstamp": "2021-04-16T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/308/771639.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/308/771639.jpg"
+      },
+      "summary": "<p>While in active pursuit of murderous criminals, Michaela is sidelined by devastating news. Ben teams up with an unusually gifted 828er to aid a young teen. As Grace confronts ancient family wounds, Olive explores ancient mythology in hopes of helping all the passengers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2014576"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2016858,
+      "url": "https://www.tvmaze.com/episodes/2016858/manifest-3x04-tailspin",
+      "name": "Tailspin",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2021-04-22",
+      "airtime": "20:00",
+      "airstamp": "2021-04-23T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/310/775415.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/310/775415.jpg"
+      },
+      "summary": "<p>Ben and Saanvi join forces with Vance in his newest venture to understand Flight 828. Michaela and Zeke adjust to their new home life together, but pivot in order to aid a non-passenger with a looming Death Date of their own. Olive gets a taste of heartwarming normalcy with a very Manifest prom.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2016858"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2030839,
+      "url": "https://www.tvmaze.com/episodes/2030839/manifest-3x05-water-landing",
+      "name": "Water Landing",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2021-04-29",
+      "airtime": "20:00",
+      "airstamp": "2021-04-30T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/311/778399.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/311/778399.jpg"
+      },
+      "summary": "<p>Michaela's premonition leads her to pursue a fugitive. Ben tries to gain the trust of an unlikely ally. Olive's relationship with Levi leads to a fascinating discovery. Jared and Drea uncover devastating secrets. Saanvi finds herself faced with a dilemma that may jeopardize the Eureka project.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2030839"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2034138,
+      "url": "https://www.tvmaze.com/episodes/2034138/manifest-3x06-graveyard-spiral",
+      "name": "Graveyard Spiral",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2021-04-29",
+      "airtime": "21:00",
+      "airstamp": "2021-04-30T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/311/778397.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/311/778397.jpg"
+      },
+      "summary": "<p>As Mick and Zeke finally collide with Jace in a grueling match to survive, Ben races against the clock to save his family. When they all converge in an intense battle, the fallout will reveal a massive new clue regarding the fate of Passengers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2034138"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2072259,
+      "url": "https://www.tvmaze.com/episodes/2072259/manifest-3x07-precious-cargo",
+      "name": "Precious Cargo",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2021-05-06",
+      "airtime": "20:00",
+      "airstamp": "2021-05-07T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/313/784975.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/313/784975.jpg"
+      },
+      "summary": "<p>Mick questions Ben's developing relationship with Eureka. A new adversarial group suspicious of Ben takes drastic measures to gain answers. Saanvi proves her worth through a scientific breakthrough. Angelina reaches a breaking point.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2072259"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2072261,
+      "url": "https://www.tvmaze.com/episodes/2072261/manifest-3x08-destination-unknown",
+      "name": "Destination Unknown",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2021-05-06",
+      "airtime": "21:00",
+      "airstamp": "2021-05-07T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/313/784976.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/313/784976.jpg"
+      },
+      "summary": "<p>As Mick and Ben join forces to aid a desperate Flight 828 passenger, Saanvi grapples with a discovery at Eureka, and the burden of secrecy that comes with it. Grace and Angelina's bond deepens. A maturing Cal enlists Zeke's help in a personal matter.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2072261"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2072262,
+      "url": "https://www.tvmaze.com/episodes/2072262/manifest-3x09-bogey",
+      "name": "Bogey",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2021-05-13",
+      "airtime": "20:00",
+      "airstamp": "2021-05-14T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/316/791656.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/316/791656.jpg"
+      },
+      "summary": "<p>Ben reunites with a duplicitous foe. Mick and Zeke's dinner party with Jared and his new girlfriend is halted by a calling that ignite the Stone siblings to save the life of one of their own. Olive's friendship with Levi blossoms but is tested.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2072262"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2072263,
+      "url": "https://www.tvmaze.com/episodes/2072263/manifest-3x10-compass-calibration",
+      "name": "Compass Calibration",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2021-05-20",
+      "airtime": "20:00",
+      "airstamp": "2021-05-21T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/319/798975.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/319/798975.jpg"
+      },
+      "summary": "<p>Ben's pursuit of a vulnerable Passenger's Calling lands him in the crosshairs of an enemy. Michaela unearths a dangerous arsenal of 828 hate. A seemingly natural disaster leads Saanvi to make a bold move. Angelina puts her connection with Eden to a dangerous test.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2072263"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2072264,
+      "url": "https://www.tvmaze.com/episodes/2072264/manifest-3x11-duty-free",
+      "name": "Duty Free",
+      "season": 3,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2021-06-03",
+      "airtime": "20:00",
+      "airstamp": "2021-06-04T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/325/813394.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/325/813394.jpg"
+      },
+      "summary": "<p>The consequences of Ben's actions test his marriage and sends Grace reeling. Michaela makes a difficult decision regarding Saanvi's secret. Cal, following his intuition, provides secret refuge to an outcast.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2072264"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2072265,
+      "url": "https://www.tvmaze.com/episodes/2072265/manifest-3x12-mayday-1",
+      "name": "Mayday (1)",
+      "season": 3,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2021-06-10",
+      "airtime": "20:00",
+      "airstamp": "2021-06-11T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/327/819647.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/327/819647.jpg"
+      },
+      "summary": "<p>The Stones are reunited with Olive, yet their happiness is quickly interrupted when they discover Cal has run away. As Michaela struggles to help the passengers avoid a deadly threat, her relationship with Jared sours over mistrust.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2072265"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2072266,
+      "url": "https://www.tvmaze.com/episodes/2072266/manifest-3x13-mayday-2",
+      "name": "Mayday (2)",
+      "season": 3,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2021-06-10",
+      "airtime": "21:00",
+      "airstamp": "2021-06-11T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/328/820915.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/328/820915.jpg"
+      },
+      "summary": "<p>Ben and Saanvi undertake a treacherous mission to save someone they love, defying Eureka and the forces of nature. Driven by her most ominous Calling to date, Michaela along with Zeke race to stop a passenger before his actions turn deadly. Jared and Vance team up to save a loved one, but the partnership soon reveals secrets that could upend both mens' lives.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2072266"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2286171,
+      "url": "https://www.tvmaze.com/episodes/2286171/manifest-4x01-touch-and-go",
+      "name": "Touch-and-Go",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2022-11-04",
+      "airtime": "",
+      "airstamp": "2022-11-04T12:00:00+00:00",
+      "runtime": 49,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1085853.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1085853.jpg"
+      },
+      "summary": "<p>While investigating a Calling, Michaela finds a mysterious stowaway. Ben clings tightly to his beliefs. Cal comes out of hiding to pursue a lead.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2286171"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2382882,
+      "url": "https://www.tvmaze.com/episodes/2382882/manifest-4x02-all-call",
+      "name": "All Call",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2022-11-04",
+      "airtime": "",
+      "airstamp": "2022-11-04T12:00:00+00:00",
+      "runtime": 50,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1085854.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1085854.jpg"
+      },
+      "summary": "<p>Hidden voices on the black box draw Saanvi in. Cal sneaks to see an apprehended Henry. During a podcast appearance, Ben seeks help.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2382882"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2382884,
+      "url": "https://www.tvmaze.com/episodes/2382884/manifest-4x03-high-flight",
+      "name": "High Flight",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2022-11-04",
+      "airtime": "",
+      "airstamp": "2022-11-04T12:00:00+00:00",
+      "runtime": 43,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1085855.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1085855.jpg"
+      },
+      "summary": "<p>Cal tries to understand his scar. A Calling leads Michaela to 828 co-pilot Amuta, who sheds light on what he saw. Ben makes an emotional connection.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2382884"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2382885,
+      "url": "https://www.tvmaze.com/episodes/2382885/manifest-4x04-go-around",
+      "name": "Go-Around",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2022-11-04",
+      "airtime": "",
+      "airstamp": "2022-11-04T12:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1085856.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1085856.jpg"
+      },
+      "summary": "<p>A shared vision brings Michaela and Kyle together for a heartbreaking reason. Meanwhile, Eagan offers Ben valuable information — but at a price.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2382885"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2382886,
+      "url": "https://www.tvmaze.com/episodes/2382886/manifest-4x05-squawk",
+      "name": "Squawk",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2022-11-04",
+      "airtime": "",
+      "airstamp": "2022-11-04T12:00:00+00:00",
+      "runtime": 47,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1085857.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1085857.jpg"
+      },
+      "summary": "<p>Michaela, Vance, Jared and Zeke's search for Ben at the compound leads to an explosive confrontation — and a divine miracle.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2382886"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2382887,
+      "url": "https://www.tvmaze.com/episodes/2382887/manifest-4x06-relative-bearing",
+      "name": "Relative Bearing",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2022-11-04",
+      "airtime": "",
+      "airstamp": "2022-11-04T12:00:00+00:00",
+      "runtime": 48,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1085858.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1085858.jpg"
+      },
+      "summary": "<p>Everyone is forced to adjust as Cal guards a secret, Eagan pursues his own mission, and Michaela uncovers a tragic murder.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2382887"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2382889,
+      "url": "https://www.tvmaze.com/episodes/2382889/manifest-4x07-romeo",
+      "name": "Romeo",
+      "season": 4,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2022-11-04",
+      "airtime": "",
+      "airstamp": "2022-11-04T12:00:00+00:00",
+      "runtime": 47,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1085859.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1085859.jpg"
+      },
+      "summary": "<p>After finding another dead body, Michaela and Jared try to track down a serial killer. Cal goes on a date. Zeke faces old demons.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2382889"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2382895,
+      "url": "https://www.tvmaze.com/episodes/2382895/manifest-4x08-full-upright-locked-position",
+      "name": "Full Upright & Locked Position",
+      "season": 4,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2022-11-04",
+      "airtime": "",
+      "airstamp": "2022-11-04T12:00:00+00:00",
+      "runtime": 48,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1085860.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1085860.jpg"
+      },
+      "summary": "<p>Caught in a tough position, Cal attempts to clear his name as the search for the killer continues. Saanvi tests a theory on a reluctant volunteer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2382895"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2382898,
+      "url": "https://www.tvmaze.com/episodes/2382898/manifest-4x09-rendezvous",
+      "name": "Rendezvous",
+      "season": 4,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2022-11-04",
+      "airtime": "",
+      "airstamp": "2022-11-04T12:00:00+00:00",
+      "runtime": 43,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1085861.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1085861.jpg"
+      },
+      "summary": "<p>An ominous Calling shakes up Michaela and Zeke's party. Cal and Ben receive devastating news. Michaela, Saanvi and Eagan look for the Omega Sapphire.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2382898"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2382899,
+      "url": "https://www.tvmaze.com/episodes/2382899/manifest-4x10-inversion-illusion",
+      "name": "Inversion Illusion",
+      "season": 4,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2022-11-04",
+      "airtime": "",
+      "airstamp": "2022-11-04T12:00:00+00:00",
+      "runtime": 43,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1085862.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1085862.jpg"
+      },
+      "summary": "<p>As the Stones race to find the Omega Sapphire, Ben finds hope in a Calling that reunites him with a familiar face. Zeke faces a difficult choice.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2382899"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2521352,
+      "url": "https://www.tvmaze.com/episodes/2521352/manifest-4x11-final-descent",
+      "name": "Final Descent",
+      "season": 4,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2023-06-02",
+      "airtime": "",
+      "airstamp": "2023-06-02T12:00:00+00:00",
+      "runtime": 47,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/463/1158597.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158597.jpg"
+      },
+      "summary": "<p>As the passengers adjust to a frustrating new reality, Ben and Michaela seize an opportunity to solve a Calling, with the Registry in hot pursuit.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2521352"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2521353,
+      "url": "https://www.tvmaze.com/episodes/2521353/manifest-4x12-bug-out",
+      "name": "Bug Out",
+      "season": 4,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2023-06-02",
+      "airtime": "",
+      "airstamp": "2023-06-02T12:00:00+00:00",
+      "runtime": 43,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/463/1158598.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158598.jpg"
+      },
+      "summary": "<p>Michaela finds a welcome distraction in helping Jared with an investigation. Cal tests a new ability. Ben and Saanvi try to decode a mysterious message.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2521353"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2521354,
+      "url": "https://www.tvmaze.com/episodes/2521354/manifest-4x13-ghost-plane",
+      "name": "Ghost Plane",
+      "season": 4,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2023-06-02",
+      "airtime": "",
+      "airstamp": "2023-06-02T12:00:00+00:00",
+      "runtime": 47,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/463/1158599.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158599.jpg"
+      },
+      "summary": "<p>Michaela heads to a dock with Jared to look into Ben's Calling. Saanvi walks Cal through a daunting task. A dark presence infiltrates the Stone family.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2521354"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2521355,
+      "url": "https://www.tvmaze.com/episodes/2521355/manifest-4x14-fata-morgana",
+      "name": "Fata Morgana",
+      "season": 4,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2023-06-02",
+      "airtime": "",
+      "airstamp": "2023-06-02T12:00:00+00:00",
+      "runtime": 47,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/463/1158606.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158606.jpg"
+      },
+      "summary": "<p>As terrifying plagues descend on the detention center, Saanvi scrambles for a solution and Michaela steps up in a crisis. Cal attempts to reach Angelina.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2521355"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2521356,
+      "url": "https://www.tvmaze.com/episodes/2521356/manifest-4x15-throttle",
+      "name": "Throttle",
+      "season": 4,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2023-06-02",
+      "airtime": "",
+      "airstamp": "2023-06-02T12:00:00+00:00",
+      "runtime": 44,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/463/1158607.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158607.jpg"
+      },
+      "summary": "<p>Desperate to stop Angelina, Ben makes a risky move that yields unexpected consequences. A family emergency sends Michaela in a different direction.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2521356"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2521357,
+      "url": "https://www.tvmaze.com/episodes/2521357/manifest-4x16-furball",
+      "name": "Furball",
+      "season": 4,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2023-06-02",
+      "airtime": "",
+      "airstamp": "2023-06-02T12:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/463/1158593.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158593.jpg"
+      },
+      "summary": "<p>Michaela and Jared make the most of their arrangement. Angelina receives support from Eagan. Panic grips the detainees amid devastation at the facility.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2521357"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2521358,
+      "url": "https://www.tvmaze.com/episodes/2521358/manifest-4x17-threshold",
+      "name": "Threshold",
+      "season": 4,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2023-06-02",
+      "airtime": "",
+      "airstamp": "2023-06-02T12:00:00+00:00",
+      "runtime": 41,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/463/1158594.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158594.jpg"
+      },
+      "summary": "<p>As the Death Date nears, Callings begin to take a toll on Cal. The group sends out a cry for help. A familiar face provides hope in an unexpected place.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2521358"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2521359,
+      "url": "https://www.tvmaze.com/episodes/2521359/manifest-4x18-lift-drag",
+      "name": "Lift / Drag",
+      "season": 4,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2023-06-02",
+      "airtime": "",
+      "airstamp": "2023-06-02T12:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/463/1158608.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158608.jpg"
+      },
+      "summary": "<p>The passengers race to solve their Callings as Saanvi tests a theory on the patients. Eagan makes a surprising move. Michaela confronts hard truths.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2521359"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2521360,
+      "url": "https://www.tvmaze.com/episodes/2521360/manifest-4x19-formation",
+      "name": "Formation",
+      "season": 4,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2023-06-02",
+      "airtime": "",
+      "airstamp": "2023-06-02T12:00:00+00:00",
+      "runtime": 48,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/463/1158595.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158595.jpg"
+      },
+      "summary": "<p>All signs point to the end of the Earth, spurring the Stone family and the passengers to work together and decipher cryptic clues before time runs out.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2521360"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    },
+    {
+      "id": 2521361,
+      "url": "https://www.tvmaze.com/episodes/2521361/manifest-4x20-final-boarding",
+      "name": "Final Boarding",
+      "season": 4,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2023-06-02",
+      "airtime": "",
+      "airstamp": "2023-06-02T12:00:00+00:00",
+      "runtime": 62,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/463/1158596.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158596.jpg"
+      },
+      "summary": "<p>The Death Date has arrived. As tensions erupt and revelations emerge, the passengers of Flight 828 reunite and face the unknown together.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2521361"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/31365",
+          "name": "Manifest"
+        }
+      }
+    }
+  ]
+}

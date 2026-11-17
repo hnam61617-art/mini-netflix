@@ -1,0 +1,1804 @@
+{
+  "netflix_show_id": "s897",
+  "netflix_title": "The Upshaws",
+  "search_url": "https://api.tvmaze.com/search/shows?q=The%20Upshaws",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 43458,
+    "url": "https://www.tvmaze.com/shows/43458/the-upshaws",
+    "name": "The Upshaws",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 27,
+    "premiered": "2021-05-12",
+    "ended": "2026-01-15",
+    "officialSite": "https://www.netflix.com/title/81028174",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 6.5
+    },
+    "weight": 95,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 398813,
+      "imdb": "tt10945036"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/608/1521710.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521710.jpg"
+    },
+    "summary": "<p><b>The Upshaws</b> centers on a working-class African American family in Indiana struggling to make it work and make it right without the blueprints to do it.</p>",
+    "updated": 1769376511,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/43458"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/3513821",
+        "name": "Bon Voyage"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/43458/episodes",
+  "episodes": [
+    {
+      "id": 2051453,
+      "url": "https://www.tvmaze.com/episodes/2051453/the-upshaws-1x01-birthday-bs",
+      "name": "Birthday B.S.",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2021-05-12",
+      "airtime": "",
+      "airstamp": "2021-05-12T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/315/789494.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/789494.jpg"
+      },
+      "summary": "<p>When two of his kids have birthday parties on the same day, Bennie scrambles to find a venue for one, then bounces back and forth between both events.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2051453"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2088357,
+      "url": "https://www.tvmaze.com/episodes/2088357/the-upshaws-1x02-the-hook-up",
+      "name": "The Hook-Up",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2021-05-12",
+      "airtime": "",
+      "airstamp": "2021-05-12T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/315/789495.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/789495.jpg"
+      },
+      "summary": "<p>After meeting the manager of an upscale restaurant, Bennie takes Regina out hoping to break their dry spell but realizes the meal isn't on the house.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2088357"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2088358,
+      "url": "https://www.tvmaze.com/episodes/2088358/the-upshaws-1x03-joy-ride",
+      "name": "Joy Ride",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2021-05-12",
+      "airtime": "",
+      "airstamp": "2021-05-12T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/315/789496.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/789496.jpg"
+      },
+      "summary": "<p>A customer entrusts his sleek ride with its secret compartment to Bennie. Duck overstays his welcome at the Upshaw residence. Regina eyes a promotion.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2088358"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2088359,
+      "url": "https://www.tvmaze.com/episodes/2088359/the-upshaws-1x04-big-plans",
+      "name": "Big Plans",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2021-05-12",
+      "airtime": "",
+      "airstamp": "2021-05-12T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/315/789497.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/789497.jpg"
+      },
+      "summary": "<p>As Regina tries to land a better job at a different organization, Bennie's friends get in his ear about her looking to level up her life without him.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2088359"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2088360,
+      "url": "https://www.tvmaze.com/episodes/2088360/the-upshaws-1x05-ridin-dirty",
+      "name": "Ridin' Dirty",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2021-05-12",
+      "airtime": "",
+      "airstamp": "2021-05-12T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/315/789498.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/789498.jpg"
+      },
+      "summary": "<p>Regina juggles family duties with work and studying for the GMAT, but Bennie doesn't help lighten the load — and she reaches a boiling point.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2088360"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2088361,
+      "url": "https://www.tvmaze.com/episodes/2088361/the-upshaws-1x06-last-straw",
+      "name": "Last Straw",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2021-05-12",
+      "airtime": "",
+      "airstamp": "2021-05-12T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/315/789499.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/789499.jpg"
+      },
+      "summary": "<p>When Tasha gets into an accident, Bennie comes up with a solution — without telling Regina. Meanwhile, conflicts erupt between other family members.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2088361"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2088362,
+      "url": "https://www.tvmaze.com/episodes/2088362/the-upshaws-1x07-yard-sale",
+      "name": "Yard Sale",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2021-05-12",
+      "airtime": "",
+      "airstamp": "2021-05-12T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/315/789500.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/789500.jpg"
+      },
+      "summary": "<p>After Regina throws Bennie out, she starts cleaning house. Bennie tries his old tricks to get back in her good graces. Lucretia's affair takes a turn.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2088362"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2088363,
+      "url": "https://www.tvmaze.com/episodes/2088363/the-upshaws-1x08-night-out",
+      "name": "Night Out",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2021-05-12",
+      "airtime": "",
+      "airstamp": "2021-05-12T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/315/789501.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/789501.jpg"
+      },
+      "summary": "<p>Regina goes to her work party solo while Bennie has his own fun with the guys. Lucretia and Bennie get drunk together, and Bernard reveals his truth.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2088363"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2088364,
+      "url": "https://www.tvmaze.com/episodes/2088364/the-upshaws-1x09-gloves-off",
+      "name": "Gloves Off",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2021-05-12",
+      "airtime": "",
+      "airstamp": "2021-05-12T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/315/789502.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/789502.jpg"
+      },
+      "summary": "<p>When Bennie tries to live a healthier lifestyle, he winds up in a boxing ring with an emotional Bernard. Maya struggles with a school bully.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2088364"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2088365,
+      "url": "https://www.tvmaze.com/episodes/2088365/the-upshaws-1x10-the-backslide",
+      "name": "The Backslide",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2021-05-12",
+      "airtime": "",
+      "airstamp": "2021-05-12T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/315/789503.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/789503.jpg"
+      },
+      "summary": "<p>With Bennie back in the house and bonding more with the kids, Regina's frustrations start to show. After she takes the GMAT, the family comes together.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2088365"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2326114,
+      "url": "https://www.tvmaze.com/episodes/2326114/the-upshaws-2x01-maybe-daddy",
+      "name": "Maybe Daddy",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2022-06-29",
+      "airtime": "",
+      "airstamp": "2022-06-29T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/414/1035882.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/414/1035882.jpg"
+      },
+      "summary": "<p>When a surprise comes knocking on the family's front door, Regina points the finger at Bennie and pushes Bernard to wise up.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2326114"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2326115,
+      "url": "https://www.tvmaze.com/episodes/2326115/the-upshaws-2x02-bennies-woman",
+      "name": "Bennie's Woman",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2022-06-29",
+      "airtime": "",
+      "airstamp": "2022-06-29T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/414/1035883.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/414/1035883.jpg"
+      },
+      "summary": "<p>A suspicious Lucretia conducts a thorough investigation. Meanwhile, a big misunderstanding leads to a bigger mistake as Bennie attempts to close a deal.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2326115"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2326116,
+      "url": "https://www.tvmaze.com/episodes/2326116/the-upshaws-2x03-testing-testing",
+      "name": "Testing, Testing",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2022-06-29",
+      "airtime": "",
+      "airstamp": "2022-06-29T12:00:00+00:00",
+      "runtime": 24,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/414/1035884.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/414/1035884.jpg"
+      },
+      "summary": "<p>When Regina retakes the GMAT, Lucretia struggles to keep order in the house. Bennie and the crew scramble to get the shop up to code for an inspection.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2326116"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2326117,
+      "url": "https://www.tvmaze.com/episodes/2326117/the-upshaws-2x04-control-issues",
+      "name": "Control Issues",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2022-06-29",
+      "airtime": "",
+      "airstamp": "2022-06-29T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/414/1035885.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/414/1035885.jpg"
+      },
+      "summary": "<p>Regina is determined to throw a budget-friendly birthday party for Maya until Lucretia takes over. Bennie tries to bribe his way out of a lawsuit.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2326117"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2326118,
+      "url": "https://www.tvmaze.com/episodes/2326118/the-upshaws-2x05-duct-up",
+      "name": "Duct Up",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2022-06-29",
+      "airtime": "",
+      "airstamp": "2022-06-29T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/414/1035886.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/414/1035886.jpg"
+      },
+      "summary": "<p>Regina plots to win over her boss at work. Lucretia dines with an old flame. Bennie lands in a tight spot. The kids are left to look after themselves.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2326118"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2326119,
+      "url": "https://www.tvmaze.com/episodes/2326119/the-upshaws-2x06-new-growth",
+      "name": "New Growth",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2022-06-29",
+      "airtime": "",
+      "airstamp": "2022-06-29T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/414/1035887.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/414/1035887.jpg"
+      },
+      "summary": "<p>A crisis forces Regina to seek out Tasha's services. At the shop, Lucretia tries to talk sense into Bennie. Aaliyah and Maya have a sibling squabble.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2326119"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2326120,
+      "url": "https://www.tvmaze.com/episodes/2326120/the-upshaws-2x07-sista-sista",
+      "name": "Sista, Sista",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2022-06-29",
+      "airtime": "",
+      "airstamp": "2022-06-29T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/414/1035888.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/414/1035888.jpg"
+      },
+      "summary": "<p>With their unfiltered sister in town, Lucretia and Regina let a few things off their chests. Not to be outdone by Noah, Bennie makes a pricey purchase.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2326120"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2326121,
+      "url": "https://www.tvmaze.com/episodes/2326121/the-upshaws-2x08-goin-in",
+      "name": "Goin' In",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2022-06-29",
+      "airtime": "",
+      "airstamp": "2022-06-29T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/414/1035889.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/414/1035889.jpg"
+      },
+      "summary": "<p>After their blowout, Lucretia takes time for herself while Regina gets fed up at work. Bennie fears he's losing Kelvin. All drama leads back to the shop.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2326121"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2449488,
+      "url": "https://www.tvmaze.com/episodes/2449488/the-upshaws-3x01-the-unforgiven",
+      "name": "The Unforgiven",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2023-02-16",
+      "airtime": "",
+      "airstamp": "2023-02-16T12:00:00+00:00",
+      "runtime": 24,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/447/1118834.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/447/1118834.jpg"
+      },
+      "summary": "<p>With Bennie and Lucretia in a pinch, a jobless Regina must drum up cash fast — and try to hide the situation from the kids.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2449488"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2474952,
+      "url": "https://www.tvmaze.com/episodes/2474952/the-upshaws-3x02-home-repairs",
+      "name": "Home Repairs",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2023-02-16",
+      "airtime": "",
+      "airstamp": "2023-02-16T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/447/1118835.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/447/1118835.jpg"
+      },
+      "summary": "<p>Frustrated with his job at the garage, Bennie starts a new business closer to home. Aaliyah yearns to fit in. Bernard's relationship hits a bump.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2474952"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2474953,
+      "url": "https://www.tvmaze.com/episodes/2474953/the-upshaws-3x03-treading-water",
+      "name": "Treading Water",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2023-02-16",
+      "airtime": "",
+      "airstamp": "2023-02-16T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/447/1118836.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/447/1118836.jpg"
+      },
+      "summary": "<p>After running into a roadblock on her job search, Regina takes advantage of funemployment. Bennie gets a fancy new gig, and Aaliyah seeks a new friend.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2474953"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2474954,
+      "url": "https://www.tvmaze.com/episodes/2474954/the-upshaws-3x04-off-beat",
+      "name": "Off Beat",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2023-02-16",
+      "airtime": "",
+      "airstamp": "2023-02-16T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/447/1118837.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/447/1118837.jpg"
+      },
+      "summary": "<p>In need of a break, Regina crashes Lucretia's homecoming weekend. Bernard attempts to connect with his daughter. Aaliyah deals with a friendship breakup.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2474954"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2474956,
+      "url": "https://www.tvmaze.com/episodes/2474956/the-upshaws-3x05-lane-change",
+      "name": "Lane Change",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2023-02-16",
+      "airtime": "",
+      "airstamp": "2023-02-16T12:00:00+00:00",
+      "runtime": 22,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/447/1118838.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/447/1118838.jpg"
+      },
+      "summary": "<p>Regina makes adjustments at her new job. Aaliyah believes Maya is possessed and sets out to film her. Kelvin's return causes friction among the family.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2474956"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2474957,
+      "url": "https://www.tvmaze.com/episodes/2474957/the-upshaws-3x06-heart-wants",
+      "name": "Heart Wants",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2023-02-16",
+      "airtime": "",
+      "airstamp": "2023-02-16T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/447/1118839.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/447/1118839.jpg"
+      },
+      "summary": "<p>After having a strange dream, Regina thinks of what could have been. Lucretia receives a tempting offer. Bennie's back issues cause problems at the shop.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2474957"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2474958,
+      "url": "https://www.tvmaze.com/episodes/2474958/the-upshaws-3x07-heart-matters",
+      "name": "Heart Matters",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2023-02-16",
+      "airtime": "",
+      "airstamp": "2023-02-16T12:00:00+00:00",
+      "runtime": 23,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/447/1118840.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/447/1118840.jpg"
+      },
+      "summary": "<p>An unexpected crisis puts the family on edge and forces Regina to take a pause. Meanwhile, Lucretia and Bennie handle responsibilities at home.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2474958"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2474959,
+      "url": "https://www.tvmaze.com/episodes/2474959/the-upshaws-3x08-now-what",
+      "name": "Now What",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2023-02-16",
+      "airtime": "",
+      "airstamp": "2023-02-16T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/447/1118841.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/447/1118841.jpg"
+      },
+      "summary": "<p>The family sends Regina off as she takes on a new endeavor, but a sudden change of plans has Lucretia and Bennie worried about her — and the future.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2474959"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2520274,
+      "url": "https://www.tvmaze.com/episodes/2520274/the-upshaws-4x01-thera-please",
+      "name": "Thera Please",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2023-08-17",
+      "airtime": "",
+      "airstamp": "2023-08-17T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/473/1182601.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/473/1182601.jpg"
+      },
+      "summary": "<p>In the aftermath of her heart attack, Regina attempts to bring Bennie to therapy with her. An overwhelmed Lucretia starts to miss having her own space.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2520274"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2624436,
+      "url": "https://www.tvmaze.com/episodes/2624436/the-upshaws-4x02-need-change",
+      "name": "Need Change",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2023-08-17",
+      "airtime": "",
+      "airstamp": "2023-08-17T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/473/1182602.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/473/1182602.jpg"
+      },
+      "summary": "<p>Lucretia receives life-changing news after agreeing to fund Bernard's business. When therapy with Bennie uncovers hard truths, Regina has a breakthrough.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2624436"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2624437,
+      "url": "https://www.tvmaze.com/episodes/2624437/the-upshaws-4x03-forbidden-fruit",
+      "name": "Forbidden Fruit",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2023-08-17",
+      "airtime": "",
+      "airstamp": "2023-08-17T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/473/1182603.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/473/1182603.jpg"
+      },
+      "summary": "<p>A hot-headed Bernard teaches Aaliyah how to drive. Regina and Bennie find new thrills in sneaky rendezvous. Lucretia tries to resell gifts for money.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2624437"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2624438,
+      "url": "https://www.tvmaze.com/episodes/2624438/the-upshaws-4x04-slap-happy",
+      "name": "Slap Happy",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2023-08-17",
+      "airtime": "",
+      "airstamp": "2023-08-17T12:00:00+00:00",
+      "runtime": 24,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/473/1182604.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/473/1182604.jpg"
+      },
+      "summary": "<p>Aaliyah continues to shun Regina. A turn of events gives Lucretia cause for celebration, but not for long. Bennie acts fast when Kelvin lands in trouble.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2624438"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2624439,
+      "url": "https://www.tvmaze.com/episodes/2624439/the-upshaws-4x05-really-mama",
+      "name": "Really, Mama?",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2023-08-17",
+      "airtime": "",
+      "airstamp": "2023-08-17T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/473/1182605.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/473/1182605.jpg"
+      },
+      "summary": "<p>A surprise visitor puts Bennie's loyalties to the test. Lucretia secures a new source of income that makes her circumstances more challenging.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2624439"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2624440,
+      "url": "https://www.tvmaze.com/episodes/2624440/the-upshaws-4x06-auto-motives",
+      "name": "Auto Motives",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2023-08-17",
+      "airtime": "",
+      "airstamp": "2023-08-17T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/473/1182606.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/473/1182606.jpg"
+      },
+      "summary": "<p>Now flush with cash, Bennie splurges on a gift for the kids that stirs up tension with Bernard. At a crossroads, Lucretia weighs a difficult decision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2624440"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2805901,
+      "url": "https://www.tvmaze.com/episodes/2805901/the-upshaws-5x01-hail-mary",
+      "name": "Hail Mary",
+      "season": 5,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2024-04-18",
+      "airtime": "",
+      "airstamp": "2024-04-18T12:00:00+00:00",
+      "runtime": 24,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/514/1286680.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/514/1286680.jpg"
+      },
+      "summary": "<p>With the shop and their finances in jeopardy, Bennie and Lucretia search high and low for a solution and potential buyer. Is the family business a wrap?</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2805901"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2832840,
+      "url": "https://www.tvmaze.com/episodes/2832840/the-upshaws-5x02-electric-feels",
+      "name": "Electric Feels",
+      "season": 5,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2024-04-18",
+      "airtime": "",
+      "airstamp": "2024-04-18T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/514/1286681.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/514/1286681.jpg"
+      },
+      "summary": "<p>The family adjusts to their new living situation. Bennie works to get his electric vehicle certification. Aaliyah tries to keep her boyfriend a secret.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2832840"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2832841,
+      "url": "https://www.tvmaze.com/episodes/2832841/the-upshaws-5x03-background-checkered",
+      "name": "Background Checkered",
+      "season": 5,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2024-04-18",
+      "airtime": "",
+      "airstamp": "2024-04-18T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/514/1286682.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/514/1286682.jpg"
+      },
+      "summary": "<p>Bennie meddles in Aaliyah's relationship, sparking memories of him meeting Regina's parents. Maya's school play about Black history riles Lucretia up.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2832841"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2832842,
+      "url": "https://www.tvmaze.com/episodes/2832842/the-upshaws-5x04-girl-trouble",
+      "name": "Girl Trouble",
+      "season": 5,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2024-04-18",
+      "airtime": "",
+      "airstamp": "2024-04-18T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/514/1286683.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/514/1286683.jpg"
+      },
+      "summary": "<p>Regina attempts to make good with an old rival for Aaliyah's sake. A heartbroken Tony seeks help from Bennie as he steps back into the dating scene.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2832842"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2832843,
+      "url": "https://www.tvmaze.com/episodes/2832843/the-upshaws-5x05-aint-broke",
+      "name": "Ain't Broke",
+      "season": 5,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2024-04-18",
+      "airtime": "",
+      "airstamp": "2024-04-18T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/514/1286684.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/514/1286684.jpg"
+      },
+      "summary": "<p>Lucretia takes a big leap — but Regina worries her sister's making a big decision for the wrong reasons. Bennie pushes a nervous Bernard to open his gym.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2832843"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 2832844,
+      "url": "https://www.tvmaze.com/episodes/2832844/the-upshaws-5x06-do-i",
+      "name": "Do I?",
+      "season": 5,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2024-04-18",
+      "airtime": "",
+      "airstamp": "2024-04-18T12:00:00+00:00",
+      "runtime": 31,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/514/1286685.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/514/1286685.jpg"
+      },
+      "summary": "<p>Regina and Bennie are forced to help a newly single Tasha get back on her feet. Major doubts linger for Lucretia and Frank as the big day approaches.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2832844"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3081691,
+      "url": "https://www.tvmaze.com/episodes/3081691/the-upshaws-6x01-gone-but",
+      "name": "Gone, But...",
+      "season": 6,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2025-01-09",
+      "airtime": "",
+      "airstamp": "2025-01-09T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1377935.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1377935.jpg"
+      },
+      "summary": "<p>Regina misses her sister but makes a new bestie — much to Aaliyah's annoyance. In Atlanta, Lucretia worries about fitting in with Frank's rich friends.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3081691"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3107259,
+      "url": "https://www.tvmaze.com/episodes/3107259/the-upshaws-6x02-shes-back",
+      "name": "She's Back",
+      "season": 6,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2025-01-09",
+      "airtime": "",
+      "airstamp": "2025-01-09T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1377936.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1377936.jpg"
+      },
+      "summary": "<p>Bennie and Regina get a surprise when they pick up Maya from school. A salary dispute stirs trouble at the garage, threatening to derail Regina's plans.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3107259"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3107260,
+      "url": "https://www.tvmaze.com/episodes/3107260/the-upshaws-6x03-running-numbers",
+      "name": "Running Numbers",
+      "season": 6,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2025-01-09",
+      "airtime": "",
+      "airstamp": "2025-01-09T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1377937.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1377937.jpg"
+      },
+      "summary": "<p>Regina's annoyed when Lucretia undermines her vision for the clinic. Bennie gets an idea to make money after taking Maya and Sydney to their soccer game.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3107260"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3107261,
+      "url": "https://www.tvmaze.com/episodes/3107261/the-upshaws-6x04-hold-up",
+      "name": "Hold Up",
+      "season": 6,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2025-01-09",
+      "airtime": "",
+      "airstamp": "2025-01-09T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1377938.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1377938.jpg"
+      },
+      "summary": "<p>Bennie's blabbermouth puts Regina in a dangerous situation. Lucretia's feelings are hurt when she takes Aaliyah to tour a prospective college.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3107261"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3107262,
+      "url": "https://www.tvmaze.com/episodes/3107262/the-upshaws-6x05-grifter-grifter",
+      "name": "Grifter, Grifter",
+      "season": 6,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2025-01-09",
+      "airtime": "",
+      "airstamp": "2025-01-09T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1377939.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1377939.jpg"
+      },
+      "summary": "<p>Everyone's on guard when Glodine drops in on the Upshaws — with big news. Bernard tests the dating waters, but things don't go quite as he planned.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3107262"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3107263,
+      "url": "https://www.tvmaze.com/episodes/3107263/the-upshaws-6x06-who-me",
+      "name": "Who, Me?",
+      "season": 6,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2025-01-09",
+      "airtime": "",
+      "airstamp": "2025-01-09T12:00:00+00:00",
+      "runtime": 24,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1377940.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1377940.jpg"
+      },
+      "summary": "<p>After a window at Bernard's gym gets broken, a guilt-stricken Bennie tries to piece together his wild night. Lucretia and Frank go apartment shopping.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3107263"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3107264,
+      "url": "https://www.tvmaze.com/episodes/3107264/the-upshaws-6x07-teed-off",
+      "name": "Tee'd Off",
+      "season": 6,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2025-01-09",
+      "airtime": "",
+      "airstamp": "2025-01-09T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 5.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1377941.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1377941.jpg"
+      },
+      "summary": "<p>While Lucretia gets busy with renovations, Frank and Bennie attempt to bond over golf. Aaliyah goes through a bad-boy phase, testing Regina's patience.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3107264"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3107265,
+      "url": "https://www.tvmaze.com/episodes/3107265/the-upshaws-6x08-son",
+      "name": "& Son",
+      "season": 6,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2025-01-09",
+      "airtime": "",
+      "airstamp": "2025-01-09T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1377942.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1377942.jpg"
+      },
+      "summary": "<p>When the garage gets busy, Bennie takes a chance and gives Kelvin a job. Althea and Regina try to persuade Lucretia to make up with Frank.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3107265"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3107266,
+      "url": "https://www.tvmaze.com/episodes/3107266/the-upshaws-6x09-lost-causes",
+      "name": "Lost Causes",
+      "season": 6,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2025-01-09",
+      "airtime": "",
+      "airstamp": "2025-01-09T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1377943.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1377943.jpg"
+      },
+      "summary": "<p>A drastic decision puts Maya and Aaliyah on their best behavior. Tasha joins in the search for Kelvin. Bernard and Regina take on city hall.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3107266"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3107267,
+      "url": "https://www.tvmaze.com/episodes/3107267/the-upshaws-6x10-buy-now",
+      "name": "Buy Now",
+      "season": 6,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2025-01-09",
+      "airtime": "",
+      "airstamp": "2025-01-09T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1377944.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1377944.jpg"
+      },
+      "summary": "<p>Bernard and Aaliyah help Regina make a list of things that could hurt her run for city council. Bennie takes out a loan to get Lucretia off his back.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3107267"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513810,
+      "url": "https://www.tvmaze.com/episodes/3513810/the-upshaws-7x01-the-black-lash",
+      "name": "The Black-Lash",
+      "season": 7,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 5.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521676.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521676.jpg"
+      },
+      "summary": "<p>After running into red tape, Bennie hustles to keep the garage afloat. Regina scrambles to spin a past mistake that could blow up her campaign.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513810"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513811,
+      "url": "https://www.tvmaze.com/episodes/3513811/the-upshaws-7x02-save-face",
+      "name": "Save Face",
+      "season": 7,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521677.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521677.jpg"
+      },
+      "summary": "<p>As the race heats up, Lucretia pushes Regina to fight dirty. Bernard juggles work and parenting. Bennie and the crew hit the road to restock their stash.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513811"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513812,
+      "url": "https://www.tvmaze.com/episodes/3513812/the-upshaws-7x03-gone-awry",
+      "name": "Gone Awry",
+      "season": 7,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 24,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521678.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521678.jpg"
+      },
+      "summary": "<p>When Frank loses a tangle with a treadmill, Lucretia's vulnerable side emerges. An ambitious sales promotion at the garage drives Bennie to the brink.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513812"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513813,
+      "url": "https://www.tvmaze.com/episodes/3513813/the-upshaws-7x04-indy-streets",
+      "name": "Indy Streets",
+      "season": 7,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521679.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521679.jpg"
+      },
+      "summary": "<p>Lucretia helps Regina polish her pitch. A shady customer makes Bennie a tempting offer. Bernard's attempt at adulting gets messy.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513813"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513814,
+      "url": "https://www.tvmaze.com/episodes/3513814/the-upshaws-7x05-cold-shoulder",
+      "name": "Cold Shoulder",
+      "season": 7,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521680.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521680.jpg"
+      },
+      "summary": "<p>Soul food and tough love fuel a family meeting about Kelvin's future. Lucretia gets chilly when Frank would rather hit the slopes than snuggle.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513814"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513815,
+      "url": "https://www.tvmaze.com/episodes/3513815/the-upshaws-7x06-hole-y-hell",
+      "name": "Hole-y Hell",
+      "season": 7,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521681.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521681.jpg"
+      },
+      "summary": "<p>A busted sports car could be Bennie's ticket out of money trouble. Seeking endorsements, Regina discovers that politics can be a ruthless game.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513815"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513816,
+      "url": "https://www.tvmaze.com/episodes/3513816/the-upshaws-7x07-great-points",
+      "name": "Great Points",
+      "season": 7,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521682.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521682.jpg"
+      },
+      "summary": "<p>Bennie and Aaliyah bond over an unlikely sport. Regina and Spencer square off in a debate. Bernard refuses to get kicked to the curb.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513816"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513817,
+      "url": "https://www.tvmaze.com/episodes/3513817/the-upshaws-7x08-worked-up",
+      "name": "Worked Up",
+      "season": 7,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521683.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521683.jpg"
+      },
+      "summary": "<p>Lucretia isn't thrilled when Bennie puts a mechanic with a past on the payroll. Regina struggles to balance her dreams with her day job.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513817"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513818,
+      "url": "https://www.tvmaze.com/episodes/3513818/the-upshaws-7x09-election-day",
+      "name": "Election Day",
+      "season": 7,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521684.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521684.jpg"
+      },
+      "summary": "<p>Regina gets a reality check during a campaign stop at a nursing home. A familiar face stirs up emotions at the gym. Aaliyah receives exciting news.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513818"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513819,
+      "url": "https://www.tvmaze.com/episodes/3513819/the-upshaws-7x10-i-swear",
+      "name": "I Swear",
+      "season": 7,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521685.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521685.jpg"
+      },
+      "summary": "<p>Family chaos complicates Regina's big day. Bennie faces a turning point for the shop's survival. Bernard and Hector come to Maya's rescue.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513819"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513820,
+      "url": "https://www.tvmaze.com/episodes/3513820/the-upshaws-7x11-help-less",
+      "name": "Help Less",
+      "season": 7,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521686.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521686.jpg"
+      },
+      "summary": "<p>A helping hand sparks family friction when Lucretia opens her checkbook one time too many. Bennie's shortcut to success leaves him with a stack of IOUs.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513820"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    },
+    {
+      "id": 3513821,
+      "url": "https://www.tvmaze.com/episodes/3513821/the-upshaws-7x12-bon-voyage",
+      "name": "Bon Voyage",
+      "season": 7,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2026-01-15",
+      "airtime": "",
+      "airstamp": "2026-01-15T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/608/1521687.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1521687.jpg"
+      },
+      "summary": "<p>The Upshaws face change with heart and humor as they juggle overdue endings, new beginnings and an ethical dilemma.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3513821"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43458",
+          "name": "The Upshaws"
+        }
+      }
+    }
+  ]
+}

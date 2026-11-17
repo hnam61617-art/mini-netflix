@@ -1,0 +1,765 @@
+{
+  "netflix_show_id": "s5364",
+  "netflix_title": "The IT Crowd",
+  "search_url": "https://api.tvmaze.com/search/shows?q=The%20IT%20Crowd",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 539,
+    "url": "https://www.tvmaze.com/shows/539/the-it-crowd",
+    "name": "The IT Crowd",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "Ended",
+    "runtime": 30,
+    "averageRuntime": 30,
+    "premiered": "2006-02-03",
+    "ended": "2013-09-27",
+    "officialSite": "http://www.channel4.com/programmes/the-it-crowd",
+    "schedule": {
+      "time": "22:00",
+      "days": [
+        "Friday"
+      ]
+    },
+    "rating": {
+      "average": 8.7
+    },
+    "weight": 99,
+    "network": {
+      "id": 45,
+      "name": "Channel 4",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "officialSite": "https://www.channel4.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 8044,
+      "thetvdb": 79216,
+      "imdb": "tt0487831"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11405.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11405.jpg"
+    },
+    "summary": "<p>The comedic misadventures of Roy, Moss and their grifting supervisor Jen, a rag-tag team of IT support workers at a large corporation headed by a hotheaded yuppie.</p>",
+    "updated": 1771105727,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/539"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/49440",
+        "name": "The Internet is Coming"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/539/episodes",
+  "episodes": [
+    {
+      "id": 49416,
+      "url": "https://www.tvmaze.com/episodes/49416/the-it-crowd-1x01-yesterdays-jam",
+      "name": "Yesterday's Jam",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2006-02-03",
+      "airtime": "22:00",
+      "airstamp": "2006-02-03T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/81/203256.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/81/203256.jpg"
+      },
+      "summary": "<p>In the very first episode, new recruit Jen is appointed head of the IT department, but her staff Moss and Roy soon discover that she knows nothing about computers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49416"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49417,
+      "url": "https://www.tvmaze.com/episodes/49417/the-it-crowd-1x02-calamity-jen",
+      "name": "Calamity Jen",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2006-02-03",
+      "airtime": "22:00",
+      "airstamp": "2006-02-03T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/81/203260.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/81/203260.jpg"
+      },
+      "summary": "<p>The team face their first test during Reynholm Industries' so-called 'war on stress'. The office is on fire, Roy has an attack of kleptomania, and Jen's shoes don't fit.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49417"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49418,
+      "url": "https://www.tvmaze.com/episodes/49418/the-it-crowd-1x03-fifty-fifty",
+      "name": "Fifty-Fifty",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2006-02-10",
+      "airtime": "22:00",
+      "airstamp": "2006-02-10T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/84/211413.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/84/211413.jpg"
+      },
+      "summary": "<p>Jen has a new admirer, but her inability to tell the truth results in humiliation. Roy decides to improve his love life by adopting a sterner attitude, and Moss recommends a romantic restaurant.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49418"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49419,
+      "url": "https://www.tvmaze.com/episodes/49419/the-it-crowd-1x04-the-red-door",
+      "name": "The Red Door",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2006-02-17",
+      "airtime": "22:00",
+      "airstamp": "2006-02-17T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/84/211415.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/84/211415.jpg"
+      },
+      "summary": "<p>What lies behind the mysterious red door in the IT department? What has happened to Moss's new mug? And why is Roy in danger of becoming known as a 'desk rabbit'?</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49419"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49420,
+      "url": "https://www.tvmaze.com/episodes/49420/the-it-crowd-1x05-the-haunting-of-bill-crouse",
+      "name": "The Haunting of Bill Crouse",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2006-02-24",
+      "airtime": "22:00",
+      "airstamp": "2006-02-24T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/84/211416.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/84/211416.jpg"
+      },
+      "summary": "<p>Moss goes to extraordinary lengths to help Jen escape the unwanted attention of potential suitor Bill Crouse. These lengths include Jen's untimely death...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49420"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49421,
+      "url": "https://www.tvmaze.com/episodes/49421/the-it-crowd-1x06-aunt-irma-visits",
+      "name": "Aunt Irma Visits",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2006-03-03",
+      "airtime": "22:00",
+      "airstamp": "2006-03-03T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/84/211417.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/84/211417.jpg"
+      },
+      "summary": "<p>Jen is subject to powerful mood swings around a certain time every month, and Moss and Roy develop similar symptoms. Can a big bar of chocolate, Dirty Dancing on DVD and a girly night out help?</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49421"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49422,
+      "url": "https://www.tvmaze.com/episodes/49422/the-it-crowd-2x01-the-work-outing",
+      "name": "The Work Outing",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2007-08-24",
+      "airtime": "22:00",
+      "airstamp": "2007-08-24T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/84/211403.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/84/211403.jpg"
+      },
+      "summary": "<p>Jen's heart soars when 'Philip from Six' visits the basement to borrow Heat, and invites her to the theatre. But her hopes of finding true love are dashed when Roy and Moss invite themselves along.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49422"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49423,
+      "url": "https://www.tvmaze.com/episodes/49423/the-it-crowd-2x02-return-of-the-golden-child",
+      "name": "Return of the Golden Child",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2007-08-31",
+      "airtime": "22:00",
+      "airstamp": "2007-08-31T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/84/211407.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/84/211407.jpg"
+      },
+      "summary": "<p>Denholm's death means trouble for Jen, Roy and Moss, until support appears in the form of a mysterious, albeit libidinous, stranger.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49423"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49424,
+      "url": "https://www.tvmaze.com/episodes/49424/the-it-crowd-2x03-moss-and-the-german",
+      "name": "Moss and the German",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2007-09-07",
+      "airtime": "22:00",
+      "airstamp": "2007-09-07T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/85/213740.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/85/213740.jpg"
+      },
+      "summary": "<p>Jen tries to escape the romantic attentions of Douglas, Roy tries to watch a film, and Moss's attempt to meet new people backfires dramatically when he answers an online ad for a cookery course.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49424"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49425,
+      "url": "https://www.tvmaze.com/episodes/49425/the-it-crowd-2x04-the-dinner-party",
+      "name": "The Dinner Party",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2007-09-14",
+      "airtime": "22:00",
+      "airstamp": "2007-09-14T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/85/213737.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/85/213737.jpg"
+      },
+      "summary": "<p>Jen's hopes for a sophisticated dinner party are dashed when she has to invite Roy, Moss and Richmond, and, for some reason, Roy finds something hilarious about her new boyfriend's name: Peter File.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49425"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49426,
+      "url": "https://www.tvmaze.com/episodes/49426/the-it-crowd-2x05-smoke-and-mirrors",
+      "name": "Smoke and Mirrors",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2007-09-21",
+      "airtime": "22:00",
+      "airstamp": "2007-09-21T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/85/213743.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/85/213743.jpg"
+      },
+      "summary": "<p>When a bad bra makes Jen lose concentration in a board meeting, Moss overcomes his fear of ladies' underwear and invents a bra that will never fail.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49426"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49427,
+      "url": "https://www.tvmaze.com/episodes/49427/the-it-crowd-2x06-men-without-women",
+      "name": "Men Without Women",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2007-09-28",
+      "airtime": "22:00",
+      "airstamp": "2007-09-28T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/85/213744.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/85/213744.jpg"
+      },
+      "summary": "<p>Douglas hires Jen as his new PA, giving Moss and Roy free rein in the office. How will they cope without her, and how will she cope with Douglas's unwelcome advances?</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49427"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49428,
+      "url": "https://www.tvmaze.com/episodes/49428/the-it-crowd-3x01-from-hell",
+      "name": "From Hell",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2008-11-21",
+      "airtime": "22:00",
+      "airstamp": "2008-11-21T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/85/213735.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/85/213735.jpg"
+      },
+      "summary": "<p>While boss Douglas does his best to run Reynholm Industries into the ground, Jen has to deal with a builder from hell, Roy loses 20 quid and Moss learns how to stand up to ruffians.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49428"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49429,
+      "url": "https://www.tvmaze.com/episodes/49429/the-it-crowd-3x02-are-we-not-men",
+      "name": "Are We Not Men?",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2008-11-28",
+      "airtime": "22:00",
+      "airstamp": "2008-11-28T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/85/213989.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/85/213989.jpg"
+      },
+      "summary": "<p>A new football website allows Roy and Moss to pass as 'proper' men for a momentous couple of days. Meanwhile, Jen is trying to date a man who looks like a magician.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49429"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49430,
+      "url": "https://www.tvmaze.com/episodes/49430/the-it-crowd-3x03-tramps-like-us",
+      "name": "Tramps Like Us",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2008-12-05",
+      "airtime": "22:00",
+      "airstamp": "2008-12-05T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/86/216024.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/86/216024.jpg"
+      },
+      "summary": "<p>Jen, Roy and Moss find their lives moving in different directions after a disappointing settlement to a sexual harassment suit. Jen seeks pastures new, and Roy ends up out in the cold.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49430"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49431,
+      "url": "https://www.tvmaze.com/episodes/49431/the-it-crowd-3x04-the-speech",
+      "name": "The Speech",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2008-12-12",
+      "airtime": "22:00",
+      "airstamp": "2008-12-12T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/86/216025.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/86/216025.jpg"
+      },
+      "summary": "<p>Jen makes enemies of Roy and Moss after trying to assert herself more after being named as Employee of the Month. Douglas discovers that the woman who he loves is not quite as she seems.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49431"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49432,
+      "url": "https://www.tvmaze.com/episodes/49432/the-it-crowd-3x05-friendface",
+      "name": "Friendface",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2008-12-19",
+      "airtime": "22:00",
+      "airstamp": "2008-12-19T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/91/227847.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/91/227847.jpg"
+      },
+      "summary": "<p>Jen introduces Roy and Moss to a new social networking website, and then finds out why some friendships are best left in the past</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49432"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49433,
+      "url": "https://www.tvmaze.com/episodes/49433/the-it-crowd-3x06-calendar-geeks",
+      "name": "Calendar Geeks",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2008-12-26",
+      "airtime": "22:00",
+      "airstamp": "2008-12-26T22:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/91/227848.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/91/227848.jpg"
+      },
+      "summary": "<p>Reynholm Industries are proud to announce their first naked calendar. Enough said, probably.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49433"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49434,
+      "url": "https://www.tvmaze.com/episodes/49434/the-it-crowd-4x01-jen-the-fredo",
+      "name": "Jen the Fredo",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2010-06-25",
+      "airtime": "22:00",
+      "airstamp": "2010-06-25T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/91/227849.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/91/227849.jpg"
+      },
+      "summary": "<p>Jen applies for the post of Entertainment Manager. When she finds out that amusing her boss Douglas's business connections has its darker side, she has to turn to Moss and Roy for help.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49434"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49435,
+      "url": "https://www.tvmaze.com/episodes/49435/the-it-crowd-4x02-the-final-countdown",
+      "name": "The Final Countdown",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2010-07-02",
+      "airtime": "22:00",
+      "airstamp": "2010-07-02T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/91/227850.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/91/227850.jpg"
+      },
+      "summary": "<p>Moss becomes a celebrity after he beats all the records on a popular puzzle show. Roy is mistaken for a window cleaner. Jen finds herself preoccupied with Douglas' secret meetings.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49435"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49436,
+      "url": "https://www.tvmaze.com/episodes/49436/the-it-crowd-4x03-something-happened",
+      "name": "Something Happened",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2010-07-09",
+      "airtime": "22:00",
+      "airstamp": "2010-07-09T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/91/227851.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/91/227851.jpg"
+      },
+      "summary": "<p>Douglas becomes a Spaceologist, Roy's life is changed by a bad back, and Jen gets involved with a rock band.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49436"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49437,
+      "url": "https://www.tvmaze.com/episodes/49437/the-it-crowd-4x04-italian-for-beginners",
+      "name": "Italian for Beginners",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2010-07-16",
+      "airtime": "22:00",
+      "airstamp": "2010-07-16T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/91/227852.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/91/227852.jpg"
+      },
+      "summary": "<p>Roy gets obsessed by his latest girlfriend's sad family history, while Jen tells an absolute whopper to get some attention.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49437"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49438,
+      "url": "https://www.tvmaze.com/episodes/49438/the-it-crowd-4x05-bad-boys",
+      "name": "Bad Boys",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2010-07-23",
+      "airtime": "22:00",
+      "airstamp": "2010-07-23T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/91/227853.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/91/227853.jpg"
+      },
+      "summary": "<p>Roy and Moss become juvenile delinquents for the day and have an uncomfortable experience at a shopping centre.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49438"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    },
+    {
+      "id": 49439,
+      "url": "https://www.tvmaze.com/episodes/49439/the-it-crowd-4x06-reynholm-vs-reynholm",
+      "name": "Reynholm vs Reynholm",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2010-07-30",
+      "airtime": "22:00",
+      "airstamp": "2010-07-30T21:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/91/227854.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/91/227854.jpg"
+      },
+      "summary": "<p>Douglas finds marriage agrees with him - for all of two weeks. He's then in court - defending himself - with the help of Jen, Roy, Moss and others.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/49439"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/539",
+          "name": "The IT Crowd"
+        }
+      }
+    }
+  ]
+}

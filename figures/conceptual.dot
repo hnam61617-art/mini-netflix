@@ -1,0 +1,26 @@
+digraph E {
+graph [rankdir=TB,bgcolor="white",nodesep=0.6,ranksep=0.8,pad=0.25,fontname="DejaVu Sans",label="Mini-Netflix — Mô hình khái niệm EER",labelloc=t,fontsize=20];
+node [shape=box,style="rounded,filled",fillcolor="#e8f0f8",fontname="DejaVu Sans",fontsize=14,margin="0.16,0.10"];
+edge [dir=none,fontname="DejaVu Sans",fontsize=11,color="#45576d"];
+users;profiles;subscription_tiers;subscriptions;payments;
+contents [fillcolor="#e8f3e9"]; movies [fillcolor="#e8f3e9"];tv_series [fillcolor="#e8f3e9"];episodes [fillcolor="#e8f3e9"];genres [fillcolor="#e8f3e9"];
+watch_lists [fillcolor="#fff0df"]; watch_histories [fillcolor="#fff0df"];
+d [shape=circle,label="d",width=0.35,style=solid];
+users -> profiles [label="1 : 0..N"];
+users -> subscriptions [label="1 : 0..N"];
+subscription_tiers -> subscriptions [label="1 : 0..N"];
+subscriptions -> payments [label="1 : 0..N"];
+contents -> d [color="#45576d:#45576d",label="total"];
+d -> movies; d -> tv_series;
+tv_series -> episodes [label="1 : 0..N"];
+contents -> genres [label="M:N — content_genres
+Mỗi contents có ≥ 1 genres"];
+profiles -> watch_lists [label="1 : 0..N"];
+contents -> watch_lists [label="1 : 0..N"];
+profiles -> watch_histories [label="1 : 0..N"];
+movies -> watch_histories [label="0..1 : 0..N"];
+episodes -> watch_histories [label="0..1 : 0..N"];
+{rank=same;users;subscription_tiers;contents;genres;}
+{rank=same;profiles;subscriptions;movies;tv_series;}
+{rank=same;watch_lists;payments;episodes;}
+}

@@ -1,0 +1,38 @@
+services:
+  db:
+    image: mysql:8.0.46
+    platform: linux/amd64
+    environment:
+      MYSQL_ROOT_PASSWORD: VerificationOnly1313!
+      MYSQL_ROOT_HOST: '%'
+    tmpfs:
+      - /var/lib/mysql
+    healthcheck:
+      test: ["CMD-SHELL", "MYSQL_PWD=$$MYSQL_ROOT_PASSWORD mysql --protocol=TCP -h127.0.0.1 -uroot -e 'SELECT 1' >/dev/null 2>&1"]
+      interval: 5s
+      timeout: 5s
+      retries: 60
+      start_period: 90s
+  fixture:
+    image: mini-netflix-g2-sourced:local
+    build: .
+    command: ["python", "scripts/init_verification_db.py"]
+    environment:
+      ALLOW_VERIFICATION_FIXTURES: '1'
+      DB_HOST: db
+      DB_PASSWORD: VerificationOnly1313!
+    depends_on:
+      db:
+        condition: service_healthy
+  checks:
+    image: mini-netflix-g2-sourced:local
+    build: .
+    command: ["python", "scripts/run_original_checks.py"]
+    environment:
+      ALLOW_VERIFICATION_FIXTURES: '1'
+      DB_HOST: db
+      DB_USER: root
+      DB_PASSWORD: VerificationOnly1313!
+    depends_on:
+      fixture:
+        condition: service_completed_successfully

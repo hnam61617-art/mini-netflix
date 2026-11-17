@@ -1,0 +1,52 @@
+services:
+  db:
+    platform: linux/amd64
+    image: mysql:8.0.46
+    environment:
+      MYSQL_ROOT_PASSWORD: LocalDemoRoot1313!
+      MYSQL_ROOT_HOST: '%'
+    ports:
+      - "127.0.0.1:13306:3306"
+    volumes:
+      - mini_netflix_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD-SHELL", "MYSQL_PWD=$$MYSQL_ROOT_PASSWORD mysql --protocol=TCP -h127.0.0.1 -uroot -e 'SELECT 1' >/dev/null 2>&1"]
+      interval: 5s
+      timeout: 5s
+      retries: 60
+      start_period: 90s
+  init:
+    platform: linux/amd64
+    image: mini-netflix-g2-sourced:local
+    build: .
+    command: ["python", "scripts/init_db.py"]
+    environment:
+      DB_HOST: db
+      DB_USER: root
+      DB_PASSWORD: LocalDemoRoot1313!
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: 'no'
+  web:
+    platform: linux/amd64
+    image: mini-netflix-g2-sourced:local
+    build: .
+    ports:
+      - "127.0.0.1:5000:5000"
+    environment:
+      DB_HOST: db
+      DB_USER: mn_service
+      DB_PASSWORD: DemoViewer1313!
+      LAB_ENABLED: '1'
+      LAB_KEY: G2Demo1313!
+      LAB_REPORT_USER: mn_presenter
+      LAB_REPORT_PASSWORD: DemoReport1313!
+      LAB_CATALOG_USER: mn_editor
+      LAB_CATALOG_PASSWORD: DemoCatalog1313!
+    depends_on:
+      init:
+        condition: service_completed_successfully
+volumes:
+  mini_netflix_data:
+    name: mini_netflix_g2_sourced_v2

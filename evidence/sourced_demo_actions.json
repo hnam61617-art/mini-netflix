@@ -1,0 +1,33 @@
+{
+  "checks": [
+    {
+      "name": "Đăng nhập hồ sơ nguồn 13",
+      "passed": true
+    },
+    {
+      "name": "Chọn gói đầu tiên từ trạng thái trống",
+      "passed": true
+    },
+    {
+      "name": "Ghi đăng ký gói",
+      "passed": true
+    },
+    {
+      "name": "Ghi thanh toán demo",
+      "passed": true
+    },
+    {
+      "name": "Thêm xem sau",
+      "passed": true
+    },
+    {
+      "name": "Ghi tiến độ sau chọn gói",
+      "passed": true
+    },
+    {
+      "name": "Tiến độ được lưu chính xác",
+      "passed": true
+    }
+  ],
+  "cleanup": "Disposable local MySQL schema rebuilt from source seed after this test; retention triggers preserved"
+}

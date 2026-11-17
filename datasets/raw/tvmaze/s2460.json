@@ -1,0 +1,556 @@
+{
+  "netflix_show_id": "s2460",
+  "netflix_title": "Space Force",
+  "search_url": "https://api.tvmaze.com/search/shows?q=Space%20Force",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 40445,
+    "url": "https://www.tvmaze.com/shows/40445/space-force",
+    "name": "Space Force",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 31,
+    "premiered": "2020-05-29",
+    "ended": "2022-02-18",
+    "officialSite": "https://www.netflix.com/title/81021929",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 6.3
+    },
+    "weight": 98,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 368667,
+      "imdb": "tt9612516"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/387/969535.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/387/969535.jpg"
+    },
+    "summary": "<p>A workplace comedy centered around the people tasked with creating a sixth branch of the armed services — <b>Space Force</b>.</p>",
+    "updated": 1762784720,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/40445"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2247521",
+        "name": "The Hack"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/40445/episodes",
+  "episodes": [
+    {
+      "id": 1835207,
+      "url": "https://www.tvmaze.com/episodes/1835207/space-force-1x01-the-launch",
+      "name": "The Launch",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2020-05-29",
+      "airtime": "",
+      "airstamp": "2020-05-29T12:00:00+00:00",
+      "runtime": 37,
+      "rating": {
+        "average": 6.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/259/647682.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/647682.jpg"
+      },
+      "summary": "<p>Four-star general Mark Naird — leader of the newly created Space Force — is pressured to launch a satellite despite dire warnings from scientists.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1835207"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 1837650,
+      "url": "https://www.tvmaze.com/episodes/1837650/space-force-1x02-save-epsilon-6",
+      "name": "Save Epsilon 6!",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2020-05-29",
+      "airtime": "",
+      "airstamp": "2020-05-29T12:00:00+00:00",
+      "runtime": 32,
+      "rating": {
+        "average": 6.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/259/647683.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/647683.jpg"
+      },
+      "summary": "<p>With his beloved satellite severely hobbled, General Naird must decide between a well-reasoned scientific solution and a chimp-led rescue operation.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1837650"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 1837651,
+      "url": "https://www.tvmaze.com/episodes/1837651/space-force-1x03-mark-and-mallory-go-to-washington",
+      "name": "Mark and Mallory Go to Washington",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2020-05-29",
+      "airtime": "",
+      "airstamp": "2020-05-29T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/259/647684.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/647684.jpg"
+      },
+      "summary": "<p>While General Naird and Dr. Mallory brace themselves for a contentious hearing on Capitol Hill, Erin gets to know Captain Ali.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1837651"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 1837652,
+      "url": "https://www.tvmaze.com/episodes/1837652/space-force-1x04-lunar-habitat",
+      "name": "Lunar Habitat",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2020-05-29",
+      "airtime": "",
+      "airstamp": "2020-05-29T12:00:00+00:00",
+      "runtime": 33,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/259/647685.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/647685.jpg"
+      },
+      "summary": "<p>General Naird volunteers for Dr. Mallory's Lunar Habitat Experiment. Meanwhile, Erin tries to throw a party, and Space Force gets a snazzy new look.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1837652"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 1837653,
+      "url": "https://www.tvmaze.com/episodes/1837653/space-force-1x05-space-flag",
+      "name": "Space Flag",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2020-05-29",
+      "airtime": "",
+      "airstamp": "2020-05-29T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/259/647686.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/647686.jpg"
+      },
+      "summary": "<p>Armed with weapons that are less than intimidating, Space Force soldiers — led by General Naird — play war games with their Air Force rivals.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1837653"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 1837654,
+      "url": "https://www.tvmaze.com/episodes/1837654/space-force-1x06-the-spy",
+      "name": "The Spy",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2020-05-29",
+      "airtime": "",
+      "airstamp": "2020-05-29T12:00:00+00:00",
+      "runtime": 35,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/259/647687.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/647687.jpg"
+      },
+      "summary": "<p>Flying high after his war games win, General Naird comes crashing back to reality when he learns there may be a spy in Space Force.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1837654"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 1837655,
+      "url": "https://www.tvmaze.com/episodes/1837655/space-force-1x07-edison-jaymes",
+      "name": "Edison Jaymes",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2020-05-29",
+      "airtime": "",
+      "airstamp": "2020-05-29T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/259/647688.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/647688.jpg"
+      },
+      "summary": "<p>A heavily hyped entrepreneur offers to let Space Force use her revolutionary rocket fuel. Dr. Chan gives Captain Ali a crash course in botany.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1837655"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 1837656,
+      "url": "https://www.tvmaze.com/episodes/1837656/space-force-1x08-conjugal-visit",
+      "name": "Conjugal Visit",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2020-05-29",
+      "airtime": "",
+      "airstamp": "2020-05-29T12:00:00+00:00",
+      "runtime": 32,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/259/647689.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/647689.jpg"
+      },
+      "summary": "<p>It's conjugal visit time and General Naird is all systems go. Meanwhile, Dr. Chan and Captain Ali carpool, and Dr. Mallory deals with a time crunch.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1837656"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 1837657,
+      "url": "https://www.tvmaze.com/episodes/1837657/space-force-1x09-its-good-to-be-back-on-the-moon",
+      "name": "It's Good to Be Back on the Moon",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2020-05-29",
+      "airtime": "",
+      "airstamp": "2020-05-29T12:00:00+00:00",
+      "runtime": 35,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/259/647690.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/647690.jpg"
+      },
+      "summary": "<p>With the launch just days away, General Naird copes with an unprepared crew. Captain Ali searches for the perfect words, and Erin visits her mom.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1837657"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 1837658,
+      "url": "https://www.tvmaze.com/episodes/1837658/space-force-1x10-proportionate-response",
+      "name": "Proportionate Response",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2020-05-29",
+      "airtime": "",
+      "airstamp": "2020-05-29T12:00:00+00:00",
+      "runtime": 36,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/259/647691.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/647691.jpg"
+      },
+      "summary": "<p>Under pressure to retaliate against China, General Naird wrestles with his conscience. Dr. Mallory makes an ominous threat, and Erin goes rogue.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1837658"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 2247515,
+      "url": "https://www.tvmaze.com/episodes/2247515/space-force-2x01-the-inquiry",
+      "name": "The Inquiry",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2022-02-18",
+      "airtime": "",
+      "airstamp": "2022-02-18T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 6.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/396/991844.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/991844.jpg"
+      },
+      "summary": "<p>The new secretary of defense puts General Naird on trial at the Pentagon, and the team has to pull it together to testify on his behalf and save his job.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2247515"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 2247516,
+      "url": "https://www.tvmaze.com/episodes/2247516/space-force-2x02-budget-cuts",
+      "name": "Budget Cuts",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2022-02-18",
+      "airtime": "",
+      "airstamp": "2022-02-18T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 6.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/396/991845.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/991845.jpg"
+      },
+      "summary": "<p>Space Force faces steep budget cuts, to the consternation of General Naird and Dr. Mallory. Dr. Chan tries to figure out why Captain Ali's been distant.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2247516"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 2247517,
+      "url": "https://www.tvmaze.com/episodes/2247517/space-force-2x03-the-chinese-delegation",
+      "name": "The Chinese Delegation",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2022-02-18",
+      "airtime": "",
+      "airstamp": "2022-02-18T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 6.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/396/991846.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/991846.jpg"
+      },
+      "summary": "<p>The team does its best to avoid offending a visiting delegation from China, but Dr. Mallory struggles to hide his feelings about a moon landing denier.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2247517"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 2247518,
+      "url": "https://www.tvmaze.com/episodes/2247518/space-force-2x04-the-europa-project",
+      "name": "The Europa Project",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2022-02-18",
+      "airtime": "",
+      "airstamp": "2022-02-18T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/396/991848.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/991848.jpg"
+      },
+      "summary": "<p>Space Force has a big decision to make: spend their time creating a Powerpoint presentation about an alien invasion… or get into a team prank war?</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2247518"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 2247519,
+      "url": "https://www.tvmaze.com/episodes/2247519/space-force-2x05-mad-buff-confidence",
+      "name": "Mad (Buff) Confidence",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2022-02-18",
+      "airtime": "",
+      "airstamp": "2022-02-18T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 6.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/396/991849.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/991849.jpg"
+      },
+      "summary": "<p>Erin gets conflicting advice about a college interview, while Tony sets up a new partnership between Space Force and an energy drink called Mad Buff.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2247519"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 2247520,
+      "url": "https://www.tvmaze.com/episodes/2247520/space-force-2x06-the-doctors-appointment",
+      "name": "The Doctor's Appointment",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2022-02-18",
+      "airtime": "",
+      "airstamp": "2022-02-18T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 6.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/396/991850.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/991850.jpg"
+      },
+      "summary": "<p>Tony spreads a rumor around the office that General Naird is looking for a new job. Meanwhile, Dr. Chan and Dr. Mallory actually do pursue a job lead.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2247520"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    },
+    {
+      "id": 2247521,
+      "url": "https://www.tvmaze.com/episodes/2247521/space-force-2x07-the-hack",
+      "name": "The Hack",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2022-02-18",
+      "airtime": "",
+      "airstamp": "2022-02-18T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/396/991851.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/991851.jpg"
+      },
+      "summary": "<p>With the future of Space Force up in the air, big changes could be on the horizon. But first, the team has to deal with the entire base being hacked.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2247521"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40445",
+          "name": "Space Force"
+        }
+      }
+    }
+  ]
+}

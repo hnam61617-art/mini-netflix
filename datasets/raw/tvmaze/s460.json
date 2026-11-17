@@ -1,0 +1,1225 @@
+{
+  "netflix_show_id": "s460",
+  "netflix_title": "Never Have I Ever",
+  "search_url": "https://api.tvmaze.com/search/shows?q=Never%20Have%20I%20Ever",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 44592,
+    "url": "https://www.tvmaze.com/shows/44592/never-have-i-ever",
+    "name": "Never Have I Ever",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 29,
+    "premiered": "2020-04-27",
+    "ended": "2023-06-08",
+    "officialSite": "https://www.netflix.com/title/80179190",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 7.7
+    },
+    "weight": 86,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 378746,
+      "imdb": "tt10062292"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/461/1152604.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/461/1152604.jpg"
+    },
+    "summary": "<p>After a traumatic year, an Indian-American teen just wants to spruce up her social status — but friends, family and feelings won't make it easy on her.</p>",
+    "updated": 1699804090,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/44592"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2526205",
+        "name": "...said goodbye"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/44592/episodes",
+  "episodes": [
+    {
+      "id": 1820562,
+      "url": "https://www.tvmaze.com/episodes/1820562/never-have-i-ever-1x01-pilot",
+      "name": "Pilot",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2020-04-27",
+      "airtime": "",
+      "airstamp": "2020-04-27T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/635252.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/635252.jpg"
+      },
+      "summary": "<p>After recent trauma, Devi starts her first day as a high school sophomore determined to shake off old labels and finally become cool.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1820562"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 1824860,
+      "url": "https://www.tvmaze.com/episodes/1824860/never-have-i-ever-1x02-had-sex-with-paxton-hall-yoshida",
+      "name": "...had sex with Paxton Hall-Yoshida",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2020-04-27",
+      "airtime": "",
+      "airstamp": "2020-04-27T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/635253.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/635253.jpg"
+      },
+      "summary": "<p>Devi hesitates to tell her friends the truth about her awkward interactions with Paxton. The prospect of an arranged marriage puts Kamala under pressure.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1824860"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 1824861,
+      "url": "https://www.tvmaze.com/episodes/1824861/never-have-i-ever-1x03-gotten-drunk-with-the-popular-kids",
+      "name": "...gotten drunk with the popular kids",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2020-04-27",
+      "airtime": "",
+      "airstamp": "2020-04-27T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/635254.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/635254.jpg"
+      },
+      "summary": "<p>Devi hopes to win cool points with Paxton at a party, until a surprising turn of events. Hidden emotions emerge for Fabiola. Kamala makes a choice.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1824861"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 1824862,
+      "url": "https://www.tvmaze.com/episodes/1824862/never-have-i-ever-1x04-felt-super-indian",
+      "name": "...felt super Indian",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2020-04-27",
+      "airtime": "",
+      "airstamp": "2020-04-27T12:00:00+00:00",
+      "runtime": 22,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/635255.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/635255.jpg"
+      },
+      "summary": "<p>At Ganesh Puja celebrations, Devi questions how much she identifies with Indian culture, Nalini dodges acerbic aunties and Kamala frets over her future.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1824862"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 1824863,
+      "url": "https://www.tvmaze.com/episodes/1824863/never-have-i-ever-1x05-started-a-nuclear-war",
+      "name": "...started a nuclear war",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2020-04-27",
+      "airtime": "",
+      "airstamp": "2020-04-27T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/635256.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/635256.jpg"
+      },
+      "summary": "<p>Devi allows rumors about her and Paxton to swirl during an overnight school trip. Fabiola opens up to Eleanor, who gets upsetting news about her mother.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1824863"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 1824864,
+      "url": "https://www.tvmaze.com/episodes/1824864/never-have-i-ever-1x06-been-the-loneliest-boy-in-the-world",
+      "name": "...been the loneliest boy in the world",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2020-04-27",
+      "airtime": "",
+      "airstamp": "2020-04-27T12:00:00+00:00",
+      "runtime": 24,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/635257.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/635257.jpg"
+      },
+      "summary": "<p>With absentee parents, a shallow girlfriend and no one to hang out with, Ben Gross is lonelier than ever, until an unlikely invitation offers some hope.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1824864"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 1824865,
+      "url": "https://www.tvmaze.com/episodes/1824865/never-have-i-ever-1x07-been-a-big-fat-liar",
+      "name": "...been a big, fat liar",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2020-04-27",
+      "airtime": "",
+      "airstamp": "2020-04-27T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/635258.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/635258.jpg"
+      },
+      "summary": "<p>Devi oversteps several boundaries in an attempt to be a better friend. Eleanor's reunion with her mother leads to multiple revelations and confessions.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1824865"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 1824866,
+      "url": "https://www.tvmaze.com/episodes/1824866/never-have-i-ever-1x08-pissed-off-everyone-i-know",
+      "name": "...pissed off everyone I know",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2020-04-27",
+      "airtime": "",
+      "airstamp": "2020-04-27T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/635259.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/635259.jpg"
+      },
+      "summary": "<p>After another fallout with her friends, Devi grapples with unresolved trauma. A party at Ben's turns out to be equal parts awkward, awful and amazing.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1824866"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 1824867,
+      "url": "https://www.tvmaze.com/episodes/1824867/never-have-i-ever-1x09-had-to-be-on-my-best-behavior",
+      "name": "...had to be on my best behavior",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2020-04-27",
+      "airtime": "",
+      "airstamp": "2020-04-27T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/635260.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/635260.jpg"
+      },
+      "summary": "<p>Flashbacks unearth painful memories and resentment for Devi. Meanwhile, Kamala is forced to get honest as the family welcomes her suitor at home.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1824867"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 1824868,
+      "url": "https://www.tvmaze.com/episodes/1824868/never-have-i-ever-1x10-said-im-sorry",
+      "name": "...said I'm sorry",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2020-04-27",
+      "airtime": "",
+      "airstamp": "2020-04-27T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/254/635261.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/254/635261.jpg"
+      },
+      "summary": "<p>After unwelcome news sparks a fight with her mother, Devi seeks an escape. Mohan's birthday brings an opportunity for closure — and for new beginnings.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1824868"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2109966,
+      "url": "https://www.tvmaze.com/episodes/2109966/never-have-i-ever-2x01-been-a-playa",
+      "name": "...been a playa",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2021-07-15",
+      "airtime": "",
+      "airstamp": "2021-07-15T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850920.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850920.jpg"
+      },
+      "summary": "<p>Ahead of their impending move to India, Devi faces her first-ever love triangle, while Nalini tries to sell her patient roster to a flashy competitor.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2109966"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2131271,
+      "url": "https://www.tvmaze.com/episodes/2131271/never-have-i-ever-2x02-thrown-a-rager",
+      "name": "...thrown a rager",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2021-07-15",
+      "airtime": "",
+      "airstamp": "2021-07-15T12:00:00+00:00",
+      "runtime": 32,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850921.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850921.jpg"
+      },
+      "summary": "<p>Devi plans to throw the ultimate party, but her knotty dating life may turn it into a different kind of blowout. Nalini has an eye-opening trip to India.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2131271"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2131272,
+      "url": "https://www.tvmaze.com/episodes/2131272/never-have-i-ever-2x03-opened-a-textbook",
+      "name": "...opened a textbook",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2021-07-15",
+      "airtime": "",
+      "airstamp": "2021-07-15T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850922.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850922.jpg"
+      },
+      "summary": "<p>Making good grades has never been a priority for Paxton — until a mishap urges him to prove he's more than a campus heartthrob and star swimmer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2131272"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2131273,
+      "url": "https://www.tvmaze.com/episodes/2131273/never-have-i-ever-2x04-had-an-indian-frenemy",
+      "name": "...had an Indian frenemy",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2021-07-15",
+      "airtime": "",
+      "airstamp": "2021-07-15T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850923.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850923.jpg"
+      },
+      "summary": "<p>Devi instantly resents the new Indian girl at school, but is taken by surprise as they get acquainted. Kamala struggles to be respected at her lab.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2131273"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2131274,
+      "url": "https://www.tvmaze.com/episodes/2131274/never-have-i-ever-2x05-ruined-someones-life",
+      "name": "...ruined someone's life",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2021-07-15",
+      "airtime": "",
+      "airstamp": "2021-07-15T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850924.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850924.jpg"
+      },
+      "summary": "<p>At a 24-hour school relay, Devi's impulsive words spark an insensitive rumor. Fabiola hesitates to introduce her overenthusiastic mother to Eve.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2131274"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2131275,
+      "url": "https://www.tvmaze.com/episodes/2131275/never-have-i-ever-2x06-betrayed-a-friend",
+      "name": "...betrayed a friend",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2021-07-15",
+      "airtime": "",
+      "airstamp": "2021-07-15T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850925.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850925.jpg"
+      },
+      "summary": "<p>While attempting to cover her trail for fueling gossip about Aneesa, Devi's guilt grows. Nalini warms up to a nemesis. Kamala gets a rude shock.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2131275"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2131276,
+      "url": "https://www.tvmaze.com/episodes/2131276/never-have-i-ever-2x07-begged-for-forgiveness",
+      "name": "...begged for forgiveness",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2021-07-15",
+      "airtime": "",
+      "airstamp": "2021-07-15T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850926.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850926.jpg"
+      },
+      "summary": "<p>Devi must learn the art of a genuine apology before it's too late. Kamala considers standing up for herself. Nalini takes some parenting advice.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2131276"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2131277,
+      "url": "https://www.tvmaze.com/episodes/2131277/never-have-i-ever-2x08-been-daisy-buchanan",
+      "name": "...been Daisy Buchanan",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2021-07-15",
+      "airtime": "",
+      "airstamp": "2021-07-15T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850927.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850927.jpg"
+      },
+      "summary": "<p>Watching an ex with someone new tests Devi's resolve to be more mature. Fabiola struggles to stay true to herself, and grows concerned for Eleanor.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2131277"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2131278,
+      "url": "https://www.tvmaze.com/episodes/2131278/never-have-i-ever-2x09-stalked-my-own-mother",
+      "name": "...stalked my own mother",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2021-07-15",
+      "airtime": "",
+      "airstamp": "2021-07-15T12:00:00+00:00",
+      "runtime": 32,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850928.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850928.jpg"
+      },
+      "summary": "<p>A disastrous snooping incident compels Devi and Nalini to do some introspection. Paxton steps out of his comfort zone. Eleanor has a breakthrough.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2131278"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2131279,
+      "url": "https://www.tvmaze.com/episodes/2131279/never-have-i-ever-2x10-been-a-perfect-girl",
+      "name": "...been a perfect girl",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2021-07-15",
+      "airtime": "",
+      "airstamp": "2021-07-15T12:00:00+00:00",
+      "runtime": 32,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/340/850929.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/340/850929.jpg"
+      },
+      "summary": "<p>As Paxton's mixed messages have Devi questioning herself, the upcoming winter dance offers a chance to determine where she stands — and what she needs.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2131279"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2305429,
+      "url": "https://www.tvmaze.com/episodes/2305429/never-have-i-ever-3x01-been-slut-shamed",
+      "name": "...been slut-shamed",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2022-08-12",
+      "airtime": "",
+      "airstamp": "2022-08-12T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1046642.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046642.jpg"
+      },
+      "summary": "<p>At last, Devi is dating her dream guy, but some catty gossip has her worried about taking things slow. Nalini urges Kamala to rethink a decision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2305429"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2305430,
+      "url": "https://www.tvmaze.com/episodes/2305430/never-have-i-ever-3x02-had-my-own-troll",
+      "name": "...had my own troll",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2022-08-12",
+      "airtime": "",
+      "airstamp": "2022-08-12T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1046643.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046643.jpg"
+      },
+      "summary": "<p>Anonymous messages about Paxton have Devi playing detective. Aneesa feels neglected by Ben. Pati hosts a mixer to find Kamala a \"suitable\" partner.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2305430"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2305431,
+      "url": "https://www.tvmaze.com/episodes/2305431/never-have-i-ever-3x03-had-a-valentine",
+      "name": "...had a valentine",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2022-08-12",
+      "airtime": "",
+      "airstamp": "2022-08-12T12:00:00+00:00",
+      "runtime": 32,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1046644.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046644.jpg"
+      },
+      "summary": "<p>On Valentine's Day, a compatibility test's results spark more drama than romance among the Sherman Oaks couples. Meanwhile, Nalini makes a new friend.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2305431"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2305432,
+      "url": "https://www.tvmaze.com/episodes/2305432/never-have-i-ever-3x04-made-someone-jealous",
+      "name": "...made someone jealous",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2022-08-12",
+      "airtime": "",
+      "airstamp": "2022-08-12T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1046645.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046645.jpg"
+      },
+      "summary": "<p>Kamala invites Manish over for Navratri, to Pati's annoyance. Devi isn't thrilled about taking Rhyah's son to a house party, but she's in for a surprise.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2305432"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2305433,
+      "url": "https://www.tvmaze.com/episodes/2305433/never-have-i-ever-3x05-been-ghosted",
+      "name": "...been ghosted",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2022-08-12",
+      "airtime": "",
+      "airstamp": "2022-08-12T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1046646.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046646.jpg"
+      },
+      "summary": "<p>A charity event gives Devi the chance to polish her rusty flirting skills. As awkward vibes between Fabiola and Aneesa lingers, Paxton offers advice.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2305433"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2305434,
+      "url": "https://www.tvmaze.com/episodes/2305434/never-have-i-ever-3x06-had-a-breakdown",
+      "name": "...had a breakdown",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2022-08-12",
+      "airtime": "",
+      "airstamp": "2022-08-12T12:00:00+00:00",
+      "runtime": 25,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1046647.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046647.jpg"
+      },
+      "summary": "<p>Chasing Ivy League dreams and his dad's approval, Ben ignores warning signs of burnout until the stress of his jam-packed workload builds up — literally.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2305434"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2305435,
+      "url": "https://www.tvmaze.com/episodes/2305435/never-have-i-ever-3x07-cheated",
+      "name": "...cheated",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2022-08-12",
+      "airtime": "",
+      "airstamp": "2022-08-12T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1046648.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046648.jpg"
+      },
+      "summary": "<p>Up against Des' team at a debate tournament, Devi takes her competitiveness too far. An opportunity arises for Eleanor. Pati explains herself to Kamala.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2305435"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2305436,
+      "url": "https://www.tvmaze.com/episodes/2305436/never-have-i-ever-3x08-hooked-up-with-my-boyfriend",
+      "name": "...hooked up with my boyfriend",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2022-08-12",
+      "airtime": "",
+      "airstamp": "2022-08-12T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1046649.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046649.jpg"
+      },
+      "summary": "<p>A game night gives Devi and Fab a chance for alone time with Des and Aneesa, but other guests throw the evening off course. An art tutor surprises Ben.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2305436"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2325913,
+      "url": "https://www.tvmaze.com/episodes/2325913/never-have-i-ever-3x09-had-an-indian-boyfriend",
+      "name": "...had an Indian boyfriend",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2022-08-12",
+      "airtime": "",
+      "airstamp": "2022-08-12T12:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1046650.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046650.jpg"
+      },
+      "summary": "<p>Watching Devi struggle with a painful memory, a nervous Rhyah orders Des to keep his distance. Paxton enlists Eleanor's help to break some news to Trent.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2325913"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2325914,
+      "url": "https://www.tvmaze.com/episodes/2325914/never-have-i-ever-3x10-lived-the-dream",
+      "name": "...lived the dream",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2022-08-12",
+      "airtime": "",
+      "airstamp": "2022-08-12T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1046651.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046651.jpg"
+      },
+      "summary": "<p>The end of the school year has the Sherman Oaks crew all up in their feels. Devi is torn between planning the future and enjoying the present.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2325914"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2525930,
+      "url": "https://www.tvmaze.com/episodes/2525930/never-have-i-ever-4x01-lost-my-virginity",
+      "name": "...lost my virginity",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2023-06-08",
+      "airtime": "",
+      "airstamp": "2023-06-08T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/464/1160677.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160677.jpg"
+      },
+      "summary": "<p>An awkward end to an intimate moment has Devi fuming all summer. As senior year begins, the crew has college — and complicated feelings — on the brain.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2525930"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2526193,
+      "url": "https://www.tvmaze.com/episodes/2526193/never-have-i-ever-4x02-gotten-sweet-revenge",
+      "name": "...gotten sweet revenge",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2023-06-08",
+      "airtime": "",
+      "airstamp": "2023-06-08T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/464/1160678.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160678.jpg"
+      },
+      "summary": "<p>Bent on exposing who vandalized her car, Devi makes a bold accusation. Fabiola shakes up the robotics club's culture. Pati hides a secret from the family.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2526193"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2526195,
+      "url": "https://www.tvmaze.com/episodes/2526195/never-have-i-ever-4x03-liked-a-bad-boy",
+      "name": "...liked a bad boy",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2023-06-08",
+      "airtime": "",
+      "airstamp": "2023-06-08T12:00:00+00:00",
+      "runtime": 26,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/464/1160679.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160679.jpg"
+      },
+      "summary": "<p>As senior year continues to spiral, Devi's resolve to avoid Ethan weakens. Paxton returns to a comforting place. Nalini tackles termite issues.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2526195"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2526196,
+      "url": "https://www.tvmaze.com/episodes/2526196/never-have-i-ever-4x04-wrecked-my-future",
+      "name": "...wrecked my future",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2023-06-08",
+      "airtime": "",
+      "airstamp": "2023-06-08T12:00:00+00:00",
+      "runtime": 29,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/464/1160680.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160680.jpg"
+      },
+      "summary": "<p>At a college fair, Devi juggles her love life with her academic ambitions, Fabiola ponders a tricky decision and an unlikely ally comes to Ben's rescue.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2526196"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2526197,
+      "url": "https://www.tvmaze.com/episodes/2526197/never-have-i-ever-4x05-been-to-new-jersey",
+      "name": "...been to New Jersey",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2023-06-08",
+      "airtime": "",
+      "airstamp": "2023-06-08T12:00:00+00:00",
+      "runtime": 28,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/464/1160681.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160681.jpg"
+      },
+      "summary": "<p>On a school trip to New York, Devi discovers that college may be scarier than she thought, Eleanor faces disappointment and Fabiola remains tight-lipped.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2526197"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2526200,
+      "url": "https://www.tvmaze.com/episodes/2526200/never-have-i-ever-4x06-had-my-dream-stolen",
+      "name": "...had my dream stolen",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2023-06-08",
+      "airtime": "",
+      "airstamp": "2023-06-08T12:00:00+00:00",
+      "runtime": 33,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/464/1160682.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160682.jpg"
+      },
+      "summary": "<p>With early college admissions rolling in, Devi's in for more than one surprise. Kamala warns a smitten Pati about Len. Ben overhears a hurtful comment.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2526200"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2526201,
+      "url": "https://www.tvmaze.com/episodes/2526201/never-have-i-ever-4x07-had-an-identity-crisis",
+      "name": "...had an identity crisis",
+      "season": 4,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2023-06-08",
+      "airtime": "",
+      "airstamp": "2023-06-08T12:00:00+00:00",
+      "runtime": 27,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/464/1160683.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160683.jpg"
+      },
+      "summary": "<p>As Paxton struggles to let go of his past as the king of high school, he seizes a chance to thrive as a swim coach and finds closure with an old flame.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2526201"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2526203,
+      "url": "https://www.tvmaze.com/episodes/2526203/never-have-i-ever-4x08-set-my-mom-up",
+      "name": "...set my mom up",
+      "season": 4,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2023-06-08",
+      "airtime": "",
+      "airstamp": "2023-06-08T12:00:00+00:00",
+      "runtime": 33,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/464/1160684.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160684.jpg"
+      },
+      "summary": "<p>Unsure about her own love life, Devi focuses on Nalini's — but it will mean befriending an enemy. Pati's birthday ends on a high note no one sees coming.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2526203"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2526204,
+      "url": "https://www.tvmaze.com/episodes/2526204/never-have-i-ever-4x09-gone-to-prom",
+      "name": "...gone to prom",
+      "season": 4,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2023-06-08",
+      "airtime": "",
+      "airstamp": "2023-06-08T12:00:00+00:00",
+      "runtime": 31,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/464/1160685.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160685.jpg"
+      },
+      "summary": "<p>After a major setback, Devi feels the burden of telling a lie and must dig deep for a second chance. On prom night, the friends share their truths.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2526204"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    },
+    {
+      "id": 2526205,
+      "url": "https://www.tvmaze.com/episodes/2526205/never-have-i-ever-4x10-said-goodbye",
+      "name": "...said goodbye",
+      "season": 4,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2023-06-08",
+      "airtime": "",
+      "airstamp": "2023-06-08T12:00:00+00:00",
+      "runtime": 32,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/464/1160686.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160686.jpg"
+      },
+      "summary": "<p>The last weekend of summer coincides with a festive occasion — and on the brink of their new lives, Devi, her family and friends have lots to celebrate.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2526205"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/44592",
+          "name": "Never Have I Ever"
+        }
+      }
+    }
+  ]
+}

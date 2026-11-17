@@ -1,0 +1,21 @@
+{
+  "mysql": "8.0.46",
+  "tested_at_utc": "2026-11-16 14:28:34",
+  "isolation": "READ-COMMITTED",
+  "python": "3.12.14",
+  "table_counts": {
+    "content_genres": 26487,
+    "contents": 8807,
+    "episodes": 2468,
+    "genres": 46,
+    "movies": 6131,
+    "payments": 0,
+    "profiles": 13,
+    "subscription_tiers": 3,
+    "subscriptions": 0,
+    "tv_series": 2676,
+    "users": 13,
+    "watch_histories": 1694,
+    "watch_lists": 0
+  }
+}

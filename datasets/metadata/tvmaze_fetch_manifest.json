@@ -1,0 +1,317 @@
+[
+  {
+    "netflix_show_id": "s6807",
+    "netflix_title": "Friends",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Friends",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "unresolved",
+    "reason": "exact_name_candidates=4"
+  },
+  {
+    "netflix_show_id": "s1981",
+    "netflix_title": "The Blacklist",
+    "search_url": "https://api.tvmaze.com/search/shows?q=The%20Blacklist",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/69/episodes"
+  },
+  {
+    "netflix_show_id": "s8118",
+    "netflix_title": "Suits",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Suits",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "unresolved",
+    "reason": "exact_name_candidates=4"
+  },
+  {
+    "netflix_show_id": "s460",
+    "netflix_title": "Never Have I Ever",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Never%20Have%20I%20Ever",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/44592/episodes"
+  },
+  {
+    "netflix_show_id": "s83",
+    "netflix_title": "Lucifer",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Lucifer",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/1859/episodes"
+  },
+  {
+    "netflix_show_id": "s2948",
+    "netflix_title": "Arrow",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Arrow",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/4/episodes"
+  },
+  {
+    "netflix_show_id": "s3602",
+    "netflix_title": "IZombie",
+    "search_url": "https://api.tvmaze.com/search/shows?q=IZombie",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/1589/episodes"
+  },
+  {
+    "netflix_show_id": "s391",
+    "netflix_title": "The Walking Dead",
+    "search_url": "https://api.tvmaze.com/search/shows?q=The%20Walking%20Dead",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/73/episodes"
+  },
+  {
+    "netflix_show_id": "s5941",
+    "netflix_title": "Breaking Bad",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Breaking%20Bad",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/169/episodes"
+  },
+  {
+    "netflix_show_id": "s522",
+    "netflix_title": "Kim's Convenience",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Kim%27s%20Convenience",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/17312/episodes"
+  },
+  {
+    "netflix_show_id": "s1386",
+    "netflix_title": "Demon Slayer: Kimetsu no Yaiba",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "unresolved",
+    "reason": "exact_name_candidates=0"
+  },
+  {
+    "netflix_show_id": "s242",
+    "netflix_title": "Manifest",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Manifest",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/31365/episodes"
+  },
+  {
+    "netflix_show_id": "s5673",
+    "netflix_title": "InuYasha",
+    "search_url": "https://api.tvmaze.com/search/shows?q=InuYasha",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/4247/episodes"
+  },
+  {
+    "netflix_show_id": "s2391",
+    "netflix_title": "How to Get Away with Murder",
+    "search_url": "https://api.tvmaze.com/search/shows?q=How%20to%20Get%20Away%20with%20Murder",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/52/episodes"
+  },
+  {
+    "netflix_show_id": "s2768",
+    "netflix_title": "Ozark",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Ozark",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/13417/episodes"
+  },
+  {
+    "netflix_show_id": "s5364",
+    "netflix_title": "The IT Crowd",
+    "search_url": "https://api.tvmaze.com/search/shows?q=The%20IT%20Crowd",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/539/episodes"
+  },
+  {
+    "netflix_show_id": "s310",
+    "netflix_title": "Car Masters: Rust to Riches",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Car%20Masters%3A%20Rust%20to%20Riches",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/38903/episodes"
+  },
+  {
+    "netflix_show_id": "s2460",
+    "netflix_title": "Space Force",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Space%20Force",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/40445/episodes"
+  },
+  {
+    "netflix_show_id": "s5752",
+    "netflix_title": "DEATH NOTE",
+    "search_url": "https://api.tvmaze.com/search/shows?q=DEATH%20NOTE",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "unresolved",
+    "reason": "exact_name_candidates=2"
+  },
+  {
+    "netflix_show_id": "s4311",
+    "netflix_title": "Travelers",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Travelers",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/15996/episodes"
+  },
+  {
+    "netflix_show_id": "s34",
+    "netflix_title": "Squid Game",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Squid%20Game",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/43687/episodes"
+  },
+  {
+    "netflix_show_id": "s3542",
+    "netflix_title": "Naruto",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Naruto",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/495/episodes"
+  },
+  {
+    "netflix_show_id": "s897",
+    "netflix_title": "The Upshaws",
+    "search_url": "https://api.tvmaze.com/search/shows?q=The%20Upshaws",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/43458/episodes"
+  },
+  {
+    "netflix_show_id": "s527",
+    "netflix_title": "Orange Is the New Black",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Orange%20Is%20the%20New%20Black",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/170/episodes"
+  },
+  {
+    "netflix_show_id": "s2922",
+    "netflix_title": "Narcos: Mexico",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Narcos%3A%20Mexico",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/37787/episodes"
+  },
+  {
+    "netflix_show_id": "s2328",
+    "netflix_title": "Dark",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Dark",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/17861/episodes"
+  },
+  {
+    "netflix_show_id": "s1580",
+    "netflix_title": "Mr. Iglesias",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Mr.%20Iglesias",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/41930/episodes"
+  },
+  {
+    "netflix_show_id": "s1829",
+    "netflix_title": "Unsolved Mysteries",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Unsolved%20Mysteries",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "unresolved",
+    "reason": "exact_name_candidates=2"
+  },
+  {
+    "netflix_show_id": "s3686",
+    "netflix_title": "Stranger Things",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Stranger%20Things",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/2993/episodes"
+  },
+  {
+    "netflix_show_id": "s3454",
+    "netflix_title": "Raising Dion",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Raising%20Dion",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/32518/episodes"
+  },
+  {
+    "netflix_show_id": "s4710",
+    "netflix_title": "The Originals",
+    "search_url": "https://api.tvmaze.com/search/shows?q=The%20Originals",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/62/episodes"
+  },
+  {
+    "netflix_show_id": "s4633",
+    "netflix_title": "The Good Cop",
+    "search_url": "https://api.tvmaze.com/search/shows?q=The%20Good%20Cop",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/29500/episodes"
+  },
+  {
+    "netflix_show_id": "s1950",
+    "netflix_title": "The Good Place",
+    "search_url": "https://api.tvmaze.com/search/shows?q=The%20Good%20Place",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/2790/episodes"
+  },
+  {
+    "netflix_show_id": "s750",
+    "netflix_title": "L.A.’s Finest",
+    "search_url": "https://api.tvmaze.com/search/shows?q=L.A.%E2%80%99s%20Finest",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/38565/episodes"
+  },
+  {
+    "netflix_show_id": "s1493",
+    "netflix_title": "Bridgerton",
+    "search_url": "https://api.tvmaze.com/search/shows?q=Bridgerton",
+    "source": "TVmaze",
+    "license": "CC BY-SA 4.0",
+    "status": "matched_exact_title",
+    "episodes_url": "https://api.tvmaze.com/shows/42966/episodes"
+  }
+]

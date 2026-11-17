@@ -1,0 +1,703 @@
+{
+  "netflix_show_id": "s34",
+  "netflix_title": "Squid Game",
+  "search_url": "https://api.tvmaze.com/search/shows?q=Squid%20Game",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 43687,
+    "url": "https://www.tvmaze.com/shows/43687/squid-game",
+    "name": "Squid Game",
+    "type": "Scripted",
+    "language": "Korean",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 59,
+    "premiered": "2021-09-17",
+    "ended": "2025-06-27",
+    "officialSite": "https://www.netflix.com/title/81040344",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 7.9
+    },
+    "weight": 99,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 383275,
+      "imdb": "tt10919420"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/576/1440521.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440521.jpg"
+    },
+    "summary": "<p>Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.</p>",
+    "updated": 1771614207,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/43687"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/3229672",
+        "name": "Humans Are…"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/43687/episodes",
+  "episodes": [
+    {
+      "id": 2145979,
+      "url": "https://www.tvmaze.com/episodes/2145979/squid-game-1x01-red-light-green-light",
+      "name": "Red Light, Green Light",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2021-09-17",
+      "airtime": "",
+      "airstamp": "2021-09-17T12:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/357/894856.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894856.jpg"
+      },
+      "summary": "<p>Hoping to win easy money, a broke and desperate Gi-hun agrees to take part in an enigmatic game. Not long into the first round, unforeseen horrors unfold.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2145979"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 2146006,
+      "url": "https://www.tvmaze.com/episodes/2146006/squid-game-1x02-hell",
+      "name": "Hell",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2021-09-17",
+      "airtime": "",
+      "airstamp": "2021-09-17T12:00:00+00:00",
+      "runtime": 63,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/357/894857.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894857.jpg"
+      },
+      "summary": "<p>Split on whether to continue or quit, the group holds a vote. But their realities in the outside world may prove to be just as unforgiving as the game.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2146006"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 2146007,
+      "url": "https://www.tvmaze.com/episodes/2146007/squid-game-1x03-the-man-with-the-umbrella",
+      "name": "The Man with the Umbrella",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2021-09-17",
+      "airtime": "",
+      "airstamp": "2021-09-17T12:00:00+00:00",
+      "runtime": 54,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/357/894858.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894858.jpg"
+      },
+      "summary": "<p>A few players enter the next round — which promises equal doses of sweet and deadly — with hidden advantages. Meanwhile, Jun-ho sneaks his way inside.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2146007"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 2146008,
+      "url": "https://www.tvmaze.com/episodes/2146008/squid-game-1x04-stick-to-the-team",
+      "name": "Stick to the Team",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2021-09-17",
+      "airtime": "",
+      "airstamp": "2021-09-17T12:00:00+00:00",
+      "runtime": 55,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/357/894859.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894859.jpg"
+      },
+      "summary": "<p>As alliances form among the players, no one is safe in the dorm after lights-out. The third game challenges Gi-hun's team to think strategically.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2146008"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 2146009,
+      "url": "https://www.tvmaze.com/episodes/2146009/squid-game-1x05-a-fair-world",
+      "name": "A Fair World",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2021-09-17",
+      "airtime": "",
+      "airstamp": "2021-09-17T12:00:00+00:00",
+      "runtime": 52,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/357/894860.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894860.jpg"
+      },
+      "summary": "<p>Gi-hun and his team take turns keeping guard through the night. The masked men encounter trouble with their co-conspirators.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2146009"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 2146010,
+      "url": "https://www.tvmaze.com/episodes/2146010/squid-game-1x06-gganbu",
+      "name": "Gganbu",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2021-09-17",
+      "airtime": "",
+      "airstamp": "2021-09-17T12:00:00+00:00",
+      "runtime": 62,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/357/894861.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894861.jpg"
+      },
+      "summary": "<p>Players pair off for the fourth game. Gi-hun grapples with a moral dilemma, Sang-woo chooses self-preservation and Sae-byeok shares her untold story.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2146010"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 2146011,
+      "url": "https://www.tvmaze.com/episodes/2146011/squid-game-1x07-vips",
+      "name": "VIPS",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2021-09-17",
+      "airtime": "",
+      "airstamp": "2021-09-17T12:00:00+00:00",
+      "runtime": 58,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/357/894862.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894862.jpg"
+      },
+      "summary": "<p>The Masked Leader welcomes VIP guests to the facility for a front-row viewing of the show. In the fifth game, some players crack under pressure.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2146011"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 2146012,
+      "url": "https://www.tvmaze.com/episodes/2146012/squid-game-1x08-front-man",
+      "name": "Front Man",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2021-09-17",
+      "airtime": "",
+      "airstamp": "2021-09-17T12:00:00+00:00",
+      "runtime": 32,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/357/894863.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894863.jpg"
+      },
+      "summary": "<p>Ahead of the last round, distrust and disgust run deep among the finalists. Jun-ho makes a getaway, determined to expose the game's dirty secrets.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2146012"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 2172214,
+      "url": "https://www.tvmaze.com/episodes/2172214/squid-game-1x09-one-lucky-day",
+      "name": "One Lucky Day",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2021-09-17",
+      "airtime": "",
+      "airstamp": "2021-09-17T12:00:00+00:00",
+      "runtime": 55,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/357/894864.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894864.jpg"
+      },
+      "summary": "<p>The final round presents another cruel test — but this time, how it ends depends on just one player. The game's creator steps out of the shadows.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2172214"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 2960758,
+      "url": "https://www.tvmaze.com/episodes/2960758/squid-game-2x01-bread-and-lottery",
+      "name": "Bread and Lottery",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2024-12-26",
+      "airtime": "",
+      "airstamp": "2024-12-26T12:00:00+00:00",
+      "runtime": 65,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1372947.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1372947.jpg"
+      },
+      "summary": "<p>A vengeful Gi-hun makes a U-turn at the airport. Later, in his hideout, he intensifies his search for the elusive recruiter who is seeking new players.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2960758"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3086992,
+      "url": "https://www.tvmaze.com/episodes/3086992/squid-game-2x02-halloween-party",
+      "name": "Halloween Party",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2024-12-26",
+      "airtime": "",
+      "airstamp": "2024-12-26T12:00:00+00:00",
+      "runtime": 52,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1372948.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1372948.jpg"
+      },
+      "summary": "<p>Gi-hun finally gets hold of an invitation, marked for Halloween day. In a tense moment facing Jun-ho, they reveal their truths to each other.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3086992"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3086993,
+      "url": "https://www.tvmaze.com/episodes/3086993/squid-game-2x03-001",
+      "name": "001",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2024-12-26",
+      "airtime": "",
+      "airstamp": "2024-12-26T12:00:00+00:00",
+      "runtime": 62,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1372949.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1372949.jpg"
+      },
+      "summary": "<p>New players gather for a chance to win 45.6 billion won. After an intense first round, the survivors' fates hang in the balance — down to one final vote.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3086993"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3086994,
+      "url": "https://www.tvmaze.com/episodes/3086994/squid-game-2x04-six-legs",
+      "name": "Six Legs",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2024-12-26",
+      "airtime": "",
+      "airstamp": "2024-12-26T12:00:00+00:00",
+      "runtime": 63,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1372950.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1372950.jpg"
+      },
+      "summary": "<p>The players prepare for the next game: a six-legged pentathlon, where each team member must clear a mini-game to survive — or face collective elimination.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3086994"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3086995,
+      "url": "https://www.tvmaze.com/episodes/3086995/squid-game-2x05-one-more-game",
+      "name": "One More Game",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2024-12-26",
+      "airtime": "",
+      "airstamp": "2024-12-26T12:00:00+00:00",
+      "runtime": 76,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1372951.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1372951.jpg"
+      },
+      "summary": "<p>Kang No-eul earns enemies for her unruly actions. Nerves fray to the breaking point as the remaining players vote on whether to move to the next round.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3086995"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3086996,
+      "url": "https://www.tvmaze.com/episodes/3086996/squid-game-2x06-o-x",
+      "name": "O ﻿ X",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2024-12-26",
+      "airtime": "",
+      "airstamp": "2024-12-26T12:00:00+00:00",
+      "runtime": 52,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1372952.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1372952.jpg"
+      },
+      "summary": "<p>Jun-ho and his team prepare to infiltrate a suspicious island. As monetary stakes and tensions rise, players split into two opposing factions.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3086996"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3086997,
+      "url": "https://www.tvmaze.com/episodes/3086997/squid-game-2x07-friend-or-foe",
+      "name": "Friend or Foe",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2024-12-26",
+      "airtime": "",
+      "airstamp": "2024-12-26T12:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/549/1372953.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/549/1372953.jpg"
+      },
+      "summary": "<p>The remaining players strategize on how to survive the night. Gi-hun proposes a risky plan — but he will need trustworthy allies to carry it out.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3086997"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3098208,
+      "url": "https://www.tvmaze.com/episodes/3098208/squid-game-3x01-keys-and-knives",
+      "name": "Keys and Knives",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2025-06-27",
+      "airtime": "",
+      "airstamp": "2025-06-27T12:00:00+00:00",
+      "runtime": 57,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/576/1440317.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440317.jpg"
+      },
+      "summary": "<p>No Eul infiltrates a dangerous operation with a risky plan. A new game is announced: hide-and-seek, where one group holds a key and the other a knife.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3098208"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3229654,
+      "url": "https://www.tvmaze.com/episodes/3229654/squid-game-3x02-the-starry-night",
+      "name": "The Starry Night",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2025-06-27",
+      "airtime": "",
+      "airstamp": "2025-06-27T12:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/576/1440318.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440318.jpg"
+      },
+      "summary": "<p>The games resume, and Gi Hun fixates on confronting Kang Dae Ho. Meanwhile, Kim Jun Hee faces a sudden crisis that pushes her willpower to its limits.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3229654"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3229655,
+      "url": "https://www.tvmaze.com/episodes/3229655/squid-game-3x03-its-not-your-fault",
+      "name": "It's Not Your Fault",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2025-06-27",
+      "airtime": "",
+      "airstamp": "2025-06-27T12:00:00+00:00",
+      "runtime": 66,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/576/1440319.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440319.jpg"
+      },
+      "summary": "<p>Jun Ho's team gets close to finding the island. Jang Geum Ja makes a desperate plea to Gi Hun to help Jun Hee. The VIPs discuss a cruel proposal.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3229655"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3229659,
+      "url": "https://www.tvmaze.com/episodes/3229659/squid-game-3x04-222",
+      "name": "222",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2025-06-27",
+      "airtime": "",
+      "airstamp": "2025-06-27T12:00:00+00:00",
+      "runtime": 66,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/576/1440320.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440320.jpg"
+      },
+      "summary": "<p>Even as Gi Hun supports Jun Hee amid rising tensions, she must make a pivotal decision. Before the final game, the Front Man gives Gi Hun an ultimatum.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3229659"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3229668,
+      "url": "https://www.tvmaze.com/episodes/3229668/squid-game-3x05",
+      "name": "○△□",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2025-06-27",
+      "airtime": "",
+      "airstamp": "2025-06-27T12:00:00+00:00",
+      "runtime": 62,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/576/1440321.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440321.jpg"
+      },
+      "summary": "<p>No Eul tries to gain the upper hand in negotiations, but her plans backfire. Gi Hun faces a moral crossroads, testing his limits — how far will he go?</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3229668"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    },
+    {
+      "id": 3229672,
+      "url": "https://www.tvmaze.com/episodes/3229672/squid-game-3x06-humans-are",
+      "name": "Humans Are…",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2025-06-27",
+      "airtime": "",
+      "airstamp": "2025-06-27T12:00:00+00:00",
+      "runtime": 55,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/576/1440322.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440322.jpg"
+      },
+      "summary": "<p>As Jun Ho races to reach the island, tensions peak in the final round. The last players face an impossible situation in the closing minutes of the game.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3229672"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/43687",
+          "name": "Squid Game"
+        }
+      }
+    }
+  ]
+}

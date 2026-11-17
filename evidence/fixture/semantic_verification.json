@@ -1,0 +1,26 @@
+[
+  {
+    "code": "FUNC08",
+    "name": "Q8 có kết quả khi hồ sơ xem đủ thể loại",
+    "passed": true,
+    "actual": "1"
+  },
+  {
+    "code": "FUNC04",
+    "name": "Q4 bộ 0 tập chưa hoàn thành",
+    "passed": true,
+    "actual": "(80, 'Jailbirds New Orleans', 0, Decimal('0'), None, 0)"
+  },
+  {
+    "code": "FUNC10",
+    "name": "Q10 tìm tài khoản còn gói và chưa xem",
+    "passed": true,
+    "actual": "3"
+  },
+  {
+    "code": "FUNC03",
+    "name": "Q3 đếm hồ sơ, không đếm lặp các tập",
+    "passed": true,
+    "actual": "3438"
+  }
+]

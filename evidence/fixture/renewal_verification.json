@@ -1,0 +1,38 @@
+[
+  {
+    "code": "RENEW1",
+    "name": "Hết hạn, không tự gia hạn",
+    "passed": true,
+    "actual": "status=EXPIRED; end_date không đổi=True; payments=0; lỗi=None"
+  },
+  {
+    "code": "RENEW2",
+    "name": "Tự gia hạn thất bại",
+    "passed": true,
+    "actual": "status=CANCELED; end_date không đổi=True; payments=0; lỗi=None"
+  },
+  {
+    "code": "RENEW3",
+    "name": "Gia hạn thủ công thất bại",
+    "passed": true,
+    "actual": "status=ACTIVE; end_date không đổi=True; payments=0; lỗi=1644"
+  },
+  {
+    "code": "RENEW4",
+    "name": "Chưa đến hạn không tự gia hạn",
+    "passed": true,
+    "actual": "status=ACTIVE; end_date không đổi=True; payments=0; lỗi=1644"
+  },
+  {
+    "code": "RENEW5",
+    "name": "Lượt EXPIRED phải tạo đăng ký mới",
+    "passed": true,
+    "actual": "status=EXPIRED; end_date không đổi=True; payments=0; lỗi=1644"
+  },
+  {
+    "code": "RENEW6",
+    "name": "Lỗi sau INSERT payment phải ROLLBACK toàn bộ",
+    "passed": true,
+    "actual": "status=ACTIVE; end_date không đổi=True; payments=0; lỗi=1644"
+  }
+]

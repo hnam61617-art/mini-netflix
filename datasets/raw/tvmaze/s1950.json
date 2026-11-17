@@ -1,0 +1,1579 @@
+{
+  "netflix_show_id": "s1950",
+  "netflix_title": "The Good Place",
+  "search_url": "https://api.tvmaze.com/search/shows?q=The%20Good%20Place",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 2790,
+    "url": "https://www.tvmaze.com/shows/2790/the-good-place",
+    "name": "The Good Place",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "status": "Ended",
+    "runtime": 30,
+    "averageRuntime": 31,
+    "premiered": "2016-09-19",
+    "ended": "2020-01-30",
+    "officialSite": "http://nbc.com/the-good-place",
+    "schedule": {
+      "time": "20:30",
+      "days": [
+        "Thursday"
+      ]
+    },
+    "rating": {
+      "average": 7.6
+    },
+    "weight": 99,
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": "https://www.nbc.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 50383,
+      "thetvdb": 311711,
+      "imdb": "tt4955642"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/395/989291.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/395/989291.jpg"
+    },
+    "summary": "<p><b>The Good Place</b> is a smart, unique comedy about what makes a good person. The show follows Eleanor Shellstrop, an ordinary woman who enters the afterlife and, thanks to some kind of error, is sent to the Good Place instead of the Bad Place, which is definitely where she belongs. While hiding in plain sight from Michael, the wise architect of the Good Place (who doesn't know he's made a mistake), she's determined to shed her old way of living and discover the awesome (or, at least, the pretty good) person within.</p>",
+    "updated": 1749763173,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/2790"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1690573",
+        "name": "Whenever You're Ready"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/2790/episodes",
+  "episodes": [
+    {
+      "id": 934977,
+      "url": "https://www.tvmaze.com/episodes/934977/the-good-place-1x01-everything-is-fine",
+      "name": "Everything Is Fine",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2016-09-19",
+      "airtime": "22:00",
+      "airstamp": "2016-09-20T02:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413776.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413776.jpg"
+      },
+      "summary": "<p>Thanks to some kind of error, Eleanor Shellstrop, an ordinary woman, enters the afterlife and is sent to the Good Place -- which is definitely not where she belongs. While hiding in plain sight from Michael, the wise architect of the Good Place who is unaware that he's made a mistake, she's determined to shed her old way of living and discover the awesome person within. Helping Eleanor navigate her new surroundings are Chidi, her kind, open-hearted \"soulmate\" who sees the good in people but finds himself facing quite a dilemma; her frustratingly perfect new neighbors, Tahani and Jianyu; and Janet, a walking, talking source for all the knowledge in the universe.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/934977"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 834857,
+      "url": "https://www.tvmaze.com/episodes/834857/the-good-place-1x02-flying",
+      "name": "Flying",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2016-09-19",
+      "airtime": "22:30",
+      "airstamp": "2016-09-20T02:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413777.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413777.jpg"
+      },
+      "summary": "<p>Eleanor tries to prove to Chidi that she is worthy of his help. Meanwhile, Tahani and Jianyu try to help Michael feel better about the unknown flaw in his Neighborhood.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/834857"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 834858,
+      "url": "https://www.tvmaze.com/episodes/834858/the-good-place-1x03-tahani-al-jamil",
+      "name": "Tahani Al-Jamil",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2016-09-22",
+      "airtime": "20:30",
+      "airstamp": "2016-09-23T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413778.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413778.jpg"
+      },
+      "summary": "<p>Chidi begins formally teaching Eleanor about ethics, and lesson No. 1 is: be kind to your neighbor. Michael and Janet help Chidi find a new, exciting hobby.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/834858"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 911462,
+      "url": "https://www.tvmaze.com/episodes/911462/the-good-place-1x04-jason-mendoza",
+      "name": "Jason Mendoza",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2016-09-29",
+      "airtime": "20:30",
+      "airstamp": "2016-09-30T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413779.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413779.jpg"
+      },
+      "summary": "<p>Eleanor faces her toughest test yet in her attempt to remain in hiding. Meanwhile, Michael enlists Tahani to help a fellow neighbor fulfill her true purpose.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/911462"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 911463,
+      "url": "https://www.tvmaze.com/episodes/911463/the-good-place-1x05-category-55-emergency-doomsday-crisis",
+      "name": "Category 55 Emergency Doomsday Crisis",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2016-10-06",
+      "airtime": "20:30",
+      "airstamp": "2016-10-07T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413828.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413828.jpg"
+      },
+      "summary": "<p>Eleanor's eagerness to learn ethics from Chidi becomes the full-time job he never wanted. Meanwhile, Michael and Janet focus their attention on a Neighborhood emergency.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/911463"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 923234,
+      "url": "https://www.tvmaze.com/episodes/923234/the-good-place-1x06-what-we-owe-to-each-other",
+      "name": "What We Owe to Each Other",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2016-10-13",
+      "airtime": "20:30",
+      "airstamp": "2016-10-14T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413782.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413782.jpg"
+      },
+      "summary": "<p>Eleanor is enlisted to help Michael with an important task that could determine her fate in the Good Place. Meanwhile, Chidi agrees to be the third wheel in an effort to help out his friend.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/923234"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 923235,
+      "url": "https://www.tvmaze.com/episodes/923235/the-good-place-1x07-the-eternal-shriek",
+      "name": "The Eternal Shriek",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2016-10-20",
+      "airtime": "20:30",
+      "airstamp": "2016-10-21T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413780.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413780.jpg"
+      },
+      "summary": "<p>Eleanor and Chidi set off on a quest with Janet as their guide. Meanwhile, Tahani attempts to show Michael how much he is appreciated.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/923235"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 923236,
+      "url": "https://www.tvmaze.com/episodes/923236/the-good-place-1x08-most-improved-player",
+      "name": "Most Improved Player",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2016-10-27",
+      "airtime": "20:30",
+      "airstamp": "2016-10-28T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413783.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413783.jpg"
+      },
+      "summary": "<p>Michael has a private meeting with Eleanor. Meanwhile, Chidi, who has been harboring a secret, contemplates what to do.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/923236"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 923237,
+      "url": "https://www.tvmaze.com/episodes/923237/the-good-place-1x09-someone-like-me-as-a-member",
+      "name": "...Someone Like Me as a Member",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2016-11-03",
+      "airtime": "20:30",
+      "airstamp": "2016-11-04T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413775.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413775.jpg"
+      },
+      "summary": "<p>Michael's skills are put to the test when he attempts to sort out an unprecedented situation. Meanwhile, Chidi makes a connection elsewhere, much to the dismay of Eleanor, while Janet shows a different side of herself.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/923237"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 987249,
+      "url": "https://www.tvmaze.com/episodes/987249/the-good-place-1x10-chidis-choice",
+      "name": "Chidi's Choice",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2017-01-05",
+      "airtime": "20:30",
+      "airstamp": "2017-01-06T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413784.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413784.jpg"
+      },
+      "summary": "<p>Eleanor makes a surprising personal discovery. Meanwhile, Michael tasks an indecisive Chidi with coming to an important decision and Jianyu makes a big announcement.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/987249"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 998011,
+      "url": "https://www.tvmaze.com/episodes/998011/the-good-place-1x11-whats-my-motivation",
+      "name": "What's My Motivation",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2017-01-12",
+      "airtime": "20:30",
+      "airstamp": "2017-01-13T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413781.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413781.jpg"
+      },
+      "summary": "<p>Eleanor and Tahani hatch a plan while Michael makes a startling discovery. Meanwhile, Chidi confides in Eleanor after learning some interesting news.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/998011"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1009996,
+      "url": "https://www.tvmaze.com/episodes/1009996/the-good-place-1x12-mindy-st-claire",
+      "name": "Mindy St. Claire",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2017-01-19",
+      "airtime": "20:00",
+      "airstamp": "2017-01-20T01:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413785.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413785.jpg"
+      },
+      "summary": "<p>With the help of Chidi and Tahani, Michael faces his biggest challenge yet. Meanwhile, Eleanor, Jianyu and Janet are faced with a monumental decision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1009996"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1009997,
+      "url": "https://www.tvmaze.com/episodes/1009997/the-good-place-1x13-michaels-gambit",
+      "name": "Michael's Gambit",
+      "season": 1,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2017-01-19",
+      "airtime": "20:30",
+      "airstamp": "2017-01-20T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413786.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413786.jpg"
+      },
+      "summary": "<p>Eleanor and her friends contemplate their fates in the Good Place.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1009997"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1215810,
+      "url": "https://www.tvmaze.com/episodes/1215810/the-good-place-2x01-everything-is-great-part-1",
+      "name": "Everything Is Great! Part 1",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2017-09-20",
+      "airtime": "22:00",
+      "airstamp": "2017-09-21T02:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413801.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413801.jpg"
+      },
+      "summary": "<p>Having had their memories erased by ambitious master architect Michael, Eleanor, Chidi, Tahani and Jason again settle into the Good Place, unaware of what has previously transpired...except that Eleanor discovers the one clue she had left for herself and attempts to piece things together.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1215810"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1215811,
+      "url": "https://www.tvmaze.com/episodes/1215811/the-good-place-2x02-everything-is-great-part-2",
+      "name": "Everything Is Great! Part 2",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2017-09-20",
+      "airtime": "22:30",
+      "airstamp": "2017-09-21T02:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413800.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413800.jpg"
+      },
+      "summary": "<p>Their memories erased, Eleanor, Chidi, Tahani, and Jason once again settle into the Good Place, unaware of what has previously transpired; Eleanor attempts to piece things together using a clue she left for herself.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1215811"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1215812,
+      "url": "https://www.tvmaze.com/episodes/1215812/the-good-place-2x03-dance-dance-resolution",
+      "name": "Dance Dance Resolution",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2017-09-28",
+      "airtime": "20:30",
+      "airstamp": "2017-09-29T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413805.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413805.jpg"
+      },
+      "summary": "<p>Michael continues to work out the kinks in his grand plan. Meanwhile, Eleanor stumbles across a secret.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1215812"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1215813,
+      "url": "https://www.tvmaze.com/episodes/1215813/the-good-place-2x04-team-cockroach",
+      "name": "Team Cockroach",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2017-10-05",
+      "airtime": "20:30",
+      "airstamp": "2017-10-06T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413806.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413806.jpg"
+      },
+      "summary": "<p>Michael approaches things from a new angle. Eleanor, Chidi, Tahani and Jason struggle to make a collective decision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1215813"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1215814,
+      "url": "https://www.tvmaze.com/episodes/1215814/the-good-place-2x05-existential-crisis",
+      "name": "Existential Crisis",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2017-10-12",
+      "airtime": "20:30",
+      "airstamp": "2017-10-13T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413807.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413807.jpg"
+      },
+      "summary": "<p>Tahani throws a dinner party to impress. Eleanor and Jason both have to lend a hand when things don't go as planned.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1215814"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1215815,
+      "url": "https://www.tvmaze.com/episodes/1215815/the-good-place-2x06-the-trolley-problem",
+      "name": "The Trolley Problem",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2017-10-19",
+      "airtime": "20:30",
+      "airstamp": "2017-10-20T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413808.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413808.jpg"
+      },
+      "summary": "<p>Chidi and Eleanor tackle a famous ethical dilemma, leading to a conflict with Michael. Meanwhile, Tahani harbors a secret and confides in Janet.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1215815"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1215817,
+      "url": "https://www.tvmaze.com/episodes/1215817/the-good-place-2x07-janet-and-michael",
+      "name": "Janet and Michael",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2017-10-26",
+      "airtime": "20:30",
+      "airstamp": "2017-10-27T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413809.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413809.jpg"
+      },
+      "summary": "<p>When the Neighborhood experiences a small glitch, Michael has to resolve the issue with Janet before it gets out of control.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1215817"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1215818,
+      "url": "https://www.tvmaze.com/episodes/1215818/the-good-place-2x08-derek",
+      "name": "Derek",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2017-11-02",
+      "airtime": "20:30",
+      "airstamp": "2017-11-03T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413810.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413810.jpg"
+      },
+      "summary": "<p>Janet creates a big problem for Michael. Meanwhile, Eleanor lets Chidi in on a secret, and Jason puts Tahani in a difficult position.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1215818"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1215819,
+      "url": "https://www.tvmaze.com/episodes/1215819/the-good-place-2x09-leap-to-faith",
+      "name": "Leap to Faith",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2018-01-04",
+      "airtime": "20:30",
+      "airstamp": "2018-01-05T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413811.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413811.jpg"
+      },
+      "summary": "<p>Michael receives a surprise visitor. Meanwhile, Eleanor, Chidi, Tahani and Jason attempt to solve a riddle.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1215819"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1373758,
+      "url": "https://www.tvmaze.com/episodes/1373758/the-good-place-2x10-best-self",
+      "name": "Best Self",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2018-01-11",
+      "airtime": "20:30",
+      "airstamp": "2018-01-12T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413802.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413802.jpg"
+      },
+      "summary": "<p>Michael finds himself in a bind. Meanwhile, Eleanor sparks an idea that has Chidi, Tahani, Jason and even Janet laying their feelings on the line.</p><p></p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1373758"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1373762,
+      "url": "https://www.tvmaze.com/episodes/1373762/the-good-place-2x11-rhonda-diana-jake-and-trent",
+      "name": "Rhonda, Diana, Jake, and Trent",
+      "season": 2,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2018-01-18",
+      "airtime": "20:30",
+      "airstamp": "2018-01-19T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413803.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413803.jpg"
+      },
+      "summary": "<p>Eleanor, Chidi, Tahani, Janet and Jason head to a destination that may have lasting implications.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1373762"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1373768,
+      "url": "https://www.tvmaze.com/episodes/1373768/the-good-place-2x12-the-burrito",
+      "name": "The Burrito",
+      "season": 2,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2018-01-25",
+      "airtime": "20:30",
+      "airstamp": "2018-01-26T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413812.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413812.jpg"
+      },
+      "summary": "<p>Eleanor, Chidi, Tahani and Jason consider just how much they have (or have not) improved. Michael is left to deal with the consequences of his recent actions. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1373768"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1373769,
+      "url": "https://www.tvmaze.com/episodes/1373769/the-good-place-2x13-somewhere-else",
+      "name": "Somewhere Else",
+      "season": 2,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2018-02-01",
+      "airtime": "20:30",
+      "airstamp": "2018-02-02T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413804.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413804.jpg"
+      },
+      "summary": "<p>Michael tries to pull a rabbit out of a hat.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1373769"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1473822,
+      "url": "https://www.tvmaze.com/episodes/1473822/the-good-place-3x01-everything-is-bonzer-part-1",
+      "name": "Everything Is Bonzer! Part 1",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2018-09-27",
+      "airtime": "20:00",
+      "airstamp": "2018-09-28T00:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413817.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413817.jpg"
+      },
+      "summary": "<p>In the season premiere, Michael returns to Earth to give Eleanor, Chidi, Tahani and Jason a little nudge in the right direction when their initial attempts to become better people falter.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1473822"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1473823,
+      "url": "https://www.tvmaze.com/episodes/1473823/the-good-place-3x02-everything-is-bonzer-part-2",
+      "name": "Everything Is Bonzer! Part 2",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2018-09-27",
+      "airtime": "20:30",
+      "airstamp": "2018-09-28T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413826.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413826.jpg"
+      },
+      "summary": "<p>Michael intervenes in the near-death accidents of Eleanor, Chidi, Tahani and Jason on Earth, in hopes that a second chance at life allows them to become better versions of themselves.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1473823"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1473824,
+      "url": "https://www.tvmaze.com/episodes/1473824/the-good-place-3x03-the-brainy-bunch",
+      "name": "The Brainy Bunch",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2018-10-04",
+      "airtime": "20:30",
+      "airstamp": "2018-10-05T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413827.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413827.jpg"
+      },
+      "summary": "<p>Intent on wrecking Michael's plans, Trevor shows up on Earth to join Chidi's study and annoy the gang into breaking up.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1473824"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1473825,
+      "url": "https://www.tvmaze.com/episodes/1473825/the-good-place-3x04-the-snowplow",
+      "name": "The Snowplow",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2018-10-11",
+      "airtime": "20:30",
+      "airstamp": "2018-10-12T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413819.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413819.jpg"
+      },
+      "summary": "<p>A surprising announcement from one of the humans threatens to dissolve the group.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1473825"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1473826,
+      "url": "https://www.tvmaze.com/episodes/1473826/the-good-place-3x05-jeremy-bearimy",
+      "name": "Jeremy Bearimy",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2018-10-18",
+      "airtime": "20:30",
+      "airstamp": "2018-10-19T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413814.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413814.jpg"
+      },
+      "summary": "<p>The group explores the three main branches of ethical thought.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1473826"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1511257,
+      "url": "https://www.tvmaze.com/episodes/1511257/the-good-place-3x06-the-ballad-of-donkey-doug",
+      "name": "The Ballad of Donkey Doug",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2018-10-25",
+      "airtime": "20:30",
+      "airstamp": "2018-10-26T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413820.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413820.jpg"
+      },
+      "summary": "<p>Jason visits with some people from his past while Chidi gets help in resolving a problem.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1511257"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1511258,
+      "url": "https://www.tvmaze.com/episodes/1511258/the-good-place-3x07-a-fractured-inheritance",
+      "name": "A Fractured Inheritance",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2018-11-01",
+      "airtime": "20:30",
+      "airstamp": "2018-11-02T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413821.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413821.jpg"
+      },
+      "summary": "<p>Eleanor makes a startling discovery that tests her resolve, Tahani looks to make amends and Janet does some bonding.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1511258"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1511259,
+      "url": "https://www.tvmaze.com/episodes/1511259/the-good-place-3x08-the-worst-possible-use-of-free-will",
+      "name": "The Worst Possible Use of Free Will",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2018-11-08",
+      "airtime": "20:30",
+      "airstamp": "2018-11-09T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413822.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413822.jpg"
+      },
+      "summary": "<p>Eleanor looks back on some forgotten moments from her past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1511259"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1511260,
+      "url": "https://www.tvmaze.com/episodes/1511260/the-good-place-3x09-dont-let-the-good-life-pass-you-by",
+      "name": "Don't Let the Good Life Pass You By",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2018-11-15",
+      "airtime": "20:30",
+      "airstamp": "2018-11-16T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413823.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413823.jpg"
+      },
+      "summary": "<p>Michael and Janet visit the person they believe to be the blueprint for how to live a good life on Earth, and Eleanor turns to Tahani for advice.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1511260"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1564894,
+      "url": "https://www.tvmaze.com/episodes/1564894/the-good-place-3x10-janets",
+      "name": "Janet(s)",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2018-12-06",
+      "airtime": "20:30",
+      "airstamp": "2018-12-07T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413824.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413824.jpg"
+      },
+      "summary": "<p>With Janet's help, Michael hatches a plan. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1564894"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1511263,
+      "url": "https://www.tvmaze.com/episodes/1511263/the-good-place-3x11-the-book-of-dougs",
+      "name": "The Book of Dougs",
+      "season": 3,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2019-01-10",
+      "airtime": "21:30",
+      "airstamp": "2019-01-11T02:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413815.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413815.jpg"
+      },
+      "summary": "<p>Michael's resolve is put to the test. Meanwhile, Jason wrestles with his feelings and Chidi surprises Eleanor.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1511263"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1511264,
+      "url": "https://www.tvmaze.com/episodes/1511264/the-good-place-3x12-chidi-sees-the-time-knife",
+      "name": "Chidi Sees the Time-Knife",
+      "season": 3,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2019-01-17",
+      "airtime": "21:30",
+      "airstamp": "2019-01-18T02:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413825.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413825.jpg"
+      },
+      "summary": "<p>Michael arranges an important meeting and Janet makes a reconnection. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1511264"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1511265,
+      "url": "https://www.tvmaze.com/episodes/1511265/the-good-place-3x13-pandemonium",
+      "name": "Pandemonium",
+      "season": 3,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2019-01-24",
+      "airtime": "21:30",
+      "airstamp": "2019-01-25T02:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/181/453608.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/181/453608.jpg"
+      },
+      "summary": "<p>Various events occur, in a certain specific order. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1511265"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1666588,
+      "url": "https://www.tvmaze.com/episodes/1666588/the-good-place-4x01-a-girl-from-arizona",
+      "name": "A Girl from Arizona",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2019-09-26",
+      "airtime": "21:00",
+      "airstamp": "2019-09-27T01:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413832.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413832.jpg"
+      },
+      "summary": "<p>With Eleanor assuming the role of the architect, the group adapts to the challenges facing them when four test subjects inhabit a new neighborhood under their supervision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1666588"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1666589,
+      "url": "https://www.tvmaze.com/episodes/1666589/the-good-place-4x02-a-girl-from-arizona-part-2",
+      "name": "A Girl from Arizona Part 2",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2019-10-03",
+      "airtime": "21:00",
+      "airstamp": "2019-10-04T01:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413833.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413833.jpg"
+      },
+      "summary": "<p>Eleanor, Michael, Janet and Tahani have their hands full when the new residents begin to show their true colors. Jason receives some unsettling news.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1666589"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1666590,
+      "url": "https://www.tvmaze.com/episodes/1666590/the-good-place-4x03-chillaxing",
+      "name": "Chillaxing",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2019-10-10",
+      "airtime": "21:00",
+      "airstamp": "2019-10-11T01:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413834.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413834.jpg"
+      },
+      "summary": "<p>Michael and Eleanor discover something troubling and turn to an unusual source for help; Tahani lends her expertise to assist with one of the new residents.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1666590"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1666591,
+      "url": "https://www.tvmaze.com/episodes/1666591/the-good-place-4x04-tinker-tailor-demon-spy",
+      "name": "Tinker, Tailor, Demon, Spy",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2019-10-17",
+      "airtime": "21:00",
+      "airstamp": "2019-10-18T01:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413830.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413830.jpg"
+      },
+      "summary": "<p>Uncertainty abounds when an unexpected visitor arrives.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1666591"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1666592,
+      "url": "https://www.tvmaze.com/episodes/1666592/the-good-place-4x05-employee-of-the-bearimy",
+      "name": "Employee of the Bearimy",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2019-10-24",
+      "airtime": "21:00",
+      "airstamp": "2019-10-25T01:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413831.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413831.jpg"
+      },
+      "summary": "<p>Michael and Jason hatch a plan. Eleanor learns firsthand the difficulties of running the neighborhood.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1666592"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1666593,
+      "url": "https://www.tvmaze.com/episodes/1666593/the-good-place-4x06-a-chip-driver-mystery",
+      "name": "A Chip Driver Mystery",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2019-10-31",
+      "airtime": "21:00",
+      "airstamp": "2019-11-01T01:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413835.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413835.jpg"
+      },
+      "summary": "<p>One of the new residents creates a division in the ranks.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1666593"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1666594,
+      "url": "https://www.tvmaze.com/episodes/1666594/the-good-place-4x07-help-is-other-people",
+      "name": "Help Is Other People",
+      "season": 4,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2019-11-07",
+      "airtime": "21:00",
+      "airstamp": "2019-11-08T02:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413836.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413836.jpg"
+      },
+      "summary": "<p>On the last day of the experiment, Chidi is faced with one final ethical dilemma. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1666594"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1666595,
+      "url": "https://www.tvmaze.com/episodes/1666595/the-good-place-4x08-the-funerals-to-end-all-funerals",
+      "name": "The Funerals To End All Funerals",
+      "season": 4,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2019-11-14",
+      "airtime": "21:00",
+      "airstamp": "2019-11-15T02:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413837.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413837.jpg"
+      },
+      "summary": "<p>The group awaits the judge's final decision on the fate of human existence.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1666595"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1683177,
+      "url": "https://www.tvmaze.com/episodes/1683177/the-good-place-4x09-the-answer",
+      "name": "The Answer",
+      "season": 4,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2019-11-21",
+      "airtime": "21:00",
+      "airstamp": "2019-11-22T02:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413838.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413838.jpg"
+      },
+      "summary": "<p>In an attempt to plan a better future, Chidi considers his past. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1683177"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1683178,
+      "url": "https://www.tvmaze.com/episodes/1683178/the-good-place-4x10-youve-changed-man",
+      "name": "You've Changed, Man",
+      "season": 4,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2020-01-09",
+      "airtime": "20:30",
+      "airstamp": "2020-01-10T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413839.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413839.jpg"
+      },
+      "summary": "<p>The group works to negotiate an afterlife plan with Sean and the judge.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1683178"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1683179,
+      "url": "https://www.tvmaze.com/episodes/1683179/the-good-place-4x11-mondays-am-i-right",
+      "name": "Mondays, Am I Right?",
+      "season": 4,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2020-01-16",
+      "airtime": "20:30",
+      "airstamp": "2020-01-17T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413840.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413840.jpg"
+      },
+      "summary": "<p>Michael runs some tests and Chidi gets some good advice from Jason.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1683179"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1683181,
+      "url": "https://www.tvmaze.com/episodes/1683181/the-good-place-4x12-patty",
+      "name": "Patty",
+      "season": 4,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2020-01-23",
+      "airtime": "20:30",
+      "airstamp": "2020-01-24T01:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/237/594296.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/237/594296.jpg"
+      },
+      "summary": "<p>The group makes some new friends.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1683181"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    },
+    {
+      "id": 1690573,
+      "url": "https://www.tvmaze.com/episodes/1690573/the-good-place-4x13-whenever-youre-ready",
+      "name": "Whenever You're Ready",
+      "season": 4,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2020-01-30",
+      "airtime": "20:30",
+      "airstamp": "2020-01-31T01:30:00+00:00",
+      "runtime": 75,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/565/1413841.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1413841.jpg"
+      },
+      "summary": "<p>Various conversations occur, between various groups of people.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1690573"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/2790",
+          "name": "The Good Place"
+        }
+      }
+    }
+  ]
+}

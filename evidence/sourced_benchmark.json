@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Q1",
+    "rows": 0,
+    "median_ms": 0.589,
+    "p95_ms": 2.319
+  },
+  {
+    "query": "Q2",
+    "rows": 0,
+    "median_ms": 1.064,
+    "p95_ms": 2.99
+  },
+  {
+    "query": "Q3",
+    "rows": 215,
+    "median_ms": 5.585,
+    "p95_ms": 11.44
+  },
+  {
+    "query": "Q4",
+    "rows": 2676,
+    "median_ms": 29.539,
+    "p95_ms": 74.831
+  },
+  {
+    "query": "Q5",
+    "rows": 0,
+    "median_ms": 0.905,
+    "p95_ms": 1.552
+  },
+  {
+    "query": "Q6",
+    "rows": 0,
+    "median_ms": 0.424,
+    "p95_ms": 0.752
+  },
+  {
+    "query": "Q7",
+    "rows": 3,
+    "median_ms": 0.549,
+    "p95_ms": 0.867
+  },
+  {
+    "query": "Q8",
+    "rows": 0,
+    "median_ms": 9.593,
+    "p95_ms": 16.412
+  },
+  {
+    "query": "Q9",
+    "rows": 8501,
+    "median_ms": 122.485,
+    "p95_ms": 158.211
+  },
+  {
+    "query": "Q10",
+    "rows": 0,
+    "median_ms": 0.307,
+    "p95_ms": 0.853
+  }
+]

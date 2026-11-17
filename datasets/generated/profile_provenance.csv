@@ -1,0 +1,14 @@
+user_id,profile_id,source,source_profile_alias,display_alias,owner_identity,created_at,created_at_source,source_row
+1,1,netflix_watch_log,User 4,Minh Khôi,technical_placeholder_not_source_identity,2021-10-29 05:19:00,All_Profiles.csv,6
+2,2,netflix_watch_log,User 0,Ngọc Anh,technical_placeholder_not_source_identity,2021-10-29 05:42:00,All_Profiles.csv,2
+3,3,netflix_watch_log,User 1,Quang Huy,technical_placeholder_not_source_identity,2021-10-29 05:42:00,All_Profiles.csv,3
+4,4,netflix_watch_log,User 2,Thu Hà,technical_placeholder_not_source_identity,2021-10-29 05:42:00,All_Profiles.csv,4
+5,5,netflix_watch_log,User 3,Đức Anh,technical_placeholder_not_source_identity,2021-10-29 05:42:00,All_Profiles.csv,5
+6,6,netflix_watch_log,User 5,Gia Hân,technical_placeholder_not_source_identity,2023-01-07 14:07:00,All_Profiles.csv,7
+7,7,netflix_watch_log,User 6,Anh Tuấn,technical_placeholder_not_source_identity,2022-06-13 18:09:00,All_Profiles.csv,8
+8,8,netflix_watch_log,User 7,Bảo Ngọc,technical_placeholder_not_source_identity,2022-06-05 16:43:00,All_Profiles.csv,9
+9,9,netflix_watch_log,User 8,Hải Nam,technical_placeholder_not_source_identity,2022-06-01 13:24:00,All_Profiles.csv,10
+10,10,netflix_viewing_activity,Kids,Phương Linh,technical_placeholder_not_source_identity,2024-08-11 19:50:35,derived_from_first_observed_log,0
+11,11,netflix_viewing_activity,Nziza,Tuấn Kiệt,technical_placeholder_not_source_identity,2024-05-23 23:49:39,derived_from_first_observed_log,0
+12,12,netflix_viewing_activity,Quin,Minh Châu,technical_placeholder_not_source_identity,2024-03-24 02:40:51,derived_from_first_observed_log,0
+13,13,netflix_viewing_activity,Sando,Thanh Tùng,technical_placeholder_not_source_identity,2024-03-25 02:20:52,derived_from_first_observed_log,0

@@ -1,0 +1,935 @@
+{
+  "netflix_show_id": "s2922",
+  "netflix_title": "Narcos: Mexico",
+  "search_url": "https://api.tvmaze.com/search/shows?q=Narcos%3A%20Mexico",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 37787,
+    "url": "https://www.tvmaze.com/shows/37787/narcos-mexico",
+    "name": "Narcos: Mexico",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 59,
+    "premiered": "2018-11-16",
+    "ended": "2021-11-05",
+    "officialSite": "https://www.netflix.com/title/80997085",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 7.8
+    },
+    "weight": 98,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 353232,
+      "imdb": "tt8714904"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/485/1213724.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/485/1213724.jpg"
+    },
+    "summary": "<p><b>Narcos: Mexico</b> exploring the origins of the modern drug war by going back to its roots, beginning at a time when the Mexican trafficking world was a loose and disorganized confederation of independent growers and dealers. Witness the rise of the Guadalajara Cartel in the 1980s as Félix Gallardo takes the helm, unifying traffickers in order to build an empire. When DEA agent Kiki Camarena moves his wife and young son from California to Guadalajara to take on a new post, he quickly learns that his assignment will be more challenging than he ever could have imagined. As Kiki garners intelligence on Félix and becomes more entangled in his mission, a tragic chain of events unfold, affecting the drug trade and the war against it for years to come.</p>",
+    "updated": 1699278857,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/37787"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2209649",
+        "name": "Life in Wartime"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/37787/episodes",
+  "episodes": [
+    {
+      "id": 1526094,
+      "url": "https://www.tvmaze.com/episodes/1526094/narcos-mexico-1x01-camelot",
+      "name": "Camelot",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2018-11-16",
+      "airtime": "",
+      "airstamp": "2018-11-16T12:00:00+00:00",
+      "runtime": 58,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/174/437161.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/174/437161.jpg"
+      },
+      "summary": "<p>When the army pillages Sinaloa, an ambitious pot farmer pitches a plan to build a drug empire in Guadalajara. A young DEA agent transfers to Mexico.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1526094"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1562808,
+      "url": "https://www.tvmaze.com/episodes/1562808/narcos-mexico-1x02-the-plaza-system",
+      "name": "The Plaza System",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2018-11-16",
+      "airtime": "",
+      "airstamp": "2018-11-16T12:00:00+00:00",
+      "runtime": 59,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/174/437162.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/174/437162.jpg"
+      },
+      "summary": "<p>Félix tries to unite all of the plazas while Rafa searches for water for his seedless weed. Police corruption and the DEA's complacency frustrate Kiki.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1562808"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1562809,
+      "url": "https://www.tvmaze.com/episodes/1562809/narcos-mexico-1x03-el-padrino",
+      "name": "El Padrino",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2018-11-16",
+      "airtime": "",
+      "airstamp": "2018-11-16T12:00:00+00:00",
+      "runtime": 68,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/174/437163.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/174/437163.jpg"
+      },
+      "summary": "<p>Kiki flies solo on a risky undercover operation. Félix turns to his mentor for advice as conflict between the cops and the traffickers escalates.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1562809"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1562810,
+      "url": "https://www.tvmaze.com/episodes/1562810/narcos-mexico-1x04-rafa-rafa-rafa",
+      "name": "Rafa, Rafa, Rafa!",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2018-11-16",
+      "airtime": "",
+      "airstamp": "2018-11-16T12:00:00+00:00",
+      "runtime": 55,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/174/437164.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/174/437164.jpg"
+      },
+      "summary": "<p>After months of frustration, Kiki seizes an opportunity. Rafa runs afoul of powerful government officials, putting Félix in a difficult position.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1562810"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1562811,
+      "url": "https://www.tvmaze.com/episodes/1562811/narcos-mexico-1x05-the-colombian-connection",
+      "name": "The Colombian Connection",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2018-11-16",
+      "airtime": "",
+      "airstamp": "2018-11-16T12:00:00+00:00",
+      "runtime": 68,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/174/437165.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/174/437165.jpg"
+      },
+      "summary": "<p>A threat leaves Mika shaken. Félix envisions a different kind of future for the Guadalajara cartel.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1562811"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1562812,
+      "url": "https://www.tvmaze.com/episodes/1562812/narcos-mexico-1x06-la-ultima-frontera",
+      "name": "La Última Frontera",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2018-11-16",
+      "airtime": "",
+      "airstamp": "2018-11-16T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/174/437166.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/174/437166.jpg"
+      },
+      "summary": "<p>A violent power struggle erupts between Falcón and Rafa. As Félix finds a footing in the cocaine business, the DEA tries to lure him into the U.S.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1562812"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1562813,
+      "url": "https://www.tvmaze.com/episodes/1562813/narcos-mexico-1x07-jefe-de-jefes",
+      "name": "Jefe de Jefes",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2018-11-16",
+      "airtime": "",
+      "airstamp": "2018-11-16T12:00:00+00:00",
+      "runtime": 63,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/174/437167.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/174/437167.jpg"
+      },
+      "summary": "<p>María implores Félix to move back to Sinaloa. Kiki gathers evidence of the Guadalajara cartel's pot fields. Neto mourns.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1562813"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1562814,
+      "url": "https://www.tvmaze.com/episodes/1562814/narcos-mexico-1x08-just-say-no",
+      "name": "Just Say No",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2018-11-16",
+      "airtime": "",
+      "airstamp": "2018-11-16T12:00:00+00:00",
+      "runtime": 62,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/174/437168.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/174/437168.jpg"
+      },
+      "summary": "<p>After the DEA closes in on Rafa's enormous pot field, Félix tries to stop his associates from retaliating. Kiki and Jaime meet with investigators.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1562814"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1562815,
+      "url": "https://www.tvmaze.com/episodes/1562815/narcos-mexico-1x09-881-lope-de-vega",
+      "name": "881 Lope de Vega",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2018-11-16",
+      "airtime": "",
+      "airstamp": "2018-11-16T12:00:00+00:00",
+      "runtime": 55,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/174/437169.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/174/437169.jpg"
+      },
+      "summary": "<p>A desperate Jaime is stymied by bureaucratic paperwork. Mika worries about her husband. Félix urges Rafa to disappear.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1562815"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1562816,
+      "url": "https://www.tvmaze.com/episodes/1562816/narcos-mexico-1x10-leyenda",
+      "name": "Leyenda",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2018-11-16",
+      "airtime": "",
+      "airstamp": "2018-11-16T12:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/174/437170.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/174/437170.jpg"
+      },
+      "summary": "<p>As pressure mounts, Félix returns to Sinaloa. An enraged Jaime and Mika seek justice and answers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1562816"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1776641,
+      "url": "https://www.tvmaze.com/episodes/1776641/narcos-mexico-2x01-salva-el-tigre",
+      "name": "Salva El Tigre",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2020-02-13",
+      "airtime": "",
+      "airstamp": "2020-02-13T12:00:00+00:00",
+      "runtime": 66,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/603040.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/603040.jpg"
+      },
+      "summary": "<p>While celebrating his 40th birthday, Félix worries about his associates' loyalty and confronts Pacho. Walt and his team plan retaliatory kidnappings.</p><p><br> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1776641"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1798442,
+      "url": "https://www.tvmaze.com/episodes/1798442/narcos-mexico-2x02-alea-lacta-est",
+      "name": "Alea lacta Est",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2020-02-13",
+      "airtime": "",
+      "airstamp": "2020-02-13T12:00:00+00:00",
+      "runtime": 64,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/603041.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/603041.jpg"
+      },
+      "summary": "<p>Verdin taunts the DEA agents torturing him. Félix offers opium dealer Guerra a partnership deal. Benjamín's sister Enedina poses a new business idea.</p><p><br> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1798442"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1798443,
+      "url": "https://www.tvmaze.com/episodes/1798443/narcos-mexico-2x03-ruben-zuno-arce",
+      "name": "Ruben Zuno Arce",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2020-02-13",
+      "airtime": "",
+      "airstamp": "2020-02-13T12:00:00+00:00",
+      "runtime": 57,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/603042.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/603042.jpg"
+      },
+      "summary": "<p>Multiple advisers counsel Félix to go into hiding as the Americans close in on the men involved in Kiki's murder. Amado helps Acosta resolve a feud.</p><p><br> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1798443"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1798444,
+      "url": "https://www.tvmaze.com/episodes/1798444/narcos-mexico-2x04-the-big-dig",
+      "name": "The Big Dig",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2020-02-13",
+      "airtime": "",
+      "airstamp": "2020-02-13T12:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/603043.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/603043.jpg"
+      },
+      "summary": "<p>Zuno testifies in front of a grand jury. Isabella tries to broker a deal with Enedina. Félix makes a daring offer to a U.S. contact.</p><p><br> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1798444"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1798445,
+      "url": "https://www.tvmaze.com/episodes/1798445/narcos-mexico-2x05-afo",
+      "name": "AFO",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2020-02-13",
+      "airtime": "",
+      "airstamp": "2020-02-13T12:00:00+00:00",
+      "runtime": 55,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/603044.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/603044.jpg"
+      },
+      "summary": "<p>Calderoni briefs Walt on the tension between the plazas as Chapo continues construction of his tunnel. Félix's meeting with Pacho takes a turn.</p><p><br> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1798445"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1798446,
+      "url": "https://www.tvmaze.com/episodes/1798446/narcos-mexico-2x06-el-dedazo",
+      "name": "El Dedazo",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2020-02-13",
+      "airtime": "",
+      "airstamp": "2020-02-13T12:00:00+00:00",
+      "runtime": 54,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/603045.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/603045.jpg"
+      },
+      "summary": "<p>Félix meets with a political leader. Benjamín takes a stand when the Sinaloa and Tijuana rivalry intensifies. Walt's team turns its attention to planes.</p><p><br> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1798446"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1798447,
+      "url": "https://www.tvmaze.com/episodes/1798447/narcos-mexico-2x07-truth-and-reconciliation",
+      "name": "Truth and Reconciliation",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2020-02-13",
+      "airtime": "",
+      "airstamp": "2020-02-13T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/603046.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/603046.jpg"
+      },
+      "summary": "<p>Félix proposes a new plan to help the PRI win the election and defeat Cárdenas. Promised intel on Félix, Walt takes an unexpected meeting in Ojinaga.</p><p><br> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1798447"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1798448,
+      "url": "https://www.tvmaze.com/episodes/1798448/narcos-mexico-2x08-se-cayo-el-sistema",
+      "name": "Se Cayó El Sistema",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2020-02-13",
+      "airtime": "",
+      "airstamp": "2020-02-13T12:00:00+00:00",
+      "runtime": 57,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/603047.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/603047.jpg"
+      },
+      "summary": "<p>Mexican authorities, the FBI and Félix all seek out Acosta after a newspaper publishes an interview with him. The presidential election begins.</p><p><br> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1798448"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1798449,
+      "url": "https://www.tvmaze.com/episodes/1798449/narcos-mexico-2x09-growth-prosperity-and-liberation",
+      "name": "Growth, Prosperity, and Liberation",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2020-02-13",
+      "airtime": "",
+      "airstamp": "2020-02-13T12:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/603048.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/603048.jpg"
+      },
+      "summary": "<p>Félix stakes the future of his entire cartel on the delivery of 70 tons of cocaine as Walt and the DEA plan to topple the kingpin's empire.</p><p><br> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1798449"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 1798450,
+      "url": "https://www.tvmaze.com/episodes/1798450/narcos-mexico-2x10-free-trade",
+      "name": "Free Trade",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2020-02-13",
+      "airtime": "",
+      "airstamp": "2020-02-13T12:00:00+00:00",
+      "runtime": 62,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/241/603049.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/241/603049.jpg"
+      },
+      "summary": "<p>After meeting with Pacho, Félix presents the plaza bosses with a new business plan. Walt receives a surprising invitation.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1798450"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 2169755,
+      "url": "https://www.tvmaze.com/episodes/2169755/narcos-mexico-3x01-12-steps",
+      "name": "12 Steps",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2021-11-05",
+      "airtime": "",
+      "airstamp": "2021-11-05T12:00:00+00:00",
+      "runtime": 61,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/372/931912.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/372/931912.jpg"
+      },
+      "summary": "<p>Walt's undercover mission takes a turn. Amado is released following three months in prison. Juárez police officer Victor looks for a missing girl.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2169755"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 2209641,
+      "url": "https://www.tvmaze.com/episodes/2209641/narcos-mexico-3x02-como-la-flor",
+      "name": "Como La Flor",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2021-11-05",
+      "airtime": "",
+      "airstamp": "2021-11-05T12:00:00+00:00",
+      "runtime": 49,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/372/931913.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/372/931913.jpg"
+      },
+      "summary": "<p>Tijuana journalist Andréa takes an interest in the teen guests at the wedding between Enedina Arellano and a prominent attorney. Walt considers a move.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2209641"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 2209642,
+      "url": "https://www.tvmaze.com/episodes/2209642/narcos-mexico-3x03-los-juniors",
+      "name": "Los Juniors",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2021-11-05",
+      "airtime": "",
+      "airstamp": "2021-11-05T12:00:00+00:00",
+      "runtime": 54,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/372/931914.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/372/931914.jpg"
+      },
+      "summary": "<p>After a disappointing conversation with the Arellanos about purchasing land, the Sinaloa cartel reacts. Andréa continues investigating the narcojuniors.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2209642"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 2209643,
+      "url": "https://www.tvmaze.com/episodes/2209643/narcos-mexico-3x04-gdl",
+      "name": "GDL",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2021-11-05",
+      "airtime": "",
+      "airstamp": "2021-11-05T12:00:00+00:00",
+      "runtime": 54,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/372/931915.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/372/931915.jpg"
+      },
+      "summary": "<p>With the Tijuana and Sinaloa cartels at war, everyone wonders where Juárez stands, but Amado has other plans in Cuba. Ramón seeks revenge against Chapo.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2209643"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 2209644,
+      "url": "https://www.tvmaze.com/episodes/2209644/narcos-mexico-3x05-boots-on-the-ground",
+      "name": "Boots on the Ground",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2021-11-05",
+      "airtime": "",
+      "airstamp": "2021-11-05T12:00:00+00:00",
+      "runtime": 59,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/372/931916.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/372/931916.jpg"
+      },
+      "summary": "<p>Walt joins a Mexican task force led by Gen. Rebollo aimed at catching those responsible for the Guadalajara massacre and Cardinal Posada's death.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2209644"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 2209645,
+      "url": "https://www.tvmaze.com/episodes/2209645/narcos-mexico-3x06-la-jefa",
+      "name": "La Jefa",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2021-11-05",
+      "airtime": "",
+      "airstamp": "2021-11-05T12:00:00+00:00",
+      "runtime": 57,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/372/931917.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/372/931917.jpg"
+      },
+      "summary": "<p>Victor is shaken by a murder and takes action. Violence escalates in Tijuana. New boss Enedina develops a plan to challenge her cartel's rivals.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2209645"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 2209646,
+      "url": "https://www.tvmaze.com/episodes/2209646/narcos-mexico-3x07-la-voz",
+      "name": "La Voz",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2021-11-05",
+      "airtime": "",
+      "airstamp": "2021-11-05T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/372/931918.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/372/931918.jpg"
+      },
+      "summary": "<p>La Voz is targeted following its reporting on Colosio's assassins. Mayo and Chapo form an alliance against the Tijuana cartel. Victor asks questions.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2209646"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 2209647,
+      "url": "https://www.tvmaze.com/episodes/2209647/narcos-mexico-3x08-last-dance",
+      "name": "Last Dance",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2021-11-05",
+      "airtime": "",
+      "airstamp": "2021-11-05T12:00:00+00:00",
+      "runtime": 58,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/372/931919.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/372/931919.jpg"
+      },
+      "summary": "<p>When torturing Alex doesn't work, Walt switches tactics. Andrea sifts through financial records tied to Hank and the PRI. Amado plans for the future.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2209647"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 2209648,
+      "url": "https://www.tvmaze.com/episodes/2209648/narcos-mexico-3x09-the-reckoning",
+      "name": "The Reckoning",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2021-11-05",
+      "airtime": "",
+      "airstamp": "2021-11-05T12:00:00+00:00",
+      "runtime": 57,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/372/931920.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/372/931920.jpg"
+      },
+      "summary": "<p>Andrea uncovers a startling connection, instigating a cascade of events. With Alex's help, Walt closes in on Benjamín. Hank threatens Amado.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2209648"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    },
+    {
+      "id": 2209649,
+      "url": "https://www.tvmaze.com/episodes/2209649/narcos-mexico-3x10-life-in-wartime",
+      "name": "Life in Wartime",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2021-11-05",
+      "airtime": "",
+      "airstamp": "2021-11-05T12:00:00+00:00",
+      "runtime": 69,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/372/931921.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/372/931921.jpg"
+      },
+      "summary": "<p>Mexican and US authorities search in earnest for Amado. While in prison, Chapo makes moves to show he's the boss. Enedina sends Ramón on a mission.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2209649"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/37787",
+          "name": "Narcos: Mexico"
+        }
+      }
+    }
+  ]
+}

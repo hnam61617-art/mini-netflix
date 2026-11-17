@@ -1,0 +1,1453 @@
+{
+  "netflix_show_id": "s310",
+  "netflix_title": "Car Masters: Rust to Riches",
+  "search_url": "https://api.tvmaze.com/search/shows?q=Car%20Masters%3A%20Rust%20to%20Riches",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 38903,
+    "url": "https://www.tvmaze.com/shows/38903/car-masters-rust-to-riches",
+    "name": "Car Masters: Rust to Riches",
+    "type": "Reality",
+    "language": "English",
+    "genres": [],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 37,
+    "premiered": "2018-09-14",
+    "ended": "2024-10-23",
+    "officialSite": "https://www.netflix.com/title/80194704",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 6.8
+    },
+    "weight": 83,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 352862,
+      "imdb": "tt8893550"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/284/711743.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/284/711743.jpg"
+    },
+    "summary": "<p>The colorful crew at Gotham Garage overhauls an eclectic collection of cars and trucks, trading up to a showstopper they can sell for big bucks.</p>",
+    "updated": 1772236359,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/38903"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/3019725",
+        "name": "Tomorrow's Throwback"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/38903/episodes",
+  "episodes": [
+    {
+      "id": 1537523,
+      "url": "https://www.tvmaze.com/episodes/1537523/car-masters-rust-to-riches-1x01-outsmarted",
+      "name": "Outsmarted",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2018-09-14",
+      "airtime": "",
+      "airstamp": "2018-09-14T12:00:00+00:00",
+      "runtime": 38,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/284/711734.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/284/711734.jpg"
+      },
+      "summary": "<p>The Gotham Garage crew tries to convert a 1964 Ford Thunderbird into a bonafide \"rocket car\" while giving a smart car the monster-truck treatment.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1537523"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1537524,
+      "url": "https://www.tvmaze.com/episodes/1537524/car-masters-rust-to-riches-1x02-green-is-the-new-black",
+      "name": "Green Is the New Black",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2018-09-14",
+      "airtime": "",
+      "airstamp": "2018-09-14T12:00:00+00:00",
+      "runtime": 40,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/284/711735.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/284/711735.jpg"
+      },
+      "summary": "<p>The team tackles a disassembled 1970 Chevy C-10 Fleetside in order to upgrade and trade it for a very valuable 1939 Zephyr car body.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1537524"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1537525,
+      "url": "https://www.tvmaze.com/episodes/1537525/car-masters-rust-to-riches-1x03-buggin-out",
+      "name": "Buggin' Out",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2018-09-14",
+      "airtime": "",
+      "airstamp": "2018-09-14T12:00:00+00:00",
+      "runtime": 38,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/284/711736.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/284/711736.jpg"
+      },
+      "summary": "<p>The crew tries to help out a friend at a steep discount with a Volkswagen Bug hot-rod upgrade. Mark gets overly creative with a T-bucket overhaul.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1537525"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1537526,
+      "url": "https://www.tvmaze.com/episodes/1537526/car-masters-rust-to-riches-1x04-junkyard-jewels",
+      "name": "Junkyard Jewels",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2018-09-14",
+      "airtime": "",
+      "airstamp": "2018-09-14T12:00:00+00:00",
+      "runtime": 40,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/284/711737.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/284/711737.jpg"
+      },
+      "summary": "<p>Shawn and Mark get a sweet haul in a trade. Tony and Caveman tag-team a 1956 Chevy truck as Constance takes on a vintage VW microbus.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1537526"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1537527,
+      "url": "https://www.tvmaze.com/episodes/1537527/car-masters-rust-to-riches-1x05-franknbus",
+      "name": "Frank'N'Bus",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2018-09-14",
+      "airtime": "",
+      "airstamp": "2018-09-14T12:00:00+00:00",
+      "runtime": 37,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/284/711738.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/284/711738.jpg"
+      },
+      "summary": "<p>Shawn locates an unconventional option for the bus engine but struggles to find a potential buyer. The crew gets some help from a hot-rod icon.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1537527"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1537528,
+      "url": "https://www.tvmaze.com/episodes/1537528/car-masters-rust-to-riches-1x06-life-size",
+      "name": "Life-Size",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2018-09-14",
+      "airtime": "",
+      "airstamp": "2018-09-14T12:00:00+00:00",
+      "runtime": 39,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/284/711739.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/284/711739.jpg"
+      },
+      "summary": "<p>The team aims to bring some Hot Wheels dreams to life in order to trade up for a rare Lincoln Futura replica. Shawn tries to rein in Mark's impulses.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1537528"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1537529,
+      "url": "https://www.tvmaze.com/episodes/1537529/car-masters-rust-to-riches-1x07-two-for-the-money",
+      "name": "Two for the Money",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2018-09-14",
+      "airtime": "",
+      "airstamp": "2018-09-14T12:00:00+00:00",
+      "runtime": 35,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/284/711740.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/284/711740.jpg"
+      },
+      "summary": "<p>The team members race to beat the clock in pursuit of a six-figure car. Mark's quest for a shop truck brings up meaningful memories.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1537529"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1537530,
+      "url": "https://www.tvmaze.com/episodes/1537530/car-masters-rust-to-riches-1x08-back-to-the-future",
+      "name": "Back to the Future",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2018-09-14",
+      "airtime": "",
+      "airstamp": "2018-09-14T12:00:00+00:00",
+      "runtime": 31,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/284/711741.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/284/711741.jpg"
+      },
+      "summary": "<p>The crew hustles to complete its ambitious upgrade of a 1955 Futura in time for a big auto show. Has Gotham Garage finally landed its six-figure car?</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1537530"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1820065,
+      "url": "https://www.tvmaze.com/episodes/1820065/car-masters-rust-to-riches-2x01-electric-drag",
+      "name": "Electric Drag",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2020-03-27",
+      "airtime": "",
+      "airstamp": "2020-03-27T12:00:00+00:00",
+      "runtime": 36,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/248/620867.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/248/620867.jpg"
+      },
+      "summary": "<p>With the new shop open for business, the Gotham crew upgrades a 1953 Buick Special and then attempts a first: converting a gas engine to electric.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1820065"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1821163,
+      "url": "https://www.tvmaze.com/episodes/1821163/car-masters-rust-to-riches-2x02-totaled-disaster",
+      "name": "Totaled Disaster",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2020-03-27",
+      "airtime": "",
+      "airstamp": "2020-03-27T12:00:00+00:00",
+      "runtime": 37,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/248/620868.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/248/620868.jpg"
+      },
+      "summary": "<p>After suffering a massive setback, the crew focuses on flipping a souped-up motorcycle for some cash and finding their next great trade-up car.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1821163"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1821164,
+      "url": "https://www.tvmaze.com/episodes/1821164/car-masters-rust-to-riches-2x03-something-borrowed-something-renewed",
+      "name": "Something Borrowed, Something Renewed",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2020-03-27",
+      "airtime": "",
+      "airstamp": "2020-03-27T12:00:00+00:00",
+      "runtime": 37,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/248/620869.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/248/620869.jpg"
+      },
+      "summary": "<p>As Shawn tries to rectify a deal gone bad, he pushes Mark to take on a sentimental project. The garage gets a chance to impress a splashy new client.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1821164"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1821165,
+      "url": "https://www.tvmaze.com/episodes/1821165/car-masters-rust-to-riches-2x04-motorboatin",
+      "name": "Motorboatin'",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2020-03-27",
+      "airtime": "",
+      "airstamp": "2020-03-27T12:00:00+00:00",
+      "runtime": 36,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/248/620870.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/248/620870.jpg"
+      },
+      "summary": "<p>Mark pushes more boundaries with his next two upgrades: overhauling a minivan so it's fit for rock stars and giving the Corvette treatment to a boat.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1821165"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1821166,
+      "url": "https://www.tvmaze.com/episodes/1821166/car-masters-rust-to-riches-2x05-later-vaydor",
+      "name": "Later, Vaydor",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2020-03-27",
+      "airtime": "",
+      "airstamp": "2020-03-27T12:00:00+00:00",
+      "runtime": 33,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/248/620871.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/248/620871.jpg"
+      },
+      "summary": "<p>Shawn pursues the pieces he needs for a big trade while Mark puts his stamp on a kit car. The garage is treated to a surprise visitor: Caveman's mom.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1821166"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1821167,
+      "url": "https://www.tvmaze.com/episodes/1821167/car-masters-rust-to-riches-2x06-the-crow",
+      "name": "The Crow",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2020-03-27",
+      "airtime": "",
+      "airstamp": "2020-03-27T12:00:00+00:00",
+      "runtime": 32,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/248/620872.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/248/620872.jpg"
+      },
+      "summary": "<p>Mark and Shawn finally make progress on a big deal. The crew fixes up a jalopy for a local race, then dives in to upgrade a legit vintage race car.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1821167"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1821168,
+      "url": "https://www.tvmaze.com/episodes/1821168/car-masters-rust-to-riches-2x07-deal-with-it",
+      "name": "Deal with It",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2020-03-27",
+      "airtime": "",
+      "airstamp": "2020-03-27T12:00:00+00:00",
+      "runtime": 34,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/248/620873.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/248/620873.jpg"
+      },
+      "summary": "<p>As Mark overhauls a 1947 military-style Dodge Power Wagon, Shawn finds himself in the driver's seat when he surveys buyers for a 1960 Plymouth XNR.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1821168"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 1821169,
+      "url": "https://www.tvmaze.com/episodes/1821169/car-masters-rust-to-riches-2x08-petersen-built",
+      "name": "Petersen Built",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2020-03-27",
+      "airtime": "",
+      "airstamp": "2020-03-27T12:00:00+00:00",
+      "runtime": 34,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/248/620874.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/248/620874.jpg"
+      },
+      "summary": "<p>The crew collectively weighs the opportunity of a lifetime — one that entails a great deal of prestige, but comes at a hefty cost.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1821169"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2141719,
+      "url": "https://www.tvmaze.com/episodes/2141719/car-masters-rust-to-riches-3x01-taking-the-high-end-road",
+      "name": "Taking the High-End Road",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2021-08-04",
+      "airtime": "",
+      "airstamp": "2021-08-04T12:00:00+00:00",
+      "runtime": 39,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/345/864969.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/345/864969.jpg"
+      },
+      "summary": "<p>Business is booming for the Gotham crew, thanks to their recent recognition. Next up, they tackle turning a 1933 Ford replica into an art deco Delahaye.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2141719"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2141720,
+      "url": "https://www.tvmaze.com/episodes/2141720/car-masters-rust-to-riches-3x02-the-italian-job",
+      "name": "The Italian Job",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2021-08-04",
+      "airtime": "",
+      "airstamp": "2021-08-04T12:00:00+00:00",
+      "runtime": 36,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/345/864970.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/345/864970.jpg"
+      },
+      "summary": "<p>To finance a costly job redo, the crew works on an El Camino cash car for a very demanding client while overhauling an International Harvester Scout.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2141720"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2141721,
+      "url": "https://www.tvmaze.com/episodes/2141721/car-masters-rust-to-riches-3x03-ride-from-the-ashes",
+      "name": "Ride from the Ashes",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2021-08-04",
+      "airtime": "",
+      "airstamp": "2021-08-04T12:00:00+00:00",
+      "runtime": 36,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/345/864971.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/345/864971.jpg"
+      },
+      "summary": "<p>With everyone desperate for cash, Tony sees opportunity in a sentimental build. Shawn has a tough time finding a buyer for Mark's woody iteration.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2141721"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2141722,
+      "url": "https://www.tvmaze.com/episodes/2141722/car-masters-rust-to-riches-3x04-wheels-on-the-bus",
+      "name": "Wheels on the Bus",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2021-08-04",
+      "airtime": "",
+      "airstamp": "2021-08-04T12:00:00+00:00",
+      "runtime": 38,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/345/864972.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/345/864972.jpg"
+      },
+      "summary": "<p>After some creative dealmaking, Shawn frets over Mark's hot take on a Bel Air. An academic achievement leads to a school bus upgrade for Caveman.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2141722"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2141723,
+      "url": "https://www.tvmaze.com/episodes/2141723/car-masters-rust-to-riches-3x05-hot-tub-time-machine",
+      "name": "Hot Tub Time Machine",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2021-08-04",
+      "airtime": "",
+      "airstamp": "2021-08-04T12:00:00+00:00",
+      "runtime": 36,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/345/864973.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/345/864973.jpg"
+      },
+      "summary": "<p>As Mark presses to finish the hot-tub car and fulfill a commitment to some friends, Shawn persuades him to upgrade a vintage Ford pickup as insurance.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2141723"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2141724,
+      "url": "https://www.tvmaze.com/episodes/2141724/car-masters-rust-to-riches-3x06-lowrider-long-shot",
+      "name": "Lowrider Long Shot",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2021-08-04",
+      "airtime": "",
+      "airstamp": "2021-08-04T12:00:00+00:00",
+      "runtime": 36,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/345/864974.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/345/864974.jpg"
+      },
+      "summary": "<p>Mark harbors a lowrider vision for a vintage Impala, aimed at financing his high-concept car. As expected, the plans quickly get very elaborate.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2141724"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2141725,
+      "url": "https://www.tvmaze.com/episodes/2141725/car-masters-rust-to-riches-3x07-proof-of-concept",
+      "name": "Proof of Concept",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2021-08-04",
+      "airtime": "",
+      "airstamp": "2021-08-04T12:00:00+00:00",
+      "runtime": 35,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/345/864975.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/345/864975.jpg"
+      },
+      "summary": "<p>Mark's Hayabusa hopes are tied to his take on a Prius. Shawn tries to generate buzz ahead of an auction, but a real-world roadblock gets in his way.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2141725"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2141726,
+      "url": "https://www.tvmaze.com/episodes/2141726/car-masters-rust-to-riches-3x08-going-going-gone",
+      "name": "Going, Going... Gone?",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2021-08-04",
+      "airtime": "",
+      "airstamp": "2021-08-04T12:00:00+00:00",
+      "runtime": 36,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/345/864976.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/345/864976.jpg"
+      },
+      "summary": "<p>The crew gets creative when social distancing hurts their hopes for a big payday. But Mark's high price demands may end up costing them even more.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2141726"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2365904,
+      "url": "https://www.tvmaze.com/episodes/2365904/car-masters-rust-to-riches-4x01-dumpster-divin",
+      "name": "Dumpster Divin'",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2022-07-27",
+      "airtime": "",
+      "airstamp": "2022-07-27T12:00:00+00:00",
+      "runtime": 39,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1047333.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047333.jpg"
+      },
+      "summary": "<p>Eager to make some cash, the crew gets to work on two projects: creating a rat rod from scratch and making a customer`s Elite Laser 917 race-worthly.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2365904"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2367035,
+      "url": "https://www.tvmaze.com/episodes/2367035/car-masters-rust-to-riches-4x02-all-in-the-family-wagon",
+      "name": "All In the Family Wagon",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2022-07-27",
+      "airtime": "",
+      "airstamp": "2022-07-27T12:00:00+00:00",
+      "runtime": 35,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1047334.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047334.jpg"
+      },
+      "summary": "<p>Shawn pitches the Gotham crew on an upgrade-and-trade deal involving a 1957 Chevy. Also on the agenda: an epic automotive mash-up.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2367035"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2367036,
+      "url": "https://www.tvmaze.com/episodes/2367036/car-masters-rust-to-riches-4x03-ready-for-lift-off",
+      "name": "Ready for Lift Off",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2022-07-27",
+      "airtime": "",
+      "airstamp": "2022-07-27T12:00:00+00:00",
+      "runtime": 37,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1047335.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047335.jpg"
+      },
+      "summary": "<p>Mark and Shawn visit a salvage yard with hopes of trading in their newly completed '57 Chevy for some good old-fashioned Detroit iron.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2367036"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2367037,
+      "url": "https://www.tvmaze.com/episodes/2367037/car-masters-rust-to-riches-4x04-life-of-the-party-bus",
+      "name": "Life of the Party Bus",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2022-07-27",
+      "airtime": "",
+      "airstamp": "2022-07-27T12:00:00+00:00",
+      "runtime": 34,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1047336.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047336.jpg"
+      },
+      "summary": "<p>After losing money on a build, the Gotham crew gets back to doing what they do best by turning a 1954 Army ambulance into a blinged-out party bus.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2367037"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2367038,
+      "url": "https://www.tvmaze.com/episodes/2367038/car-masters-rust-to-riches-4x05-brotherly-love",
+      "name": "Brotherly Love",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2022-07-27",
+      "airtime": "",
+      "airstamp": "2022-07-27T12:00:00+00:00",
+      "runtime": 37,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1047337.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047337.jpg"
+      },
+      "summary": "<p>A broker representing a wealthy client shows interest in the yet-to-be-sold concept car combo. Later, Caveman pitches the crew on a project for a pal.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2367038"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2367039,
+      "url": "https://www.tvmaze.com/episodes/2367039/car-masters-rust-to-riches-4x06-riding-high-end",
+      "name": "Riding High End",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2022-07-27",
+      "airtime": "",
+      "airstamp": "2022-07-27T12:00:00+00:00",
+      "runtime": 37,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1047338.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047338.jpg"
+      },
+      "summary": "<p>The Gotham Garage crew sets out to turn a Lincoln Zephyr that`s seen better days into something truly special for a high-profile car show.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2367039"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2367040,
+      "url": "https://www.tvmaze.com/episodes/2367040/car-masters-rust-to-riches-4x07-go-big-rig-or-go-home",
+      "name": "Go Big Rig or Go Home",
+      "season": 4,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2022-07-27",
+      "airtime": "",
+      "airstamp": "2022-07-27T12:00:00+00:00",
+      "runtime": 38,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1047339.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047339.jpg"
+      },
+      "summary": "<p>While the crew cranks on the Zephyr, Shawn pitches Mark on a deal involving a 1957 Kenworth big rig, just like the one Mark`s dad used to drive.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2367040"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2367041,
+      "url": "https://www.tvmaze.com/episodes/2367041/car-masters-rust-to-riches-4x08-special-delivery",
+      "name": "Special Delivery",
+      "season": 4,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2022-07-27",
+      "airtime": "",
+      "airstamp": "2022-07-27T12:00:00+00:00",
+      "runtime": 39,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1047340.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047340.jpg"
+      },
+      "summary": "<p>Pumped at the opportunity to be on the cover of a Speedway catalog, Mark and company pull out all the stops to get the Zephyr ready for its closeup.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2367041"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2712008,
+      "url": "https://www.tvmaze.com/episodes/2712008/car-masters-rust-to-riches-5x01-upping-the-ante",
+      "name": "Upping the Ante",
+      "season": 5,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2023-12-13",
+      "airtime": "",
+      "airstamp": "2023-12-13T12:00:00+00:00",
+      "runtime": 42,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/492/1231842.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/492/1231842.jpg"
+      },
+      "summary": "<p>A tribute to the '69 Dodge Charger Daytona gives newbies Brian and Jake a chance to prove their skills. Shawn's plan could snare a Ferrari 458 Italia.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2712008"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2712231,
+      "url": "https://www.tvmaze.com/episodes/2712231/car-masters-rust-to-riches-5x02-hit-the-gas",
+      "name": "Hit the Gas",
+      "season": 5,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2023-12-13",
+      "airtime": "",
+      "airstamp": "2023-12-13T12:00:00+00:00",
+      "runtime": 41,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/492/1231843.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/492/1231843.jpg"
+      },
+      "summary": "<p>The garage shifts into overdrive when a client wants a practically unheard-of modification to a Tesla. The transformed Dodge hits the track.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2712231"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2712232,
+      "url": "https://www.tvmaze.com/episodes/2712232/car-masters-rust-to-riches-5x03-captain-man-cave",
+      "name": "Captain Man-Cave",
+      "season": 5,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2023-12-13",
+      "airtime": "",
+      "airstamp": "2023-12-13T12:00:00+00:00",
+      "runtime": 37,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/492/1231844.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/492/1231844.jpg"
+      },
+      "summary": "<p>In a jam, Shawn needs to find a buyer for an unusual hot rod. Gotham Garage takes on a venture that could lead to lucrative business in the future.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2712232"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2712233,
+      "url": "https://www.tvmaze.com/episodes/2712233/car-masters-rust-to-riches-5x04-franken-tank",
+      "name": "Franken-Tank",
+      "season": 5,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2023-12-13",
+      "airtime": "",
+      "airstamp": "2023-12-13T12:00:00+00:00",
+      "runtime": 43,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/492/1231845.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/492/1231845.jpg"
+      },
+      "summary": "<p>Crew members air concerns about the garage's direction. A Harley Dyna gets a sleek, sinister look. Mark puzzles over a request for a novelty vehicle.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2712233"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2712234,
+      "url": "https://www.tvmaze.com/episodes/2712234/car-masters-rust-to-riches-5x05-upgrade-and-paid",
+      "name": "Upgrade and Paid?",
+      "season": 5,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2023-12-13",
+      "airtime": "",
+      "airstamp": "2023-12-13T12:00:00+00:00",
+      "runtime": 41,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/492/1231846.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/492/1231846.jpg"
+      },
+      "summary": "<p>Tony has $10K to make over a dual-cab bricknose truck. The rat rod takes shape. Mark and Shawn look at a Ferrari 360 Spider — which comes with baggage.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2712234"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2712235,
+      "url": "https://www.tvmaze.com/episodes/2712235/car-masters-rust-to-riches-5x06-abandon-ship",
+      "name": "Abandon Ship",
+      "season": 5,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2023-12-13",
+      "airtime": "",
+      "airstamp": "2023-12-13T12:00:00+00:00",
+      "runtime": 38,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/492/1231847.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/492/1231847.jpg"
+      },
+      "summary": "<p>While waiting on the Ferrari news, the team turns an old pontoon boat into a floating party bus. A '69 Chevelle gets a 21st-century update.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2712235"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2712236,
+      "url": "https://www.tvmaze.com/episodes/2712236/car-masters-rust-to-riches-5x07-divine-design",
+      "name": "Divine Design",
+      "season": 5,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2023-12-13",
+      "airtime": "",
+      "airstamp": "2023-12-13T12:00:00+00:00",
+      "runtime": 31,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/492/1231848.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/492/1231848.jpg"
+      },
+      "summary": "<p>Mark takes a huge risk and the shop needs cash — fast. A customer returns to check out a revamped American classic with a $60K price tag.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2712236"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 2712237,
+      "url": "https://www.tvmaze.com/episodes/2712237/car-masters-rust-to-riches-5x08-going-for-broke",
+      "name": "Going For Broke",
+      "season": 5,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2023-12-13",
+      "airtime": "",
+      "airstamp": "2023-12-13T12:00:00+00:00",
+      "runtime": 41,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/492/1231849.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/492/1231849.jpg"
+      },
+      "summary": "<p>Gotham makes bold modifications to the Ferrari while respecting its pedigree — a gamble that could make or break the shop. The car debuts at a party.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2712237"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 3013708,
+      "url": "https://www.tvmaze.com/episodes/3013708/car-masters-rust-to-riches-6x01-doubling-down",
+      "name": "Doubling Down",
+      "season": 6,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2024-10-23",
+      "airtime": "",
+      "airstamp": "2024-10-23T12:00:00+00:00",
+      "runtime": 41,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/540/1351170.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/540/1351170.jpg"
+      },
+      "summary": "<p>The garage snags two Ferraris at a steal, but client expectations strain creativity. Mark rolls the dice on a '32 Ford Roadster build for a casino.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3013708"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 3019719,
+      "url": "https://www.tvmaze.com/episodes/3019719/car-masters-rust-to-riches-6x02-the-future-is-now",
+      "name": "The Future is Now",
+      "season": 6,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2024-10-23",
+      "airtime": "",
+      "airstamp": "2024-10-23T12:00:00+00:00",
+      "runtime": 37,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/540/1351171.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/540/1351171.jpg"
+      },
+      "summary": "<p>A custom McLaren build puts Nick in a tough spot as Mark continues to fight for creative freedom. The team takes an iconic car back to the future — again.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3019719"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 3019720,
+      "url": "https://www.tvmaze.com/episodes/3019720/car-masters-rust-to-riches-6x03-hot-air",
+      "name": "Hot Air",
+      "season": 6,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2024-10-23",
+      "airtime": "",
+      "airstamp": "2024-10-23T12:00:00+00:00",
+      "runtime": 38,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/540/1351172.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/540/1351172.jpg"
+      },
+      "summary": "<p>After a major announcement, the crew dives into an airborne passion project. Caveman brings in a project for his demolition derby pal, Dangerous Dan.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3019720"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 3019721,
+      "url": "https://www.tvmaze.com/episodes/3019721/car-masters-rust-to-riches-6x04-a-bit-of-a-stretch",
+      "name": "A Bit of a Stretch",
+      "season": 6,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2024-10-23",
+      "airtime": "",
+      "airstamp": "2024-10-23T12:00:00+00:00",
+      "runtime": 41,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/540/1351173.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/540/1351173.jpg"
+      },
+      "summary": "<p>A whiskey maker's urgent request comes with a big payoff. Mark and Shawn spot a '70 Camaro SS at Dangerous Dan's salvage yard and try to strike a deal.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3019721"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 3019722,
+      "url": "https://www.tvmaze.com/episodes/3019722/car-masters-rust-to-riches-6x05-muscle-memory",
+      "name": "Muscle Memory",
+      "season": 6,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2024-10-23",
+      "airtime": "",
+      "airstamp": "2024-10-23T12:00:00+00:00",
+      "runtime": 40,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/540/1351174.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/540/1351174.jpg"
+      },
+      "summary": "<p>When an upgrade-and-trade deal threatens to go sideways, Shawn and Constance team up to negotiate a 454 big-block swap. Mark ponders the garage's future.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3019722"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 3019723,
+      "url": "https://www.tvmaze.com/episodes/3019723/car-masters-rust-to-riches-6x06-a-green-new-deal",
+      "name": "A Green New Deal",
+      "season": 6,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2024-10-23",
+      "airtime": "",
+      "airstamp": "2024-10-23T12:00:00+00:00",
+      "runtime": 35,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/540/1351175.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/540/1351175.jpg"
+      },
+      "summary": "<p>Tony builds a biodiesel conversion system for an eco-friendly Humvee. Mark revisits a project inspired by childhood memories of his father.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3019723"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 3019724,
+      "url": "https://www.tvmaze.com/episodes/3019724/car-masters-rust-to-riches-6x07-the-salvage-card",
+      "name": "The Salvage Card",
+      "season": 6,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2024-10-23",
+      "airtime": "",
+      "airstamp": "2024-10-23T12:00:00+00:00",
+      "runtime": 34,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/540/1351176.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/540/1351176.jpg"
+      },
+      "summary": "<p>The garage works overtime to satisfy a client and save a Jaguar XK-E trade. A deal for a '78 Ferrari 308 causes friction in the workplace.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3019724"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    },
+    {
+      "id": 3019725,
+      "url": "https://www.tvmaze.com/episodes/3019725/car-masters-rust-to-riches-6x08-tomorrows-throwback",
+      "name": "Tomorrow's Throwback",
+      "season": 6,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2024-10-23",
+      "airtime": "",
+      "airstamp": "2024-10-23T12:00:00+00:00",
+      "runtime": 34,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/540/1351177.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/540/1351177.jpg"
+      },
+      "summary": "<p>Mark shares his vision for the shop's future as the crew begins a \"Magnum P.I.\"-inspired build. Later, Shawn tries to secure two legendary Hollywood cars.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/3019725"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38903",
+          "name": "Car Masters: Rust to Riches"
+        }
+      }
+    }
+  ]
+}

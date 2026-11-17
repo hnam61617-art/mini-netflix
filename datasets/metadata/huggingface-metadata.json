@@ -1,0 +1,43 @@
+{
+  "_id": "62fdac524723285c5e17c409",
+  "id": "hugginglearners/netflix-shows",
+  "author": "hugginglearners",
+  "sha": "490115d20b1b9890f39be50fdc9403c04b3171ea",
+  "lastModified": "2022-08-18T03:04:55.000Z",
+  "private": false,
+  "gated": false,
+  "disabled": false,
+  "tags": [
+    "license:cc0-1.0",
+    "size_categories:1K<n<10K",
+    "format:csv",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for Dataset: NetFlix Shows\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nThe raw data is Web Scrapped through Selenium. It contains Unlabelled text data of around 9000 Netflix Shows and Movies along with Full details like Cast, Release Year, Rating, Description, etc.\n\n\t\n\t\t\n\t\n\t\n\t\tSupported Tasks and Leaderboards\n\t\n\n[More Information Needed]\n\n\t\n\t\t\n\t\n\t\n\t\tLanguages\n\t\n\n[More Information Needed]\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tData Instances\n\t\n\n[More Information Needed]\u2026 See the full description on the dataset page: https://huggingface.co/datasets/hugginglearners/netflix-shows.",
+  "downloads": 998,
+  "likes": 18,
+  "cardData": {
+    "license": [
+      "cc0-1.0"
+    ],
+    "kaggle_id": "infamouscoder/dataset-netflix-shows"
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "README.md"
+    },
+    {
+      "rfilename": "netflix_titles.csv"
+    }
+  ],
+  "createdAt": "2022-08-18T03:04:50.000Z",
+  "usedStorage": 48334911
+}

@@ -1,0 +1,354 @@
+{
+  "netflix_show_id": "s4633",
+  "netflix_title": "The Good Cop",
+  "search_url": "https://api.tvmaze.com/search/shows?q=The%20Good%20Cop",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 29500,
+    "url": "https://www.tvmaze.com/shows/29500/the-good-cop",
+    "name": "The Good Cop",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 46,
+    "premiered": "2018-09-21",
+    "ended": "2018-09-21",
+    "officialSite": "https://www.netflix.com/title/80157073",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 6.4
+    },
+    "weight": 93,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 348800,
+      "imdb": "tt7183074"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/165/414884.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/165/414884.jpg"
+    },
+    "summary": "<p>In <b>The Good Cop</b>, Tony Sr., a disgraced, former NYPD officer who never followed the rules. He lives with his son, Tony Jr., an earnest, obsessively honest NYPD detective who makes a point of always following the rules. This \"odd couple\" become unofficial partners as Tony Sr. offers his overly-cautious son blunt, street-wise advice on everything from handling suspects to handling women.</p>",
+    "updated": 1756341429,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/29500"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1533899",
+        "name": "Who Cut Mrs. Ackroyd in Half?"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/29500/episodes",
+  "episodes": [
+    {
+      "id": 1478427,
+      "url": "https://www.tvmaze.com/episodes/1478427/the-good-cop-1x01-who-framed-the-good-cop",
+      "name": "Who Framed the Good Cop?",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2018-09-21",
+      "airtime": "",
+      "airstamp": "2018-09-21T12:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 5.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/420860.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420860.jpg"
+      },
+      "summary": "<p>A man is found murdered in the park, and only two people in the world could have done it: TJ or his father.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1478427"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/29500",
+          "name": "The Good Cop"
+        }
+      }
+    },
+    {
+      "id": 1533891,
+      "url": "https://www.tvmaze.com/episodes/1533891/the-good-cop-1x02-what-is-the-supermodels-secret",
+      "name": "What Is the Supermodel's Secret?",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2018-09-21",
+      "airtime": "",
+      "airstamp": "2018-09-21T12:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 5.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/420861.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420861.jpg"
+      },
+      "summary": "<p>A stunning supermodel is infatuated with Big Tony -- much to TJ's befuddlement. Meanwhile, a killer in disguise has the police hopping for clues.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533891"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/29500",
+          "name": "The Good Cop"
+        }
+      }
+    },
+    {
+      "id": 1533892,
+      "url": "https://www.tvmaze.com/episodes/1533892/the-good-cop-1x03-who-is-the-ugly-german-lady",
+      "name": "Who Is the Ugly German Lady?",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2018-09-21",
+      "airtime": "",
+      "airstamp": "2018-09-21T12:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 5.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/420862.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420862.jpg"
+      },
+      "summary": "<p>After escaping from prison, Big Tony's old buddy moves in -- disguised as a woman. Meanwhile, TJ suspects the escapee of murder.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533892"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/29500",
+          "name": "The Good Cop"
+        }
+      }
+    },
+    {
+      "id": 1533893,
+      "url": "https://www.tvmaze.com/episodes/1533893/the-good-cop-1x04-will-the-good-cop-bowl-300",
+      "name": "Will the Good Cop Bowl 300?",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2018-09-21",
+      "airtime": "",
+      "airstamp": "2018-09-21T12:00:00+00:00",
+      "runtime": 48,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/420863.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420863.jpg"
+      },
+      "summary": "<p>A cold-blooded murder is always shocking -- but not nearly as shocking as TJ's sudden and inexplicable rise to bowling league glory.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533893"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/29500",
+          "name": "The Good Cop"
+        }
+      }
+    },
+    {
+      "id": 1533894,
+      "url": "https://www.tvmaze.com/episodes/1533894/the-good-cop-1x05-will-big-tony-roll-over",
+      "name": "Will Big Tony Roll Over?",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2018-09-21",
+      "airtime": "",
+      "airstamp": "2018-09-21T12:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 6.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/420864.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420864.jpg"
+      },
+      "summary": "<p>Big Tony volunteers to testify at a high-profile trial in order to stay at a swanky hotel with his special lady, all on the government's dime.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533894"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/29500",
+          "name": "The Good Cop"
+        }
+      }
+    },
+    {
+      "id": 1533895,
+      "url": "https://www.tvmaze.com/episodes/1533895/the-good-cop-1x06-did-the-tv-star-do-it",
+      "name": "Did the TV Star Do It?",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2018-09-21",
+      "airtime": "",
+      "airstamp": "2018-09-21T12:00:00+00:00",
+      "runtime": 44,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/420865.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420865.jpg"
+      },
+      "summary": "<p>When a major TV star's assistant is found murdered, the two Tonys disagree about whether her celebrity employer has something to hide.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533895"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/29500",
+          "name": "The Good Cop"
+        }
+      }
+    },
+    {
+      "id": 1533896,
+      "url": "https://www.tvmaze.com/episodes/1533896/the-good-cop-1x07-who-killed-the-guy-on-the-ski-lift",
+      "name": "Who Killed the Guy on the Ski Lift?",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2018-09-21",
+      "airtime": "",
+      "airstamp": "2018-09-21T12:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 6.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/420866.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420866.jpg"
+      },
+      "summary": "<p>After a cop is stabbed on a ski lift, TJ risks the ire of his fellow police officers -- and his dad -- to prove the accused's innocence.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533896"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/29500",
+          "name": "The Good Cop"
+        }
+      }
+    },
+    {
+      "id": 1533897,
+      "url": "https://www.tvmaze.com/episodes/1533897/the-good-cop-1x08-will-cora-get-married",
+      "name": "Will Cora Get Married?",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2018-09-21",
+      "airtime": "",
+      "airstamp": "2018-09-21T12:00:00+00:00",
+      "runtime": 48,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/420867.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420867.jpg"
+      },
+      "summary": "<p>Cora falls head over heels for a handsome stranger, but TJ isn't too keen on their budding romance. Big Tony finally identifies Connie's killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533897"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/29500",
+          "name": "The Good Cop"
+        }
+      }
+    },
+    {
+      "id": 1533898,
+      "url": "https://www.tvmaze.com/episodes/1533898/the-good-cop-1x09-why-kill-a-busboy",
+      "name": "Why Kill a Busboy?",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2018-09-21",
+      "airtime": "",
+      "airstamp": "2018-09-21T12:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 6.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/420868.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420868.jpg"
+      },
+      "summary": "<p>Against his better judgment, TJ helps his dad open a restaurant. Cora investigates two shooting victims with a surprising connection.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533898"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/29500",
+          "name": "The Good Cop"
+        }
+      }
+    },
+    {
+      "id": 1533899,
+      "url": "https://www.tvmaze.com/episodes/1533899/the-good-cop-1x10-who-cut-mrs-ackroyd-in-half",
+      "name": "Who Cut Mrs. Ackroyd in Half?",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2018-09-21",
+      "airtime": "",
+      "airstamp": "2018-09-21T12:00:00+00:00",
+      "runtime": 49,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/168/420869.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420869.jpg"
+      },
+      "summary": "<p>TJ and Cora get a nightmare of an undercover assignment: pose as husband and wife. Meanwhile, Big Tony closes in on Connie's killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533899"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/29500",
+          "name": "The Good Cop"
+        }
+      }
+    }
+  ]
+}

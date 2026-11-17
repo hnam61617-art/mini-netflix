@@ -1,0 +1,2681 @@
+{
+  "netflix_show_id": "s2391",
+  "netflix_title": "How to Get Away with Murder",
+  "search_url": "https://api.tvmaze.com/search/shows?q=How%20to%20Get%20Away%20with%20Murder",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 52,
+    "url": "https://www.tvmaze.com/shows/52/how-to-get-away-with-murder",
+    "name": "How to Get Away with Murder",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Legal"
+    ],
+    "status": "Ended",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2014-09-25",
+    "ended": "2020-05-14",
+    "officialSite": "http://abc.go.com/shows/how-to-get-away-with-murder",
+    "schedule": {
+      "time": "22:00",
+      "days": [
+        "Thursday"
+      ]
+    },
+    "rating": {
+      "average": 7.6
+    },
+    "weight": 99,
+    "network": {
+      "id": 3,
+      "name": "ABC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": "https://abc.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 37307,
+      "thetvdb": 281620,
+      "imdb": "tt3205802"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/212/531512.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/212/531512.jpg"
+    },
+    "summary": "<p>The brilliant, charismatic and seductive Professor Annalise Keating gets entangled with four law students from her class, <b>How to Get Away with Murder</b>. Little do they know that they will have to apply what they learned to real life, in this masterful, sexy, suspense-driven legal thriller.</p>",
+    "updated": 1786545365,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/52"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1816623",
+        "name": "Stay"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/52/episodes",
+  "episodes": [
+    {
+      "id": 2056,
+      "url": "https://www.tvmaze.com/episodes/2056/how-to-get-away-with-murder-1x01-pilot",
+      "name": "Pilot",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2014-09-25",
+      "airtime": "22:00",
+      "airstamp": "2014-09-26T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379476.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379476.jpg"
+      },
+      "summary": "<p>Annalise Keating is a tough as nails Criminal Law Professor and when Wes Gibbins starts his first day at Middleton University, he has no clue what he's walking into. In her class, \"How to Get Away with Murder,\" Annalise challenges her students to solve some of the most difficult criminal cases that her law firm takes on, and in the end, she selects a group of the smartest, most promising students to come work for her. The competition is on and the students will stop at nothing to make sure they get to the head of her class. While Annalise seems to have it all together, we soon learn that her clients' secrets aren't the only ones she's keeping. Meanwhile, in flash-forwards, we learn that the price of impressing Annalise might just be too much for some, when a group of four students, Wes, Connor Walsh, Michaela Pratt and Laurel Castillo get involved in their own murder mystery cover up.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2056"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 2057,
+      "url": "https://www.tvmaze.com/episodes/2057/how-to-get-away-with-murder-1x02-its-all-her-fault",
+      "name": "It's All Her Fault",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2014-10-02",
+      "airtime": "22:00",
+      "airstamp": "2014-10-03T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379477.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379477.jpg"
+      },
+      "summary": "<p>Annalise takes on a new client, Max St. Vincent, an eccentric millionaire who is the key suspect in his wife's brutal murder. All the clues point to St. Vincent as the killer, but Annalise challenges her students to prove he's innocent - whether that's the truth or not. Meanwhile, Annalise deals with issues in her own home when her growing suspicions that Sam is somehow involved in Lila's disappearance start to affect their marriage. In flash forwards, we go back to the night of the murder and learn that Wes might be hiding a few secrets of his own.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2057"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 2058,
+      "url": "https://www.tvmaze.com/episodes/2058/how-to-get-away-with-murder-1x03-smile-or-go-to-jail",
+      "name": "Smile, or Go to Jail",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2014-10-09",
+      "airtime": "22:00",
+      "airstamp": "2014-10-10T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379478.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379478.jpg"
+      },
+      "summary": "<p>Annalise helps Paula Murphy, a suburban soccer mom, get released from jail after she was arrested for a misdemeanor, but just as she's about to walk free, she's arrested again by the FBI in connection for felony murder. Annalise and her students are tasked with proving her innocence which will depend on the testimony from another suspect in the case. Meanwhile, the Middleton University president asks Annalise to represent Griffin O' Reilly, the star quarterback who has also been linked to Lila's disappearance but she's unable to make a decision until she knows that Sam wasn't involved in the case. In flash forwards, more clues are revealed and we discover someone else was also there besides the students during the night of the murder.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2058"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 2059,
+      "url": "https://www.tvmaze.com/episodes/2059/how-to-get-away-with-murder-1x04-lets-get-to-scooping",
+      "name": "Let's Get to Scooping",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2014-10-16",
+      "airtime": "22:00",
+      "airstamp": "2014-10-17T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379479.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379479.jpg"
+      },
+      "summary": "<p>Annalise and her students uncover a shocking truth while investigating the case of Marren Trudeau, founder and CEO of a major brokerage firm, who has recently been arrested for insider trading. Meanwhile, Wes discovers a cell phone hidden by Rebecca whose contents reveal an unsettling clue in the Lila Stangard murder case.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2059"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 7918,
+      "url": "https://www.tvmaze.com/episodes/7918/how-to-get-away-with-murder-1x05-were-not-friends",
+      "name": "We're Not Friends",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2014-10-23",
+      "airtime": "22:00",
+      "airstamp": "2014-10-24T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379480.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379480.jpg"
+      },
+      "summary": "<p>Annalise takes on a tough case defending a minor who fatally shoots his police officer father. Meanwhile, Annalise and Sam continue to argue over his relationship with Lila, and Wes and Rebecca begin to question Annalise's motives. In flash-forwards, we learn more about Laurel's relationship with Frank and why he was calling her the night of Sam's death.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/7918"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 14049,
+      "url": "https://www.tvmaze.com/episodes/14049/how-to-get-away-with-murder-1x06-freakin-whack-a-mole",
+      "name": "Freakin' Whack-a-Mole",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2014-10-30",
+      "airtime": "22:00",
+      "airstamp": "2014-10-31T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379481.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379481.jpg"
+      },
+      "summary": "<p>Case gets personal for Annalise and the team when their client is a man from the projects who was sentenced to death by Asher's father several years ago. Meanwhile, Wes is still angry at Annalise for hiding information about Lila's case, so Annalise must convince him to get back in line. In flash-forwards, we find out exactly where Asher was on the night of the murder.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/14049"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 14050,
+      "url": "https://www.tvmaze.com/episodes/14050/how-to-get-away-with-murder-1x07-he-deserved-to-die",
+      "name": "He Deserved to Die",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2014-11-06",
+      "airtime": "22:00",
+      "airstamp": "2014-11-07T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379482.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379482.jpg"
+      },
+      "summary": "<p>Annalise and the team are focused on Rebecca's case, but when the judge enforces a gag order, Rebecca takes things into her own hands. Meanwhile, Michaela is surprised by a pre-nup, sparks fly between Laurel and Frank, and in flash-forwards, we find out more about Wes and Rebecca's relationship.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/14050"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 39408,
+      "url": "https://www.tvmaze.com/episodes/39408/how-to-get-away-with-murder-1x08-he-has-a-wife",
+      "name": "He Has a Wife",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2014-11-13",
+      "airtime": "22:00",
+      "airstamp": "2014-11-14T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379483.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379483.jpg"
+      },
+      "summary": "<p>The team represents a mother who's on trial for killing her family's nanny while on heavy medication. Meanwhile, a shocking discovery is revealed in Lila's case that could change everything for Rebecca and Bonnie's loyalty to Annalise. In flashbacks, we learn more about Lila and Sam's relationship.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/39408"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 39409,
+      "url": "https://www.tvmaze.com/episodes/39409/how-to-get-away-with-murder-1x09-kill-me-kill-me-kill-me",
+      "name": "Kill Me, Kill Me, Kill Me",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2014-11-20",
+      "airtime": "22:00",
+      "airstamp": "2014-11-21T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379484.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379484.jpg"
+      },
+      "summary": "<p>It's the evening of the bonfire and we finally see what exactly happened on the night of Sam's death.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/39409"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 118521,
+      "url": "https://www.tvmaze.com/episodes/118521/how-to-get-away-with-murder-1x10-hello-raskolnikov",
+      "name": "Hello Raskolnikov",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2015-01-29",
+      "airtime": "22:00",
+      "airstamp": "2015-01-30T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379485.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379485.jpg"
+      },
+      "summary": "<p>It's the day after Sam's murder and the students are called in to help Annalise find her missing husband, but just how much does Annalise know? And when a surprise visitor shows up in town, getting away with this murder might not be as easy as the students had hoped.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/118521"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 118522,
+      "url": "https://www.tvmaze.com/episodes/118522/how-to-get-away-with-murder-1x11-best-christmas-ever",
+      "name": "Best Christmas Ever",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2015-02-05",
+      "airtime": "22:00",
+      "airstamp": "2015-02-06T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379486.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379486.jpg"
+      },
+      "summary": "<p>School is back in session after the holiday break and the entire university is talking about Annalise's missing husband. The Keating Five continue to be questioned by the police and we find out exactly how they've been dealing with the guilt of killing Sam. Meanwhile, Annalise tries to keep things business as usual by taking on a new client who is in the mob, but Hannah continues to pressure her for answers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/118522"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 123086,
+      "url": "https://www.tvmaze.com/episodes/123086/how-to-get-away-with-murder-1x12-shes-a-murderer",
+      "name": "She's a Murderer",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2015-02-12",
+      "airtime": "22:00",
+      "airstamp": "2015-02-13T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379487.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379487.jpg"
+      },
+      "summary": "<p>Shocking discovery in Sam's case changes everything for Annalise and the students.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/123086"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 123087,
+      "url": "https://www.tvmaze.com/episodes/123087/how-to-get-away-with-murder-1x13-mamas-here-now",
+      "name": "Mama's Here Now",
+      "season": 1,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2015-02-19",
+      "airtime": "22:00",
+      "airstamp": "2015-02-20T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379488.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379488.jpg"
+      },
+      "summary": "<p>Annalise is wracked with guilt and turns to an unlikely source for help. Meanwhile, Bonnie must step up and represent a new client accused of rape.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/123087"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 123088,
+      "url": "https://www.tvmaze.com/episodes/123088/how-to-get-away-with-murder-1x14-the-night-lila-died",
+      "name": "The Night Lila Died",
+      "season": 1,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2015-02-26",
+      "airtime": "21:00",
+      "airstamp": "2015-02-27T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379489.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379489.jpg"
+      },
+      "summary": "<p>Wes, Connor, Michaela and Laurel may have dug themselves in too deep a hole for Annalise to save them, and the shocking truth about Lila's murder is finally revealed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/123088"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 123089,
+      "url": "https://www.tvmaze.com/episodes/123089/how-to-get-away-with-murder-1x15-its-all-my-fault",
+      "name": "It's All My Fault",
+      "season": 1,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2015-02-26",
+      "airtime": "21:00",
+      "airstamp": "2015-02-27T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379490.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379490.jpg"
+      },
+      "summary": "<p>Wes, Connor, Michaela and Laurel may be in too much trouble for Annalise to rescue them. Also: The truth about Lila's murder is revealed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/123089"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 201211,
+      "url": "https://www.tvmaze.com/episodes/201211/how-to-get-away-with-murder-2x01-its-time-to-move-on",
+      "name": "It's Time to Move On",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2015-09-24",
+      "airtime": "22:00",
+      "airstamp": "2015-09-25T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379495.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379495.jpg"
+      },
+      "summary": "<p>Annalise and her students must move on with their lives as though nothing has happened, but the students are still reeling over Rebecca's disappearance. Only Annalise and Frank know that Rebecca was murdered and the two are determined to find out who killed her. Meanwhile, Annalise decides she wants to take on a new client, a brother and sister who are accused of killing their parents. And an old friend surprises Annalise at home and teaches her a valuable lesson.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/201211"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 231896,
+      "url": "https://www.tvmaze.com/episodes/231896/how-to-get-away-with-murder-2x02-shes-dying",
+      "name": "She's Dying",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2015-10-01",
+      "airtime": "22:00",
+      "airstamp": "2015-10-02T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379496.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379496.jpg"
+      },
+      "summary": "<p>Annalise and her team are blindsided when investigators try to pin a new charge on the wealthy siblings she's been hired to represent. Meanwhile, things for Annalise become even more difficult when she's brutally cross-examined on the witness stand during Nate's preliminary hearing.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/231896"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 250018,
+      "url": "https://www.tvmaze.com/episodes/250018/how-to-get-away-with-murder-2x03-its-called-the-octopus",
+      "name": "It's Called the Octopus",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2015-10-08",
+      "airtime": "22:00",
+      "airstamp": "2015-10-09T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379497.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379497.jpg"
+      },
+      "summary": "<p>A high-end sex club is investigated by the team when Annalise takes on a new client. Meanwhile, a new motive surfaces in the case against two wealthy siblings accused of killing their parents; and Wes finds an unexpected ally.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/250018"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 279825,
+      "url": "https://www.tvmaze.com/episodes/279825/how-to-get-away-with-murder-2x04-skanks-get-shanked",
+      "name": "Skanks Get Shanked",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2015-10-15",
+      "airtime": "22:00",
+      "airstamp": "2015-10-16T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379498.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379498.jpg"
+      },
+      "summary": "<p>When a teenager is found murdered in the woods, Annalise and her team is hired to represent an unlikely suspect named in the case. Meanwhile, Asher comes across a shocking confession, and Wes learns new information about Rebecca's disappearance.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/279825"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 279826,
+      "url": "https://www.tvmaze.com/episodes/279826/how-to-get-away-with-murder-2x05-meet-bonnie",
+      "name": "Meet Bonnie",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2015-10-22",
+      "airtime": "22:00",
+      "airstamp": "2015-10-23T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379499.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379499.jpg"
+      },
+      "summary": "<p>Asher has more questions than answers when it comes to working for Annalise. Meanwhile, Frank deals with a matter that hits close to home; and Wes has a dangerous confrontation during his quest to learn more about Rebecca's disappearance.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/279826"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 279827,
+      "url": "https://www.tvmaze.com/episodes/279827/how-to-get-away-with-murder-2x06-two-birds-one-millstone",
+      "name": "Two Birds, One Millstone",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2015-10-29",
+      "airtime": "22:00",
+      "airstamp": "2015-10-30T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379500.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379500.jpg"
+      },
+      "summary": "<p>Annalise takes on a new client, a transgender professor accused of killing her husband. Meanwhile, the Keating 5 are left to handle the Hapstall case and they discover a shocking new suspect.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/279827"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 379122,
+      "url": "https://www.tvmaze.com/episodes/379122/how-to-get-away-with-murder-2x07-i-want-you-to-die",
+      "name": "I Want You to Die",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2015-11-05",
+      "airtime": "22:00",
+      "airstamp": "2015-11-06T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379501.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379501.jpg"
+      },
+      "summary": "<p>Annalise and the team are hired to represent a client accused of badgering somebody to the point of suicide. Meanwhile, Eve returns to defend Nate after ADA Sinclair serves him for a possible new murder charge, and Bonnie learns about what happened at Trotter Lake.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/379122"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 401002,
+      "url": "https://www.tvmaze.com/episodes/401002/how-to-get-away-with-murder-2x08-hi-im-philip",
+      "name": "Hi, I'm Philip",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2015-11-12",
+      "airtime": "22:00",
+      "airstamp": "2015-11-13T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379502.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379502.jpg"
+      },
+      "summary": "<p>Philip makes a threatening move and ADA Sinclair may have figured out a way to take down Annalise. Meanwhile, Catherine and Caleb are forced to make a life changing decision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/401002"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 419774,
+      "url": "https://www.tvmaze.com/episodes/419774/how-to-get-away-with-murder-2x09-what-did-we-do",
+      "name": "What Did We Do?",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2015-11-19",
+      "airtime": "22:00",
+      "airstamp": "2015-11-20T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379503.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379503.jpg"
+      },
+      "summary": "<p>ADA Sinclair discovers a break in her favor in the Hapstall case, but her actions result in a deadly outcome as details are revealed about the night Annalise was shot, including the person responsible for pulling the trigger.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/419774"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 471068,
+      "url": "https://www.tvmaze.com/episodes/471068/how-to-get-away-with-murder-2x10-what-happened-to-you-annalise",
+      "name": "What Happened to You, Annalise?",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2016-02-11",
+      "airtime": "22:00",
+      "airstamp": "2016-02-12T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379504.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379504.jpg"
+      },
+      "summary": "<p>A few weeks have passed since Wes shot Annalise. Wes and The Keating 5 deal with the fallout from that night, as Annalise is faced with a complicated road to recovery.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/471068"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 509827,
+      "url": "https://www.tvmaze.com/episodes/509827/how-to-get-away-with-murder-2x11-she-hates-us",
+      "name": "She Hates Us",
+      "season": 2,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2016-02-18",
+      "airtime": "22:00",
+      "airstamp": "2016-02-19T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379505.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379505.jpg"
+      },
+      "summary": "<p>Tensions in the Keating household run high, as each student struggles in their own way trying to return to normalcy. In a flashback, we'll learn new details about Annalise's past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/509827"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 604756,
+      "url": "https://www.tvmaze.com/episodes/604756/how-to-get-away-with-murder-2x12-its-a-trap",
+      "name": "It's a Trap",
+      "season": 2,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2016-02-25",
+      "airtime": "22:00",
+      "airstamp": "2016-02-26T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379506.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379506.jpg"
+      },
+      "summary": "<p>With Philip still out there, Annalise tries to keep the team from panicking and get one step ahead of Philip's threats. Meanwhile, Wes and Laurel start putting the pieces of Wes' mothers death together, but some things just aren't adding up</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/604756"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 616245,
+      "url": "https://www.tvmaze.com/episodes/616245/how-to-get-away-with-murder-2x13-something-bad-happened",
+      "name": "Something Bad Happened",
+      "season": 2,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2016-03-03",
+      "airtime": "22:00",
+      "airstamp": "2016-03-04T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379507.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379507.jpg"
+      },
+      "summary": "<p>With Philip still out there, Annalise tries to keep the team from panicking and get one step ahead of Philip's threats. Meanwhile, Wes and Laurel start putting the pieces of Wes' mothers death together, but some things just aren't adding up on.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/616245"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 622467,
+      "url": "https://www.tvmaze.com/episodes/622467/how-to-get-away-with-murder-2x14-theres-my-baby",
+      "name": "There's My Baby",
+      "season": 2,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2016-03-10",
+      "airtime": "22:00",
+      "airstamp": "2016-03-11T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379508.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379508.jpg"
+      },
+      "summary": "<p>The Keating 5 are called into questioning by A.D.A Denver about the night Emily Sinclair was murdered. Meanwhile, Caleb goes missing as the manhunt for Philip intensifies. In flashback, Annalise's tactics in the Mahoney case leads to a devastating result.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/622467"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 622468,
+      "url": "https://www.tvmaze.com/episodes/622468/how-to-get-away-with-murder-2x15-anna-mae",
+      "name": "Anna Mae",
+      "season": 2,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2016-03-17",
+      "airtime": "22:00",
+      "airstamp": "2016-03-18T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379509.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379509.jpg"
+      },
+      "summary": "<p>With chaos surrounding Annalise, she just can't stand the pressure anymore and needs to escape. Meanwhile, Frank must come to terms with the things he has done while Wes continues to get closer to finding out about his past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/622468"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 809535,
+      "url": "https://www.tvmaze.com/episodes/809535/how-to-get-away-with-murder-3x01-were-good-people-now",
+      "name": "We're Good People Now",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2016-09-22",
+      "airtime": "22:00",
+      "airstamp": "2016-09-23T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379511.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379511.jpg"
+      },
+      "summary": "<p>With Wallace Mahoney's murder unsolved and Frank's whereabouts unknown, the \"Keating 5\" struggle to move on with their lives as they enter into their second year of law school. Meanwhile, Annalise's reputation at Middleton University is on the line, so she creates a criminal law clinic where the students will compete to try their own pro bono cases. Annalise also wrestles with a decision involving Frank that could change everything.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/809535"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 924337,
+      "url": "https://www.tvmaze.com/episodes/924337/how-to-get-away-with-murder-3x02-there-are-worse-things-than-murder",
+      "name": "There Are Worse Things Than Murder",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2016-09-29",
+      "airtime": "22:00",
+      "airstamp": "2016-09-30T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379512.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379512.jpg"
+      },
+      "summary": "<p>With her job on the line, Annalise fights back against the Middleton University Board. Meanwhile, secrets are exposed as the Keating 5 compete to take on the case of a battered woman accused of murdering her husband.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/924337"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 931752,
+      "url": "https://www.tvmaze.com/episodes/931752/how-to-get-away-with-murder-3x03-always-bet-black",
+      "name": "Always Bet Black",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2016-10-06",
+      "airtime": "22:00",
+      "airstamp": "2016-10-07T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379513.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379513.jpg"
+      },
+      "summary": "<p>Annalise presents her class with a high-profile murder case that pushes even the Keating 5's morals, while Laurel makes a shocking discovery through an unlikely source.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/931752"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 939361,
+      "url": "https://www.tvmaze.com/episodes/939361/how-to-get-away-with-murder-3x04-dont-tell-annalise",
+      "name": "Don't Tell Annalise",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2016-10-13",
+      "airtime": "22:00",
+      "airstamp": "2016-10-14T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379514.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379514.jpg"
+      },
+      "summary": "<p>The fate of a young client is jeopardized after the Philadelphia Bar Association disciplinary board discovers damaging information about Annalise. Meanwhile, Frank commits a shocking act that someone close to him must deal with.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/939361"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 945964,
+      "url": "https://www.tvmaze.com/episodes/945964/how-to-get-away-with-murder-3x05-its-about-frank",
+      "name": "It's About Frank",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2016-10-20",
+      "airtime": "22:00",
+      "airstamp": "2016-10-21T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379515.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379515.jpg"
+      },
+      "summary": "<p>The mystery behind the Annalise \"killer\" flyers takes a surprising twist. Meanwhile, Frank's troubled past is exposed and a shocking new discovery changes everything about the night of the fire.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/945964"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 952775,
+      "url": "https://www.tvmaze.com/episodes/952775/how-to-get-away-with-murder-3x06-is-someone-really-dead",
+      "name": "Is Someone Really Dead?",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2016-10-27",
+      "airtime": "22:00",
+      "airstamp": "2016-10-28T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379516.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379516.jpg"
+      },
+      "summary": "<p>Annalise and the Keating 5 are shaken by a revelation in the Wallace Mahoney murder; the team attempts to help a veteran facing assault charges.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/952775"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 962477,
+      "url": "https://www.tvmaze.com/episodes/962477/how-to-get-away-with-murder-3x07-call-it-mothers-intuition",
+      "name": "Call It Mother's Intuition",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2016-11-03",
+      "airtime": "22:00",
+      "airstamp": "2016-11-04T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379517.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379517.jpg"
+      },
+      "summary": "<p>Annalise and her students take on a case defending siblings who have been charged with conspiracy to commit murder against their mother. Meanwhile, Frank's actions lead to a painful consequence.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/962477"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 971903,
+      "url": "https://www.tvmaze.com/episodes/971903/how-to-get-away-with-murder-3x08-no-more-blood",
+      "name": "No More Blood",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2016-11-10",
+      "airtime": "22:00",
+      "airstamp": "2016-11-11T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379518.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379518.jpg"
+      },
+      "summary": "<p>Annalise and Bonnie turn to an unlikely source for help, bringing the tension among the Keating 5 to a head. Meanwhile, Annalise takes on a surprising client.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/971903"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 975398,
+      "url": "https://www.tvmaze.com/episodes/975398/how-to-get-away-with-murder-3x09-whos-dead",
+      "name": "Who's Dead?",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2016-11-17",
+      "airtime": "22:00",
+      "airstamp": "2016-11-18T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379519.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379519.jpg"
+      },
+      "summary": "<p>Annalise receives a tip about A.D.A. Atwood that leads to a heated confrontation with Nate. Meanwhile, the deadly events leading up to Annalise's house fire reveal who's under the sheet.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/975398"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 979355,
+      "url": "https://www.tvmaze.com/episodes/979355/how-to-get-away-with-murder-3x10-were-bad-people",
+      "name": "We're Bad People",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2017-01-26",
+      "airtime": "22:00",
+      "airstamp": "2017-01-27T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379520.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379520.jpg"
+      },
+      "summary": "<p>With Annalise in jail facing arson and first-degree murder charges, the D.A.'s office continues to build their case against her, and the police investigate what happened to Wes on the night of the house fire. Meanwhile, the Keating 4 try to cope with the devastating realization that one of their own is dead.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/979355"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1023456,
+      "url": "https://www.tvmaze.com/episodes/1023456/how-to-get-away-with-murder-3x11-not-everythings-about-annalise",
+      "name": "Not Everything's About Annalise",
+      "season": 3,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2017-02-02",
+      "airtime": "22:00",
+      "airstamp": "2017-02-03T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379521.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379521.jpg"
+      },
+      "summary": "<p>Annalise reaches her breaking point as she struggles to adapt to her new reality behind bars, but a surprise confession to Wes' murder could change everything. Meanwhile, the K4 find their own freedom at risk as they discover the D.A.'s investigation is much bigger than they imagined.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1023456"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1047342,
+      "url": "https://www.tvmaze.com/episodes/1047342/how-to-get-away-with-murder-3x12-go-cry-somewhere-else",
+      "name": "Go Cry Somewhere Else",
+      "season": 3,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2017-02-09",
+      "airtime": "22:00",
+      "airstamp": "2017-02-10T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379522.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379522.jpg"
+      },
+      "summary": "<p>Tensions in the courtroom run high, as the prosecution seeks to bring forth a new charge against Annalise. Meanwhile, Nate uncovers a crucial piece of information that could threaten his own innocence, as detectives call Oliver in for questioning.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1047342"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1047343,
+      "url": "https://www.tvmaze.com/episodes/1047343/how-to-get-away-with-murder-3x13-its-war",
+      "name": "It's War",
+      "season": 3,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2017-02-16",
+      "airtime": "22:00",
+      "airstamp": "2017-02-17T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379523.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379523.jpg"
+      },
+      "summary": "<p>A powerless Annalise vows to get revenge on Denver and Atwood. Meanwhile, Wes' unsolved murder continues to weigh heavily on the Keating 4 and Oliver; and Nate makes a surprising discovery.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1047343"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1048223,
+      "url": "https://www.tvmaze.com/episodes/1048223/how-to-get-away-with-murder-3x14-he-made-a-terrible-mistake",
+      "name": "He Made a Terrible Mistake",
+      "season": 3,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2017-02-23",
+      "airtime": "21:01",
+      "airstamp": "2017-02-24T02:01:00+00:00",
+      "runtime": 59,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379524.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379524.jpg"
+      },
+      "summary": "<p>Annalise tries to ward off a surprising new angle in the D.A.'s case. Meanwhile, alliances shift amongst the Keating 4, as they discover crucial information about the circumstances surrounding Wes's death.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1048223"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1048224,
+      "url": "https://www.tvmaze.com/episodes/1048224/how-to-get-away-with-murder-3x15-wes",
+      "name": "Wes",
+      "season": 3,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2017-02-23",
+      "airtime": "22:00",
+      "airstamp": "2017-02-24T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379510.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379510.jpg"
+      },
+      "summary": "<p>Annalise and the Keating 4 test the limits of how far they'll go to save themselves while the chilling details from the night of the fire reveal who killed Wes.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1048224"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1258609,
+      "url": "https://www.tvmaze.com/episodes/1258609/how-to-get-away-with-murder-4x01-im-going-away",
+      "name": "I'm Going Away",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2017-09-28",
+      "airtime": "22:00",
+      "airstamp": "2017-09-29T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379525.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379525.jpg"
+      },
+      "summary": "<p>In the wake of Wes' tragic death, Annalise returns to her family home to pick up the pieces of her shattered life, and realizes that, in order to rebuild, she must make a tough and shocking decision. Meanwhile, \"the Keating 4\" all face an uncertain future while Laurel becomes obsessed with finding out what actually happened to Wes the night he died. In a flash-forward, a terrifying crime is committed and everyone is a suspect.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1258609"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1302986,
+      "url": "https://www.tvmaze.com/episodes/1302986/how-to-get-away-with-murder-4x02-im-not-her",
+      "name": "I'm Not Her",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2017-10-05",
+      "airtime": "22:00",
+      "airstamp": "2017-10-06T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379526.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379526.jpg"
+      },
+      "summary": "<p>While Annalise reconnects with an important client from her past, she continues to struggle to move forward in her personal life. Meanwhile, the \"Keating 4\" find it difficult to move past their tarnished reputations; and in a flash-forward, details to a tragic crime begin to unfold on.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1302986"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1315096,
+      "url": "https://www.tvmaze.com/episodes/1315096/how-to-get-away-with-murder-4x03-its-for-the-greater-good",
+      "name": "It's for the Greater Good",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2017-10-12",
+      "airtime": "22:00",
+      "airstamp": "2017-10-13T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379527.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379527.jpg"
+      },
+      "summary": "<p>Annalise takes on a case for the greater good and quickly realizes the stakes are much higher than she originally thought. Meanwhile, Laurel asks Michaela to help get information regarding Wes' death and Connor makes a major life decision that is not supported by the group. In a flash-forward, a surprising confrontation during the night of the crime is revealed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1315096"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1319086,
+      "url": "https://www.tvmaze.com/episodes/1319086/how-to-get-away-with-murder-4x04-was-she-ever-good-at-her-job",
+      "name": "Was She Ever Good at Her Job?",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2017-10-19",
+      "airtime": "22:00",
+      "airstamp": "2017-10-20T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379528.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379528.jpg"
+      },
+      "summary": "<p>Feeling like she's found her purpose again, Annalise focuses on developing her big case and Bonnie grows suspicious. Meanwhile, Connor gets a surprise visit from his dad, and Laurel turns to an old friend to relieve some stress.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1319086"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1326900,
+      "url": "https://www.tvmaze.com/episodes/1326900/how-to-get-away-with-murder-4x05-i-love-her",
+      "name": "I Love Her",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2017-10-26",
+      "airtime": "22:00",
+      "airstamp": "2017-10-27T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379529.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379529.jpg"
+      },
+      "summary": "<p>Bonnie's suspicions about Annalise's big case drive her to surprising lengths to get answers, while flashbacks reveal the genesis of the two women's long and complicated history; and the flash forward reveals the shocking whereabouts of one of the Keating 4</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1326900"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1332150,
+      "url": "https://www.tvmaze.com/episodes/1332150/how-to-get-away-with-murder-4x06-stay-strong-mama",
+      "name": "Stay Strong, Mama",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2017-11-02",
+      "airtime": "22:00",
+      "airstamp": "2017-11-03T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379530.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379530.jpg"
+      },
+      "summary": "<p>Annalise forges ahead with her class action lawsuit and receives help from a former colleague. Meanwhile, Laurel continues to investigate her father's company; Asher confronts Michaela about her odd behavior; and details about Isaac's past are revealed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1332150"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1339544,
+      "url": "https://www.tvmaze.com/episodes/1339544/how-to-get-away-with-murder-4x07-nobody-roots-for-goliath",
+      "name": "Nobody Roots for Goliath",
+      "season": 4,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2017-11-09",
+      "airtime": "22:00",
+      "airstamp": "2017-11-10T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379531.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379531.jpg"
+      },
+      "summary": "<p>When Annalise's resolve to certify her class action lawsuit is tested, a surprising ally comes to her aid. Meanwhile, Laurel and Michaela hit a roadblock after someone discovers their plans to take down Laurel's father.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1339544"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1343031,
+      "url": "https://www.tvmaze.com/episodes/1343031/how-to-get-away-with-murder-4x08-live-live-live",
+      "name": "Live. Live. Live.",
+      "season": 4,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2017-11-16",
+      "airtime": "22:00",
+      "airstamp": "2017-11-17T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379532.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379532.jpg"
+      },
+      "summary": "<p>Annalise is confronted with disturbing news involving one of Isaac's patients that puts her sobriety at risk. Meanwhile, the investigation into Wes' murder comes to a head, and the shocking details involving the whereabouts of Laurel's baby are revealed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1343031"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1356476,
+      "url": "https://www.tvmaze.com/episodes/1356476/how-to-get-away-with-murder-4x09-hes-dead",
+      "name": "He's Dead",
+      "season": 4,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2018-01-18",
+      "airtime": "22:00",
+      "airstamp": "2018-01-19T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379533.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379533.jpg"
+      },
+      "summary": "<p>As a police investigation gets underway after Simon's accidental shooting, the \"K4\" deal with a new set of obstacles. Meanwhile, a distraught Annalise finds herself in an unimaginable situation as Laurel and her baby struggle to cling to life.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1356476"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1384838,
+      "url": "https://www.tvmaze.com/episodes/1384838/how-to-get-away-with-murder-4x10-everything-we-did-was-for-nothing",
+      "name": "Everything We Did Was for Nothing",
+      "season": 4,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2018-01-25",
+      "airtime": "22:00",
+      "airstamp": "2018-01-26T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379534.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379534.jpg"
+      },
+      "summary": "<p>As Laurel struggles to come to terms with what happened on that tragic night, Annalise and Frank work together to do what they believe is best for the group. Meanwhile, details involving a past murder come to light as Annalise continues to build her class action.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1384838"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1387077,
+      "url": "https://www.tvmaze.com/episodes/1387077/how-to-get-away-with-murder-4x11-hes-a-bad-father",
+      "name": "He's a Bad Father",
+      "season": 4,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2018-02-01",
+      "airtime": "22:00",
+      "airstamp": "2018-02-02T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379535.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379535.jpg"
+      },
+      "summary": "<p>An important person in Laurel's life comes to town to help her as private details regarding her past are revealed. Meanwhile, Annalise encounters an obstacle involving a potential plaintiff for her class action.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1387077"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1387078,
+      "url": "https://www.tvmaze.com/episodes/1387078/how-to-get-away-with-murder-4x12-ask-him-about-stella",
+      "name": "Ask Him About Stella",
+      "season": 4,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2018-02-08",
+      "airtime": "22:00",
+      "airstamp": "2018-02-09T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379536.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379536.jpg"
+      },
+      "summary": "<p>Annalise deals with an unforeseen issue after damaging details about a key witness are exposed in her case to help Laurel. Meanwhile, the \"K4\" continue their efforts to help build a case for Annalise's class action lawsuit</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1387078"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1387079,
+      "url": "https://www.tvmaze.com/episodes/1387079/how-to-get-away-with-murder-4x13-lahey-v-commonwealth-of-pennsylvania",
+      "name": "Lahey v. Commonwealth of Pennsylvania",
+      "season": 4,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2018-03-01",
+      "airtime": "22:00",
+      "airstamp": "2018-03-02T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379537.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379537.jpg"
+      },
+      "summary": "<p>As Annalise's class-action case hangs in the balance, a meeting with the esteemed Washington D.C. fixer, Olivia Pope, proves to be crucial in getting the opportunity to argue her case in the nation's highest court. Meanwhile, Bonnie discovers concerning information pertaining to Simon that threatens to expose what really happened during night he was shot</p><p><i>Info : this episode is the crossover's second part. First part is <b>Scandal</b>, episode 7-12.</i></p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1387079"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1387080,
+      "url": "https://www.tvmaze.com/episodes/1387080/how-to-get-away-with-murder-4x14-the-day-before-he-died",
+      "name": "The Day Before He Died",
+      "season": 4,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2018-03-08",
+      "airtime": "22:00",
+      "airstamp": "2018-03-09T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379538.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379538.jpg"
+      },
+      "summary": "<p>Annalise helps the \"Keating 4\" concoct a plan to prepare for another round of questioning after detectives get a break involving Simon's case. Meanwhile, Laurel discovers new details about the night Wes was killed which lead to a surprising confrontation.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1387080"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1387081,
+      "url": "https://www.tvmaze.com/episodes/1387081/how-to-get-away-with-murder-4x15-nobody-else-is-dying",
+      "name": "Nobody Else Is Dying",
+      "season": 4,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2018-03-15",
+      "airtime": "22:00",
+      "airstamp": "2018-03-16T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379539.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379539.jpg"
+      },
+      "summary": "<p>Annalise and her inner circle deal with the aftermath of a suspicious death that culminates with a shocking arrest. Meanwhile, a new development involving one of their own changes everything.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1387081"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1498077,
+      "url": "https://www.tvmaze.com/episodes/1498077/how-to-get-away-with-murder-5x01-your-funeral",
+      "name": "Your Funeral",
+      "season": 5,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2018-09-27",
+      "airtime": "22:00",
+      "airstamp": "2018-09-28T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379540.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379540.jpg"
+      },
+      "summary": "<p>Annalise selects students for her new legal clinic at Middleton and juggles job offers from competing firms, all while the Keating 4 attempt to move on from last semester's turmoil. And in a startling flash-forward, a new mystery is introduced and it shakes things up for everyone.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1498077"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1529849,
+      "url": "https://www.tvmaze.com/episodes/1529849/how-to-get-away-with-murder-5x02-whose-blood-is-that",
+      "name": "Whose Blood Is That?",
+      "season": 5,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2018-10-04",
+      "airtime": "22:00",
+      "airstamp": "2018-10-05T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379541.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379541.jpg"
+      },
+      "summary": "<p>Annalise preps to defend her first class action plaintiff and adjusts to the politics of the new job. Meanwhile, Frank is suspicious of Gabriel and does some investigating of his own, and Asher complicates Bonnie's new life away from Annalise</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1529849"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1533962,
+      "url": "https://www.tvmaze.com/episodes/1533962/how-to-get-away-with-murder-5x03-the-baby-was-never-dead",
+      "name": "The Baby Was Never Dead",
+      "season": 5,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2018-10-11",
+      "airtime": "22:00",
+      "airstamp": "2018-10-12T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379542.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379542.jpg"
+      },
+      "summary": "<p>Annalise and Emmett defend a wealthy CEO accused of killing his business partner; the governor goes after Annalise; Bonnie struggles to accept her budding romance; Asher tries to outmanoeuvre his old mentor.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1533962"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1537484,
+      "url": "https://www.tvmaze.com/episodes/1537484/how-to-get-away-with-murder-5x04-its-her-kid",
+      "name": "It's Her Kid",
+      "season": 5,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2018-10-18",
+      "airtime": "22:00",
+      "airstamp": "2018-10-19T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379543.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379543.jpg"
+      },
+      "summary": "<p>Annalise and Nate look to get Nate's dad a psych evaluation so that they can have his murder case retried under an insanity plea. Meanwhile, Michaela works overtime to convince Tegan to give her a chance to earn her trust back, and Bonnie gets an offer she mulls over.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1537484"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1540248,
+      "url": "https://www.tvmaze.com/episodes/1540248/how-to-get-away-with-murder-5x05-it-was-the-worst-day-of-my-life",
+      "name": "It Was the Worst Day of My Life",
+      "season": 5,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2018-10-25",
+      "airtime": "22:00",
+      "airstamp": "2018-10-26T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379544.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379544.jpg"
+      },
+      "summary": "<p>Annalise and Gabriel work tirelessly to convince a jury to grant an insanity plea in Nate Sr.'s murder retrial; Bonnie struggles to rebound after a dark part of her past resurfaces.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1540248"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1544988,
+      "url": "https://www.tvmaze.com/episodes/1544988/how-to-get-away-with-murder-5x06-we-can-find-him",
+      "name": "We Can Find Him",
+      "season": 5,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2018-11-01",
+      "airtime": "22:00",
+      "airstamp": "2018-11-02T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379545.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379545.jpg"
+      },
+      "summary": "<p>Annalise receives a call from Governor Birkhead, and she's forced to weigh an interesting offer, while Bonnie reunites with her sister looking for answers from what happened years ago. Connor and Oliver try to keep their cool while their mothers are in town helping with wedding plans, and Tegan surprisingly enlists Laurel's help on a big case at the firm.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1544988"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1548384,
+      "url": "https://www.tvmaze.com/episodes/1548384/how-to-get-away-with-murder-5x07-i-got-played",
+      "name": "I Got Played",
+      "season": 5,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2018-11-08",
+      "airtime": "22:00",
+      "airstamp": "2018-11-09T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379546.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379546.jpg"
+      },
+      "summary": "<p>Connor and Oliver attempt to secure a church for their wedding to appease their moms. Meanwhile, Annalise and Nate continue their quest for justice in the face of endless obstacles and grave circumstances, and Annalise begins to doubt the governor's dedication to her cause, </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1548384"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1553243,
+      "url": "https://www.tvmaze.com/episodes/1553243/how-to-get-away-with-murder-5x08-i-want-to-love-you-until-the-day-i-die",
+      "name": "I Want to Love You Until the Day I Die",
+      "season": 5,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2018-11-15",
+      "airtime": "22:00",
+      "airstamp": "2018-11-16T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379547.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379547.jpg"
+      },
+      "summary": "<p>In the explosive winter finale, Connor and Oliver's big wedding day has arrived, but there's murder in the air; and the mystery of who the unlucky victim is will be revealed</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1553243"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1577692,
+      "url": "https://www.tvmaze.com/episodes/1577692/how-to-get-away-with-murder-5x09-he-betrayed-us-both",
+      "name": "He Betrayed Us Both",
+      "season": 5,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2019-01-17",
+      "airtime": "22:00",
+      "airstamp": "2019-01-18T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379548.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379548.jpg"
+      },
+      "summary": "<p>The crew must deal with the consequences of the murder on the wedding night; Annalise is forced to reckon with secrets from her past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1577692"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1580781,
+      "url": "https://www.tvmaze.com/episodes/1580781/how-to-get-away-with-murder-5x10-dont-go-dark-on-me",
+      "name": "Don't Go Dark on Me",
+      "season": 5,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2019-01-24",
+      "airtime": "22:00",
+      "airstamp": "2019-01-25T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379549.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379549.jpg"
+      },
+      "summary": "<p>As the investigation into Miller's murder intensifies, Bonnie and Nate formulate their alibis while Annalise devises a plan to ensure Gabriel never learns the truth about his father</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580781"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1580782,
+      "url": "https://www.tvmaze.com/episodes/1580782/how-to-get-away-with-murder-5x11-be-the-martyr",
+      "name": "Be the Martyr",
+      "season": 5,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2019-01-31",
+      "airtime": "22:00",
+      "airstamp": "2019-02-01T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379550.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379550.jpg"
+      },
+      "summary": "<p>Bonnie begins to doubt herself; Annalise turns the tables in the courtroom.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580782"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1580783,
+      "url": "https://www.tvmaze.com/episodes/1580783/how-to-get-away-with-murder-5x12-we-know-everything",
+      "name": "We Know Everything",
+      "season": 5,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2019-02-07",
+      "airtime": "22:00",
+      "airstamp": "2019-02-08T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379551.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379551.jpg"
+      },
+      "summary": "<p>Nate and Annalise both need to keep Gabriel close to ensure their secrets stay hidden.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580783"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1580784,
+      "url": "https://www.tvmaze.com/episodes/1580784/how-to-get-away-with-murder-5x13-where-are-your-parents",
+      "name": "Where Are Your Parents?",
+      "season": 5,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2019-02-14",
+      "airtime": "22:00",
+      "airstamp": "2019-02-15T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379552.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379552.jpg"
+      },
+      "summary": "<p> Annalise gathers everyone together for the holidays while she wrestles over a difficult decision about her future, and the investigation into Miller's murder starts to widen.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580784"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1580785,
+      "url": "https://www.tvmaze.com/episodes/1580785/how-to-get-away-with-murder-5x14-make-me-the-enemy",
+      "name": "Make Me the Enemy",
+      "season": 5,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2019-02-21",
+      "airtime": "22:00",
+      "airstamp": "2019-02-22T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379553.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379553.jpg"
+      },
+      "summary": "<p>Annalise is determined to get to the truth about Nate Sr.'s murder and will stop at nothing until she does.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580785"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1580786,
+      "url": "https://www.tvmaze.com/episodes/1580786/how-to-get-away-with-murder-5x15-please-say-no-one-else-is-dead",
+      "name": "Please Say No One Else Is Dead",
+      "season": 5,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2019-02-28",
+      "airtime": "22:00",
+      "airstamp": "2019-03-01T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379554.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379554.jpg"
+      },
+      "summary": "<p>Annalise and her team need to get to the truth before the truth gets them.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1580786"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1677395,
+      "url": "https://www.tvmaze.com/episodes/1677395/how-to-get-away-with-murder-6x01-say-goodbye",
+      "name": "Say Goodbye",
+      "season": 6,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2019-09-26",
+      "airtime": "22:00",
+      "airstamp": "2019-09-27T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379555.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379555.jpg"
+      },
+      "summary": "<p>Annalise struggles with the personal toll that Laurel and Christopher's disappearance has taken on everyone. Meanwhile, the remaining Keating 4, Oliver, Frank and Bonnie disagree on the possible reasons behind Laurel's disappearance. Tegan handles the aftermath of Emmett's apparent poisoning, and Gabriel wants to take his budding relationship with Michaela to the next Level.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1677395"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1691071,
+      "url": "https://www.tvmaze.com/episodes/1691071/how-to-get-away-with-murder-6x02-vivians-here",
+      "name": "Vivian's Here",
+      "season": 6,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2019-10-03",
+      "airtime": "22:00",
+      "airstamp": "2019-10-04T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379563.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379563.jpg"
+      },
+      "summary": "<p>As Michaela, Asher and Connor gear up for their last semester of law school, they take on a weighty case involving an illegal immigrant who wants asylum; Michaela boycotts going to class after a blowup with Annalise about her father.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1691071"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1691072,
+      "url": "https://www.tvmaze.com/episodes/1691072/how-to-get-away-with-murder-6x03-do-you-think-im-a-bad-man",
+      "name": "Do You Think I'm a Bad Man?",
+      "season": 6,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2019-10-10",
+      "airtime": "22:00",
+      "airstamp": "2019-10-11T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379564.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379564.jpg"
+      },
+      "summary": "<p>After Michaela's courtroom tactics do more harm than help, Annalise draws on memories of Sam to guide Michaela back to the winning path. Meanwhile, Connor bites off more than he can chew in his effort to reunite a family, forcing Tegan to call in a favor and fix his mess. Frank enlists Oliver's help to follow a lead on Laurel; and Gabriel learns new information about Michaela's birth father.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1691072"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1691073,
+      "url": "https://www.tvmaze.com/episodes/1691073/how-to-get-away-with-murder-6x04-i-hate-the-world",
+      "name": "I Hate the World",
+      "season": 6,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2019-10-17",
+      "airtime": "22:00",
+      "airstamp": "2019-10-18T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379565.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379565.jpg"
+      },
+      "summary": "<p>The FBI continues to interrogate Conner which leads him to panic under the pressure. Meanwhile, Annalise, Tegan and the students defend a woman accused of violating a disabled man's civil rights for developing a dating app that discriminates against him. Elsewhere, Bonnie helps Nate get more intel on Tegan while Michaela and Gabriel travel to New York to track down her father. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1691073"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1726646,
+      "url": "https://www.tvmaze.com/episodes/1726646/how-to-get-away-with-murder-6x05-were-all-gonna-die",
+      "name": "We're All Gonna Die",
+      "season": 6,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2019-10-24",
+      "airtime": "22:00",
+      "airstamp": "2019-10-25T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379566.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379566.jpg"
+      },
+      "summary": "<p>During therapy, a young Annalise is forced to acknowledge a very emotional and pivotal reality that makes her admit a hard truth. Meanwhile, a brutally beaten Frank returns home with a secret to share about Laurel's disappearance. Elsewhere in an attempt to get to know her father, Michaela accepts an offer to work alongside him but quickly learns that it's not all that it's cracked up to be.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1726646"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1731238,
+      "url": "https://www.tvmaze.com/episodes/1731238/how-to-get-away-with-murder-6x06-family-sucks",
+      "name": "Family Sucks",
+      "season": 6,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2019-10-31",
+      "airtime": "22:00",
+      "airstamp": "2019-11-01T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379567.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379567.jpg"
+      },
+      "summary": "<p>Annalise intervenes in Michaela's relationship with her father and asks for his help in return. Because Nate still doesn't trust Tegan, he attempts to get in good with someone who was once close to her. After Asher reunites and has an unpleasant conversation with his estranged mother, he shares a meaningful moment with Michaela. Elsewhere, Connor finally learns why he was originally picked for the Keating 5.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1731238"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1737526,
+      "url": "https://www.tvmaze.com/episodes/1737526/how-to-get-away-with-murder-6x07-im-the-murderer",
+      "name": "I'm the Murderer",
+      "season": 6,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2019-11-07",
+      "airtime": "22:00",
+      "airstamp": "2019-11-08T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379568.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379568.jpg"
+      },
+      "summary": "<p>Gabriel is first chair on a case defending a teacher involved in a school shooting, and this case hits particularly close to home for both Gabriel and Annalise. Elsewhere, Annalise attempts to discourage Tegan from her new quest to right a wrong, all while Oliver makes a shocking confession.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1737526"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1744390,
+      "url": "https://www.tvmaze.com/episodes/1744390/how-to-get-away-with-murder-6x08-i-want-to-be-free",
+      "name": "I Want To Be Free",
+      "season": 6,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2019-11-14",
+      "airtime": "22:00",
+      "airstamp": "2019-11-15T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379569.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379569.jpg"
+      },
+      "summary": "<p>Bonnie's world is turned upside down when a mysterious accident leads her to a hard realization; the students compete for a large cash bonus during the final exam, where they must come up with the best defense for a conspiracy-to-murder charge.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1744390"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1749375,
+      "url": "https://www.tvmaze.com/episodes/1749375/how-to-get-away-with-murder-6x09-are-you-the-mole",
+      "name": "Are You the Mole?",
+      "season": 6,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2019-11-21",
+      "airtime": "22:00",
+      "airstamp": "2019-11-22T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379570.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379570.jpg"
+      },
+      "summary": "<p>On the eve of graduation, Oliver gifts Connor, Michaela and Asher something unexpected. At the dean's cocktail party, Annalise learns disturbing news. Later, Michaela receives a surprise phone call, and the FBI informant is finally revealed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1749375"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1760272,
+      "url": "https://www.tvmaze.com/episodes/1760272/how-to-get-away-with-murder-6x10-were-not-getting-away-with-it",
+      "name": "We're Not Getting Away with It",
+      "season": 6,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2020-04-02",
+      "airtime": "22:00",
+      "airstamp": "2020-04-03T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379571.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379571.jpg"
+      },
+      "summary": "<p>Annalise's disappearance is uncovered, and the fallout affects everyone. Following Asher's death, Michaela and Connor are booked on murder charges and forced to make the most difficult decision of their lives. Bonnie reveals a secret about Tegan, and Gabriel becomes a potential murder suspects. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1760272"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1816619,
+      "url": "https://www.tvmaze.com/episodes/1816619/how-to-get-away-with-murder-6x11-the-reckoning",
+      "name": "The Reckoning",
+      "season": 6,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2020-04-09",
+      "airtime": "22:00",
+      "airstamp": "2020-04-10T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379572.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379572.jpg"
+      },
+      "summary": "<p>Annalise's disappearance leads to panic and paranoia as Michaela and Connor consider taking a deal in their cases. All the while anxious, everyone mourns Asher's death as Gabriel holds on to key details about his hug.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1816619"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1816620,
+      "url": "https://www.tvmaze.com/episodes/1816620/how-to-get-away-with-murder-6x12-lets-hurt-him",
+      "name": "Let's Hurt Him",
+      "season": 6,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2020-04-16",
+      "airtime": "22:00",
+      "airstamp": "2020-04-17T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379573.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379573.jpg"
+      },
+      "summary": "<p>Annalise is forced to fight for her life while Gabriel approaches Michaela, Connor and Oliver with a theory about Sam's murder. Frank and Bonnie have a heart-to-heart.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1816620"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1816621,
+      "url": "https://www.tvmaze.com/episodes/1816621/how-to-get-away-with-murder-6x13-what-if-sam-wasnt-the-bad-guy-this-whole-time",
+      "name": "What If Sam Wasn't the Bad Guy This Whole Time?",
+      "season": 6,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2020-04-30",
+      "airtime": "22:00",
+      "airstamp": "2020-05-01T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379574.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379574.jpg"
+      },
+      "summary": "<p>Annalise learns unexpected and shocking details about Sam's past. Meanwhile, Connor and Michaela feel the pressure when the FBI learns there is new evidence in the case; and Frank and Bonnie's history is explored, revealing what originally fractured their relationship.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1816621"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1816622,
+      "url": "https://www.tvmaze.com/episodes/1816622/how-to-get-away-with-murder-6x14-annalise-keating-is-dead",
+      "name": "Annalise Keating is Dead",
+      "season": 6,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2020-05-07",
+      "airtime": "22:00",
+      "airstamp": "2020-05-08T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379575.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379575.jpg"
+      },
+      "summary": "<p>Annalise's murder trial has arrived, but Tegan's history complicates her role as counsel. Whilst Nate visits Jorge Castillo in prison with a proposition, news breaks about Xavier. Bonnie works to help Annalise use Hannah Keating's past as blackmail.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1816622"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    },
+    {
+      "id": 1816623,
+      "url": "https://www.tvmaze.com/episodes/1816623/how-to-get-away-with-murder-6x15-stay",
+      "name": "Stay",
+      "season": 6,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2020-05-14",
+      "airtime": "22:00",
+      "airstamp": "2020-05-15T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379576.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379576.jpg"
+      },
+      "summary": "<p>Annalise discovers there's a surprise witness who threatens her case; Connor tries to persuade the K3 to go along with a new plan; a lie between Frank and Bonnie threatens their relationship as the killer is finally revealed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1816623"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/52",
+          "name": "How to Get Away with Murder"
+        }
+      }
+    }
+  ]
+}

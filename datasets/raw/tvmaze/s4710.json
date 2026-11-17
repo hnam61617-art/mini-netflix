@@ -1,0 +1,2739 @@
+{
+  "netflix_show_id": "s4710",
+  "netflix_title": "The Originals",
+  "search_url": "https://api.tvmaze.com/search/shows?q=The%20Originals",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 62,
+    "url": "https://www.tvmaze.com/shows/62/the-originals",
+    "name": "The Originals",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "status": "Ended",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2013-10-03",
+    "ended": "2018-08-01",
+    "officialSite": "http://www.cwtv.com/shows/the-originals/",
+    "schedule": {
+      "time": "21:00",
+      "days": [
+        "Wednesday"
+      ]
+    },
+    "rating": {
+      "average": 8.2
+    },
+    "weight": 99,
+    "network": {
+      "id": 5,
+      "name": "The CW",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": "https://www.cwtv.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 34166,
+      "thetvdb": 266883,
+      "imdb": "tt2632424"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/271/678632.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/271/678632.jpg"
+    },
+    "summary": "<p><b>The Originals</b> is a spin-off show from the supernatural drama <i>The Vampire Diaries</i>. It is based in the city of New Orleans where the originals represent the original vampires. The show is primarily based around conflict between vampires, werewolves and witches in the city.</p>",
+    "updated": 1783364545,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/62"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1390043",
+        "name": "When the Saints Go Marching In"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/62/episodes",
+  "episodes": [
+    {
+      "id": 2570,
+      "url": "https://www.tvmaze.com/episodes/2570/the-originals-1x01-always-and-forever",
+      "name": "Always and Forever",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2013-10-03",
+      "airtime": "21:00",
+      "airstamp": "2013-10-04T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/175/439367.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439367.jpg"
+      },
+      "summary": "<p>Klaus Mikaelson, the original vampire-werewolf hybrid, has returned to the supernatural melting pot that is the French Quarter of New Orleans - the city his family helped build 300 years ago. Determined to help his brother, Elijah leaves their sister Rebekah behind and follows Klaus. Elijah learns that the beautiful and rebellious werewolf Hayley - Klaus' onetime flame - has fallen into the hands of a powerful witch named Sophie Deveraux. When Sophie reveals some life-changing news, Elijah realizes that the Original family may have been given a second chance at humanity and redemption. Klaus, however, is more intrigued by his recent unexpected reunion with his former protégé, Marcel, a charismatic but diabolical vampire who now has total control over the supernatural inhabitants of New Orleans. Klaus vows to reclaim what was once his - the power, the city and his family.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2570"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2571,
+      "url": "https://www.tvmaze.com/episodes/2571/the-originals-1x02-house-of-the-rising-son",
+      "name": "House of the Rising Son",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2013-10-08",
+      "airtime": "20:00",
+      "airstamp": "2013-10-09T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/175/439676.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439676.jpg"
+      },
+      "summary": "<p>When Rebekah arrives in New Orleans at her brother Elijah's insistence, she meets Hayley, who gives her some unexpected news. Concerned that her brother Klaus is up to no good, Rebekah seeks help from a reluctant Sophie At her wits' end, Hayley takes matters into her own hands, but things quickly take a dangerous turn. Determined to uncover Marcel's secret weapon, Klaus stays one step ahead and executes his plan. Meanwhile, after a run-in with Marcel, Rebekah is reminded of all the anger and disappointment Klaus has caused her throughout the years. Finally, Marcel enlists Davina's help in his own dangerous plan.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2571"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2572,
+      "url": "https://www.tvmaze.com/episodes/2572/the-originals-1x03-tangled-up-in-blue",
+      "name": "Tangled Up in Blue",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2013-10-15",
+      "airtime": "20:00",
+      "airstamp": "2013-10-16T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/175/439677.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439677.jpg"
+      },
+      "summary": "<p>After discovering interesting news about someone in Marcel's inner circle, Klaus and Rebekah come together to attempt to unravel Marcel's empire from within in spite of Elijah's concerns. They enlist help from Sophie, who is reluctant to get involved for fear of the wrath of Marcel's secret weapon, Davina. Rebekah sneakily invites an oblivious Cami to a huge vampire party thrown by Marcel, managing to anger Marcel in the process. Elsewhere, Hayley learns from the witch Sabine that the supernatural creatures of New Orleans are reacting to the potential existence of a hybrid baby.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2572"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2573,
+      "url": "https://www.tvmaze.com/episodes/2573/the-originals-1x04-girl-in-new-orleans",
+      "name": "Girl in New Orleans",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2013-10-22",
+      "airtime": "20:00",
+      "airstamp": "2013-10-23T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/175/439679.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439679.jpg"
+      },
+      "summary": "<p>With the annual Dauphine Street music festival around the corner, Davina, itching for a night out, convinces Marcel to let her attend. Marcel cautiously obliges but asks Cami to keep a watchful eye on Davina. Agnes convinces Hayley to visit a mysterious doctor in the bayou where she makes a shocking discovery. Meanwhile, Klaus takes a special interest in Cami, who reveals some alarming information about her past, and a determined Rebekah is on a mission to get to the bottom of a recent strange encounter involving Elijah Daniella Pineda also stars.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2573"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2574,
+      "url": "https://www.tvmaze.com/episodes/2574/the-originals-1x05-sinners-and-saints",
+      "name": "Sinners and Saints",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2013-10-29",
+      "airtime": "20:00",
+      "airstamp": "2013-10-30T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/175/439681.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439681.jpg"
+      },
+      "summary": "<p>Angered by recent events involving the safety of his unborn baby, Klaus demands answers from Sophie, believing she was involved. Sophie reveals to Klaus and Rebekah a troubling secret from her past. Meanwhile, Marcel asks Klaus to accompany him to the bayou after gruesome remains are discovered, while Rebekah, Sophie and Hayley set off on a mission of their own. Davina confides in an unexpected ally and reveals shocking information about the witches, ultimately leading to a disturbing revelation.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2574"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2575,
+      "url": "https://www.tvmaze.com/episodes/2575/the-originals-1x06-fruit-of-the-poisoned-tree",
+      "name": "Fruit of the Poisoned Tree",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2013-11-05",
+      "airtime": "20:00",
+      "airstamp": "2013-11-06T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/175/439913.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439913.jpg"
+      },
+      "summary": "<p>When Klaus discovers Hayley's life is being threatened, he goes to extreme lengths to protect her and their unborn baby. Having a difficult time dealing with the tragic events of her past, Cami turns to Father Kieran for guidance. Feeling as though he can trust no one, Marcel visits an old friend to seek out some advice, while Davina takes steps to learn how to control her magic. Finally, Klaus delivers some surprising news to Father Kieran.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2575"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2576,
+      "url": "https://www.tvmaze.com/episodes/2576/the-originals-1x07-bloodletting",
+      "name": "Bloodletting",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2013-11-12",
+      "airtime": "20:00",
+      "airstamp": "2013-11-13T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/175/439914.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439914.jpg"
+      },
+      "summary": "<p>When someone from Hayley's past makes a startling revelation, she grows concerned for herself and the baby. Amidst growing tensions between them, Klaus and Elijah turn to Sabine for help in locating Hayley, who has gone missing. After making a trip down to the bayou, Klaus has a surprising and dangerous encounter with an unexpected visitor. Meanwhile, Davina makes a surprising connection, and Marcel makes Rebekah an enticing offer that leaves her torn.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2576"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2577,
+      "url": "https://www.tvmaze.com/episodes/2577/the-originals-1x08-the-river-in-reverse",
+      "name": "The River in Reverse",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2013-11-26",
+      "airtime": "20:00",
+      "airstamp": "2013-11-27T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/440349.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/440349.jpg"
+      },
+      "summary": "<p>Rebekah, facing a difficult decision, turns to Father Kieran for guidance. Elijah struggles with the consequences of a recent fallout with Klaus. Hayley remains by his side but is soon drawn away by a mysterious figure who sheds some light on her past. Meanwhile, a frustrated Cami struggles to make sense of a cryptic message she's come across. Finally, when an unsuspecting Marcel uncovers some upsetting information involving Klaus, a confrontation ends in a surprising twist.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2577"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2578,
+      "url": "https://www.tvmaze.com/episodes/2578/the-originals-1x09-reigning-pain-in-new-orleans",
+      "name": "Reigning Pain in New Orleans",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2013-12-03",
+      "airtime": "20:00",
+      "airstamp": "2013-12-04T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/440452.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/440452.jpg"
+      },
+      "summary": "<p>Marcel, deeply conflicted by recent events, is surprised when Klaus opens up to him about some of his past indiscretions. Cami tries to make sense of cryptic messages she's come across and is disturbed when she gains some insight into Klaus' past. Meanwhile, in a surprising turn of events, the human faction takes matters into their own hands, resulting in a violent confrontation. Elsewhere, when Hayley learns of a plan to harm the werewolves in the bayou, she turns to Elijah and Rebekah for help. After heading to the bayou, they run into a werewolf named Eve, who has information that leads them to a shocking discovery.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2578"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2579,
+      "url": "https://www.tvmaze.com/episodes/2579/the-originals-1x10-the-casket-girls",
+      "name": "The Casket Girls",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2014-01-14",
+      "airtime": "20:00",
+      "airstamp": "2014-01-15T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/440453.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/440453.jpg"
+      },
+      "summary": "<p>As the French Quarter prepares for its annual celebration of the Casket Girls Festival, Cami suffers through as Davina attempts to free her of Klaus' mind compulsion. Elijah and Marcel form an unlikely alliance as Klaus sets his plan in motion to get Davina back. Once it's known that Davina is missing, Sophie gets in on the hunt to track her down. Meanwhile, Hayley is forced to make a tough decision after receiving an unexpected phone call, and Rebekah sets her own plan in motion when she enlists the help of someone from Marcel's past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2579"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2580,
+      "url": "https://www.tvmaze.com/episodes/2580/the-originals-1x11-apres-moi-le-deluge",
+      "name": "Après Moi, Le Déluge",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2014-01-21",
+      "airtime": "20:00",
+      "airstamp": "2014-01-22T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/440803.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/440803.jpg"
+      },
+      "summary": "<p>When Davina becomes violently ill and the repercussions soon begin to affect the entire French Quarter, Marcel, Klaus, Elijah and Rebekah rush to find out what is going on. Sophie approaches the others with some startling information about the Harvest Festival and presents a drastic plan to save Davina. Elsewhere, Hayley is racked with guilt as she comes clean to Elijah about her role in Sophie's plan. Last, a sequence of unforeseen events sends shockwaves through the French Quarter.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2580"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2581,
+      "url": "https://www.tvmaze.com/episodes/2581/the-originals-1x12-dance-back-from-the-grave",
+      "name": "Dance Back from the Grave",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2014-01-28",
+      "airtime": "20:00",
+      "airstamp": "2014-01-29T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/440804.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/440804.jpg"
+      },
+      "summary": "<p>Marcel, still angered by recent events, refuses to help Klaus when a gruesome discovery is made in the Cauldron. Rebekah is on alert when she uncovers the remnants of a sacrifice down by the docks and immediately realizes that it's the work of a dangerous warlock from their past. Meanwhile, when Elijah gets some information that Rebekah may be in trouble, he and Hayley set off to find her. At Rousseau's, Cami comforts Marcel, who opens up and shares some details of his past with her, but things quickly spiral out of control when an unexpected visitor shows up. Finally, a violent confrontation ensues when Klaus faces off against a powerful force with an unmatched advantage over him.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2581"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2582,
+      "url": "https://www.tvmaze.com/episodes/2582/the-originals-1x13-crescent-city",
+      "name": "Crescent City",
+      "season": 1,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2014-02-04",
+      "airtime": "20:00",
+      "airstamp": "2014-02-05T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/440805.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/440805.jpg"
+      },
+      "summary": "<p>At the re-opening of St. Anne's Church, Father Kieran finds himself in a great deal of trouble after a run-in with a witch from his past. Marcel and Rebekah grow concerned when the reemergence of someone they once knew threatens to expose secrets they've kept buried for nearly a century. Elsewhere, Sophie is shocked when a discovery is made at the cemetery, but she soon realizes things may not be as they seem. With the full moon looming, Hayley lets Rebekah in on her plan to throw a party for her werewolf clan, but things take a dangerous turn when uninvited guests arrive. Meanwhile, Cami is conflicted when she makes a difficult decision involving the safety of Father Kieran, and Elijah finds himself facing his own dilemma when he has to choose between Hayley and his siblings. Finally, when one of his plans fails, Klaus takes drastic measures in the Cauldron, resulting in dangerous repercussions that affect everyone involved.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2582"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2583,
+      "url": "https://www.tvmaze.com/episodes/2583/the-originals-1x14-long-way-back-from-hell",
+      "name": "Long Way Back from Hell",
+      "season": 1,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2014-02-25",
+      "airtime": "20:00",
+      "airstamp": "2014-02-26T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/440806.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/440806.jpg"
+      },
+      "summary": "<p>When Rebekah finds herself locked up in the sanatorium where she worked in 1919, she realizes a witch named Genevieve is back to seek revenge and to reveal dark secrets that would destroy Rebekah if exposed. A distraught Elijah turns to Marcel and Hayley for help when one of his decisions puts Klaus and Rebekah's lives in danger. With time working against them, Marcel realizes he may hold valuable information that could lead them to Rebekah and Klaus, but revealing it will almost certainly result in deadly consequences.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2583"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2584,
+      "url": "https://www.tvmaze.com/episodes/2584/the-originals-1x15-le-grand-guignol",
+      "name": "Le Grand Guignol",
+      "season": 1,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2014-03-04",
+      "airtime": "20:00",
+      "airstamp": "2014-03-05T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/441210.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/441210.jpg"
+      },
+      "summary": "<p>In a series of flashbacks to 1919, Klaus opens up to Cami and reveals details of the devastating secret Rebekah and Marcel were trying to keep from him. Elijah forms an unlikely alliance with Monique and asks for her help in locating Sabine Elsewhere, Thierry is reluctant to get involved when Marcel and Rebekah approach him with a plan to take down the witches. Meanwhile, in the bayou, Hayley is at her wits' end and holds Sabine hostage in an attempt to get information that will reverse the curse on Phoebe's werewolf clan.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2584"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2585,
+      "url": "https://www.tvmaze.com/episodes/2585/the-originals-1x16-farewell-to-storyville",
+      "name": "Farewell to Storyville",
+      "season": 1,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2014-03-11",
+      "airtime": "20:00",
+      "airstamp": "2014-03-12T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/441211.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/441211.jpg"
+      },
+      "summary": "<p>Despite Klaus' rage, Elijah is determined to protect Rebekah while the three of them are trapped in the City of the Dead cemetery by a witch's boundary spell. Klaus and Rebekah trade bitter accusations until Elijah steps in to reveal a long-held secret from the family's past. Meanwhile, Marcel races to free Rebekah, ultimately finding himself forced to make a deal with Genevieve. Finally, Rebekah and Hayley connect over their shared concern for Hayley's unborn baby.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2585"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2586,
+      "url": "https://www.tvmaze.com/episodes/2586/the-originals-1x17-moon-over-bourbon-street",
+      "name": "Moon Over Bourbon Street",
+      "season": 1,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2014-03-18",
+      "airtime": "20:00",
+      "airstamp": "2014-03-19T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/442168.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/442168.jpg"
+      },
+      "summary": "<p>After accusing Klaus of doing nothing while their control over the Quarter crumbles, Elijah makes a move to take matters into his own hands. He receives an intriguing offer of support from Francesca, a beautiful woman from a powerful New Orleans family. In an attempt to bring the warring factions of the city together, the Mikaelsons throw an extravagant party, where Klaus offers Jackson a tempting deal, Elijah and Hayely share a dance, and a violent fight comes to a surprising end. Finally, even as Marcel works on a new path to power, he continues to help Cami deal with her Uncle Kieran's tragedy.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2586"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2587,
+      "url": "https://www.tvmaze.com/episodes/2587/the-originals-1x18-the-big-uneasy",
+      "name": "The Big Uneasy",
+      "season": 1,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2014-04-15",
+      "airtime": "20:00",
+      "airstamp": "2014-04-16T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/176/442170.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/442170.jpg"
+      },
+      "summary": "<p>Genevieve asks Elijah to allow her coven to publicly celebrate a traditional feast day, where members of the community offer the witches gifts in return for blessings. Monique and Genevieve disagree over what the ancestors want from them, and Genevieve reveals her plan to build the witches power. When Elijah focuses his attention on restoring their home to its former glory, Klaus accuses him of doing it only to impress Hayley. Next, Klaus sets a new plan in motion by finding Cary, a werewolf from his own line, and sending him off to find a missing piece of family history. Marcel lets Thierry in on his new plan to rebuild his power, but Diego has his own ideas about the future. At the Feast of the Blessings, Monique and Genevieve try to use the ceremony to teach Davina a lesson, but Klaus intervenes and gives Davina a surprisingly important gift. While Hayley struggles to decide where her loyalties should lie, the ceremony explodes into violence.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2587"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2588,
+      "url": "https://www.tvmaze.com/episodes/2588/the-originals-1x19-an-unblinking-death",
+      "name": "An Unblinking Death",
+      "season": 1,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2014-04-22",
+      "airtime": "20:00",
+      "airstamp": "2014-04-23T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443259.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443259.jpg"
+      },
+      "summary": "<p>Desperate to help Kieran, Cami insists on an unconventional treatment, but her good intentions lead Kieran to a violent episode. After Klaus and Elijah disagree over the best way to handle the Crescent Wolves, Elijah makes a trip to the bayou, where he is witness to a horrific explosion that only adds to the hatred and mistrust among the communities. While Jackson and Elijah work to save the wounded, Hayley learns a surprising piece of her family history from Marcel.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2588"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2589,
+      "url": "https://www.tvmaze.com/episodes/2589/the-originals-1x20-a-closer-walk-with-thee",
+      "name": "A Closer Walk with Thee",
+      "season": 1,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2014-04-29",
+      "airtime": "20:00",
+      "airstamp": "2014-04-30T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443260.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443260.jpg"
+      },
+      "summary": "<p>Hayley confronts a surprising enemy as she and her unborn baby fall into peril during a celebratory wake to honor a fallen member of the community. In order to save Hayley, Klaus and Elijah enlist the help of Genevieve who struggles to maintain control over Davina and the other young witches. Cami tells Marcel that Francesca is determined to find a mysterious key that may unlock a family secret. Meanwhile, as Klaus suffers from nightmares of his father Mikael, he is forced to examine his troubled relationship with his own adoptive son, Marcel.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2589"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2590,
+      "url": "https://www.tvmaze.com/episodes/2590/the-originals-1x21-the-battle-of-new-orleans",
+      "name": "The Battle of New Orleans",
+      "season": 1,
+      "number": 21,
+      "type": "regular",
+      "airdate": "2014-05-06",
+      "airtime": "20:00",
+      "airstamp": "2014-05-07T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443261.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443261.jpg"
+      },
+      "summary": "<p>Klaus and Elijah enact a plan to collect the sacred stones needed by Genevieve in order to forever change the fates of Hayley and the werewolf community. Realizing that Klaus' plan will lead to the extermination of all French Quarter vampires, Marcel rallies an army determined to take down the Mikaelsons and regain control of the city. Davina warns Josh to leave town as she is forced to make a fateful decision that will turn the tide of war. Meanwhile, Francesca threatens Cami, who attempts to decipher a code that results in a surprising revelation among the city's factions.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2590"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2591,
+      "url": "https://www.tvmaze.com/episodes/2591/the-originals-1x22-from-a-cradle-to-a-grave",
+      "name": "From a Cradle to a Grave",
+      "season": 1,
+      "number": 22,
+      "type": "regular",
+      "airdate": "2014-05-13",
+      "airtime": "20:00",
+      "airstamp": "2014-05-14T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443262.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443262.jpg"
+      },
+      "summary": "<p>As the baby's due date draws near, and Elijah embark on a search for Hayley, while Hayley herself is determined to do whatever it takes to keep her unborn baby safe and away from the witches. Francesca takes a meeting with Oliver and Jackson to determine the future of the werewolves in New Orleans. In the aftermath of a surprising attack on Marcel and his vampires at the compound, Davina and Cami join resources to take down Klaus. Finally, in a desperate move to protect those most important to him, Klaus makes a heartbreaking decision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2591"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 2592,
+      "url": "https://www.tvmaze.com/episodes/2592/the-originals-2x01-rebirth",
+      "name": "Rebirth",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2014-10-06",
+      "airtime": "20:00",
+      "airstamp": "2014-10-07T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/4200.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/4200.jpg"
+      },
+      "summary": "<p>After months of being holed up inside his compound, Klaus enlists the help of Elijah and Marcel in plotting his revenge against the Guerrera werewolves, and vows to take down anyone who poses a threat to baby Hope's existence. Elijah watches helplessly as Hayley spirals downward while mourning the loss of her daughter and struggling to adapt to her new hybrid status. Exiled by the Guerrera werewolves, who now control the French Quarter, Marcel is still reeling over the destruction of his vampire family, and attempts to rebuild his home with the help of Josh. Elsewhere, Cami, who is attempting to regain some normalcy in her life, seeks comfort in a surprising place. Last, Davina continues her plan to use Mikael against Klaus, but gets sidetracked when she meets the mysterious, yet charming Kaleb, who holds a few secrets of his own.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2592"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 7808,
+      "url": "https://www.tvmaze.com/episodes/7808/the-originals-2x02-alive-and-kicking",
+      "name": "Alive and Kicking",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2014-10-13",
+      "airtime": "20:00",
+      "airstamp": "2014-10-14T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/4201.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/4201.jpg"
+      },
+      "summary": "<p>As tensions between Elijah and Hayley grow, Klaus steps in and encourages her to regain her position within her werewolf pack. Still under Davina's control, Mikael grows impatient while she attempts to uncover a spell that would protect those closest to her. When Elijah turns to Marcel for help in tracking down a vital piece of information, he is forced to remember a time long ago when they were on better terms. Meanwhile, Davina and Kaleb find themselves in a dangerous situation when unexpected visitors show up and crash their dinner. Finally, Klaus grows suspicious after a meeting with Cassie doesn't go as he had planned.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/7808"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 11889,
+      "url": "https://www.tvmaze.com/episodes/11889/the-originals-2x03-every-mothers-son",
+      "name": "Every Mother's Son",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2014-10-20",
+      "airtime": "20:00",
+      "airstamp": "2014-10-21T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/1/4938.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/4938.jpg"
+      },
+      "summary": "<p>When Klaus and Elijah receive a cryptic invitation to dinner from their mother Esther, who continues to inhabit the body of Harvest girl Cassie, they find themselves preparing for the worst. With the help of a new witch named Lenore, Klaus, Elijah and Hayley attempt to stay one step ahead of Esther, but things quickly take an unexpected turn. While Elijah finds himself reluctantly teaming up with Gia, a newly-turned vampire, Hayley is faced with an enticing proposition about her new status as a Hybrid after a startling encounter with Esther. Finally, Esther reveals a shocking secret about Klaus' childhood and unveils her ultimate plan for her children.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11889"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 11890,
+      "url": "https://www.tvmaze.com/episodes/11890/the-originals-2x04-live-and-let-die",
+      "name": "Live and Let Die",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2014-10-27",
+      "airtime": "20:00",
+      "airstamp": "2014-10-28T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/2/5979.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5979.jpg"
+      },
+      "summary": "<p>Knowing that it's only a matter of time before Klaus comes after them, Davina takes Mikael to her family cabin in the woods. When Hayley gets a tip that Vincent is recruiting young, unsuspecting teenagers in order to build a werewolf army, she enlists the help of Elijah and Marcel to rescue the group. After Cami inadvertently lets Klaus in on Davina's whereabouts, she tags along in an attempt to truly understand the deeply rooted hatred he has for his parents. At his mother's urging, Kaleb seeks out Davina in order to locate the missing white oak stake and is caught off guard when he has a dangerous encounter at the cabin. Lastly, Josh, who continues to struggle with his vampire identity, opens up to an unexpected ally.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11890"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 15816,
+      "url": "https://www.tvmaze.com/episodes/15816/the-originals-2x05-red-door",
+      "name": "Red Door",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2014-11-03",
+      "airtime": "20:00",
+      "airstamp": "2014-11-04T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/3/7707.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7707.jpg"
+      },
+      "summary": "<p>In order to show Elijah that her plan is what's best for him, Esther forces him to relive a time long ago when he loved a young woman named Tatia. With the help of Marcel, Hayley is determined to find Elijah, who has gone missing, but is torn when she discovers that Klaus is also in trouble. Elsewhere, Cami finds herself in a dangerous situation when Mikael takes her hostage as a way to lure Klaus to him, and Davina makes an upsetting discovery about Kaleb's true identity. Lastly, a violent confrontation ensues when Klaus comes face-to-face with Mikael.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/15816"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 32253,
+      "url": "https://www.tvmaze.com/episodes/32253/the-originals-2x06-wheel-inside-the-wheel",
+      "name": "Wheel Inside the Wheel",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2014-11-10",
+      "airtime": "20:00",
+      "airstamp": "2014-11-11T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/4/10046.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10046.jpg"
+      },
+      "summary": "<p>Fed up with her antics, Klaus becomes agitated and demands that Esther release Elijah, whom she has captured. However, Esther reveals a few dark secrets from Klaus' past in an attempt to make him an offer he can't refuse. Meanwhile, Oliver ends up in a dangerous situation, prompting Hayley to reconnect with Jackson, who has been living a new life out in the bayou. Elsewhere, Cami, who still believes baby Hope's death was her fault, teams up with Marcel and Gia after she becomes suspicious of her faculty advisor Vincent. Lastly, in a surprising turn of events, Klaus comes face-to-face with a visitor from his past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/32253"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 38928,
+      "url": "https://www.tvmaze.com/episodes/38928/the-originals-2x07-chasing-the-devils-tail",
+      "name": "Chasing the Devil's Tail",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2014-11-17",
+      "airtime": "20:00",
+      "airstamp": "2014-11-18T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/4/11188.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11188.jpg"
+      },
+      "summary": "<p>When Klaus discovers that Elijah has been afflicted by Esther's magic, he heads to the bayou in search of an antidote, but quickly realizes he's not alone. Armed with intel gathered by Aiden, Hayley teams up with him, Marcel, Cami and Josh and launches a plan to take down Vincent by exploiting his one weakness. Meanwhile, with Esther determined to carry out her plan, Vincent and Kaleb are forced to reconsider their own strategies. Intrigued by Davina's unwavering attempts to create an unlinking spell, Kaleb lets her in on some secrets from his past and brings her to a place he frequented in 1914.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/38928"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 45242,
+      "url": "https://www.tvmaze.com/episodes/45242/the-originals-2x08-the-brothers-that-care-forgot",
+      "name": "The Brothers That Care Forgot",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2014-11-24",
+      "airtime": "20:00",
+      "airstamp": "2014-11-25T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/5/12556.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12556.jpg"
+      },
+      "summary": "<p>Rebekah, who has spent months away living a normal life with baby Hope, finds herself on the run when she realizes Esther has uncovered her whereabouts. Convinced that Vincent and Kaleb would be powerful allies in his fight to take down Esther, Klaus sets a plan in motion to turn his brothers against their mother. Meanwhile, Hayley is conflicted when she and Jackson stumble upon an ancient ritual that would get their werewolf packs out from under Esther's control, but would require her to make a tremendous sacrifice. Elsewhere, Rebekah is concerned when she notices something is off with Elijah. Finally, Davina takes matters into her own hands by turning to dark magic, and Cami finds herself at the center of Esther's dangerous plan.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/45242"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 46296,
+      "url": "https://www.tvmaze.com/episodes/46296/the-originals-2x09-the-map-of-moments",
+      "name": "The Map of Moments",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2014-12-08",
+      "airtime": "20:00",
+      "airstamp": "2014-12-09T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/5/14661.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14661.jpg"
+      },
+      "summary": "<p>When Rebekah notices an unusual change in Elijah's behavior, she asks Klaus and Hayley to meet her at their safe house, reuniting them with baby Hope. After reliving memories of being the odd man out, Kaleb opens up to Davina about his resentment towards his siblings and sheds some light on a spell he created in 1914. Meanwhile, when Cami discovers Esther's plan will put her life in danger, she demands answers from Vincent, who remains steadfast in his convictions. Elsewhere, Esther makes an unlikely alliance that could prove dangerous for Klaus, and Hayley makes a decision that could change her relationship with Elijah forever. Lastly, while Elijah continues to struggle with the lingering effects of being captured, Rebekah and Klaus devise a plan to take their mother down once and for all.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/46296"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 58245,
+      "url": "https://www.tvmaze.com/episodes/58245/the-originals-2x10-gonna-set-your-flag-on-fire",
+      "name": "Gonna Set Your Flag on Fire",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2015-01-19",
+      "airtime": "20:00",
+      "airstamp": "2015-01-20T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/7/19561.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/19561.jpg"
+      },
+      "summary": "<p>With Vincent on the loose and hell bent on revenge, Klaus brings Cami to the safe house as he and Hayley return to the compound. Hayley and Jackson devise a plan to bring the vampires and werewolves together to consider a truce, but tensions grow when Vincent places a spell on the compound, trapping the two sides together. Meanwhile, Elijah grows concerned when Rebekah fails to show up at the safe house, prompting Klaus to confront Kaleb for answers. Lastly, after accepting her mother's offer to jump into a new body, Rebekah turns to former Harvest girl Cassie for help when she finds herself trapped inside an insane asylum.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/58245"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 109659,
+      "url": "https://www.tvmaze.com/episodes/109659/the-originals-2x11-brotherhood-of-the-damned",
+      "name": "Brotherhood of the Damned",
+      "season": 2,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2015-01-26",
+      "airtime": "20:00",
+      "airstamp": "2015-01-27T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/7/19845.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/19845.jpg"
+      },
+      "summary": "<p>Armed with more power than ever, Vincent creates an elaborate spell that allows him to take the upper hand and trap his brothers Klaus and Elijah. Realizing that Kaleb is also in trouble, Davina has no choice but to team up with the Originals to help. After the deadly events in the previous episode, Marcel must try to calm his volatile pack of suffering vampires, while remembering his days as a solider during World War I when his leadership skills were equally brought to the test. Finally, Hayley finds herself conflicted when she learns that she and Jackson must participate in extreme and unconventional rituals prior to their wedding, which will put them both in a dangerous position.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/109659"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 109660,
+      "url": "https://www.tvmaze.com/episodes/109660/the-originals-2x12-sanctuary",
+      "name": "Sanctuary",
+      "season": 2,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2015-02-02",
+      "airtime": "20:00",
+      "airstamp": "2015-02-03T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/8/20241.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/20241.jpg"
+      },
+      "summary": "<p>After a series of strange encounters, Rebekah becomes intrigued by a mysterious girl who has recently arrived to the insane asylum. At the bayou, Hayley struggles with coming clean to Jackson about the secrets she's keeping and is surprised when he shares his own secret involving Hayley's parents. Meanwhile, after learning the details of a particular marriage ritual that Hayley and Jackson must complete, Klaus heads to the bayou to put an end to it, but not before running into Jackson's grandmother Mary. Elsewhere, Vincent remains determined to uncover the secret he knows Klaus is hiding and sets his eyes on Marcel for answers. Lastly, when Davina discovers that Josh and Marcel are in danger, she enlists the help of Kaleb and Aiden to rescue them.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/109660"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 122985,
+      "url": "https://www.tvmaze.com/episodes/122985/the-originals-2x13-the-devil-is-damned",
+      "name": "The Devil is Damned",
+      "season": 2,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2015-02-09",
+      "airtime": "20:00",
+      "airstamp": "2015-02-10T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/8/21392.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21392.jpg"
+      },
+      "summary": "<p>More dangerous than ever, Vincent remains one step ahead after joining forces with a powerful figure from his past. As the threat to Hope's life grows stronger, Klaus realizes he has no choice but to place his trust in his siblings to ensure she remains protected. Meanwhile, after being presented with an enticing proposition, Kaleb is forced to make a difficult life or death decision, and Elijah finds himself in the fight of his life after an unexpected visitor arrives at the safe house. At the bayou, Hayley and Jackson continue to prepare for the unification ritual, but things quickly go awry when they become pawns in Vincent's dangerous plan.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/122985"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 128608,
+      "url": "https://www.tvmaze.com/episodes/128608/the-originals-2x14-i-love-you-goodbye",
+      "name": "I Love You, Goodbye",
+      "season": 2,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2015-02-16",
+      "airtime": "20:00",
+      "airstamp": "2015-02-17T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/8/21779.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21779.jpg"
+      },
+      "summary": "<p>With the final preparations for her union to Jackson underway, Hayley begins to question whether the ritual will actually work. After arriving to the compound, Elijah has a tense encounter with Klaus and quickly suspects that his brother may be up to something. Meanwhile, Kaleb, who is harboring a devastating secret from Davina, seeks help from Rebekah when he realizes time is not on his side. Lastly, Cami makes a startling revelation involving baby Hope.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/128608"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 129493,
+      "url": "https://www.tvmaze.com/episodes/129493/the-originals-2x15-they-all-asked-for-you",
+      "name": "They All Asked for You",
+      "season": 2,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2015-03-09",
+      "airtime": "20:00",
+      "airstamp": "2015-03-10T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/23487.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/23487.jpg"
+      },
+      "summary": "<p>When a dangerous run-in with a coven of vengeful witches forces Rebekah to align with Marcel, they quickly discover that the body Rebekah is currently inhabiting has a checkered past. Upon learning that Rebekah is in danger, Elijah seeks out a respected elder witch, Josephine, in the hopes she might offer her assistance. Meanwhile, tensions build when Klaus clashes with Hayley and Jackson over how best to protect baby Hope from Finn. Elsewhere, Freya, convinces Finn to bring her to Mikael, the father she hasn't seen in over a thousand years. Lastly, a confrontation with Freya leaves Elijah and Klaus questioning whether they can trust their long-lost sister.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/129493"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 129494,
+      "url": "https://www.tvmaze.com/episodes/129494/the-originals-2x16-save-my-soul",
+      "name": "Save My Soul",
+      "season": 2,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2015-03-16",
+      "airtime": "20:00",
+      "airstamp": "2015-03-17T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/9/24022.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/24022.jpg"
+      },
+      "summary": "<p>Suspicious of where her true loyalties lie, Klaus invites Freya to the compound in order to gain more insight into her past with Dahlia. After a series of strange visions, Rebekah begins to realize the body she's inhabiting is attempting to regain control. With Rebekah's life on the line, Marcel puts his bargaining skills to the test when he turns to Vincent, who may have some knowledge that could help them. Lastly, at the bayou, Jackson's frustrations grow after Aiden questions his leadership skills.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/129494"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 144476,
+      "url": "https://www.tvmaze.com/episodes/144476/the-originals-2x17-exquisite-corpse",
+      "name": "Exquisite Corpse",
+      "season": 2,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2015-04-06",
+      "airtime": "20:00",
+      "airstamp": "2015-04-07T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/25140.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25140.jpg"
+      },
+      "summary": "<p>When Eva Sinclair's reemergence leaves Rebekah trapped and helpless, Klaus is forced to put aside his mistrust for Freya in order to save Rebekah's life. Meanwhile, Hayley and Elijah learn more about Eva's violent past from Josephine, who then makes a startling revelation about Hayley's future. With time running out to save Rebekah, Marcel turns to a reluctant Vincent for his help to take down Eva, but his plan takes an unexpected turn, as Eva will not go down without a fight.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144476"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 144477,
+      "url": "https://www.tvmaze.com/episodes/144477/the-originals-2x18-night-has-a-thousand-eyes",
+      "name": "Night Has a Thousand Eyes",
+      "season": 2,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2015-04-13",
+      "airtime": "20:00",
+      "airstamp": "2015-04-14T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/25723.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25723.jpg"
+      },
+      "summary": "<p>Desperate to find a way to vanquish Dahlia, Klaus soon finds himself face-to-face with another deadly threat - Mikael. Meanwhile, as Hayley and Rebekah work with Freya to track Dahlia's whereabouts, Elijah and Marcel prepare a safe house in Algiers with the help of Josephine. Elsewhere, determined to protect Hayley and baby Hope, Jackson approaches Hayley with a risky idea that leaves her conflicted. Finally, Aiden finds himself torn between his loyalty to Jackson and his secret alliance with Klaus.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144477"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 144478,
+      "url": "https://www.tvmaze.com/episodes/144478/the-originals-2x19-when-the-levee-breaks",
+      "name": "When the Levee Breaks",
+      "season": 2,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2015-04-20",
+      "airtime": "20:00",
+      "airstamp": "2015-04-21T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/26066.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26066.jpg"
+      },
+      "summary": "<p>Setting the stage for a bloody showdown, Dahlia gives Klaus and Hayley a deadline to turn over baby Hope. Elijah attempts to convince Klaus that they need to work together in their fight against Dahlia, but Klaus forges ahead with his own dangerous plan, leaving everyone concerned about his next steps. Meanwhile, when Hayley realizes their chances of outrunning Dahlia are slim, she devises a risky plan and enlists Aiden's help. Elsewhere, Freya gives Rebekah and Elijah an ultimatum, and Marcel strategizes on how best to deal with Klaus' erratic behavior.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144478"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 144479,
+      "url": "https://www.tvmaze.com/episodes/144479/the-originals-2x20-city-beneath-the-sea",
+      "name": "City Beneath the Sea",
+      "season": 2,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2015-04-27",
+      "airtime": "20:00",
+      "airstamp": "2015-04-28T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/26506.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26506.jpg"
+      },
+      "summary": "<p>When Dahlia devises a clever way to get Klaus' attention, she reveals some startling details about baby Hope and leaves him with an enticing proposition to consider. Elsewhere, while Elijah and Freya find themselves with opposing views on how best to handle Dahlia's looming deadline, Rebekah, Davina, and Cami work together to come up with their own strategy. Meanwhile, following a tense stand-off between Elijah and Jackson in the bayou, Hayley is left to make a difficult decision about her and Hope's future. Finally, Vincent, who is eager to leave his witch past behind him, approaches Davina with an offer that leaves her intrigued.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144479"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 144480,
+      "url": "https://www.tvmaze.com/episodes/144480/the-originals-2x21-fire-with-fire",
+      "name": "Fire with Fire",
+      "season": 2,
+      "number": 21,
+      "type": "regular",
+      "airdate": "2015-05-04",
+      "airtime": "20:00",
+      "airstamp": "2015-05-05T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/26887.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26887.jpg"
+      },
+      "summary": "<p>After discovering that he's been betrayed by his own siblings, Klaus teams up with an unlikely ally and sets off on a warpath, hell bent on revenge. Amidst the news that Klaus is on the loose, Elijah, Rebekah and Freya move forward with their plan to lure Dahlia to the compound and take her down once and for all. Meanwhile, Hayley and Jackson attempt to escape through the flooded bayou, even as Marcel finds himself hunted by a dangerous new threat. Finally, Davina is presented with an offer that could allow her the chance to bring back Kol, though it will require her to make a life-altering decision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144480"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 144481,
+      "url": "https://www.tvmaze.com/episodes/144481/the-originals-2x22-ashes-to-ashes",
+      "name": "Ashes to Ashes",
+      "season": 2,
+      "number": 22,
+      "type": "regular",
+      "airdate": "2015-05-11",
+      "airtime": "20:00",
+      "airstamp": "2015-05-12T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/10/27398.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/27398.jpg"
+      },
+      "summary": "<p>With time running out, Klaus' ultimate plan to protect baby Hope at all costs continues to take shape. As tensions between the siblings come to a head, Cami reveals a vital piece of information that causes Elijah and Rebekah to reconsider their plan of attack against Dahlia. Davina finds herself one step closer to fulfilling the promise she made to Kol, while Freya is forced to take drastic measures to protect herself against Dahlia. Elsewhere, Marcel has to put aside his fury at Klaus in order to protect himself and everyone in their sire line. Meanwhile, Vincent finds himself torn between the prospects of a magic-free life away from New Orleans and a personal obligation to protect Davina. Finally, with their risky plan in place, the Mikaelson siblings prepare for the fight of their lives.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144481"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 182151,
+      "url": "https://www.tvmaze.com/episodes/182151/the-originals-3x01-for-the-next-millennium",
+      "name": "For the Next Millennium",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2015-10-08",
+      "airtime": "21:00",
+      "airstamp": "2015-10-09T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/24/61829.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/24/61829.jpg"
+      },
+      "summary": "<p>Months after following their violent and deadly showdown with the powerful witch Dahlia, a rift continues to divide brothers Klaus and Elijah, while Freya searches for a way to heal their fractured bond and return their family to the way they once were. Meanwhile, Klaus' suspicion piques when he learns that an old vampire friend named Lucien has arrived to New Orleans with a mysterious agenda involving the Mikaelson's remaining sire lines. Elsewhere, Elijah questions whether he can truly forgive his brother for his mounting offenses, while Hayley struggles with being cursed to her wolf form in the bayou. In the French Quarter, Vincent and Cami assist Detective Kinney after a series of gruesome discoveries are made, leading them to believe they may have a serial killer on the loose. Finally, Marcel, who has regained control of the French Quarter once again, tries a new strategy to recruit vampires, while Davina, who is now Regent to the New Orleans witches, makes a decision that will find her and Marcel on opposite sides of an escalating conflict.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/182151"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 284802,
+      "url": "https://www.tvmaze.com/episodes/284802/the-originals-3x02-you-hung-the-moon",
+      "name": "You Hung the Moon",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2015-10-15",
+      "airtime": "21:00",
+      "airstamp": "2015-10-16T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/24/61838.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/24/61838.jpg"
+      },
+      "summary": "<p>IMPENDING THREATS AND A DIRE PROPHECY — After discovering that poachers have begun taking out werewolves in the bayou, Elijah and Jackson grow concerned for Hayley's safety when she fails to show up during the full moon. Meanwhile, Davina, the only one with the answer to Hayley's whereabouts, plots ways to use that to her advantage. Elsewhere, Cami approaches Klaus with her theory on who is behind the series of murders in the French Quarter, while Lucien delivers to Elijah an unsettling warning about the war brewing among the sire lines. Finally, after receiving a dire prophecy about the future of the Mikaelson siblings, Klaus takes extreme measures to determine the validity of this potential impending threat. Marcel and Freya also appear.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/284802"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 326699,
+      "url": "https://www.tvmaze.com/episodes/326699/the-originals-3x03-ill-see-you-in-hell-or-new-orleans",
+      "name": "I'll See You in Hell or New Orleans",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2015-10-22",
+      "airtime": "21:00",
+      "airstamp": "2015-10-23T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/25/64931.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/25/64931.jpg"
+      },
+      "summary": "<p>FLASHBACKS TO THE FIRST VAMPIRE EVER SIRED — With tension running as high as ever, Klaus and Elijah are forced to come together in order to uncover Lucien's true motives in New Orleans. Cami is caught off guard when she finds herself face to face with Lucien and is surprised when he reveals some unexpected information about his past with Klaus. Elsewhere, a mysterious figure presents an enticing offer to Marcel, while Hayley turns to an unconventional way of coping with her current situation. Finally, an old acquaintance from Elijah's past arrives in New Orleans and delivers some startling news involving the growing threat to the Mikaelson siblings.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/326699"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 334545,
+      "url": "https://www.tvmaze.com/episodes/334545/the-originals-3x04-a-walk-on-the-wild-side",
+      "name": "A Walk on the Wild Side",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2015-10-29",
+      "airtime": "21:00",
+      "airstamp": "2015-10-30T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/27/67682.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/27/67682.jpg"
+      },
+      "summary": "<p>In order to uncover what his old acquaintance Tristan is really up to in New Orleans, Elijah considers attending a gala thrown by a mysterious group of ancient vampires known as The Strix, while Hayley invites herself to attend with him. There, Marcel is approached with an enticing offer made by a mysterious woman named Aya, but he quickly realizes that things are not always what they seem. Elsewhere, when a vital component of Lucien's plan goes missing, he and Klaus form a tentative alliance in order to find it.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/334545"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 349513,
+      "url": "https://www.tvmaze.com/episodes/349513/the-originals-3x05-the-axemans-letter",
+      "name": "The Axeman's Letter",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2015-11-05",
+      "airtime": "21:00",
+      "airstamp": "2015-11-06T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/28/71603.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/28/71603.jpg"
+      },
+      "summary": "<p>KLAUS' PAST COMES BACK TO HAUNT HIM — As the war among the sire lines continues to grow, Klaus receives an unexpected visit by a figure from his past. When Elijah suspects that Tristan is hiding something, he enlists Marcel's help to find out what he's up to. Elsewhere, Davina struggles with her role as Regent and seeks advice from Hayley. Finally, an ancient secret that is uncovered threatens to tear the Mikaelson brothers apart for good.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/349513"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 352643,
+      "url": "https://www.tvmaze.com/episodes/352643/the-originals-3x06-beautiful-mistake",
+      "name": "Beautiful Mistake",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2015-11-12",
+      "airtime": "21:00",
+      "airstamp": "2015-11-13T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/30/75333.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/30/75333.jpg"
+      },
+      "summary": "<p>When Elijah and Freya realize that Rebekah may be the target of The Strix's latest plan, they do whatever it takes to protect her. Elsewhere, Klaus spends time with Aurora to figure out where her loyalties lie, while a dangerous run-in with a member of The Strix leads Hayley and Marcel to make an unsettling discovery. Finally, an elaborate scheme created by Lucien leaves Cami faced with a difficult decision to make and Detective Kinney fighting for his life.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/352643"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 397227,
+      "url": "https://www.tvmaze.com/episodes/397227/the-originals-3x07-out-of-the-easy",
+      "name": "Out of the Easy",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2015-11-19",
+      "airtime": "21:00",
+      "airstamp": "2015-11-20T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/31/78117.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/31/78117.jpg"
+      },
+      "summary": "<p>With a dire prophecy looming over them, Klaus and Elijah invite Lucien, Tristan and Aurora to a Thanksgiving gathering in an attempt to negotiate a truce. When Aurora reveals that she has powerful leverage over Klaus, Hayley and Freya take matters into their own hands, leading to a deadly three-way confrontation. Elsewhere, Marcel and Vincent are forced to take drastic measures when they realize Davina may be in over her head, and Cami finds herself face-to-face with a dangerous new threat.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/397227"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 406825,
+      "url": "https://www.tvmaze.com/episodes/406825/the-originals-3x08-the-other-girl-in-new-orleans",
+      "name": "The Other Girl in New Orleans",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2015-12-03",
+      "airtime": "21:00",
+      "airstamp": "2015-12-04T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/33/83400.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/33/83400.jpg"
+      },
+      "summary": "<p>After learning that Cami's life is in danger and Aurora may be to blame, Klaus is forced to engage in another one of her devious games and follows a series of clues she's left behind for him. Meanwhile, Elijah, Freya and Hayley take drastic measures against Tristan when they discover he holds a valuable piece of information they need. Elsewhere, Aya gives Marcel an ultimatum that leaves him with a difficult decision to make, while tensions between Hayley and Jackson cause her to reevaluate her involvement in Mikaelson family matters.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/406825"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 480124,
+      "url": "https://www.tvmaze.com/episodes/480124/the-originals-3x09-savior",
+      "name": "Savior",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2015-12-10",
+      "airtime": "21:00",
+      "airstamp": "2015-12-11T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/34/86145.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/34/86145.jpg"
+      },
+      "summary": "<p>When a dangerous affliction threatens to expose one of her siblings, Freya searches for a way to reverse the crippling curse even as she finds herself the target of The Strix's latest plan. Elsewhere, Klaus keeps a watchful eye over Cami while she attempts to help Detective Kinney, whose life has begun to spiral out of control as a result of Lucien's compulsion. Meanwhile, a confrontation with Marcel causes Vincent to reevaluate his decision to stay out of witch business, and Hayley's attempt at a quiet Christmas with Jackson and Hope results in an unexpected surprise.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/480124"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 530902,
+      "url": "https://www.tvmaze.com/episodes/530902/the-originals-3x10-a-ghost-along-the-mississippi",
+      "name": "A Ghost Along the Mississippi",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2016-01-29",
+      "airtime": "21:00",
+      "airstamp": "2016-01-30T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/43/109253.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/43/109253.jpg"
+      },
+      "summary": "<p>In the aftermath of a horrific plan that left Cami dead, Klaus declares war on Aurora and Tristan. Elsewhere, Vincent, who has resumed his role as Regent to the New Orleans witches, is forced to use his magic against his will, while Hayley and Jackson find themselves pawns in Tristan's twisted game. Finally, after learning that Tristan is in possession of a powerful weapon that could take their family down once and for all, Klaus, Elijah and Freya enact a risky plan that leads to a tense showdown with The Strix.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/530902"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 570478,
+      "url": "https://www.tvmaze.com/episodes/570478/the-originals-3x11-wild-at-heart",
+      "name": "Wild at Heart",
+      "season": 3,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2016-02-05",
+      "airtime": "21:00",
+      "airstamp": "2016-02-06T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/43/109254.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/43/109254.jpg"
+      },
+      "summary": "<p>While Klaus finds himself dealing with pressing matters at home, Elijah reluctantly aligns with Aya after learning that she may have knowledge of an elusive weapon that could kill an Original vampire for good. Meanwhile, alone and shunned by her coven of witches, a desperate Davina is left conflicted after she is approached with an enticing offer that could bring her one step closer to reuniting with Kol.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/570478"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 570479,
+      "url": "https://www.tvmaze.com/episodes/570479/the-originals-3x12-dead-angels",
+      "name": "Dead Angels",
+      "season": 3,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2016-02-12",
+      "airtime": "21:00",
+      "airstamp": "2016-02-13T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/43/109373.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/43/109373.jpg"
+      },
+      "summary": "<p>When a powerful weapon that could take down the Mikaelsons for good ends up in the wrong hands, Klaus finds himself in a tense standoff with an unlikely foe. Meanwhile, Elijah's attempt to reclaim control of The Strix leads to a violent showdown and the emergence of a potential new leader. Elsewhere, when a new coven of witches tries to influence Davina into helping them locate the elusive weapon, she quickly realizes she may be in over her head.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/570479"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 570480,
+      "url": "https://www.tvmaze.com/episodes/570480/the-originals-3x13-heart-shaped-box",
+      "name": "Heart-Shaped Box",
+      "season": 3,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2016-02-19",
+      "airtime": "21:00",
+      "airstamp": "2016-02-20T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/45/113507.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/45/113507.jpg"
+      },
+      "summary": "<p>Determined to make her ultimate move against the Mikaelson brothers, Aurora uses Freya as bait to lure Klaus and Elijah into a dangerous trap. Meanwhile, after being recruited by The Strix's powerful coven of witches to perform a spell that could save the lives of her closest friends, Davina finds a way to conjure up Kol, the only person who may know the key ingredient to completing the spell. Finally, Hayley is forced to make a heartbreaking sacrifice.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/570480"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 600743,
+      "url": "https://www.tvmaze.com/episodes/600743/the-originals-3x14-a-streetcar-named-desire",
+      "name": "A Streetcar Named Desire",
+      "season": 3,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2016-02-26",
+      "airtime": "21:00",
+      "airstamp": "2016-02-27T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/45/113508.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/45/113508.jpg"
+      },
+      "summary": "<p>With the threat of the prophecy looming over their heads, Klaus and Elijah find themselves rendered useless inside a magical trap, while Aya and The Strix's coven of witches move forward with a risky spell that could take one of them down for good. Elsewhere, Freya leads the charge to get her brothers back and enlists the help of Marcel, Hayley and Stefan Salvatore, an old friend of Klaus', whose unexpected arrival may be the key to their survival. Finally, Davina moves forward with a dangerous plan that brings her one step closer to reuniting with.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/600743"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 611609,
+      "url": "https://www.tvmaze.com/episodes/611609/the-originals-3x15-an-old-friend-calls",
+      "name": "An Old Friend Calls",
+      "season": 3,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2016-03-04",
+      "airtime": "21:00",
+      "airstamp": "2016-03-05T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/45/113509.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/45/113509.jpg"
+      },
+      "summary": "<p>When Klaus learns that Cortez, an old vampire with a vendetta against him, has arrived in New Orleans, he finds himself forced to deal with this new threat. Meanwhile, when Cortez begins threatening the lives of innocent residents, Vincent has no choice but to help the vengeful vampire in his plan to take down Klaus. Elsewhere, Marcel turns to Davina for her help after several Strix members turn up missing, and Elijah confronts Hayley after learning that she's been dealing with Jackson's death in a destructive way.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/611609"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 637818,
+      "url": "https://www.tvmaze.com/episodes/637818/the-originals-3x16-alone-with-everybody",
+      "name": "Alone with Everybody",
+      "season": 3,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2016-04-01",
+      "airtime": "21:00",
+      "airstamp": "2016-04-02T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/47/118816.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/47/118816.jpg"
+      },
+      "summary": "<p>When rumors begin to spread about the remaining white oak bullet, dangerous foes descend upon New Orleans in an attempt to take down Klaus once and for all. As the threats continue to grow, Elijah urges his siblings to lay low at the compound while Marcel, Vincent and Josh chase down a lead involving a mysterious vampire named Sofya, who may have the answers they're looking for. Meanwhile, tensions inside the compound build as Kol is forced to come face to face with his brother Finn, the person responsible for his death. Elsewhere, Klaus and Hayley seek shelter with her former pack and stumble upon some unsettling news involving the threat against them.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/637818"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 647381,
+      "url": "https://www.tvmaze.com/episodes/647381/the-originals-3x17-behind-the-black-horizon",
+      "name": "Behind the Black Horizon",
+      "season": 3,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2016-04-08",
+      "airtime": "21:00",
+      "airstamp": "2016-04-09T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/52/130858.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/52/130858.jpg"
+      },
+      "summary": "<p>When its discovered that Freya has been kidnapped and is in the hands of a dangerous new threat, the Mikaelson brothers are forced to put aside their differences in order to save her before it's too late. Following a lead that brings them to Mystic Falls, Elijah and Finn run into deputy Matt Donovan, who does not take well to new vampires in his town. Meanwhile, Klaus and Hayley work together to uncover the motive behind one of Lucien's secret agendas, while a troubling shift in Kol's behavior leaves Davina concerned for their future together.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/647381"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 647382,
+      "url": "https://www.tvmaze.com/episodes/647382/the-originals-3x18-the-devil-comes-here-and-sighs",
+      "name": "The Devil Comes Here and Sighs",
+      "season": 3,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2016-04-15",
+      "airtime": "21:00",
+      "airstamp": "2016-04-16T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/52/130859.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/52/130859.jpg"
+      },
+      "summary": "<p>As the city celebrates its annual Jazz Fest, an unlikely team of Mikaelson foes joins forces to take Klaus hostage. Leading the charge to get their brother back, Elijah and Freya face off against a powerful force like none they've ever seen before, while Hayley and Cami set their own risky plan in motion to rescue Klaus. Meanwhile, when Kol's erratic behavior worsens, Davina has no choice but to turn to Marcel and Vincent for help.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/647382"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 647383,
+      "url": "https://www.tvmaze.com/episodes/647383/the-originals-3x19-no-more-heartbreaks",
+      "name": "No More Heartbreaks",
+      "season": 3,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2016-04-29",
+      "airtime": "21:00",
+      "airstamp": "2016-04-30T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/55/138698.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/55/138698.jpg"
+      },
+      "summary": "<p>Following a violent encounter that has left Cami's life hanging in the balance, Klaus is forced to rely on his family and allies to find a cure as he keeps a watchful eye over Cami at the compound. With time running out, Freya turns to her arsenal of spells, while Vincent and Marcel head to Cami's apartment to gather a crucial ingredient. Elsewhere, Hayley and Elijah travel to the bayou in hopes of bringing back a potential antidote that could save Cami's life. Finally, Davina confronts Lucien and learns some heartbreaking information that will change her future with Kol forever.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/647383"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 647384,
+      "url": "https://www.tvmaze.com/episodes/647384/the-originals-3x20-where-nothing-stays-buried",
+      "name": "Where Nothing Stays Buried",
+      "season": 3,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2016-05-06",
+      "airtime": "21:00",
+      "airstamp": "2016-05-07T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/56/140247.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140247.jpg"
+      },
+      "summary": "<p>In the wake of a ruthless plan that has left their family shattered, Klaus, Elijah and Freya desperately search for a way to take down Lucien once and for all. However, their efforts are put on hold following an urgent plea for help from Kol and Marcel. At Klaus' insistence, Freya and Elijah reluctantly stay behind to offer their help, while Klaus and Hayley head to the bayou after uncovering Lucien's latest plan. Once there, an unexpected showdown between Klaus and Lucien forces Freya to take matters into her own hands, setting off a chain of events that will change all of their lives forever.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/647384"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 647385,
+      "url": "https://www.tvmaze.com/episodes/647385/the-originals-3x21-give-em-hell-kid",
+      "name": "Give 'em Hell, Kid",
+      "season": 3,
+      "number": 21,
+      "type": "regular",
+      "airdate": "2016-05-13",
+      "airtime": "21:00",
+      "airstamp": "2016-05-14T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/57/144886.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/57/144886.jpg"
+      },
+      "summary": "<p>After receiving new visions of the looming prophecy, Freya uncovers that her family is on a collision course with a dangerous new enemy. Meanwhile, with the help of Detective Kinney, Vincent and Kol travel to the ancestral world to put a stop to the witches and take back their city once and for all. Elsewhere, Klaus and Elijah confront Marcel after a heartbreaking plan gone wrong has sent him spiraling.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/647385"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 647386,
+      "url": "https://www.tvmaze.com/episodes/647386/the-originals-3x22-the-bloody-crown",
+      "name": "The Bloody Crown",
+      "season": 3,
+      "number": 22,
+      "type": "regular",
+      "airdate": "2016-05-20",
+      "airtime": "21:00",
+      "airstamp": "2016-05-21T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/58/145322.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/58/145322.jpg"
+      },
+      "summary": "<p>After months of thwarting off dangerous threats and deadly attacks, the Mikaelson siblings finally come face to face with the one person that could lead to their ultimate demise. With the stakes higher than ever and the compound overrun by an army of his oldest sworn enemies, Klaus is put on trial for centuries of atrocities he's committed. Meanwhile, Marcel, who has been spiraling out of control following an act of betrayal by those closest to him, is stunned by the unexpected arrival of someone from his past. Finally, Elijah, Freya and Kol frantically search for a way to save their family before it's too late.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/647386"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 991384,
+      "url": "https://www.tvmaze.com/episodes/991384/the-originals-4x01-gather-up-the-killers",
+      "name": "Gather Up the Killers",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2017-03-17",
+      "airtime": "20:00",
+      "airstamp": "2017-03-18T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/102/256538.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/102/256538.jpg"
+      },
+      "summary": "<p>On the fifth anniversary of Klaus' defeat, Marcel is king of the city and welcomes the un-sired vampires to New Orleans, only to find they pose an unexpected threat to his rule, leading him to seek counsel from an unlikely source. Meanwhile, as Hayley closes in on the cure that will allow her to revive Elijah and the slumbering Mikaelsons, she faces a final task that will force her to make a ruthless decision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/991384"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1043406,
+      "url": "https://www.tvmaze.com/episodes/1043406/the-originals-4x02-no-quarter",
+      "name": "No Quarter",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2017-03-24",
+      "airtime": "20:00",
+      "airstamp": "2017-03-25T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/103/259343.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/259343.jpg"
+      },
+      "summary": "<p>After being cured and woken, the Mikaelson siblings join Hayley in an effort to rescue Klaus from captivity - even if they must face Marcel in the process. Meanwhile, Klaus' demons materialize in unexpected ways as he suffers from the effects of the Tunde Blade, and Vincent investigates a haunting that will prove to be much more sinister than he could have imagined.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1043406"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1043407,
+      "url": "https://www.tvmaze.com/episodes/1043407/the-originals-4x03-haunter-of-ruins",
+      "name": "Haunter of Ruins",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2017-03-31",
+      "airtime": "20:00",
+      "airstamp": "2017-04-01T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/104/262280.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/262280.jpg"
+      },
+      "summary": "<p>After five long years apart, Klaus attempts to reconnect with his daughter, Hope. Even as father and daughter bond, the rest of the family is still in turmoil. Elijah mediates a conflict between Hayley and Freya to determine the best way to protect the family. Meanwhile, in New Orleans, Vincent tells Marcel terrible secrets about his ex -wife, Eva Sinclair, even as they begin their search for a mysterious witch who plans to sacrifice a group of innocent children - including de Barra.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1043407"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1097768,
+      "url": "https://www.tvmaze.com/episodes/1097768/the-originals-4x04-keepers-of-the-house",
+      "name": "Keepers of the House",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2017-04-07",
+      "airtime": "20:00",
+      "airstamp": "2017-04-08T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/105/262589.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/105/262589.jpg"
+      },
+      "summary": "<p>Desperate to save her daughter, Hayley turns to Marcel for help uncovering information about the mysterious force that has set its sights on the children of New Orleans. While Klaus remains behind with Hope, Elijah and a reluctant Vincent join the hunt, which puts them on a dangerous collision course with an unlikely new threat. Finally, Freya and Keelin must put aside their differences as they embark on a journey that may alter the power dynamic in New Orleans forever.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1097768"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1097767,
+      "url": "https://www.tvmaze.com/episodes/1097767/the-originals-4x05-i-hear-you-knocking",
+      "name": "I Hear You Knocking",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2017-04-14",
+      "airtime": "20:00",
+      "airstamp": "2017-04-15T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/107/268123.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/268123.jpg"
+      },
+      "summary": "<p>After being marked by The Hollow's dark magic, both Klaus and Marcel experience the symptoms of a malevolent haunting, forcing the two adversaries on a violent collision course. Meanwhile, Hayley and Elijah head out to speak with Mary after Hayley uncovers a mysterious link between the dark magic and her former wolf pack. Finally, as an exhausted Freya risks her own life to cure Klaus' infection, a guilt-ridden Keelin must decide whether to honor her hypocratic oath and help Freya – or flee the Mikaelson's forever.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1097767"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1097769,
+      "url": "https://www.tvmaze.com/episodes/1097769/the-originals-4x06-bag-of-cobras",
+      "name": "Bag of Cobras",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2017-04-28",
+      "airtime": "20:00",
+      "airstamp": "2017-04-29T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/109/273604.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/109/273604.jpg"
+      },
+      "summary": "<p>When it's discovered that The Hollow has employed a mysterious servant to do its bidding, Klaus and Elijah host an elaborate party in order to lure the new threat out and uncover its identity. Feeling a sense of responsibility for The Hollow's resurgence, Vincent uses his magic to help the Mikaelsons root out this latest threat. Meanwhile, after uncovering information about who may have been behind her parents' death, Hayley turns to Freya to help unlock her memories from that fateful day. Marcel also appears.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1097769"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1097765,
+      "url": "https://www.tvmaze.com/episodes/1097765/the-originals-4x07-high-water-and-a-devils-daughter",
+      "name": "High Water and a Devil's Daughter",
+      "season": 4,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2017-05-05",
+      "airtime": "20:00",
+      "airstamp": "2017-05-06T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/110/276426.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/110/276426.jpg"
+      },
+      "summary": "<p>Freya places a protection spell on the compound when it's discovered that the Hollow's latest servant is on the loose, but it forces Klaus, Hayley and Hope to remain inside. Meanwhile, Elijah takes matters into his own hands when Vincent is reluctant to perform a dangerous ritual needed to strengthen their defense against the Hollow; and Freya enacts a risky plan that brings her face to face with their latest threat, but an unexpected twist leaves her life hanging in the balance.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1097765"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1105938,
+      "url": "https://www.tvmaze.com/episodes/1105938/the-originals-4x08-voodoo-in-my-blood",
+      "name": "Voodoo in My Blood",
+      "season": 4,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2017-05-12",
+      "airtime": "20:00",
+      "airstamp": "2017-05-13T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/111/278750.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/111/278750.jpg"
+      },
+      "summary": "<p>After being summoned by the ancestors, Hayley and Klaus travel to the ancestral world and come face to face with Davina, Klaus' former foe and the one person who holds the secrets to The Hollow's demise. Meanwhile, old wounds are re-opened when Elijah and Marcel are forced into an uneasy alliance. Together, they meet with Alaric who has tracked down a crucial artifact that could help in their fight against The Hollow.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1105938"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1097766,
+      "url": "https://www.tvmaze.com/episodes/1097766/the-originals-4x09-queen-death",
+      "name": "Queen Death",
+      "season": 4,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2017-05-19",
+      "airtime": "20:00",
+      "airstamp": "2017-05-20T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/112/281576.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/112/281576.jpg"
+      },
+      "summary": "<p>When The Hollow sends a terrifying message to Vincent, he must team with Haley and Freya to embark on a desperate mission to stop the Hollow once and for all - even if it requires a heartbreaking sacrifice. Refusing to allow anyone in his family to pay the high price of defeating their enemy, Klaus makes a surprising alliance and enacts a plan that threatens to change the Mikaelson family forever.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1097766"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1095706,
+      "url": "https://www.tvmaze.com/episodes/1095706/the-originals-4x10-phantomesque",
+      "name": "Phantomesque",
+      "season": 4,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2017-06-02",
+      "airtime": "20:00",
+      "airstamp": "2017-06-03T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/115/287702.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/115/287702.jpg"
+      },
+      "summary": "<p>Klaus requests that his estranged siblings Rebekah and Kol return home to stand by their family against The Hollow. Meanwhile, Freya recruits Hayley for a dangerous journey that will put both their lives at risk — but may be the sole means of saving someone they love. Elsewhere, tensions rise when Marcel leads a hunt for The Hollow — putting him on a collision course with the person he was least prepared to face. Finally, as Kol continues to mourn the loss of Davina, he is forced to consider the lengths he'd go to see her again.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1095706"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1149937,
+      "url": "https://www.tvmaze.com/episodes/1149937/the-originals-4x11-a-spirit-here-that-wont-be-broken",
+      "name": "A Spirit Here That Won't Be Broken",
+      "season": 4,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2017-06-09",
+      "airtime": "20:00",
+      "airstamp": "2017-06-10T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/115/288901.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/115/288901.jpg"
+      },
+      "summary": "<p>When it's discovered that The Hollow is using a magical totem to fuel her power, Freya enlists Rebekah and Klaus' help to locate and destroy it. Elsewhere, an ultimatum by The Hollow puts Kol at odds with his own siblings, while an unexpected run-in forces Marcel and Rebekah to confront the growing tension between them. Finally, The Hollow's plan for Hayley leaves her in the fight of her life.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1149937"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1095707,
+      "url": "https://www.tvmaze.com/episodes/1095707/the-originals-4x12-voodoo-child",
+      "name": "Voodoo Child",
+      "season": 4,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2017-06-16",
+      "airtime": "20:00",
+      "airstamp": "2017-06-17T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/117/292509.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/117/292509.jpg"
+      },
+      "summary": "<p>When The Hollow targets the most vulnerable Mikaelson, Klaus is forced to rely on Vincent, who believes he can use The Hollow's own dark magic to defeat their enemy for good. Meanwhile, as Marcel worries that Vincent's plan might backfire, the King of New Orleans decides on a deadly backup plan of his own. Elsewhere, after falling victim to The Hollow's manipulations, Hayley struggles to figure out Hope's future in New Orleans, while Freya must confront her darkest fear.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1095707"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1149938,
+      "url": "https://www.tvmaze.com/episodes/1149938/the-originals-4x13-the-feast-of-all-sinners",
+      "name": "The Feast of All Sinners",
+      "season": 4,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2017-06-23",
+      "airtime": "20:00",
+      "airstamp": "2017-06-24T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/118/295086.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/118/295086.jpg"
+      },
+      "summary": "<p>In an explosive season finale, the Mikaelsons find themselves out of options as they face the all-powerful and un-killable entity known as The Hollow. With the life of Hope at stake, Vincent proposes a final, desperate plan - one that will force Klaus, Elijah, Hayley, Rebekah and Freya to make the greatest sacrifice their family has ever endured.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1149938"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1266181,
+      "url": "https://www.tvmaze.com/episodes/1266181/the-originals-5x01-where-you-left-your-heart",
+      "name": "Where You Left Your Heart",
+      "season": 5,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2018-04-18",
+      "airtime": "21:00",
+      "airstamp": "2018-04-19T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/152/380941.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/152/380941.jpg"
+      },
+      "summary": "<p>Desperate to see her father Klaus after seven years, Hope resorts to drastic measures to bring her father back to New Orleans. Hayley attempts to minimize the fallout from Hope's actions, but not before news of what she's done ripples through the city. Meanwhile, Freya's guilt over not being able to reunite her family gets in the way of her happiness with Keelin, while Rebekah struggles with her inability to fully commit to Marcel. Finally, struggling without Elijah by his side, Klaus' murderous rampage throughout Europe leads to an unexpected encounter with Caroline Forbes.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1266181"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1266182,
+      "url": "https://www.tvmaze.com/episodes/1266182/the-originals-5x02-one-wrong-turn-on-bourbon",
+      "name": "One Wrong Turn on Bourbon",
+      "season": 5,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2018-04-25",
+      "airtime": "21:00",
+      "airstamp": "2018-04-26T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/153/384543.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/153/384543.jpg"
+      },
+      "summary": "<p>When a mysterious disappearance brings Klaus back to New Orleans, Hope looks forward to the prospect of seeing her father again. However, when the dark magic that had been keeping them apart begins to manifest in dangerous ways across the city, Vincent turns to Ivy for guidance about what it may mean. Elsewhere, Marcel returns to New Orleans amidst increased tensions between the supernatural factions, while Freya makes a decision about her future with Keelin. Finally, Roman's surprise visit to the Mikaelson compound forces Hope to reveal some dark truths about her family.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1266182"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1271666,
+      "url": "https://www.tvmaze.com/episodes/1271666/the-originals-5x03-ne-me-quitte-pas",
+      "name": "Ne Me Quitte Pas",
+      "season": 5,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2018-05-02",
+      "airtime": "21:00",
+      "airstamp": "2018-05-03T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/153/384551.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/153/384551.jpg"
+      },
+      "summary": "<p>In the immediate aftermath of having his memory erased by Marcel, Elijah awakens to find himself in the middle of nowhere and without a clue as to who he is. Unable to control his instinctive vampire ways, Elijah encounters Antoinette, a beautiful and free-spirited vampire, who helps him navigate his new life. However, a run-in with Klaus threatens to destroy the peace he's finally found.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1271666"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1274839,
+      "url": "https://www.tvmaze.com/episodes/1274839/the-originals-5x04-between-the-devil-and-the-deep-blue-sea",
+      "name": "Between the Devil and the Deep Blue Sea",
+      "season": 5,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2018-05-09",
+      "airtime": "21:00",
+      "airstamp": "2018-05-10T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/153/384554.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/153/384554.jpg"
+      },
+      "summary": "<p>Frustrated by the lack of progress made in the search for Hayley, Klaus turns up the heat by taking hostages from each of the three New Orleans supernatural factions. Freya goes to Mystic Falls to check on Hope, who has been sent back to the Salvatore School. Vincent seeks guidance from Ivy after learning that Klaus' erratic behavior is escalating.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1274839"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1274841,
+      "url": "https://www.tvmaze.com/episodes/1274841/the-originals-5x05-dont-it-just-break-your-heart",
+      "name": "Don't It Just Break Your Heart",
+      "season": 5,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2018-05-16",
+      "airtime": "21:00",
+      "airstamp": "2018-05-17T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/154/385493.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/154/385493.jpg"
+      },
+      "summary": "<p>A mysterious clue sent to Klaus leads him one step closer to finding Hayley. Antoinette opens up to Elijah after her past comes back to haunt her. Meanwhile, Marcel makes a decision that puts him at odds with Klaus. Finally, Hope takes matters into her own hands to fix the mess that she's created.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1274841"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1275824,
+      "url": "https://www.tvmaze.com/episodes/1275824/the-originals-5x06-what-will-i-have-left",
+      "name": "What, Will, I, Have, Left",
+      "season": 5,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2018-05-30",
+      "airtime": "20:00",
+      "airstamp": "2018-05-31T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/155/388723.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/155/388723.jpg"
+      },
+      "summary": "<p>After learning how she can get Hayley back, Hope sets off on a dangerous mission to end the mess she started. Klaus turns to Caroline for help when he discovers Hope's plan. Vincent and Freya clash over whether to let Declan in on New Orleans's supernatural secrets.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1275824"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1285303,
+      "url": "https://www.tvmaze.com/episodes/1285303/the-originals-5x07-gods-gonna-trouble-the-water",
+      "name": "God's Gonna Trouble the Water",
+      "season": 5,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2018-06-06",
+      "airtime": "21:00",
+      "airstamp": "2018-06-07T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/157/394516.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/157/394516.jpg"
+      },
+      "summary": "<p>Ivy reveals some startling news to Klaus about the dark magic that's been keeping him away from his family. Elijah turns to some unexpected allies to save Antoinette's life.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1285303"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1285304,
+      "url": "https://www.tvmaze.com/episodes/1285304/the-originals-5x08-the-kindness-of-strangers",
+      "name": "The Kindness of Strangers",
+      "season": 5,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2018-06-13",
+      "airtime": "21:00",
+      "airstamp": "2018-06-14T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/157/393454.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/157/393454.jpg"
+      },
+      "summary": "<p>As pressing matters rage on in New Orleans, the Mikaelson siblings find themselves forced to set aside their differences and work together to escape a \"chambre de chasse.\"</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1285304"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1333492,
+      "url": "https://www.tvmaze.com/episodes/1333492/the-originals-5x09-we-have-not-long-to-love",
+      "name": "We Have Not Long to Love",
+      "season": 5,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2018-06-20",
+      "airtime": "21:00",
+      "airstamp": "2018-06-21T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/158/395006.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/158/395006.jpg"
+      },
+      "summary": "<p>As Vincent, Marcel and Josh work to clean up the city, an uprising of purist vampires leads the supernatural factions into a deadly showdown. Hope's attempt to bring her family back together leaves her struggling with the consequences. Finally, Freya makes a life-changing decision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1333492"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1333493,
+      "url": "https://www.tvmaze.com/episodes/1333493/the-originals-5x10-there-in-the-disappearing-light",
+      "name": "There in the Disappearing Light",
+      "season": 5,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2018-07-11",
+      "airtime": "21:00",
+      "airstamp": "2018-07-12T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/159/399629.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/159/399629.jpg"
+      },
+      "summary": "<p>Klaus helps Hope cope with her pain in an unconventional way. A figure from Elijah's past comes back seeking help. Elsewhere, Marcel takes on the nightwalkers, while Vincent deals with the fallout of a fateful decision. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1333493"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1333494,
+      "url": "https://www.tvmaze.com/episodes/1333494/the-originals-5x11-til-the-day-i-die",
+      "name": "Til the Day I Die",
+      "season": 5,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2018-07-18",
+      "airtime": "20:00",
+      "airstamp": "2018-07-19T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/401720.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/401720.jpg"
+      },
+      "summary": "<p>Klaus turns to Davina for help to learn more about a mysterious affliction affecting Hope. On their wedding day, Freya and Keelin make a tough decision about their future together, while Elijah is forced to confront a past memory of Hayley. Finally, Declan's growing curiosity in the city's supernatural secrets forces Marcel to step in.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1333494"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1390042,
+      "url": "https://www.tvmaze.com/episodes/1390042/the-originals-5x12-the-tale-of-two-wolves",
+      "name": "The Tale of Two Wolves",
+      "season": 5,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2018-07-25",
+      "airtime": "20:00",
+      "airstamp": "2018-07-26T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/160/401729.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/160/401729.jpg"
+      },
+      "summary": "<p>With Hope facing a life-threatening affliction and deteriorating quickly, Klaus travels to Mystic Falls to seek help from Caroline. Tasked with keeping Hope preoccupied in Mystic Falls, Elijah comes to a heartbreaking realization about his niece. Meanwhile, at the Salvatore School for the Young and Gifted, a run-in with Alaric Saltzman throws a wrench into Klaus' plan.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1390042"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    },
+    {
+      "id": 1390043,
+      "url": "https://www.tvmaze.com/episodes/1390043/the-originals-5x13-when-the-saints-go-marching-in",
+      "name": "When the Saints Go Marching In",
+      "season": 5,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2018-08-01",
+      "airtime": "21:00",
+      "airstamp": "2018-08-02T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/163/407589.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/163/407589.jpg"
+      },
+      "summary": "<p>Intent on saving Hope's life, Klaus' plan will change the lives of the Mikaelson family forever.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1390043"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/62",
+          "name": "The Originals"
+        }
+      }
+    }
+  ]
+}

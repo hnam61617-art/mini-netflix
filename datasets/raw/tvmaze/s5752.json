@@ -1,0 +1,1205 @@
+{
+  "netflix_show_id": "s5752",
+  "netflix_title": "DEATH NOTE",
+  "search_url": "https://api.tvmaze.com/search/shows?q=DEATH%20NOTE",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title_country_year",
+  "reason": "exact_name_candidates=2",
+  "resolution_candidates": [
+    {
+      "id": 40,
+      "name": "Death Note",
+      "premiered": "2006-10-03",
+      "network": {
+        "id": 137,
+        "name": "NTV",
+        "country": {
+          "name": "Japan",
+          "code": "JP",
+          "timezone": "Asia/Tokyo"
+        },
+        "officialSite": null
+      }
+    },
+    {
+      "id": 4712,
+      "name": "Death Note",
+      "premiered": "2015-07-05",
+      "network": {
+        "id": 137,
+        "name": "NTV",
+        "country": {
+          "name": "Japan",
+          "code": "JP",
+          "timezone": "Asia/Tokyo"
+        },
+        "officialSite": null
+      }
+    },
+    {
+      "id": 26278,
+      "name": "Death Note: New Generation",
+      "premiered": "2016-09-16",
+      "network": null
+    },
+    {
+      "id": 47370,
+      "name": "Social Death Vote",
+      "premiered": "2018-05-19",
+      "network": {
+        "id": 718,
+        "name": "Channel 3",
+        "country": {
+          "name": "Thailand",
+          "code": "TH",
+          "timezone": "Asia/Bangkok"
+        },
+        "officialSite": null
+      }
+    },
+    {
+      "id": 81047,
+      "name": "Winter Is Not the Death of Summer, But the Birth of Spring",
+      "premiered": "2024-11-20",
+      "network": null
+    }
+  ],
+  "show": {
+    "id": 40,
+    "url": "https://www.tvmaze.com/shows/40/death-note",
+    "name": "Death Note",
+    "type": "Animation",
+    "language": "Japanese",
+    "genres": [
+      "Anime",
+      "Fantasy",
+      "Thriller"
+    ],
+    "status": "Ended",
+    "runtime": 30,
+    "averageRuntime": 30,
+    "premiered": "2006-10-03",
+    "ended": "2007-06-26",
+    "officialSite": "http://www.j-deathnote.com/",
+    "schedule": {
+      "time": "13:00",
+      "days": [
+        "Tuesday"
+      ]
+    },
+    "rating": {
+      "average": 8.8
+    },
+    "weight": 95,
+    "network": {
+      "id": 137,
+      "name": "NTV",
+      "country": {
+        "name": "Japan",
+        "code": "JP",
+        "timezone": "Asia/Tokyo"
+      },
+      "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 13555,
+      "thetvdb": 79481,
+      "imdb": "tt0877057"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/499/1249019.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/499/1249019.jpg"
+    },
+    "summary": "<p><b>Death Note </b>is an anime series based around a manga of the same name whereby a human finds a death god's notebook. Any person's name written in this notebook will die. The main character who finds this noteboook is Light Yagami who faces off against an unfaced character named L who tries to challenge him.</p>",
+    "updated": 1765767086,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/40"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1865",
+        "name": "New World"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/40/episodes",
+  "episodes": [
+    {
+      "id": 1829,
+      "url": "https://www.tvmaze.com/episodes/1829/death-note-1x01-rebirth",
+      "name": "Rebirth",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2006-10-03",
+      "airtime": "13:00",
+      "airstamp": "2006-10-03T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1338363.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1338363.jpg"
+      },
+      "summary": "<p>Brilliant but bored high school student Light Yagami suddenly finds himself holding the power of life and death in his hands.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1829"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1830,
+      "url": "https://www.tvmaze.com/episodes/1830/death-note-1x02-confrontation",
+      "name": "Confrontation",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2006-10-10",
+      "airtime": "13:00",
+      "airstamp": "2006-10-10T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1338373.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1338373.jpg"
+      },
+      "summary": "<p>While the world's criminals continue to drop dead, L meets by computer with representatives from various nations.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1830"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1831,
+      "url": "https://www.tvmaze.com/episodes/1831/death-note-1x03-dealings",
+      "name": "Dealings",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2006-10-17",
+      "airtime": "13:00",
+      "airstamp": "2006-10-17T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1338602.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1338602.jpg"
+      },
+      "summary": "<p>Ryuk, the Shinigami, or god of death, who dropped the Death Note into the human world, warns Light that someone is on his trail.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1831"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1832,
+      "url": "https://www.tvmaze.com/episodes/1832/death-note-1x04-pursuit",
+      "name": "Pursuit",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2006-10-24",
+      "airtime": "13:00",
+      "airstamp": "2006-10-24T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1338608.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1338608.jpg"
+      },
+      "summary": "<p>Light--now known to the world as Kira--tests the Death Note to understand the scope of its powers by killing off six convicts in various ways...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1832"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1833,
+      "url": "https://www.tvmaze.com/episodes/1833/death-note-1x05-tactics",
+      "name": "Tactics",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2006-10-31",
+      "airtime": "13:00",
+      "airstamp": "2006-10-31T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1338616.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1338616.jpg"
+      },
+      "summary": "<p>Soichiro Yagami demands to meet with L in person when he finds out that L has secretly brought FBI agents into Japan.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1833"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1834,
+      "url": "https://www.tvmaze.com/episodes/1834/death-note-1x06-unraveling",
+      "name": "Unraveling",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2006-11-07",
+      "airtime": "13:00",
+      "airstamp": "2006-11-07T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1338643.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1338643.jpg"
+      },
+      "summary": "<p>Light meets a woman at the Police Department with an urgent message for the Kira task force.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1834"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1835,
+      "url": "https://www.tvmaze.com/episodes/1835/death-note-1x07-overcast",
+      "name": "Overcast",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2006-11-14",
+      "airtime": "13:00",
+      "airstamp": "2006-11-14T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1338649.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1338649.jpg"
+      },
+      "summary": "<p>Light uses the Death Note to try to get rid of the woman who could get him captured, and is shocked when it doesn't work.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1835"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1836,
+      "url": "https://www.tvmaze.com/episodes/1836/death-note-1x08-glare",
+      "name": "Glare",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2006-11-21",
+      "airtime": "13:00",
+      "airstamp": "2006-11-21T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1338659.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1338659.jpg"
+      },
+      "summary": "<p>L insists on setting up bugs and cameras in the homes of Chief Yagami and Deputy Director Kitamura...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1836"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1837,
+      "url": "https://www.tvmaze.com/episodes/1837/death-note-1x09-encounter",
+      "name": "Encounter",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2006-11-28",
+      "airtime": "13:00",
+      "airstamp": "2006-11-28T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1338689.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1338689.jpg"
+      },
+      "summary": "<p>The murders continue, and L grows suspicious of Light's too-perfect behavior and decides to investigate him on his own.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1837"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1838,
+      "url": "https://www.tvmaze.com/episodes/1838/death-note-1x10-doubt",
+      "name": "Doubt",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2006-12-05",
+      "airtime": "13:00",
+      "airstamp": "2006-12-05T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339058.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339058.jpg"
+      },
+      "summary": "<p>L's suspicion of Light deepens, compelling him to invite Light into the investigation.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1838"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1839,
+      "url": "https://www.tvmaze.com/episodes/1839/death-note-1x11-assault",
+      "name": "Assault",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2006-12-12",
+      "airtime": "13:00",
+      "airstamp": "2006-12-12T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339063.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339063.jpg"
+      },
+      "summary": "<p>As predicted on the tapes sent to Sakura TV, news anchors and commentators who expressed doubt about Kira die one by one.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1839"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1840,
+      "url": "https://www.tvmaze.com/episodes/1840/death-note-1x12-love",
+      "name": "Love",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2006-12-26",
+      "airtime": "13:00",
+      "airstamp": "2006-12-26T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339271.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339271.jpg"
+      },
+      "summary": "<p>With a second Kira now on the loose, L asks Light to join the task force and pose as the real Kira in order to catch the copycat.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1840"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1841,
+      "url": "https://www.tvmaze.com/episodes/1841/death-note-1x13-confession",
+      "name": "Confession",
+      "season": 1,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2007-01-09",
+      "airtime": "13:00",
+      "airstamp": "2007-01-09T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339301.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339301.jpg"
+      },
+      "summary": "<p>Light goes to Aoyama to discover the identity of the second Kira before L becomes more suspicious.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1841"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1842,
+      "url": "https://www.tvmaze.com/episodes/1842/death-note-1x14-friend",
+      "name": "Friend",
+      "season": 1,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2007-01-16",
+      "airtime": "13:00",
+      "airstamp": "2007-01-16T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339308.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339308.jpg"
+      },
+      "summary": "<p>Light and Misa show each other their Death Notes, and Light asks Misa to have her shinigami Rem get rid of L.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1842"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1843,
+      "url": "https://www.tvmaze.com/episodes/1843/death-note-1x15-wager",
+      "name": "Wager",
+      "season": 1,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2007-01-23",
+      "airtime": "13:00",
+      "airstamp": "2007-01-23T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339317.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339317.jpg"
+      },
+      "summary": "<p>Evidence turns up that points to Misa Amane as the second Kira.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1843"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1844,
+      "url": "https://www.tvmaze.com/episodes/1844/death-note-1x16-decision",
+      "name": "Decision",
+      "season": 1,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2007-01-30",
+      "airtime": "13:00",
+      "airstamp": "2007-01-30T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339549.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339549.jpg"
+      },
+      "summary": "<p>Misa is in confinement, though her memories of the Death Note have been completely wiped away.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1844"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1845,
+      "url": "https://www.tvmaze.com/episodes/1845/death-note-1x17-execution",
+      "name": "Execution",
+      "season": 1,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2007-02-06",
+      "airtime": "13:00",
+      "airstamp": "2007-02-06T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339555.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339555.jpg"
+      },
+      "summary": "<p>After fifty days of confinement the killings continue, and Misa and Light are released.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1845"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1846,
+      "url": "https://www.tvmaze.com/episodes/1846/death-note-1x18-ally",
+      "name": "Ally",
+      "season": 1,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2007-02-13",
+      "airtime": "13:00",
+      "airstamp": "2007-02-13T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339613.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339613.jpg"
+      },
+      "summary": "<p>Though L is still suspicious, Light and Misa, their memories of being Kira wiped clean, return to headquarters...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1846"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1847,
+      "url": "https://www.tvmaze.com/episodes/1847/death-note-1x19-matsuda",
+      "name": "Matsuda",
+      "season": 1,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2007-02-20",
+      "airtime": "13:00",
+      "airstamp": "2007-02-20T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339627.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339627.jpg"
+      },
+      "summary": "<p>Matsuda, the task force member assigned to watch Misa, is eager to distinguish himself...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1847"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1848,
+      "url": "https://www.tvmaze.com/episodes/1848/death-note-1x20-makeshift",
+      "name": "Makeshift",
+      "season": 1,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2007-02-27",
+      "airtime": "13:00",
+      "airstamp": "2007-02-27T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/535/1339887.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339887.jpg"
+      },
+      "summary": "<p>L's team discovers that the Yotsuba Group meet in secret to discuss the elimination of individuals who are troublesome to their company...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1848"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1849,
+      "url": "https://www.tvmaze.com/episodes/1849/death-note-1x21-performance",
+      "name": "Performance",
+      "season": 1,
+      "number": 21,
+      "type": "regular",
+      "airdate": "2007-03-06",
+      "airtime": "13:00",
+      "airstamp": "2007-03-06T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/536/1341932.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/536/1341932.jpg"
+      },
+      "summary": "<p>The Yotsuba Group hires Eraldo Coil to uncover L's identity.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1849"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1850,
+      "url": "https://www.tvmaze.com/episodes/1850/death-note-1x22-guidance",
+      "name": "Guidance",
+      "season": 1,
+      "number": 22,
+      "type": "regular",
+      "airdate": "2007-03-13",
+      "airtime": "13:00",
+      "airstamp": "2007-03-13T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/536/1341934.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/536/1341934.jpg"
+      },
+      "summary": "<p>Misa succeeds in narrowing down the Kira suspects in the Yotsuba Group to one: Higuchi.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1850"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1851,
+      "url": "https://www.tvmaze.com/episodes/1851/death-note-1x23-frenzy",
+      "name": "Frenzy",
+      "season": 1,
+      "number": 23,
+      "type": "regular",
+      "airdate": "2007-03-20",
+      "airtime": "13:00",
+      "airstamp": "2007-03-20T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342652.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342652.jpg"
+      },
+      "summary": "<p>Higuchi of the Yotsuba Group attempts to kill Matsuda of the task force, and is surprised when he doesn't die after 40 seconds.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1851"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1852,
+      "url": "https://www.tvmaze.com/episodes/1852/death-note-1x24-revival",
+      "name": "Revival",
+      "season": 1,
+      "number": 24,
+      "type": "regular",
+      "airdate": "2007-03-27",
+      "airtime": "13:00",
+      "airstamp": "2007-03-27T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342661.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342661.jpg"
+      },
+      "summary": "<p>Higuchi is captured and tells the investigators about the Death Note.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1852"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1853,
+      "url": "https://www.tvmaze.com/episodes/1853/death-note-1x25-silence",
+      "name": "Silence",
+      "season": 1,
+      "number": 25,
+      "type": "regular",
+      "airdate": "2007-04-03",
+      "airtime": "13:00",
+      "airstamp": "2007-04-03T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342664.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342664.jpg"
+      },
+      "summary": "<p>Light, his memory recovered, orders Misa to begin killing after Higuchi dies.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1853"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1854,
+      "url": "https://www.tvmaze.com/episodes/1854/death-note-1x26-renewal",
+      "name": "Renewal",
+      "season": 1,
+      "number": 26,
+      "type": "regular",
+      "airdate": "2007-04-10",
+      "airtime": "13:00",
+      "airstamp": "2007-04-10T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342667.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342667.jpg"
+      },
+      "summary": "<p>Light has removed everyone in his way and is closer to achieving his perfect world.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1854"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1855,
+      "url": "https://www.tvmaze.com/episodes/1855/death-note-1x27-abduction",
+      "name": "Abduction",
+      "season": 1,
+      "number": 27,
+      "type": "regular",
+      "airdate": "2007-04-17",
+      "airtime": "13:00",
+      "airstamp": "2007-04-17T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342681.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342681.jpg"
+      },
+      "summary": "<p>A new investigator steps forward--Near, a central figure in the SPK, an organization that is trying to catch Kira without relying on L.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1855"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1856,
+      "url": "https://www.tvmaze.com/episodes/1856/death-note-1x28-impatience",
+      "name": "Impatience",
+      "season": 1,
+      "number": 28,
+      "type": "regular",
+      "airdate": "2007-04-24",
+      "airtime": "13:00",
+      "airstamp": "2007-04-24T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342916.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342916.jpg"
+      },
+      "summary": "<p>Light, acting as L, reveals to Near that his sister Sayu has been kidnapped by someone wanting to trade her for the Death Note.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1856"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1857,
+      "url": "https://www.tvmaze.com/episodes/1857/death-note-1x29-father",
+      "name": "Father",
+      "season": 1,
+      "number": 29,
+      "type": "regular",
+      "airdate": "2007-05-01",
+      "airtime": "13:00",
+      "airstamp": "2007-05-01T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342920.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342920.jpg"
+      },
+      "summary": "<p>Light tries to discover where Mello and his Mafia associates are hiding and uses Misa's eyes to find the Death Note's current owner.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1857"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1858,
+      "url": "https://www.tvmaze.com/episodes/1858/death-note-1x30-justice",
+      "name": "Justice",
+      "season": 1,
+      "number": 30,
+      "type": "regular",
+      "airdate": "2007-05-08",
+      "airtime": "13:00",
+      "airstamp": "2007-05-08T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342938.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342938.jpg"
+      },
+      "summary": "<p>Mello busts into SPK headquarters to retrieve a photograph of himself to make sure he won't be killed by Kira.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1858"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1859,
+      "url": "https://www.tvmaze.com/episodes/1859/death-note-1x31-transfer",
+      "name": "Transfer",
+      "season": 1,
+      "number": 31,
+      "type": "regular",
+      "airdate": "2007-05-15",
+      "airtime": "13:00",
+      "airstamp": "2007-05-15T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342939.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342939.jpg"
+      },
+      "summary": "<p>Near contacts the Japanese task force and determines that Kira is among their members.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1859"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1860,
+      "url": "https://www.tvmaze.com/episodes/1860/death-note-1x32-selection",
+      "name": "Selection",
+      "season": 1,
+      "number": 32,
+      "type": "regular",
+      "airdate": "2007-05-22",
+      "airtime": "13:00",
+      "airstamp": "2007-05-22T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342957.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342957.jpg"
+      },
+      "summary": "<p>Star newscaster Kiyomi Takada becomes Kira's spokesperson to the world...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1860"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1861,
+      "url": "https://www.tvmaze.com/episodes/1861/death-note-1x33-scorn",
+      "name": "Scorn",
+      "season": 1,
+      "number": 33,
+      "type": "regular",
+      "airdate": "2007-05-29",
+      "airtime": "13:00",
+      "airstamp": "2007-05-29T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342979.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342979.jpg"
+      },
+      "summary": "<p>Light pretends to investigate Kiyomi...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1861"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1862,
+      "url": "https://www.tvmaze.com/episodes/1862/death-note-1x34-vigilance",
+      "name": "Vigilance",
+      "season": 1,
+      "number": 34,
+      "type": "regular",
+      "airdate": "2007-06-05",
+      "airtime": "13:00",
+      "airstamp": "2007-06-05T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1342995.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1342995.jpg"
+      },
+      "summary": "<p>Aizawa figures out what's going on and tells Near, who already knows about the notes.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1862"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1863,
+      "url": "https://www.tvmaze.com/episodes/1863/death-note-1x35-malice",
+      "name": "Malice",
+      "season": 1,
+      "number": 35,
+      "type": "regular",
+      "airdate": "2007-06-12",
+      "airtime": "13:00",
+      "airstamp": "2007-06-12T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1343132.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1343132.jpg"
+      },
+      "summary": "<p>Light gives Kiyomi the order to finish off Near.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1863"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1864,
+      "url": "https://www.tvmaze.com/episodes/1864/death-note-1x36-128",
+      "name": "1.28",
+      "season": 1,
+      "number": 36,
+      "type": "regular",
+      "airdate": "2007-06-19",
+      "airtime": "13:00",
+      "airstamp": "2007-06-19T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1343139.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1343139.jpg"
+      },
+      "summary": "<p>Near, along with the SPK, meets Light and the task force at a warehouse for the final showdown.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1864"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    },
+    {
+      "id": 1865,
+      "url": "https://www.tvmaze.com/episodes/1865/death-note-1x37-new-world",
+      "name": "New World",
+      "season": 1,
+      "number": 37,
+      "type": "regular",
+      "airdate": "2007-06-26",
+      "airtime": "13:00",
+      "airstamp": "2007-06-26T04:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/537/1343153.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/537/1343153.jpg"
+      },
+      "summary": "<p>Though Mikami has written all the investigators' names in the Death Note, 40 seconds pass and everyone is still alive.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1865"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/40",
+          "name": "Death Note"
+        }
+      }
+    }
+  ],
+  "resolution": "exact_title + compatible premiere year + source country"
+}

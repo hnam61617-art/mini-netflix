@@ -1,0 +1,11 @@
+{
+  "sql/01_schema.sql": "b7d65509fb3409bbc842218499544003c3b3c4e04d4f3d926652c7942ff02948",
+  "sql/03_queries.sql": "010a90fb1d1378b87eb49293c44902ba0c1159e18668244f773d871039d59724",
+  "sql/04_roles.sql": "9f31633a5675814b4c6c75c02714ea9340bd011f027e8d49e2cc65b8d241add5",
+  "queries.json": "56f6aa5fe85699dcffa61cdc1f2a73add3c94fc176f08e3f4ee4b8f3ee1fef45",
+  "verify.py": "382017ca563ae7336d88a28ccfc962a62776a1724704e4125f509d340039a6bf",
+  "verify_demo.py": "1d9abbca899f7af2828e7165d9eb3323cf1091dbb4ff7b87db16be6695c6769e",
+  "verify_semantics.py": "a0cc720ea5e3921febc1c7fb5d09f0b4997ae7cd62f2f664c4f3e0b832fc292d",
+  "verify_renewal.py": "10c7862e3f9bafc48961dad85d4a4d60d75de460d63f28e14bee10a2a9253596",
+  "docs/bao_cao_do_an.docx": "a6605c27bfabe6d0a9d028b97e293e0c279b0d1fc5eab4e71730db429ee47c77"
+}

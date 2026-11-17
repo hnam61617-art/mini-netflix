@@ -1,0 +1,4 @@
+{
+  "password_hash": "scrypt:32768:8:1$gKBcFaoNvLpiGxJQ$95293bd16898b8dae1b54b36064009e93c353753e991ab749840e09683f54983e8ecd16f2abd3ab0a8a085b949c6af270c2e799497b84788ad61e329913d0abf",
+  "purpose": "Technical login credential; not source identity"
+}

@@ -1,0 +1,43 @@
+{
+  "table_counts": {
+    "users": 13,
+    "profiles": 13,
+    "subscription_tiers": 3,
+    "subscriptions": 0,
+    "payments": 0,
+    "contents": 8807,
+    "movies": 6131,
+    "tv_series": 2676,
+    "episodes": 2468,
+    "genres": 46,
+    "content_genres": 26487,
+    "watch_lists": 0,
+    "watch_histories": 1694
+  },
+  "total_rows": 48338,
+  "source_catalog_rows": 8807,
+  "source_watch_rows": 10897,
+  "matched_events_before_latest": 3743,
+  "latest_histories": 1694,
+  "repeated_matched_events_collapsed": 2049,
+  "rejected_watch_events": 7154,
+  "rejected_reasons": {
+    "unmatched_or_ambiguous_title_episode_or_runtime": 4900,
+    "supplemental_trailer": 417,
+    "supplemental_hook": 1576,
+    "supplemental_teaser_trailer": 107,
+    "supplemental_promotional": 129,
+    "supplemental_recap": 12,
+    "supplemental_cinemagraph": 12,
+    "supplemental_character": 1
+  },
+  "imported_series_with_episodes": 34,
+  "date_released_nulls": 8773,
+  "technical_accounts": 13,
+  "empty_tables": [
+    "subscriptions",
+    "payments",
+    "watch_lists"
+  ],
+  "report_sha256": "a6605c27bfabe6d0a9d028b97e293e0c279b0d1fc5eab4e71730db429ee47c77"
+}

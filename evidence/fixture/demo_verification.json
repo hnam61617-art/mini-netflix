@@ -1,0 +1,122 @@
+[
+  {
+    "code": "APP01",
+    "name": "Trang đăng nhập",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "APP02",
+    "name": "Từ chối thiếu CSRF",
+    "passed": true,
+    "actual": "400"
+  },
+  {
+    "code": "APP03",
+    "name": "Từ chối sai mật khẩu",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "APP04",
+    "name": "Đăng nhập bằng mật khẩu đã băm",
+    "passed": true,
+    "actual": "302"
+  },
+  {
+    "code": "APP05",
+    "name": "Đọc danh mục và lịch sử từ MySQL",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "APP06",
+    "name": "Không đọc hồ sơ tài khoản khác",
+    "passed": true,
+    "actual": "403"
+  },
+  {
+    "code": "APP07",
+    "name": "Không sửa danh sách hồ sơ khác",
+    "passed": true,
+    "actual": "403"
+  },
+  {
+    "code": "APP08",
+    "name": "Không tạo quá max_profile",
+    "passed": true,
+    "actual": "409"
+  },
+  {
+    "code": "APP09",
+    "name": "Thêm lại xem sau không sinh bản ghi trùng",
+    "passed": true,
+    "actual": "302"
+  },
+  {
+    "code": "APP10",
+    "name": "Từ chối tiến độ vượt miền",
+    "passed": true,
+    "actual": "400"
+  },
+  {
+    "code": "APP11",
+    "name": "Ghi tiến độ hợp lệ qua ứng dụng",
+    "passed": true,
+    "actual": "302"
+  },
+  {
+    "code": "APP12",
+    "name": "Duy nhất lịch sử phim và hoàn thành tại 90%",
+    "passed": true,
+    "actual": "(1, Decimal('90.00'))"
+  },
+  {
+    "code": "APP13",
+    "name": "Không vượt chất lượng SD của gói cơ bản",
+    "passed": true,
+    "actual": "403"
+  },
+  {
+    "code": "APP14",
+    "name": "Mở phiên đúng giới hạn",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "APP15",
+    "name": "Từ chối thiết bị thứ hai của gói 1 thiết bị",
+    "passed": true,
+    "actual": "409"
+  },
+  {
+    "code": "APP16",
+    "name": "Phiên hết heartbeat được loại khỏi bộ đếm",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "APP17",
+    "name": "Hết hạn gói không được ghi tiến độ xem",
+    "passed": true,
+    "actual": "403"
+  },
+  {
+    "code": "APP18",
+    "name": "Tạo nội dung thiếu thể loại bị từ chối",
+    "passed": true,
+    "actual": "ValueError"
+  },
+  {
+    "code": "APP19",
+    "name": "Không gỡ thể loại cuối cùng",
+    "passed": true,
+    "actual": "ROLLBACK"
+  },
+  {
+    "code": "APP20",
+    "name": "Tạo nội dung có đúng lớp con và thể loại",
+    "passed": true,
+    "actual": "(1, 1)"
+  }
+]

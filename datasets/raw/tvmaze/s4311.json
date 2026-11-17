@@ -1,0 +1,1051 @@
+{
+  "netflix_show_id": "s4311",
+  "netflix_title": "Travelers",
+  "search_url": "https://api.tvmaze.com/search/shows?q=Travelers",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 15996,
+    "url": "https://www.tvmaze.com/shows/15996/travelers",
+    "name": "Travelers",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Action",
+      "Science-Fiction"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 56,
+    "premiered": "2016-10-17",
+    "ended": "2018-12-14",
+    "officialSite": "https://www.netflix.com/title/80105699",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 8.1
+    },
+    "weight": 99,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 314544,
+      "imdb": "tt5651844"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/176/441314.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/441314.jpg"
+    },
+    "summary": "<p>Hundreds of years from now, the last surviving humans discover the means of sending consciousness back through time, directly into people in the 21st century. These <b>Travelers</b> assume the lives of seemingly random people, while secretly working as teams to perform missions in order to save humanity from a terrible future.</p><p>These travelers are: FBI Special Agent Grant MacLaren, the team's leader; Marcy, a young, intellectually disabled woman in the care of her social worker, David; Trevor, a high school quarterback; Carly, a single mom in an abusive relationship; and Philip, a heroin-addicted college student.</p><p>Armed only with their knowledge of history and an archive of social media profiles, the travelers discover that 21st century lives and relationships are as much a challenge as their high-stakes missions.</p>",
+    "updated": 1757479476,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/15996"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1577910",
+        "name": "Protocol Omega"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/15996/episodes",
+  "episodes": [
+    {
+      "id": 908199,
+      "url": "https://www.tvmaze.com/episodes/908199/travelers-1x01-travelers",
+      "name": "Travelers",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2016-10-17",
+      "airtime": "21:00",
+      "airstamp": "2016-10-18T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/507/1268845.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/507/1268845.jpg"
+      },
+      "summary": "<p>Five strangers become an elite team of secret operatives when time travelers take over their conscious minds.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/908199"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 914879,
+      "url": "https://www.tvmaze.com/episodes/914879/travelers-1x02-protocol-6",
+      "name": "Protocol 6",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2016-10-24",
+      "airtime": "21:00",
+      "airstamp": "2016-10-25T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/587/1467594.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/587/1467594.jpg"
+      },
+      "summary": "<p>The team's first mission goes awry when a fatal mistake leaves them holding a ticking time bomb.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/914879"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 964278,
+      "url": "https://www.tvmaze.com/episodes/964278/travelers-1x03-aleksander",
+      "name": "Aleksander",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2016-10-31",
+      "airtime": "21:00",
+      "airstamp": "2016-11-01T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/83/207781.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/83/207781.jpg"
+      },
+      "summary": "<p>A team member buckles under the guilt of not being allowed to prevent future deaths and puts the travelers in jeopardy.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/964278"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 964279,
+      "url": "https://www.tvmaze.com/episodes/964279/travelers-1x04-hall",
+      "name": "Hall",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2016-11-07",
+      "airtime": "21:00",
+      "airstamp": "2016-11-08T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/83/209648.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/83/209648.jpg"
+      },
+      "summary": "<p>MacLaren's leadership is challenged when he's directed to assist a more experienced team of travelers that wants to join forces.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/964279"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 964280,
+      "url": "https://www.tvmaze.com/episodes/964280/travelers-1x05-room-101",
+      "name": "Room 101",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2016-11-14",
+      "airtime": "21:00",
+      "airstamp": "2016-11-15T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/84/212002.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/84/212002.jpg"
+      },
+      "summary": "<p>MacLaren is on his own as he fights to unravel the mystery of his team's sudden disappearance.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/964280"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 964281,
+      "url": "https://www.tvmaze.com/episodes/964281/travelers-1x06-helios-685",
+      "name": "Helios-685",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2016-11-21",
+      "airtime": "21:00",
+      "airstamp": "2016-11-22T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/85/214643.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/85/214643.jpg"
+      },
+      "summary": "<p>Team tackles their primary mission: to stop a cataclysmic event that will change the course of human history.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/964281"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 964282,
+      "url": "https://www.tvmaze.com/episodes/964282/travelers-1x07-protocol-5",
+      "name": "Protocol 5",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2016-11-28",
+      "airtime": "21:00",
+      "airstamp": "2016-11-29T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/86/216714.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/86/216714.jpg"
+      },
+      "summary": "<p>The team struggles to live 21st century lives as they're faced with the prospect that their missions might be over for good.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/964282"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 964283,
+      "url": "https://www.tvmaze.com/episodes/964283/travelers-1x08-donner",
+      "name": "Donner",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2016-12-05",
+      "airtime": "21:00",
+      "airstamp": "2016-12-06T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/88/220139.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/88/220139.jpg"
+      },
+      "summary": "<p>MacLaren has to find a lone bomber who kills a newly arrived group of travelers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/964283"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 964284,
+      "url": "https://www.tvmaze.com/episodes/964284/travelers-1x09-bishop",
+      "name": "Bishop",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2016-12-12",
+      "airtime": "21:00",
+      "airstamp": "2016-12-13T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/89/222548.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/89/222548.jpg"
+      },
+      "summary": "<p>The Director orders an assassination and MacLaren is kept on a tight leash.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/964284"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 964285,
+      "url": "https://www.tvmaze.com/episodes/964285/travelers-1x10-kathryn",
+      "name": "Kathryn",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2016-12-19",
+      "airtime": "21:00",
+      "airstamp": "2016-12-20T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/89/224919.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/89/224919.jpg"
+      },
+      "summary": "<p>On the brink of death, MacLaren slips in and out of his host's memories.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/964285"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 964286,
+      "url": "https://www.tvmaze.com/episodes/964286/travelers-1x11-marcy",
+      "name": "Marcy",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2016-12-26",
+      "airtime": "21:00",
+      "airstamp": "2016-12-27T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/90/226893.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/90/226893.jpg"
+      },
+      "summary": "<p>Trevor defies the Director while the team contends with Marcy's inevitable death.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/964286"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 964287,
+      "url": "https://www.tvmaze.com/episodes/964287/travelers-1x12-grace",
+      "name": "Grace",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2017-01-02",
+      "airtime": "21:00",
+      "airstamp": "2017-01-03T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/90/227194.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/90/227194.jpg"
+      },
+      "summary": "<p>An assassin traveler arrives in the present, exposing the truth about a disturbing schism between warring factions that is unfolding in the future.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/964287"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1266310,
+      "url": "https://www.tvmaze.com/episodes/1266310/travelers-2x01-ave-machina",
+      "name": "Ave Machina",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2017-10-16",
+      "airtime": "21:00",
+      "airstamp": "2017-10-17T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/131/329225.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/131/329225.jpg"
+      },
+      "summary": "<p>Grant MacLaren and his team find themselves in FBI custody with no means of escape, while a mysterious new traveler reveals secrets to his psychiatrist.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1266310"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1333797,
+      "url": "https://www.tvmaze.com/episodes/1333797/travelers-2x02-protocol-4",
+      "name": "Protocol 4",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2017-10-23",
+      "airtime": "21:00",
+      "airstamp": "2017-10-24T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/132/331090.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/132/331090.jpg"
+      },
+      "summary": "<p>Philip makes an unexpected connection, Marcy helps David cope with his trauma, and MacLaren discovers a shocking truth that Kathryn has been hiding from him. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1333797"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1333798,
+      "url": "https://www.tvmaze.com/episodes/1333798/travelers-2x03-jacob",
+      "name": "Jacob",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2017-10-30",
+      "airtime": "21:00",
+      "airstamp": "2017-10-31T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/133/333413.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/133/333413.jpg"
+      },
+      "summary": "<p>After tracking down a missing traveler, the team is led to some disturbing answers about their kidnapping. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1333798"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1334592,
+      "url": "https://www.tvmaze.com/episodes/1334592/travelers-2x04-1127",
+      "name": "11:27",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2017-11-06",
+      "airtime": "21:00",
+      "airstamp": "2017-11-07T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/134/335492.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/134/335492.jpg"
+      },
+      "summary": "<p>MacLaren and the team must help a fellow traveler plan his own assassination, while helping an unsuspecting activist complete a deadly mission.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1334592"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1344271,
+      "url": "https://www.tvmaze.com/episodes/1344271/travelers-2x05-jenny",
+      "name": "Jenny",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2017-11-13",
+      "airtime": "21:00",
+      "airstamp": "2017-11-14T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/135/337638.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/135/337638.jpg"
+      },
+      "summary": "<p>A deadly disease is spreading around the world, and the travelers must get to the bottom of where it came from and how to stop it, before it's too late. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1344271"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1344274,
+      "url": "https://www.tvmaze.com/episodes/1344274/travelers-2x06-u235",
+      "name": "U235",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2017-11-20",
+      "airtime": "21:00",
+      "airstamp": "2017-11-21T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/135/339953.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/135/339953.jpg"
+      },
+      "summary": "<p>With the unknown virus rapidly spreading, the team is left with only one option in order to save The Director hundreds of years in the future. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1344274"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1334593,
+      "url": "https://www.tvmaze.com/episodes/1334593/travelers-2x07-17-minutes",
+      "name": "17 Minutes",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2017-11-27",
+      "airtime": "21:00",
+      "airstamp": "2017-11-28T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/136/341991.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/136/341991.jpg"
+      },
+      "summary": "<p>A skydiving traveler must try, repeatedly, to save our team from a horrible fate. </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1334593"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1344275,
+      "url": "https://www.tvmaze.com/episodes/1344275/travelers-2x08-traveler-0027",
+      "name": "Traveler 0027",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2017-12-04",
+      "airtime": "21:00",
+      "airstamp": "2017-12-05T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/137/343902.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/137/343902.jpg"
+      },
+      "summary": "<p>After receiving an unusual message to attend a court proceeding, the travelers find that one of their own is on trial for conspiring against The Director and interrupting the Grand Plan.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1344275"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1344276,
+      "url": "https://www.tvmaze.com/episodes/1344276/travelers-2x09-update",
+      "name": "Update",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2017-12-11",
+      "airtime": "21:00",
+      "airstamp": "2017-12-12T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/138/345934.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/138/345934.jpg"
+      },
+      "summary": "<p>Philip's timeline receives an update with some unwanted side effects, Trevor makes a disturbing discovery about his host's past, and MacLaren deals with the return of a traveler he thought had gone away for good.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1344276"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1340617,
+      "url": "https://www.tvmaze.com/episodes/1340617/travelers-2x10-21c",
+      "name": "21C",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2017-12-11",
+      "airtime": "22:00",
+      "airstamp": "2017-12-12T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/139/347765.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/139/347765.jpg"
+      },
+      "summary": "<p>While MacLaren, Carly, Trevor, and Philip work with another traveler team to protect a child important to the future, Marcy takes measures to remember her past life – but uncovers more than she bargained for.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1340617"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1340618,
+      "url": "https://www.tvmaze.com/episodes/1340618/travelers-2x11-simon",
+      "name": "Simon",
+      "season": 2,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2017-12-18",
+      "airtime": "21:00",
+      "airstamp": "2017-12-19T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/139/349828.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/139/349828.jpg"
+      },
+      "summary": "<p>When the team meets Simon, a homeless man with a startling history, they're led down a path that leads directly to the very first traveler.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1340618"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1340619,
+      "url": "https://www.tvmaze.com/episodes/1340619/travelers-2x12-001",
+      "name": "001",
+      "season": 2,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2017-12-18",
+      "airtime": "22:00",
+      "airstamp": "2017-12-19T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/139/349870.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/139/349870.jpg"
+      },
+      "summary": "<p>In the season finale, the travelers must follow the rules of a madman in order to rescue their kidnapped loved ones and ensure the traveler program isn't exposed to the world.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1340619"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1564961,
+      "url": "https://www.tvmaze.com/episodes/1564961/travelers-3x01-ilsa",
+      "name": "Ilsa",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2018-12-14",
+      "airtime": "",
+      "airstamp": "2018-12-14T12:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443061.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443061.jpg"
+      },
+      "summary": "<p>MacLaren, his team and their loved ones regroup at a safe house protected by the FBI, but doubts and betrayals may sabotage the rest of their mission.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1564961"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1577888,
+      "url": "https://www.tvmaze.com/episodes/1577888/travelers-3x02-yates",
+      "name": "Yates",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2018-12-14",
+      "airtime": "",
+      "airstamp": "2018-12-14T12:00:00+00:00",
+      "runtime": 48,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443062.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443062.jpg"
+      },
+      "summary": "<p>MacLaren and Yates adjust to their new partnership while protecting a TV show host whose inflammatory rhetoric about Travelers has led to tragedy.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1577888"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1577889,
+      "url": "https://www.tvmaze.com/episodes/1577889/travelers-3x03-protocol-3",
+      "name": "Protocol 3",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2018-12-14",
+      "airtime": "",
+      "airstamp": "2018-12-14T12:00:00+00:00",
+      "runtime": 48,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443063.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443063.jpg"
+      },
+      "summary": "<p>Certain that his team erased his memory of the previous day, MacLaren retraces his steps in the case of a disturbed youth with a horrific future.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1577889"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1577891,
+      "url": "https://www.tvmaze.com/episodes/1577891/travelers-3x04-perrow",
+      "name": "Perrow",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2018-12-14",
+      "airtime": "",
+      "airstamp": "2018-12-14T12:00:00+00:00",
+      "runtime": 44,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443064.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443064.jpg"
+      },
+      "summary": "<p>The team learns that Traveler 001 is still alive when the Faction tries to capture him. Doubts about their loved ones worsen for Kat, Jeff and David.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1577891"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1577894,
+      "url": "https://www.tvmaze.com/episodes/1577894/travelers-3x05-naomi",
+      "name": "Naomi",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2018-12-14",
+      "airtime": "",
+      "airstamp": "2018-12-14T12:00:00+00:00",
+      "runtime": 44,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443065.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443065.jpg"
+      },
+      "summary": "<p>The team attempts to extract a rogue A.I. from a child messenger, but the program expands too rapidly. A new Traveler adjusts to his host.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1577894"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1577904,
+      "url": "https://www.tvmaze.com/episodes/1577904/travelers-3x06-philip",
+      "name": "Philip",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2018-12-14",
+      "airtime": "",
+      "airstamp": "2018-12-14T12:00:00+00:00",
+      "runtime": 42,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443066.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443066.jpg"
+      },
+      "summary": "<p>The Faction kidnaps Philip and a group of other historians, forcing MacLaren and the team to extract their location from a critically injured Hall.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1577904"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1577905,
+      "url": "https://www.tvmaze.com/episodes/1577905/travelers-3x07-trevor",
+      "name": "Trevor",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2018-12-14",
+      "airtime": "",
+      "airstamp": "2018-12-14T12:00:00+00:00",
+      "runtime": 49,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443067.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443067.jpg"
+      },
+      "summary": "<p>Suffering from a fatal brain disorder, Trevor makes the choice to allow himself to be overwritten as the team races to invent an experimental cure.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1577905"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1577907,
+      "url": "https://www.tvmaze.com/episodes/1577907/travelers-3x08-archive",
+      "name": "Archive",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2018-12-14",
+      "airtime": "",
+      "airstamp": "2018-12-14T12:00:00+00:00",
+      "runtime": 42,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443068.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443068.jpg"
+      },
+      "summary": "<p>MacLaren urges Yates to help him when a Traveler with a mission vital to humanity's survival arrives in the body of a just-captured serial killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1577907"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1577909,
+      "url": "https://www.tvmaze.com/episodes/1577909/travelers-3x09-david",
+      "name": "David",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2018-12-14",
+      "airtime": "",
+      "airstamp": "2018-12-14T12:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443069.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443069.jpg"
+      },
+      "summary": "<p>The Faction sets off nuclear blasts that destroy all of the Travelers' archives, except the one in which a wounded David just happens to be trapped.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1577909"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    },
+    {
+      "id": 1577910,
+      "url": "https://www.tvmaze.com/episodes/1577910/travelers-3x10-protocol-omega",
+      "name": "Protocol Omega",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2018-12-14",
+      "airtime": "",
+      "airstamp": "2018-12-14T12:00:00+00:00",
+      "runtime": 50,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/177/443070.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443070.jpg"
+      },
+      "summary": "<p>Shattered by recent losses and a sweeping new protocol, the Travelers face a bleak future with only one long-shot chance to succeed in their mission.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1577910"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/15996",
+          "name": "Travelers"
+        }
+      }
+    }
+  ]
+}

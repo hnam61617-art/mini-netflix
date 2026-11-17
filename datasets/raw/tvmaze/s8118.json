@@ -1,0 +1,705 @@
+{
+  "netflix_show_id": "s8118",
+  "netflix_title": "Suits",
+  "search_url": "https://api.tvmaze.com/search/shows?q=Suits",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_title_and_cast_or_original_name",
+  "reason": "exact_name_candidates=4",
+  "resolution_candidates": [
+    {
+      "id": 172,
+      "name": "Suits",
+      "premiered": "2011-06-23",
+      "network": {
+        "id": 30,
+        "name": "USA Network",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.usanetwork.com"
+      }
+    },
+    {
+      "id": 43690,
+      "name": "Suits",
+      "premiered": "2018-10-08",
+      "network": {
+        "id": 131,
+        "name": "Fuji TV",
+        "country": {
+          "name": "Japan",
+          "code": "JP",
+          "timezone": "Asia/Tokyo"
+        },
+        "officialSite": null
+      }
+    },
+    {
+      "id": 32271,
+      "name": "Suits",
+      "premiered": "2018-04-25",
+      "network": {
+        "id": 128,
+        "name": "KBS2",
+        "country": {
+          "name": "Korea, Republic of",
+          "code": "KR",
+          "timezone": "Asia/Seoul"
+        },
+        "officialSite": null
+      }
+    },
+    {
+      "id": 60714,
+      "name": "Suits",
+      "premiered": "2022-04-02",
+      "network": {
+        "id": 1785,
+        "name": "CBC Drama",
+        "country": {
+          "name": "Egypt",
+          "code": "EG",
+          "timezone": "Africa/Cairo"
+        },
+        "officialSite": null
+      }
+    },
+    {
+      "id": 74414,
+      "name": "Suits LA",
+      "premiered": "2025-02-23",
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      }
+    },
+    {
+      "id": 41295,
+      "name": "Be Melodramatic",
+      "premiered": "2019-08-09",
+      "network": {
+        "id": 268,
+        "name": "jTBC",
+        "country": {
+          "name": "Korea, Republic of",
+          "code": "KR",
+          "timezone": "Asia/Seoul"
+        },
+        "officialSite": null
+      }
+    },
+    {
+      "id": 26204,
+      "name": "Suite Precure",
+      "premiered": "2011-02-06",
+      "network": {
+        "id": 263,
+        "name": "TV Asahi",
+        "country": {
+          "name": "Japan",
+          "code": "JP",
+          "timezone": "Asia/Tokyo"
+        },
+        "officialSite": null
+      }
+    },
+    {
+      "id": 44893,
+      "name": "Suit Up",
+      "premiered": "2012-09-12",
+      "network": null
+    },
+    {
+      "id": 47256,
+      "name": "Suite noire",
+      "premiered": "2009-07-05",
+      "network": {
+        "id": 106,
+        "name": "France 2",
+        "country": {
+          "name": "France",
+          "code": "FR",
+          "timezone": "Europe/Paris"
+        },
+        "officialSite": "https://www.france2.fr/"
+      }
+    },
+    {
+      "id": 5242,
+      "name": "Mobile Suit Gundam",
+      "premiered": "1979-04-07",
+      "network": {
+        "id": 136,
+        "name": "Nagoya Broadcasting Network",
+        "country": {
+          "name": "Japan",
+          "code": "JP",
+          "timezone": "Asia/Tokyo"
+        },
+        "officialSite": null
+      }
+    }
+  ],
+  "resolution_evidence": [
+    {
+      "show_id": 172,
+      "show_name": "Suits",
+      "cast_overlap": []
+    },
+    {
+      "show_id": 43690,
+      "show_name": "Suits",
+      "cast_overlap": []
+    },
+    {
+      "show_id": 32271,
+      "show_name": "Suits",
+      "cast_overlap": [
+        "jang dong gun",
+        "jin hee kyung"
+      ]
+    },
+    {
+      "show_id": 60714,
+      "show_name": "Suits",
+      "cast_overlap": []
+    }
+  ],
+  "show": {
+    "id": 32271,
+    "url": "https://www.tvmaze.com/shows/32271/suits",
+    "name": "Suits",
+    "type": "Scripted",
+    "language": "Korean",
+    "genres": [
+      "Drama",
+      "Legal"
+    ],
+    "status": "Ended",
+    "runtime": 70,
+    "averageRuntime": 70,
+    "premiered": "2018-04-25",
+    "ended": "2018-06-14",
+    "officialSite": "http://www.kbs.co.kr/drama/suits/index.html",
+    "schedule": {
+      "time": "22:00",
+      "days": [
+        "Wednesday",
+        "Thursday"
+      ]
+    },
+    "rating": {
+      "average": 7.4
+    },
+    "weight": 56,
+    "network": {
+      "id": 128,
+      "name": "KBS2",
+      "country": {
+        "name": "Korea, Republic of",
+        "code": "KR",
+        "timezone": "Asia/Seoul"
+      },
+      "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 336811,
+      "imdb": "tt8084058"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/151/378676.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/151/378676.jpg"
+    },
+    "summary": "<p>Choi Kyung Seo is a legendary lawyer at the top law firm in South Korea. He has charisma and an attractive appearance. He hires Go Yun Woo as a rookie lawyer for the law firm. Go Yun Woo has excellent memory.</p>",
+    "updated": 1592229197,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/32271"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1460313",
+        "name": "Episode 16"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/32271/episodes",
+  "episodes": [
+    {
+      "id": 1438671,
+      "url": "https://www.tvmaze.com/episodes/1438671/suits-1x01-episode-1",
+      "name": "Episode 1",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2018-04-25",
+      "airtime": "22:00",
+      "airstamp": "2018-04-25T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/154/386148.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/154/386148.jpg"
+      },
+      "summary": "<p>Yun Woo has a fascinating brain that allows him to memorize everything perfectly. One day, he falls into a trap after an ill-fated encounter. He somehow ends up interviewing for an associate position in Kang and Ham and makes a choice that may change his life entirely.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1438671"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1438672,
+      "url": "https://www.tvmaze.com/episodes/1438672/suits-1x02-episode-2",
+      "name": "Episode 2",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2018-04-26",
+      "airtime": "22:00",
+      "airstamp": "2018-04-26T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/154/386475.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/154/386475.jpg"
+      },
+      "summary": "<p>In exchange to getting his promotion back, Kang Suk promises three things to Ha Yun. While taking care of things one by one, he assigns Yun Woo his first case. Yun Woo must also complete his task in order to keep his job as Kang Suk's associate.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1438672"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1438673,
+      "url": "https://www.tvmaze.com/episodes/1438673/suits-1x03-episode-3",
+      "name": "Episode 3",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2018-05-02",
+      "airtime": "22:00",
+      "airstamp": "2018-05-02T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/154/387262.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/154/387262.jpg"
+      },
+      "summary": "<p>Yun Woo's first case gets closed with the help of Kang Suk. When given a task by Geun Shik, he can't refuse as he feels like Geun Shik knows something about him. Meanwhile, Kang Suk reunites with a lover from the past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1438673"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1438674,
+      "url": "https://www.tvmaze.com/episodes/1438674/suits-1x04-episode-4",
+      "name": "Episode 4",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2018-05-03",
+      "airtime": "22:00",
+      "airstamp": "2018-05-03T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/155/388247.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/155/388247.jpg"
+      },
+      "summary": "<p>Yun Woo meets Ms. Bae of Soonhan Corporation. He ends up talking to her about his own grandmother who's at the hospital. Meanwhile, Kang Suk is up against his ex-girlfriend with the divorce suit of Seoju Airlines.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1438674"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460302,
+      "url": "https://www.tvmaze.com/episodes/1460302/suits-1x05-episode-5",
+      "name": "Episode 5",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2018-05-09",
+      "airtime": "22:00",
+      "airstamp": "2018-05-09T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/156/390461.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/156/390461.jpg"
+      },
+      "summary": "<p>Ha Yun asks Kang Suk to take on the case involving her ex-husband who is the CEO of Yumi Pharmaceuticals. Meanwhile, Yun Woo gets a chance to prove his worth when the annual mock trial session of Kang and Ham begins. However, things don't pan out according to his original plan.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460302"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460303,
+      "url": "https://www.tvmaze.com/episodes/1460303/suits-1x06-episode-6",
+      "name": "Episode 6",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2018-05-10",
+      "airtime": "22:00",
+      "airstamp": "2018-05-10T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/156/390460.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/156/390460.jpg"
+      },
+      "summary": "<p>The mock trial begins, and Yun Woo manages to buy some time by having the court adjourned. Meanwhile, Kang Suk tries to find a way to beat David. Yun Woo finds a way to win the mock trial, but he soon faces a dilemma.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460303"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460304,
+      "url": "https://www.tvmaze.com/episodes/1460304/suits-1x07-episode-7",
+      "name": "Episode 7",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2018-05-16",
+      "airtime": "22:00",
+      "airstamp": "2018-05-16T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/156/391148.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/156/391148.jpg"
+      },
+      "summary": "<p>Yun Woo decides to make up for losing the mock trial and tells Kang Suk that he will not be swayed by his emotions anymore. Meanwhile, a CEO of an accounting firm comes to Kang and Ham to ask for help regarding the dismissal of an accountant who forged his academic background.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460304"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460305,
+      "url": "https://www.tvmaze.com/episodes/1460305/suits-1x08-episode-8",
+      "name": "Episode 8",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2018-05-17",
+      "airtime": "22:00",
+      "airstamp": "2018-05-17T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/156/391147.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/156/391147.jpg"
+      },
+      "summary": "<p>Kang Suk, unwilling to testify against his former mentor, faces the risk of taking the blame for everything Byung Wook has done. Meanwhile, Yun Woo finds something strange about Namyoung's financial statements.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460305"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460306,
+      "url": "https://www.tvmaze.com/episodes/1460306/suits-1x09-episode-9",
+      "name": "Episode 9",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2018-05-23",
+      "airtime": "22:00",
+      "airstamp": "2018-05-23T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/156/392048.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/156/392048.jpg"
+      },
+      "summary": "<p>Kang Suk decides to set things right after finding out how an innocent man has been locked up for 12 years. In order to get him out of prison, he decides to defend the man he once put behind bars. Meanwhile, Yun Woo is reminded of the accident that killed his parents when he takes on a hit-and-run case.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460306"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460307,
+      "url": "https://www.tvmaze.com/episodes/1460307/suits-1x10-episode-10",
+      "name": "Episode 10",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2018-05-24",
+      "airtime": "22:00",
+      "airstamp": "2018-05-24T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/156/392047.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/156/392047.jpg"
+      },
+      "summary": "<p>Kang Suk is having difficulties with the retrial, and worrying about what to do with Da Ham isn't helping him at all. He must find a way to make everything work so that he can set things right again after 12 years. Meanwhile, Yun Woo falls in agony when he finds out something new about the hit-and-run case.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460307"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460308,
+      "url": "https://www.tvmaze.com/episodes/1460308/suits-1x11-episode-11",
+      "name": "Episode 11",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2018-05-30",
+      "airtime": "22:00",
+      "airstamp": "2018-05-30T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/157/393861.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/157/393861.jpg"
+      },
+      "summary": "<p>Afraid that Gi Taek might return to the firm, Kang Suk and Ha Yun try to come up with a way to stop him. Kang Suk lets him know what he is prepared to do if Gi Taek is to return to the firm. Meanwhile, Yun Woo is given a chance to prove his worth when an aspiring writer files a lawsuit against a publishing company.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460308"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460309,
+      "url": "https://www.tvmaze.com/episodes/1460309/suits-1x12-episode-12",
+      "name": "Episode 12",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2018-05-31",
+      "airtime": "22:00",
+      "airstamp": "2018-05-31T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/157/393860.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/157/393860.jpg"
+      },
+      "summary": "<p>Ha Yun and Kang Suk feel threatened by Gi Taek's return, knowing what kind of a man Gi Taek is. Geun Shik decides to stand on Gi Taek's side instead of Ha Yun's. Meanwhile, Yun Woo meets the labor union leader of the sanatorium in order to reach an agreement.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460309"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460310,
+      "url": "https://www.tvmaze.com/episodes/1460310/suits-1x13-episode-13",
+      "name": "Episode 13",
+      "season": 1,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2018-06-06",
+      "airtime": "22:00",
+      "airstamp": "2018-06-06T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/158/395245.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/158/395245.jpg"
+      },
+      "summary": "<p>The family of a victim who died from a car accident files a damage claim suit against Yuno Motors. While taking care of this case, Kang Suk reunites with David. Meanwhile, Yun Woo introduces Gina to his grandmother.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460310"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460311,
+      "url": "https://www.tvmaze.com/episodes/1460311/suits-1x14-episode-14",
+      "name": "Episode 14",
+      "season": 1,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2018-06-07",
+      "airtime": "22:00",
+      "airstamp": "2018-06-07T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/158/396279.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/158/396279.jpg"
+      },
+      "summary": "<p>In return for turning a blind eye on Da Ham's mistake, David asks Kang Suk to be stripped of the lawyer license. Gi Taek pressures Ha Yun to fire Kang Suk for the sake of the firm, but Kang Suk is given one last chance.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460311"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460312,
+      "url": "https://www.tvmaze.com/episodes/1460312/suits-1x15-episode-15",
+      "name": "Episode 15",
+      "season": 1,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2018-06-13",
+      "airtime": "22:00",
+      "airstamp": "2018-06-13T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/159/398136.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/159/398136.jpg"
+      },
+      "summary": "<p>Yun Woo meets with the president of the Yuno Motors to secure his testimony in hopes to overturn the mock trial between Mr. Choi and Mr. Ham. Mr. Ham's haughty confidence soon turns sour and ends up losing the bet he regrettably has to pay for. Meanwhile, Jo Eun Soo, the president of Kim and Jo, offers to merge with Kang and Ham, hoping it will lead to her full take over.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460312"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    },
+    {
+      "id": 1460313,
+      "url": "https://www.tvmaze.com/episodes/1460313/suits-1x16-episode-16",
+      "name": "Episode 16",
+      "season": 1,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2018-06-14",
+      "airtime": "22:00",
+      "airstamp": "2018-06-14T13:00:00+00:00",
+      "runtime": 70,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/159/398135.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/159/398135.jpg"
+      },
+      "summary": "<p>Yun Woo's biggest secret gets revealed, and the entire firm gets shocked. Kang Suk takes the responsibility for it, and Yun Woo makes up his mind to do what's right for both Kang Suk and the firm.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1460313"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/32271",
+          "name": "Suits"
+        }
+      }
+    }
+  ],
+  "resolution": "unique >=2 cast intersection, or original-name suffix + exact premiere year for Demon Slayer"
+}

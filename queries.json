@@ -1,0 +1,42 @@
+[
+  [
+    "Lọc phim theo thể loại và ngày phát hành",
+    "SET @genre_id = 1;\nSET @from_date = '2025-01-01';\nSET @to_date = '2026-01-01';\nSELECT c.content_id, c.title, c.content_type, c.date_released\nFROM contents AS c\nWHERE c.content_type = 'MOVIE'\n  AND c.date_released >= @from_date\n  AND c.date_released < @to_date\n  AND EXISTS (\n      SELECT 1 FROM content_genres AS cg\n      WHERE cg.content_id = c.content_id AND cg.genre_id = @genre_id\n  )\nORDER BY c.date_released DESC, c.content_id DESC\nLIMIT 20;"
+  ],
+  [
+    "Doanh thu theo tháng và mức tăng trưởng",
+    "WITH monthly AS (\n    SELECT DATE_FORMAT(history_payment, '%Y-%m-01') AS month_start,\n           SUM(prices) AS revenue\n    FROM payments\n    WHERE history_payment >= '2025-01-01'\n      AND history_payment < '2026-01-01'\n    GROUP BY DATE_FORMAT(history_payment, '%Y-%m-01')\n), compared AS (\n    SELECT month_start, revenue,\n           LAG(month_start) OVER (ORDER BY month_start) AS previous_month,\n           LAG(revenue) OVER (ORDER BY month_start) AS previous_revenue\n    FROM monthly\n)\nSELECT month_start, revenue,\n       CASE WHEN TIMESTAMPDIFF(MONTH, previous_month, month_start) = 1\n            THEN ROUND(100.0 * (revenue - previous_revenue)\n                       / NULLIF(previous_revenue, 0), 2)\n       END AS growth_percent\nFROM compared ORDER BY month_start;"
+  ],
+  [
+    "Xếp hạng nội dung theo số hồ sơ đã xem",
+    "WITH audience AS (\n    SELECT COALESCE(wh.content_id, e.content_id) AS content_id,\n           COUNT(DISTINCT wh.profile_id) AS viewer_profiles\n    FROM watch_histories AS wh\n    LEFT JOIN episodes AS e ON e.episode_id = wh.episode_id\n    WHERE wh.watch_progress > 0\n    GROUP BY COALESCE(wh.content_id, e.content_id)\n), ranked AS (\n    SELECT c.content_id, c.title, a.viewer_profiles,\n           DENSE_RANK() OVER (ORDER BY a.viewer_profiles DESC) AS rank_no\n    FROM audience AS a\n    JOIN contents AS c ON c.content_id = a.content_id\n)\nSELECT content_id, title, viewer_profiles, rank_no\nFROM ranked WHERE rank_no <= 10\nORDER BY rank_no, content_id;"
+  ],
+  [
+    "Tiến độ hoàn thành phim bộ của một hồ sơ",
+    "SET @profile_id = 1;\nSELECT c.content_id, c.title, ec.episode_count,\n       COALESCE(sp.completed_episodes, 0) AS completed_episodes,\n       ROUND(100.0 * COALESCE(sp.completed_episodes, 0)\n             / NULLIF(ec.episode_count, 0), 2) AS completed_percent,\n       (ec.episode_count > 0\n        AND COALESCE(sp.completed_episodes, 0) = ec.episode_count)\n           AS is_completed\nFROM v_episode_counts AS ec\nJOIN contents AS c ON c.content_id = ec.content_id\nLEFT JOIN v_series_progress AS sp\n       ON sp.content_id = ec.content_id AND sp.profile_id = @profile_id\nWHERE EXISTS (SELECT 1 FROM profiles WHERE profile_id = @profile_id)\nORDER BY c.content_id;"
+  ],
+  [
+    "Danh sách xem sau chưa hoàn thành",
+    "SELECT c.content_id, c.title, c.content_type, wl.added_at\nFROM watch_lists AS wl\nJOIN contents AS c ON c.content_id = wl.content_id\nLEFT JOIN watch_histories AS wh\n       ON wh.profile_id = wl.profile_id\n      AND wh.content_id = wl.content_id AND wh.episode_id IS NULL\nLEFT JOIN v_episode_counts AS ec ON ec.content_id = c.content_id\nLEFT JOIN v_series_progress AS sp\n       ON sp.profile_id = wl.profile_id AND sp.content_id = c.content_id\nWHERE wl.profile_id = @profile_id\n  AND (\n      (c.content_type = 'MOVIE'\n       AND COALESCE(wh.watch_progress, 0) < 90)\n      OR\n      (c.content_type = 'TV_SERIES'\n       AND (ec.episode_count = 0\n            OR COALESCE(sp.completed_episodes, 0) < ec.episode_count))\n  )\nORDER BY wl.added_at DESC, c.content_id;"
+  ],
+  [
+    "Các lượt đăng ký cần xử lý hết hạn",
+    "SELECT subscription_id, user_id, end_date, auto_renew\nFROM subscriptions\nWHERE status = 'ACTIVE' AND end_date <= CURRENT_TIMESTAMP\nORDER BY end_date, subscription_id\nLIMIT 100;"
+  ],
+  [
+    "Doanh thu theo loại gói",
+    "SELECT t.tier_id, t.tier_name,\n       COUNT(p.payment_id) AS payment_count,\n       COALESCE(SUM(p.prices), 0) AS revenue\nFROM subscription_tiers AS t\nLEFT JOIN subscriptions AS s ON s.tier_id = t.tier_id\nLEFT JOIN payments AS p\n       ON p.subscription_id = s.subscription_id\n      AND p.history_payment >= '2025-01-01'\n      AND p.history_payment < '2026-01-01'\nGROUP BY t.tier_id, t.tier_name\nORDER BY revenue DESC, t.tier_id;"
+  ],
+  [
+    "Hồ sơ đã bắt đầu xem mọi nội dung của một thể loại",
+    "SET @genre_id = 1;\nSELECT p.profile_id, p.profile_name\nFROM profiles AS p\nWHERE EXISTS (\n    SELECT 1 FROM content_genres WHERE genre_id = @genre_id\n)\nAND NOT EXISTS (\n    SELECT 1 FROM content_genres AS cg\n    WHERE cg.genre_id = @genre_id\n      AND NOT EXISTS (\n          SELECT 1 FROM watch_histories AS wh\n          LEFT JOIN episodes AS e ON e.episode_id = wh.episode_id\n          WHERE wh.profile_id = p.profile_id AND wh.watch_progress > 0\n            AND COALESCE(wh.content_id, e.content_id) = cg.content_id\n      )\n)\nORDER BY p.profile_id;"
+  ],
+  [
+    "Top 3 nội dung theo số hồ sơ xem trong từng thể loại",
+    "WITH audience AS (\n    SELECT COALESCE(wh.content_id, e.content_id) AS content_id,\n           COUNT(DISTINCT wh.profile_id) AS viewer_profiles\n    FROM watch_histories AS wh\n    LEFT JOIN episodes AS e ON e.episode_id = wh.episode_id\n    WHERE wh.watch_progress > 0\n    GROUP BY COALESCE(wh.content_id, e.content_id)\n), ranked AS (\n    SELECT g.genre_name, c.content_id, c.title,\n           COALESCE(a.viewer_profiles, 0) AS viewer_profiles,\n           DENSE_RANK() OVER (\n               PARTITION BY g.genre_id\n               ORDER BY COALESCE(a.viewer_profiles, 0) DESC\n           ) AS rank_no\n    FROM genres AS g\n    JOIN content_genres AS cg ON cg.genre_id = g.genre_id\n    JOIN contents AS c ON c.content_id = cg.content_id\n    LEFT JOIN audience AS a ON a.content_id = c.content_id\n)\nSELECT genre_name, content_id, title, viewer_profiles, rank_no\nFROM ranked WHERE rank_no <= 3\nORDER BY genre_name, rank_no, content_id;"
+  ],
+  [
+    "Tài khoản còn gói nhưng không xem trong 30 ngày gần nhất",
+    "SELECT s.user_id, s.subscription_id, s.tier_name, s.end_date\nFROM v_active_subscriptions AS s\nWHERE NOT EXISTS (\n    SELECT 1 FROM profiles AS p\n    JOIN watch_histories AS wh ON wh.profile_id = p.profile_id\n    WHERE p.user_id = s.user_id\n      AND wh.watch_progress > 0\n      AND wh.last_watch_at >= DATE_SUB(CURRENT_TIMESTAMP, INTERVAL 30 DAY)\n      AND wh.last_watch_at <= CURRENT_TIMESTAMP\n)\nORDER BY s.user_id;"
+  ]
+]

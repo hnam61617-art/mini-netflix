@@ -1,0 +1,28 @@
+{
+  "mysql": "8.0.46",
+  "sql_mode": "ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION",
+  "isolation": "READ-COMMITTED",
+  "buffer_pool_bytes": 134217728,
+  "tested_at_utc": "2026-11-16 14:24:50",
+  "python": "3.12.14",
+  "client_os": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "db_build": [
+    "Linux",
+    "x86_64"
+  ],
+  "table_counts": {
+    "content_genres": 26487,
+    "contents": 8807,
+    "episodes": 2762,
+    "genres": 46,
+    "movies": 6131,
+    "payments": 100,
+    "profiles": 200,
+    "subscription_tiers": 3,
+    "subscriptions": 100,
+    "tv_series": 2676,
+    "users": 100,
+    "watch_histories": 25000,
+    "watch_lists": 1000
+  }
+}

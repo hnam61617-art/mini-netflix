@@ -1,0 +1,823 @@
+{
+  "netflix_show_id": "s750",
+  "netflix_title": "L.A.’s Finest",
+  "search_url": "https://api.tvmaze.com/search/shows?q=L.A.%E2%80%99s%20Finest",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 38565,
+    "url": "https://www.tvmaze.com/shows/38565/las-finest",
+    "name": "L.A.'s Finest",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 47,
+    "premiered": "2019-05-13",
+    "ended": "2020-09-09",
+    "officialSite": "https://www.spectrumoriginals.com/lasfinest/",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 6.5
+    },
+    "weight": 90,
+    "network": null,
+    "webChannel": {
+      "id": 316,
+      "name": "Spectrum Originals",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": "https://spectrumoriginals.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 357527,
+      "imdb": "tt7555294"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/260/650446.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/260/650446.jpg"
+    },
+    "summary": "<p><b>L.A.'s Finest</b> follows Syd Burnett last seen in Miami taking down a drug cartel, who has left her complicated past behind to become an LAPD detective. Paired with a new partner, Nancy McKenna, a working mom with an equally complex past, Syd is pushed to examine whether her unapologetic lifestyle might be masking a greater personal secret. These two women don't agree on much, but they find common ground when it comes to taking on the most dangerous criminals in Los Angeles.</p>",
+    "updated": 1754236631,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/38565"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1905183",
+        "name": "For Life"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/38565/episodes",
+  "episodes": [
+    {
+      "id": 1606011,
+      "url": "https://www.tvmaze.com/episodes/1606011/las-finest-1x01-pilot",
+      "name": "Pilot",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2019-05-13",
+      "airtime": "",
+      "airstamp": "2019-05-13T16:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/196/491948.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/196/491948.jpg"
+      },
+      "summary": "<p>When a young boy becomes the target of a powerful cartel, Los Angeles Police Detectives Syd Burnett and Nancy McKenna must race against the clock to keep him safe.  But when Syd's personal quest for justice threatens the operation, she and McKenna must decide whom they really serve and protect.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1606011"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1654723,
+      "url": "https://www.tvmaze.com/episodes/1654723/las-finest-1x02-defiance",
+      "name": "Defiance",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2019-05-13",
+      "airtime": "",
+      "airstamp": "2019-05-13T16:00:00+00:00",
+      "runtime": 47,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/196/492358.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/196/492358.jpg"
+      },
+      "summary": "<p>Our team must track down a budding serial killer who lures young women into isolated areas before killing them live on social media. Meanwhile, Syd's dangerous secret collides with McKenna's complicated past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1654723"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1654724,
+      "url": "https://www.tvmaze.com/episodes/1654724/las-finest-1x03-con-air",
+      "name": "Con Air",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2019-05-13",
+      "airtime": "",
+      "airstamp": "2019-05-13T16:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/196/492359.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/196/492359.jpg"
+      },
+      "summary": "<p>A body abruptly plummets onto a busy street, seemingly falling straight out of the sky, and our team is left to piece together the clues. Meanwhile, Syd and McKenna realize they need to trust each other if they want to escape the ghosts of their past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1654724"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1654725,
+      "url": "https://www.tvmaze.com/episodes/1654725/las-finest-1x04-deja-vu",
+      "name": "Déjà Vu",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2019-05-20",
+      "airtime": "",
+      "airstamp": "2019-05-20T16:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/198/496039.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/198/496039.jpg"
+      },
+      "summary": "<p>Time is up – Syd and McKenna need to get Knox's fentanyl into police custody while leaving no trace of their own involvement. But can they pull it off when McKenna is distracted by Izzy's strange behavior and a ghost from Syd's past returns to haunt her?</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1654725"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1654726,
+      "url": "https://www.tvmaze.com/episodes/1654726/las-finest-1x05-farewell",
+      "name": "Farewell...",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2019-05-20",
+      "airtime": "",
+      "airstamp": "2019-05-20T16:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/198/496040.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/198/496040.jpg"
+      },
+      "summary": "<p>Our LAPD team works to solve the mystery behind the brutal death of a trans woman, while Syd and McKenna are tangled up in their own personal complications. As the hunt for Knox intensifies, Syd is forced to face her traumatic and complicated past head-on when an old flame is transferred to the LAPD.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1654726"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1654727,
+      "url": "https://www.tvmaze.com/episodes/1654727/las-finest-1x06-my-lovely",
+      "name": "...My Lovely",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2019-05-27",
+      "airtime": "",
+      "airstamp": "2019-05-27T16:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/199/499071.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/199/499071.jpg"
+      },
+      "summary": "<p>With Dante back in her life, it's impossible for McKenna to keep hiding the truth about her mother's death from Syd. At the same time, Syd is in a mess of her own as Arlo plots against those she loves. As if this isn't enough on Syd and McKenna's plate, our team continues its hunt for answers in the murder of the trans woman and her fiancé.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1654727"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1654728,
+      "url": "https://www.tvmaze.com/episodes/1654728/las-finest-1x07-book-of-secrets",
+      "name": "Book of Secrets",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2019-05-27",
+      "airtime": "",
+      "airstamp": "2019-05-27T16:00:00+00:00",
+      "runtime": 50,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/199/499072.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/199/499072.jpg"
+      },
+      "summary": "<p>Syd and McKenna's personal hunt for Gabriel Knox ramps up as they let the Bens in on their search for the elusive Arlo. Meanwhile, a conflicted Syd must deal with a family crisis, while McKenna is left with a difficult choice between her past and her future.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1654728"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1655412,
+      "url": "https://www.tvmaze.com/episodes/1655412/las-finest-1x08-dead-men-tell-no-tales",
+      "name": "Dead Men Tell No Tales",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2019-06-03",
+      "airtime": "",
+      "airstamp": "2019-06-03T16:00:00+00:00",
+      "runtime": 48,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/200/502002.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/200/502002.jpg"
+      },
+      "summary": "<p>McKenna is forced to come clean about her past to her husband, and both she and Syd attempt to convince him to bend the rule of law to save a life. In the meantime, our team find themselves trailing a group of thieves who managed to steal millions of dollars' worth of untraceable diamonds.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1655412"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1655413,
+      "url": "https://www.tvmaze.com/episodes/1655413/las-finest-1x09-dangerous-minds",
+      "name": "Dangerous Minds",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2019-06-03",
+      "airtime": "",
+      "airstamp": "2019-06-03T16:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/200/502003.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/200/502003.jpg"
+      },
+      "summary": "<p>It's busy for our team of detectives as they continue to investigate the case of the missing diamonds, and the task force executes a major drug bust. With the threat of Knox looming, both Syd and McKenna must confront some of their deepest secrets yet.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1655413"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1655414,
+      "url": "https://www.tvmaze.com/episodes/1655414/las-finest-1x10-enemy-of-the-state",
+      "name": "Enemy of the State",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2019-06-10",
+      "airtime": "",
+      "airstamp": "2019-06-10T16:00:00+00:00",
+      "runtime": 52,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/505834.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/505834.jpg"
+      },
+      "summary": "<p>As their pasts continue to crash into the present, Syd and McKenna discover that an unknown player has been manipulating them all along. Meanwhile, the search for the missing diamonds continues, just as McKenna is faced with an impossible choice: her brother or her future.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1655414"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1655415,
+      "url": "https://www.tvmaze.com/episodes/1655415/las-finest-1x11-thief",
+      "name": "Thief",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2019-06-10",
+      "airtime": "",
+      "airstamp": "2019-06-10T16:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/507131.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/507131.jpg"
+      },
+      "summary": "<p>After a stunning discovery, Syd and McKenna debate who they can trust moving forward while also investigating a death that took place at a scenic Los Angeles park.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1655415"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1655416,
+      "url": "https://www.tvmaze.com/episodes/1655416/las-finest-1x12-armageddon",
+      "name": "Armageddon",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2019-06-17",
+      "airtime": "",
+      "airstamp": "2019-06-17T16:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/202/505912.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/505912.jpg"
+      },
+      "summary": "<p>As Syd and McKenna finally close in on Gabriel Knox, a shocking revelation makes their fight more personal than ever before.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1655416"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1655417,
+      "url": "https://www.tvmaze.com/episodes/1655417/las-finest-1x13-bad-girls",
+      "name": "Bad Girls",
+      "season": 1,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2019-06-17",
+      "airtime": "",
+      "airstamp": "2019-06-17T16:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/205/514469.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/205/514469.jpg"
+      },
+      "summary": "<p>Syd, McKenna and the team band together as they race against the clock to save one of their own, finally coming face-to-face with their greatest enemy.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1655417"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1855150,
+      "url": "https://www.tvmaze.com/episodes/1855150/las-finest-2x01-the-curse-of-the-black-pearl",
+      "name": "The Curse of the Black Pearl",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 50,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/260/650448.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/260/650448.jpg"
+      },
+      "summary": "<p>With McKenna's help, Syd searches for Jen's killer as she grieves the loss of her friend. Meanwhile, the death of a Koreatown legend has the community up in arms wondering who could be responsible.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1855150"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1855151,
+      "url": "https://www.tvmaze.com/episodes/1855151/las-finest-2x02-the-lone-ranger",
+      "name": "The Lone Ranger",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/260/650449.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/260/650449.jpg"
+      },
+      "summary": "<p>As our team searches for the culprit behind the Koreatown crime surge, McKenna is triggered by memories from her experience in Iraq. Meanwhile, Syd discovers a tape of Jen with an unexpected client.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1855151"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1855152,
+      "url": "https://www.tvmaze.com/episodes/1855152/las-finest-2x03-thief-of-hearts",
+      "name": "Thief of Hearts",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 50,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/260/650450.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/260/650450.jpg"
+      },
+      "summary": "<p>After confronting one of Jen's old clients, Syd and McKenna think they are on the right track when their lives are threatened. On the Koreatown case, our team finally zeroes in on the criminal responsible.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1855152"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1855153,
+      "url": "https://www.tvmaze.com/episodes/1855153/las-finest-2x04-beverly-hills-cops",
+      "name": "Beverly Hills Cops",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/260/650451.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/260/650451.jpg"
+      },
+      "summary": "<p>With the Koreatown shooter safely behind bars, our team catches a new case when a collegiate swimmer is found dead in what seems to be a hit-and-run. Meanwhile, Syd uncovers a new clue from Jen's past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1855153"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1905175,
+      "url": "https://www.tvmaze.com/episodes/1905175/las-finest-2x05-gone-in-60-seconds",
+      "name": "Gone in 60 Seconds",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 43,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/664269.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664269.jpg"
+      },
+      "summary": "<p>When our team connects a new mobile app to a string of crimes, they learn that the Koreatown crime wave is far from over. Meanwhile, Syd discovers a shocking truth about who Jen really was.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1905175"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1905176,
+      "url": "https://www.tvmaze.com/episodes/1905176/las-finest-2x06-maverick",
+      "name": "Maverick",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/664270.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664270.jpg"
+      },
+      "summary": "<p>Amidst the chaos of having to investigate a case that overlaps with Nico's new hustle, McKenna also starts family therapy, and Syd must deliver some bad news to Jen's family.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1905176"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1905177,
+      "url": "https://www.tvmaze.com/episodes/1905177/las-finest-2x07-march-or-die",
+      "name": "March or Die",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 6.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/664271.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664271.jpg"
+      },
+      "summary": "<p>After sharing the truth about Jen's passing with her family, Syd receives some unexpected help on the case. Meanwhile, McKenna and Patrick make a tough decision.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1905177"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1905178,
+      "url": "https://www.tvmaze.com/episodes/1905178/las-finest-2x08-bad-company",
+      "name": "Bad Company",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 47,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/664272.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664272.jpg"
+      },
+      "summary": "<p>Our LAPD team races against the clock to rescue one of their own.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1905178"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1905179,
+      "url": "https://www.tvmaze.com/episodes/1905179/las-finest-2x09-kangaroo-jack",
+      "name": "Kangaroo Jack",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 47,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/664273.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664273.jpg"
+      },
+      "summary": "<p>Syd learns that the crimewave in Koreatown is forcing people out of their homes, drawing the attention of Ricky Leon. Meanwhile, the LAPD searches for the team responsible for a deadly dispensary robbery.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1905179"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1905180,
+      "url": "https://www.tvmaze.com/episodes/1905180/las-finest-2x10-deliver-us-from-evil",
+      "name": "Deliver Us From Evil",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 50,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/664274.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664274.jpg"
+      },
+      "summary": "<p>When Emma goes missing, Syd will stop at nothing to bring her back home to her family. Meanwhile, an undercover McKenna attends a veteran's retreat that could be sourcing the highly skilled Koreatown criminals.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1905180"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1905181,
+      "url": "https://www.tvmaze.com/episodes/1905181/las-finest-2x11-rafferty-and-the-gold-dust-twins",
+      "name": "Rafferty and the Gold Dust Twins",
+      "season": 2,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 46,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/664275.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664275.jpg"
+      },
+      "summary": "<p>Syd and Baines are threatened by an internal affairs investigation regarding Beverly Gamble's death. McKenna and Walker interrogate Duke Ingram which leads our team to an unexpected arms dealer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1905181"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1905182,
+      "url": "https://www.tvmaze.com/episodes/1905182/las-finest-2x12-coyote-ugly",
+      "name": "Coyote Ugly",
+      "season": 2,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 47,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/664276.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664276.jpg"
+      },
+      "summary": "<p>As Patrick waits for the election results, our team works tirelessly to find Malcolm Ward, a killer at large. Meanwhile, Syd offers to tell internal affairs the truth about what happened in the scrap yard.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1905182"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    },
+    {
+      "id": 1905183,
+      "url": "https://www.tvmaze.com/episodes/1905183/las-finest-2x13-for-life",
+      "name": "For Life",
+      "season": 2,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2020-09-09",
+      "airtime": "",
+      "airstamp": "2020-09-09T16:00:00+00:00",
+      "runtime": 51,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/265/664277.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664277.jpg"
+      },
+      "summary": "<p>McKenna grieves the death of a loved one with Syd by her side. Our LAPD detectives work as a united force to put an end to Lustrum Holdings and restore peace in Koreatown.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1905183"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/38565",
+          "name": "L.A.'s Finest"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2762 @@
+{
+  "netflix_show_id": "s83",
+  "netflix_title": "Lucifer",
+  "search_url": "https://api.tvmaze.com/search/shows?q=Lucifer",
+  "source": "TVmaze",
+  "license": "CC BY-SA 4.0",
+  "status": "matched_exact_title",
+  "show": {
+    "id": 1859,
+    "url": "https://www.tvmaze.com/shows/1859/lucifer",
+    "name": "Lucifer",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Supernatural"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 58,
+    "premiered": "2016-01-25",
+    "ended": "2021-09-10",
+    "officialSite": "https://www.netflix.com/title/80057918",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": {
+      "average": 8.3
+    },
+    "weight": 99,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 45076,
+      "thetvdb": 295685,
+      "imdb": "tt4052886"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/346/865655.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/346/865655.jpg"
+    },
+    "summary": "<p>The Devil has come to Los Angeles…</p><p>Based upon the characters created by Neil Gaiman, Sam Kieth and Mike Dringenberg for DC Entertainment's Vertigo imprint, <b>Lucifer</b> is the story of the original fallen angel. Bored and unhappy as the Lord of Hell, Lucifer Morningstar has abandoned his throne and retired to L.A., where he owns Lux, an upscale nightclub.</p><p>Charming, charismatic and devilishly handsome, Lucifer is enjoying his retirement, indulging in a few of his favorite things--wine, women and song-–when a beautiful pop star is brutally murdered outside of Lux. For the first time in roughly 10 billion years, he feels something awaken deep within him as a result of this murder. Compassion? Sympathy? The very thought disturbs him--as well as his best friend and confidante, Mazkeen aka Maze, a fierce demon in the form of a beautiful young woman.</p>",
+    "updated": 1754236812,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/1859"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2060933",
+        "name": "Partners 'Til the End"
+      }
+    }
+  },
+  "episodes_url": "https://api.tvmaze.com/shows/1859/episodes",
+  "episodes": [
+    {
+      "id": 203693,
+      "url": "https://www.tvmaze.com/episodes/203693/lucifer-1x01-pilot",
+      "name": "Pilot",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2016-01-25",
+      "airtime": "21:00",
+      "airstamp": "2016-01-26T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36629.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36629.jpg"
+      },
+      "summary": "<p>Upon leaving hell, Lucifer Morningstar retreats to Los Angeles for a more exciting life. When the murder of a friend connects him with LAPD detective Chloe Decker, Lucifer becomes intrigued with the idea of punishing criminals, sending the devil himself into a struggle between good and evil.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/203693"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 505406,
+      "url": "https://www.tvmaze.com/episodes/505406/lucifer-1x02-lucifer-stay-good-devil",
+      "name": "Lucifer, Stay. Good Devil.",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2016-02-01",
+      "airtime": "21:00",
+      "airstamp": "2016-02-02T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379613.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379613.jpg"
+      },
+      "summary": "<p>When a movie star's son is killed after being chased by the paparazzi, Chloe takes a deep look into the case with a little help from Lucifer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/505406"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 505407,
+      "url": "https://www.tvmaze.com/episodes/505407/lucifer-1x03-the-would-be-prince-of-darkness",
+      "name": "The Would-Be Prince of Darkness",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2016-02-08",
+      "airtime": "21:00",
+      "airstamp": "2016-02-09T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379614.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379614.jpg"
+      },
+      "summary": "<p>When a 22-year-old future superstar quarterback wakes up to find a dead girl floating in his swimming pool, he turns to his friend, Lucifer, for help.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/505407"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 505408,
+      "url": "https://www.tvmaze.com/episodes/505408/lucifer-1x04-manly-whatnots",
+      "name": "Manly Whatnots",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2016-02-15",
+      "airtime": "21:00",
+      "airstamp": "2016-02-16T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379615.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379615.jpg"
+      },
+      "summary": "<p>In an effort to get over his infatuation with Chloe, Lucifer decides that he must seduce her. Meanwhile the two team up on a missing girl case and Amenadiel confronts Maze about his concerns about Lucifer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/505408"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 505409,
+      "url": "https://www.tvmaze.com/episodes/505409/lucifer-1x05-sweet-kicks",
+      "name": "Sweet Kicks",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2016-02-22",
+      "airtime": "21:00",
+      "airstamp": "2016-02-23T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379616.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379616.jpg"
+      },
+      "summary": "<p>After a shooting occurs at a fashion show and a young woman is killed, Lucifer begs Chloe to get in on the case.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/505409"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 505410,
+      "url": "https://www.tvmaze.com/episodes/505410/lucifer-1x06-favorite-son",
+      "name": "Favorite Son",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2016-02-29",
+      "airtime": "21:00",
+      "airstamp": "2016-03-01T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/48/120649.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/48/120649.jpg"
+      },
+      "summary": "<p>Lucifer bails on Chloe when he becomes bored with her investigation into a ruthless biker gang murder.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/505410"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 505411,
+      "url": "https://www.tvmaze.com/episodes/505411/lucifer-1x07-wingman",
+      "name": "Wingman",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2016-03-07",
+      "airtime": "21:00",
+      "airstamp": "2016-03-08T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/48/120650.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/48/120650.jpg"
+      },
+      "summary": "<p>Chloe digs deeper into the Palmetto case, uncovering a lead that might finally expose the truth.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/505411"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 540702,
+      "url": "https://www.tvmaze.com/episodes/540702/lucifer-1x08-et-tu-doctor",
+      "name": "Et Tu, Doctor?",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2016-03-14",
+      "airtime": "21:00",
+      "airstamp": "2016-03-15T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379617.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379617.jpg"
+      },
+      "summary": "<p>When a therapist is murdered, Lucifer and Chloe enlist the help of Dr. Linda to look into possible suspects.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/540702"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 540703,
+      "url": "https://www.tvmaze.com/episodes/540703/lucifer-1x09-a-priest-walks-into-a-bar",
+      "name": "A Priest Walks Into a Bar",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2016-03-21",
+      "airtime": "21:00",
+      "airstamp": "2016-03-22T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379618.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379618.jpg"
+      },
+      "summary": "<p>A priest seeks out Lucifer's help when he suspects an underground drug operation has set up shop at a neighborhood youth center.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/540703"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 540704,
+      "url": "https://www.tvmaze.com/episodes/540704/lucifer-1x10-pops",
+      "name": "Pops",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2016-03-28",
+      "airtime": "21:00",
+      "airstamp": "2016-03-29T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379619.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379619.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe are tasked with solving the murder of a prominent restaurateur. When they meet his son, they suspect he played a part in the death.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/540704"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 540705,
+      "url": "https://www.tvmaze.com/episodes/540705/lucifer-1x11-st-lucifer",
+      "name": "St. Lucifer",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2016-04-11",
+      "airtime": "21:00",
+      "airstamp": "2016-04-12T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379620.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379620.jpg"
+      },
+      "summary": "<p>When philanthropist Tim Dunlear is found dead, Lucifer explores his good side by becoming a benefactor for Tim's glitzy Los Angeles charity.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/540705"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 558793,
+      "url": "https://www.tvmaze.com/episodes/558793/lucifer-1x12-teamlucifer",
+      "name": "#TeamLucifer",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2016-04-18",
+      "airtime": "21:00",
+      "airstamp": "2016-04-19T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379621.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379621.jpg"
+      },
+      "summary": "<p>When a woman is found dead on the Hollywood Walk of Fame, the investigation leads Lucifer and team into the world of Satanists.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/558793"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 647336,
+      "url": "https://www.tvmaze.com/episodes/647336/lucifer-1x13-take-me-back-to-hell",
+      "name": "Take Me Back to Hell",
+      "season": 1,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2016-04-25",
+      "airtime": "21:00",
+      "airstamp": "2016-04-26T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379622.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379622.jpg"
+      },
+      "summary": "<p>When Lucifer is framed for murder, he and Chloe must work together to clear his name and prove the identity of the true killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/647336"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 835519,
+      "url": "https://www.tvmaze.com/episodes/835519/lucifer-2x01-everythings-coming-up-lucifer",
+      "name": "Everything's Coming Up Lucifer",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2016-09-19",
+      "airtime": "21:00",
+      "airstamp": "2016-09-20T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379629.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379629.jpg"
+      },
+      "summary": "<p>Lucifer is distracted by his mother's escape from hell as he and Chloe investigate the murder of a stand-in actress.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/835519"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 849840,
+      "url": "https://www.tvmaze.com/episodes/849840/lucifer-2x02-liar-liar-slutty-dress-on-fire",
+      "name": "Liar, Liar, Slutty Dress on Fire",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2016-10-03",
+      "airtime": "21:00",
+      "airstamp": "2016-10-04T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379630.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379630.jpg"
+      },
+      "summary": "<p>When Lucifer's mother turns up at the scene of a grizzly murder pleading innocence, he is hesitant to believe her tale.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/849840"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 869734,
+      "url": "https://www.tvmaze.com/episodes/869734/lucifer-2x03-sin-eater",
+      "name": "Sin-Eater",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2016-10-10",
+      "airtime": "21:00",
+      "airstamp": "2016-10-11T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379631.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379631.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe investigate a gruesome murder after a video of the crime surfaces on social media.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/869734"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 886124,
+      "url": "https://www.tvmaze.com/episodes/886124/lucifer-2x04-lady-parts",
+      "name": "Lady Parts",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2016-10-17",
+      "airtime": "21:00",
+      "airstamp": "2016-10-18T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379632.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379632.jpg"
+      },
+      "summary": "<p>Chloe and Lucifer are on the hunt for a killer after two young LA transplants are found poisoned.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/886124"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 886125,
+      "url": "https://www.tvmaze.com/episodes/886125/lucifer-2x05-weaponizer",
+      "name": "Weaponizer",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2016-10-24",
+      "airtime": "21:00",
+      "airstamp": "2016-10-25T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379633.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379633.jpg"
+      },
+      "summary": "<p>Lucifer is excited to investigate the murder of his favorite action movie hero, Wesley Cabot.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/886125"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 891520,
+      "url": "https://www.tvmaze.com/episodes/891520/lucifer-2x06-monster",
+      "name": "Monster",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2016-10-31",
+      "airtime": "21:00",
+      "airstamp": "2016-11-01T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379634.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379634.jpg"
+      },
+      "summary": "<p>A guilty and self-destructive Lucifer clashes with Chloe during an investigation, leading her to team up with Dan instead.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/891520"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 904997,
+      "url": "https://www.tvmaze.com/episodes/904997/lucifer-2x07-my-little-monkey",
+      "name": "My Little Monkey",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2016-11-07",
+      "airtime": "21:00",
+      "airstamp": "2016-11-08T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379635.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379635.jpg"
+      },
+      "summary": "<p>New evidence suggests that the man convicted of killing Chloe's father was actually framed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/904997"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 911459,
+      "url": "https://www.tvmaze.com/episodes/911459/lucifer-2x08-trip-to-stabby-town",
+      "name": "Trip to Stabby Town",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2016-11-14",
+      "airtime": "21:00",
+      "airstamp": "2016-11-15T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379636.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379636.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe investigate a string of violent stabbings revolving around a local yoga studio.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/911459"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 947620,
+      "url": "https://www.tvmaze.com/episodes/947620/lucifer-2x09-homewrecker",
+      "name": "Homewrecker",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2016-11-21",
+      "airtime": "21:00",
+      "airstamp": "2016-11-22T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379637.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379637.jpg"
+      },
+      "summary": "<p>Lucifer must deal with the new owner of his building that wants to evict him and demolish the place.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/947620"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 947621,
+      "url": "https://www.tvmaze.com/episodes/947621/lucifer-2x10-quid-pro-ho",
+      "name": "Quid Pro Ho",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2016-11-28",
+      "airtime": "21:00",
+      "airstamp": "2016-11-29T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379638.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379638.jpg"
+      },
+      "summary": "<p>Charlotte is determined to get Lucifer to leave Earth by turning Chloe against him.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/947621"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 999542,
+      "url": "https://www.tvmaze.com/episodes/999542/lucifer-2x11-stewardess-interruptus",
+      "name": "Stewardess Interruptus",
+      "season": 2,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2017-01-16",
+      "airtime": "21:00",
+      "airstamp": "2017-01-17T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379639.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379639.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe investigate the murder of two victims, who happen to be Lucifer's ex-flames.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/999542"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 979804,
+      "url": "https://www.tvmaze.com/episodes/979804/lucifer-2x12-love-handles",
+      "name": "Love Handles",
+      "season": 2,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2017-01-23",
+      "airtime": "21:00",
+      "airstamp": "2017-01-24T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379640.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379640.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe investigate a mysterious masked killer who is poisoning college students.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/979804"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 991389,
+      "url": "https://www.tvmaze.com/episodes/991389/lucifer-2x13-a-good-day-to-die",
+      "name": "A Good Day to Die",
+      "season": 2,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2017-01-30",
+      "airtime": "21:00",
+      "airstamp": "2017-01-31T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379641.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379641.jpg"
+      },
+      "summary": "<p>Lucifer must find the antidote to the Professor's poison, so he travels to hell to find the Professor's soul.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/991389"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 999541,
+      "url": "https://www.tvmaze.com/episodes/999541/lucifer-2x14-candy-morningstar",
+      "name": "Candy Morningstar",
+      "season": 2,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2017-05-01",
+      "airtime": "21:00",
+      "airstamp": "2017-05-02T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379642.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379642.jpg"
+      },
+      "summary": "<p>Lucifer distances himself from his family and the police department after Chloe's near death, but appears to help solve the murder of a rising guitarist.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/999541"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1021770,
+      "url": "https://www.tvmaze.com/episodes/1021770/lucifer-2x15-deceptive-little-parasite",
+      "name": "Deceptive Little Parasite",
+      "season": 2,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2017-05-08",
+      "airtime": "21:00",
+      "airstamp": "2017-05-09T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379643.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379643.jpg"
+      },
+      "summary": "<p>The pressure is on for Lucifer to control what he has never been able to control before - his emotions.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1021770"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1031667,
+      "url": "https://www.tvmaze.com/episodes/1031667/lucifer-2x16-god-johnson",
+      "name": "God Johnson",
+      "season": 2,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2017-05-15",
+      "airtime": "21:00",
+      "airstamp": "2017-05-16T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379644.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379644.jpg"
+      },
+      "summary": "<p>The prime suspect in an insane asylum murder, who claims to be God, begins to pique Lucifer's interest as he believes that he could really be his father.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1031667"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1047929,
+      "url": "https://www.tvmaze.com/episodes/1047929/lucifer-2x17-sympathy-for-the-goddess",
+      "name": "Sympathy for the Goddess",
+      "season": 2,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2017-05-22",
+      "airtime": "21:00",
+      "airstamp": "2017-05-23T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379645.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379645.jpg"
+      },
+      "summary": "<p>Mom joins Chloe and Lucifer as they pursue the person who murdered the man possessing the last piece of the Flaming Sword.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1047929"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1055160,
+      "url": "https://www.tvmaze.com/episodes/1055160/lucifer-2x18-the-good-the-bad-and-the-crispy",
+      "name": "The Good, the Bad and the Crispy",
+      "season": 2,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2017-05-29",
+      "airtime": "21:00",
+      "airstamp": "2017-05-30T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379646.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379646.jpg"
+      },
+      "summary": "<p>Lucifer attempts to protect Charlotte from Chloe when she mistakenly burns a man to death in self-defense.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1055160"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1223226,
+      "url": "https://www.tvmaze.com/episodes/1223226/lucifer-3x01-theyre-back-arent-they",
+      "name": "They're Back, Aren't They?",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2017-10-02",
+      "airtime": "20:00",
+      "airstamp": "2017-10-03T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379647.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379647.jpg"
+      },
+      "summary": "<p>Lucifer enlists Chloe's help to determine why he woke up in the desert with his wings on his back again, which could be related to an active crime scene.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1223226"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1231262,
+      "url": "https://www.tvmaze.com/episodes/1231262/lucifer-3x02-the-one-with-the-baby-carrot",
+      "name": "The One with the Baby Carrot",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2017-10-09",
+      "airtime": "20:00",
+      "airstamp": "2017-10-10T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379654.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379654.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe try to deal with their uneasy relationship; the true danger Sinnerman poses is revealed by Detective Pierce's past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1231262"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1231263,
+      "url": "https://www.tvmaze.com/episodes/1231263/lucifer-3x03-mr-and-mrs-mazikeen-smith",
+      "name": "Mr. and Mrs. Mazikeen Smith",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2017-10-16",
+      "airtime": "20:00",
+      "airstamp": "2017-10-17T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379655.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379655.jpg"
+      },
+      "summary": "<p>Maze travels to Canada for a case in search of meaning in her life after speaking with Lucifer and Linda, but Chloe worries that Maze is being deceived.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1231263"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1231264,
+      "url": "https://www.tvmaze.com/episodes/1231264/lucifer-3x04-what-would-lucifer-do",
+      "name": "What Would Lucifer Do?",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2017-10-23",
+      "airtime": "20:00",
+      "airstamp": "2017-10-24T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379656.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379656.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe explore the world of high-end reform programs when a youth counselor's deceased body is discovered.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1231264"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1312325,
+      "url": "https://www.tvmaze.com/episodes/1312325/lucifer-3x05-welcome-back-charlotte-richards",
+      "name": "Welcome Back, Charlotte Richards",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2017-10-30",
+      "airtime": "20:00",
+      "airstamp": "2017-10-31T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379657.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379657.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe contend against criminal defense attorney Charlotte Richards during their investigation into a murdered food chemist.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1312325"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1312326,
+      "url": "https://www.tvmaze.com/episodes/1312326/lucifer-3x06-vegas-with-some-radish",
+      "name": "Vegas with Some Radish",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2017-11-06",
+      "airtime": "20:00",
+      "airstamp": "2017-11-07T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379658.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379658.jpg"
+      },
+      "summary": "<p>When Lucifer learns that his ex-wife has disappeared, he brings Ella with him to Las Vegas to find her.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1312326"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1340983,
+      "url": "https://www.tvmaze.com/episodes/1340983/lucifer-3x07-off-the-record",
+      "name": "Off the Record",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2017-11-13",
+      "airtime": "20:00",
+      "airstamp": "2017-11-14T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379659.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379659.jpg"
+      },
+      "summary": "<p>A reporter learns that Lucifer has been sleeping with Linda, who happens to be the reporter's estranged wife.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1340983"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1314521,
+      "url": "https://www.tvmaze.com/episodes/1314521/lucifer-3x08-chloe-does-lucifer",
+      "name": "Chloe Does Lucifer",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2017-11-20",
+      "airtime": "20:00",
+      "airstamp": "2017-11-21T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379660.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379660.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe begin to doubt their knowledge of social media when a connection is found between a celebrity dating app and a recent murder.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1314521"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1333564,
+      "url": "https://www.tvmaze.com/episodes/1333564/lucifer-3x09-the-sinnerman",
+      "name": "The Sinnerman",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2017-12-04",
+      "airtime": "20:00",
+      "airstamp": "2017-12-05T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379661.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379661.jpg"
+      },
+      "summary": "<p>Lucifer grows concerned when some of the people he's given favors to begin dying.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1333564"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1280021,
+      "url": "https://www.tvmaze.com/episodes/1280021/lucifer-3x10-the-sin-bin",
+      "name": "The Sin Bin",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2017-12-11",
+      "airtime": "20:00",
+      "airstamp": "2017-12-12T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379662.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379662.jpg"
+      },
+      "summary": "<p>While the Sinnerman is held in custody, Lucifer prepares to get his devil face back at any cost, until another victim's life shakes his confidence.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1280021"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1340856,
+      "url": "https://www.tvmaze.com/episodes/1340856/lucifer-3x11-city-of-angels",
+      "name": "City of Angels?",
+      "season": 3,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2018-01-01",
+      "airtime": "20:00",
+      "airstamp": "2018-01-02T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379663.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379663.jpg"
+      },
+      "summary": "<p>Back when Lucifer first arrived in Los Angeles, Amenadiel becomes the victim of a mugging and asks for Lucifer's assistance with the matter.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1340856"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1351942,
+      "url": "https://www.tvmaze.com/episodes/1351942/lucifer-3x12-all-about-her",
+      "name": "All About Her",
+      "season": 3,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2018-01-22",
+      "airtime": "20:00",
+      "airstamp": "2018-01-23T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379664.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379664.jpg"
+      },
+      "summary": "<p>Lucifer helps Chloe solve a case involving a murdered surfer to get her to help him determine Lt. Pierce's motives after his real identity is revealed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1351942"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1351943,
+      "url": "https://www.tvmaze.com/episodes/1351943/lucifer-3x13-til-death-do-us-part",
+      "name": "Til Death Do Us Part",
+      "season": 3,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2018-01-29",
+      "airtime": "20:00",
+      "airstamp": "2018-01-30T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379665.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379665.jpg"
+      },
+      "summary": "<p>Pierce and Lucifer go undercover when a former ecstasy manufacturer, who became a chemistry teacher, is found dead in a suburb of Los Angeles.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1351943"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1356410,
+      "url": "https://www.tvmaze.com/episodes/1356410/lucifer-3x14-my-brothers-keeper",
+      "name": "My Brother's Keeper",
+      "season": 3,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2018-02-05",
+      "airtime": "20:00",
+      "airstamp": "2018-02-06T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379666.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379666.jpg"
+      },
+      "summary": "<p>Ella asks for help from an unexpected ally to prove her brother's innocence when he becomes a main suspect in a case involving a diamond thief's murder.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1356410"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1393137,
+      "url": "https://www.tvmaze.com/episodes/1393137/lucifer-3x15-high-school-poppycock",
+      "name": "High School Poppycock",
+      "season": 3,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2018-02-26",
+      "airtime": "20:00",
+      "airstamp": "2018-02-27T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379667.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379667.jpg"
+      },
+      "summary": "<p>A deceased novelist has based her books on real people she met in her past and must sneak into a high school reunion to find her killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1393137"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1410876,
+      "url": "https://www.tvmaze.com/episodes/1410876/lucifer-3x16-infernal-guinea-pig",
+      "name": "Infernal Guinea Pig",
+      "season": 3,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2018-03-05",
+      "airtime": "20:00",
+      "airstamp": "2018-03-06T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379668.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379668.jpg"
+      },
+      "summary": "<p>Chloe places her life in potential danger in order to protect an innocent victim during a murder investigation.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1410876"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1410877,
+      "url": "https://www.tvmaze.com/episodes/1410877/lucifer-3x17-let-pinhead-sing",
+      "name": "Let Pinhead Sing!",
+      "season": 3,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2018-03-12",
+      "airtime": "20:00",
+      "airstamp": "2018-03-13T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379669.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379669.jpg"
+      },
+      "summary": "<p>The team is forced to integrate themselves into the world of big-ticket stadium shows after the life of a superstar singer is threatened.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1410877"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1410878,
+      "url": "https://www.tvmaze.com/episodes/1410878/lucifer-3x18-the-last-heartbreak",
+      "name": "The Last Heartbreak",
+      "season": 3,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2018-03-19",
+      "airtime": "20:00",
+      "airstamp": "2018-03-20T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379670.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379670.jpg"
+      },
+      "summary": "<p>While Chloe and Lucifer search for a serial killer who is targeting couples in love, Pierce stumbles upon a connection to a murder he solved in 1958.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1410878"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1410879,
+      "url": "https://www.tvmaze.com/episodes/1410879/lucifer-3x19-orange-is-the-new-maze",
+      "name": "Orange Is the New Maze",
+      "season": 3,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2018-03-26",
+      "airtime": "20:00",
+      "airstamp": "2018-03-27T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379671.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379671.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe integrate themselves into the world of bounty hunting when Maze is considered a prime suspect in a murder.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1410879"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1431717,
+      "url": "https://www.tvmaze.com/episodes/1431717/lucifer-3x20-the-angel-of-san-bernardino",
+      "name": "The Angel of San Bernardino",
+      "season": 3,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2018-04-16",
+      "airtime": "20:00",
+      "airstamp": "2018-04-17T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379672.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379672.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe investigate a murder which a witness claims a guardian angel saved her life, causing Lucifer to become paranoid about his own actions.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1431717"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1431718,
+      "url": "https://www.tvmaze.com/episodes/1431718/lucifer-3x21-anything-pierce-can-do-i-can-do-better",
+      "name": "Anything Pierce Can Do I Can Do Better",
+      "season": 3,
+      "number": 21,
+      "type": "regular",
+      "airdate": "2018-04-23",
+      "airtime": "20:00",
+      "airstamp": "2018-04-24T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379648.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379648.jpg"
+      },
+      "summary": "<p>Lucifer tries distracting Chloe from anything related to Pierce while Lucifer and she investigate the murder of a prima ballerina.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1431718"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1431719,
+      "url": "https://www.tvmaze.com/episodes/1431719/lucifer-3x22-all-hands-on-decker",
+      "name": "All Hands on Decker",
+      "season": 3,
+      "number": 22,
+      "type": "regular",
+      "airdate": "2018-04-30",
+      "airtime": "20:00",
+      "airstamp": "2018-05-01T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379649.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379649.jpg"
+      },
+      "summary": "<p>Lucifer is forced to investigate a murder case with Dan that involves a dog show while Chloe takes some time off.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1431719"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1431720,
+      "url": "https://www.tvmaze.com/episodes/1431720/lucifer-3x23-quintessential-deckerstar",
+      "name": "Quintessential Deckerstar",
+      "season": 3,
+      "number": 23,
+      "type": "regular",
+      "airdate": "2018-05-07",
+      "airtime": "20:00",
+      "airstamp": "2018-05-08T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379650.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379650.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe realize they may be chasing the wrong suspect during a murder investigation.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1431720"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1431721,
+      "url": "https://www.tvmaze.com/episodes/1431721/lucifer-3x24-a-devil-of-my-word",
+      "name": "A Devil of My Word",
+      "season": 3,
+      "number": 24,
+      "type": "regular",
+      "airdate": "2018-05-14",
+      "airtime": "20:00",
+      "airstamp": "2018-05-15T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379651.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379651.jpg"
+      },
+      "summary": "<p>Stunned by a recent death, Chloe, Lucifer and the rest of the team decide to join forces in order to find out who the killer is and take them down.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1431721"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1469527,
+      "url": "https://www.tvmaze.com/episodes/1469527/lucifer-3x25-boo-normal",
+      "name": "Boo Normal",
+      "season": 3,
+      "number": 25,
+      "type": "regular",
+      "airdate": "2018-05-28",
+      "airtime": "20:00",
+      "airstamp": "2018-05-29T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379652.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379652.jpg"
+      },
+      "summary": "<p>As Lucifer and the team investigate the murder of a child psychiatrist, Ella thinks about a big childhood secret that she's been hiding.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1469527"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1469528,
+      "url": "https://www.tvmaze.com/episodes/1469528/lucifer-3x26-once-upon-a-time",
+      "name": "Once Upon a Time",
+      "season": 3,
+      "number": 26,
+      "type": "regular",
+      "airdate": "2018-05-28",
+      "airtime": "21:00",
+      "airstamp": "2018-05-29T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/551/1379653.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/551/1379653.jpg"
+      },
+      "summary": "<p>Lucifer's mom creates an alternate dimension, Lucifer now lives in a world where he not only has never met Chloe, but is granted the freedom of choice.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1469528"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1510198,
+      "url": "https://www.tvmaze.com/episodes/1510198/lucifer-4x01-everythings-okay",
+      "name": "Everything's Okay",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2019-05-08",
+      "airtime": "",
+      "airstamp": "2019-05-08T12:00:00+00:00",
+      "runtime": 49,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/488619.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/488619.jpg"
+      },
+      "summary": "<p>While investigating a beekeeper's murder with Lucifer, Chloe insists that she's completely fine with his devilish revelation, thank you very much.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1510198"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1561438,
+      "url": "https://www.tvmaze.com/episodes/1561438/lucifer-4x02-somebodys-been-reading-dantes-inferno",
+      "name": "Somebody's Been Reading Dante's Inferno",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2019-05-08",
+      "airtime": "",
+      "airstamp": "2019-05-08T12:00:00+00:00",
+      "runtime": 50,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/488620.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/488620.jpg"
+      },
+      "summary": "<p>Chloe and Lucifer look into a murder on the set of a reality show. Father Kinley presses forward with a plan. Amenadiel reconsiders his idea of home.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1561438"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1561439,
+      "url": "https://www.tvmaze.com/episodes/1561439/lucifer-4x03-o-ye-of-little-faith-father",
+      "name": "O, Ye of Little Faith, Father",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2019-05-08",
+      "airtime": "",
+      "airstamp": "2019-05-08T12:00:00+00:00",
+      "runtime": 49,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/488621.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/488621.jpg"
+      },
+      "summary": "<p>An ex-gang member's murder may mask an even darker crime. Lucifer catches Chloe in a lie. Dan and Maze go rogue. Linda braces for looming motherhood.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1561439"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1561441,
+      "url": "https://www.tvmaze.com/episodes/1561441/lucifer-4x04-all-about-eve",
+      "name": "All About Eve",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2019-05-08",
+      "airtime": "",
+      "airstamp": "2019-05-08T12:00:00+00:00",
+      "runtime": 49,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/488622.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/488622.jpg"
+      },
+      "summary": "<p>When a jewelry designer is murdered, Lucifer and Chloe strive to solve the case without each other's help. Also, Lucifer reconnects with an old flame.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1561441"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1610840,
+      "url": "https://www.tvmaze.com/episodes/1610840/lucifer-4x05-expire-erect",
+      "name": "Expire Erect",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2019-05-08",
+      "airtime": "",
+      "airstamp": "2019-05-08T12:00:00+00:00",
+      "runtime": 50,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/488623.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/488623.jpg"
+      },
+      "summary": "<p>After a collector of classic cars is killed, Lucifer and Chloe search for the culprit -- as well as some closure to their relationship.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1610840"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1610841,
+      "url": "https://www.tvmaze.com/episodes/1610841/lucifer-4x06-orgy-pants-to-work",
+      "name": "Orgy Pants to Work",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2019-05-08",
+      "airtime": "",
+      "airstamp": "2019-05-08T12:00:00+00:00",
+      "runtime": 50,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/488624.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/488624.jpg"
+      },
+      "summary": "<p>While Lucifer and Chloe search for a connection between a murdered auditor and a nudist colony, Amenadiel plays host to an unexpected visitor.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1610841"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1610842,
+      "url": "https://www.tvmaze.com/episodes/1610842/lucifer-4x07-devil-is-as-devil-does",
+      "name": "Devil Is as Devil Does",
+      "season": 4,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2019-05-08",
+      "airtime": "",
+      "airstamp": "2019-05-08T12:00:00+00:00",
+      "runtime": 49,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/488625.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/488625.jpg"
+      },
+      "summary": "<p>Eve takes a more active role in her main man's professional life. Meanwhile, Lucifer gets back to basics and Amenadiel fights for his family.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1610842"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1561443,
+      "url": "https://www.tvmaze.com/episodes/1561443/lucifer-4x08-super-bad-boyfriend",
+      "name": "Super Bad Boyfriend",
+      "season": 4,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2019-05-08",
+      "airtime": "",
+      "airstamp": "2019-05-08T12:00:00+00:00",
+      "runtime": 52,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/488626.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/488626.jpg"
+      },
+      "summary": "<p>Lucifer and Chloe investigate a teacher's murder. Meanwhile, Lucifer goes to extremes to convince Eve to dump him, and Amenadiel mentors a teen.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1561443"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1561444,
+      "url": "https://www.tvmaze.com/episodes/1561444/lucifer-4x09-save-lucifer",
+      "name": "Save Lucifer",
+      "season": 4,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2019-05-08",
+      "airtime": "",
+      "airstamp": "2019-05-08T12:00:00+00:00",
+      "runtime": 51,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/488627.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/488627.jpg"
+      },
+      "summary": "<p>Lucifer's so-called epiphany has Chloe worried, but it's his physical transformation that's really freaking her out. Also, Maze gives Eve a pep talk.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1561444"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1610843,
+      "url": "https://www.tvmaze.com/episodes/1610843/lucifer-4x10-whos-da-new-king-of-hell",
+      "name": "Who's da New King of Hell?",
+      "season": 4,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2019-05-08",
+      "airtime": "",
+      "airstamp": "2019-05-08T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/195/488628.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/195/488628.jpg"
+      },
+      "summary": "<p>With murderous demons on the loose in Los Angeles, it's up to Lucifer to reign in the chaos and protect the people he most cares about.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1610843"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1707013,
+      "url": "https://www.tvmaze.com/episodes/1707013/lucifer-5x01-really-sad-devil-guy",
+      "name": "Really Sad Devil Guy",
+      "season": 5,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2020-08-21",
+      "airtime": "",
+      "airstamp": "2020-08-21T12:00:00+00:00",
+      "runtime": 52,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/269/672677.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/269/672677.jpg"
+      },
+      "summary": "<p>Lucifer toys with a murder victim while Chloe and Maze investigate the death. Meanwhile, Amenadiel cleans up the club, and Linda mothers a genius.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1707013"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1717701,
+      "url": "https://www.tvmaze.com/episodes/1717701/lucifer-5x02-lucifer-lucifer-lucifer",
+      "name": "Lucifer! Lucifer! Lucifer!",
+      "season": 5,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2020-08-21",
+      "airtime": "",
+      "airstamp": "2020-08-21T12:00:00+00:00",
+      "runtime": 58,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/269/672678.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/269/672678.jpg"
+      },
+      "summary": "<p>After spending an eternity in hell, Lucifer returns to the land of the living — but there's something a little different about this handsome devil.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1717701"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1747738,
+      "url": "https://www.tvmaze.com/episodes/1747738/lucifer-5x03-diablo",
+      "name": "¡Diablo!",
+      "season": 5,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2020-08-21",
+      "airtime": "",
+      "airstamp": "2020-08-21T12:00:00+00:00",
+      "runtime": 55,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/269/672679.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/269/672679.jpg"
+      },
+      "summary": "<p>Lucifer — the real one this time — helps Chloe investigate a murder committed on the set of a TV show inspired by his own life.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1747738"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1747744,
+      "url": "https://www.tvmaze.com/episodes/1747744/lucifer-5x04-it-never-ends-well-for-the-chicken",
+      "name": "It Never Ends Well for the Chicken",
+      "season": 5,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2020-08-21",
+      "airtime": "",
+      "airstamp": "2020-08-21T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/269/673231.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/269/673231.jpg"
+      },
+      "summary": "<p>The year is 1946. The world is black and white. And Lucifer is the star of his own noir detective story featuring familiar characters in new roles.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1747744"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1747752,
+      "url": "https://www.tvmaze.com/episodes/1747752/lucifer-5x05-detective-amenadiel",
+      "name": "Detective Amenadiel",
+      "season": 5,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2020-08-21",
+      "airtime": "",
+      "airstamp": "2020-08-21T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/269/672681.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/269/672681.jpg"
+      },
+      "summary": "<p>Amenadiel helps Chloe investigate a nun's untimely demise. Meanwhile, Lucifer lends Dan a hand, and Linda reveals a painful part of her history.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1747752"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1748491,
+      "url": "https://www.tvmaze.com/episodes/1748491/lucifer-5x06-bluballz",
+      "name": "BluBallz",
+      "season": 5,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2020-08-21",
+      "airtime": "",
+      "airstamp": "2020-08-21T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/269/672682.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/269/672682.jpg"
+      },
+      "summary": "<p>After a popular DJ is electrocuted on stage, Chloe searches for the killer while Lucifer tries to keep his jealousy over an ex-flame in check.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1748491"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1774437,
+      "url": "https://www.tvmaze.com/episodes/1774437/lucifer-5x07-our-mojo",
+      "name": "Our Mojo",
+      "season": 5,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2020-08-21",
+      "airtime": "",
+      "airstamp": "2020-08-21T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/269/672683.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/269/672683.jpg"
+      },
+      "summary": "<p>As a shocking side effect of his romance with Chloe throws Lucifer for a loop, the new couple pursues a murderer with a most unusual M.O.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1774437"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1774443,
+      "url": "https://www.tvmaze.com/episodes/1774443/lucifer-5x08-spoiler-alert",
+      "name": "Spoiler Alert",
+      "season": 5,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2020-08-21",
+      "airtime": "",
+      "airstamp": "2020-08-21T12:00:00+00:00",
+      "runtime": 62,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/269/672684.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/269/672684.jpg"
+      },
+      "summary": "<p>Chloe learns a serial killer may have embellished his crimes. Amenadiel worries about his son's health. Pete opens up to Ella.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1774443"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1790682,
+      "url": "https://www.tvmaze.com/episodes/1790682/lucifer-5x09-family-dinner",
+      "name": "Family Dinner",
+      "season": 5,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2021-05-28",
+      "airtime": "",
+      "airstamp": "2021-05-28T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/322/806282.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/322/806282.jpg"
+      },
+      "summary": "<p>Chloe and Ella investigate a mini-golf murder. Lucifer, Michael, Amenadiel and Linda prepare for the holiest of family dinners.</p><p> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1790682"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1790333,
+      "url": "https://www.tvmaze.com/episodes/1790333/lucifer-5x10-bloody-celestial-karaoke-jam",
+      "name": "Bloody Celestial Karaoke Jam",
+      "season": 5,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2021-05-28",
+      "airtime": "",
+      "airstamp": "2021-05-28T12:00:00+00:00",
+      "runtime": 61,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/322/806116.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/322/806116.jpg"
+      },
+      "summary": "<p>It's a musical? Yep, it's a musical. Lucifer, Chloe and the gang sing and dance to a slew of popular tunes while investigating a referee's murder.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1790333"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1790681,
+      "url": "https://www.tvmaze.com/episodes/1790681/lucifer-5x11-resting-devil-face",
+      "name": "Resting Devil Face",
+      "season": 5,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2021-05-28",
+      "airtime": "",
+      "airstamp": "2021-05-28T12:00:00+00:00",
+      "runtime": 54,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/322/806283.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/322/806283.jpg"
+      },
+      "summary": "<p>Lucifer's father — you know, God — decides to experience life as a regular human. Meanwhile, a boxer dies under mysterious circumstances.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1790681"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1794187,
+      "url": "https://www.tvmaze.com/episodes/1794187/lucifer-5x12-daniel-espinoza-naked-and-afraid",
+      "name": "Daniel Espinoza: Naked and Afraid",
+      "season": 5,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2021-05-28",
+      "airtime": "",
+      "airstamp": "2021-05-28T12:00:00+00:00",
+      "runtime": 59,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/322/806118.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/322/806118.jpg"
+      },
+      "summary": "<p>A straightforward prisoner transport job turns into an increasingly dangerous, yet oddly invigorating, odyssey for Dan.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1794187"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1799771,
+      "url": "https://www.tvmaze.com/episodes/1799771/lucifer-5x13-a-little-harmless-stalking",
+      "name": "A Little Harmless Stalking",
+      "season": 5,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2021-05-28",
+      "airtime": "",
+      "airstamp": "2021-05-28T12:00:00+00:00",
+      "runtime": 61,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/322/806119.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/322/806119.jpg"
+      },
+      "summary": "<p>Linda throws herself into a deeply personal mission. Maze unmasks a blast from the past. Amenadiel ponders a new job.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1799771"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1802037,
+      "url": "https://www.tvmaze.com/episodes/1802037/lucifer-5x14-nothing-lasts-forever",
+      "name": "Nothing Lasts Forever",
+      "season": 5,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2021-05-28",
+      "airtime": "",
+      "airstamp": "2021-05-28T12:00:00+00:00",
+      "runtime": 59,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/322/806120.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/322/806120.jpg"
+      },
+      "summary": "<p>Lucifer angles to be his father's successor. Ella makes a painful confession. Chloe investigates a murder at an aquarium.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1802037"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1809303,
+      "url": "https://www.tvmaze.com/episodes/1809303/lucifer-5x15-is-this-really-how-its-going-to-end",
+      "name": "Is This Really How It's Going to End?!",
+      "season": 5,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2021-05-28",
+      "airtime": "",
+      "airstamp": "2021-05-28T12:00:00+00:00",
+      "runtime": 63,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/322/806121.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/322/806121.jpg"
+      },
+      "summary": "<p>Lucifer learns that not all of his siblings want him to land the big promotion. Also, Dan offers to set Ella up with an old friend.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1809303"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1816549,
+      "url": "https://www.tvmaze.com/episodes/1816549/lucifer-5x16-a-chance-at-a-happy-ending",
+      "name": "A Chance at a Happy Ending",
+      "season": 5,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2021-05-28",
+      "airtime": "",
+      "airstamp": "2021-05-28T12:00:00+00:00",
+      "runtime": 54,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/322/806122.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/322/806122.jpg"
+      },
+      "summary": "<p>The end is nigh! Lucifer, Chloe, Maze and Amenadiel prepare for battle with Michael and his not-so-angelic army of supporters.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1816549"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1978280,
+      "url": "https://www.tvmaze.com/episodes/1978280/lucifer-6x01-nothing-ever-changes-around-here",
+      "name": "Nothing Ever Changes Around Here",
+      "season": 6,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2021-09-10",
+      "airtime": "",
+      "airstamp": "2021-09-10T12:00:00+00:00",
+      "runtime": 48,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/356/890429.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/356/890429.jpg"
+      },
+      "summary": "<p>Before Lucifer starts his new job, he and Chloe experience a magical night with a murderous end. Linda and Amenadiel host Maze and Eve for dinner.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1978280"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 1982884,
+      "url": "https://www.tvmaze.com/episodes/1982884/lucifer-6x02-buckets-of-baggage",
+      "name": "Buckets of Baggage",
+      "season": 6,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2021-09-10",
+      "airtime": "",
+      "airstamp": "2021-09-10T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/356/890430.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/356/890430.jpg"
+      },
+      "summary": "<p>Desperate to be helpful, Lucifer assists an exasperated Carol investigate a drag queen's death. Ella and Chloe look into Carol's mysterious background.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1982884"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 2080890,
+      "url": "https://www.tvmaze.com/episodes/2080890/lucifer-6x03-yabba-dabba-do-me",
+      "name": "Yabba Dabba Do Me",
+      "season": 6,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2021-09-10",
+      "airtime": "",
+      "airstamp": "2021-09-10T12:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/356/890431.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/356/890431.jpg"
+      },
+      "summary": "<p>Loony Lucifer and cartoon Chloe find themselves trapped in an animated loop. Amenadiel prepares for his new job. Dan returns to the city of angels.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2080890"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 2080889,
+      "url": "https://www.tvmaze.com/episodes/2080889/lucifer-6x04-pin-the-tail-on-the-daddy",
+      "name": "Pin the Tail on the Daddy",
+      "season": 6,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2021-09-10",
+      "airtime": "",
+      "airstamp": "2021-09-10T12:00:00+00:00",
+      "runtime": 45,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/356/890432.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/356/890432.jpg"
+      },
+      "summary": "<p>Lucifer reconnects with a few former flames in hopes of disproving Rory's claim. Dan tries to find someone — anyone — who can actually see him.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2080889"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 2080888,
+      "url": "https://www.tvmaze.com/episodes/2080888/lucifer-6x05-the-murder-of-lucifer-morningstar",
+      "name": "The Murder of Lucifer Morningstar",
+      "season": 6,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2021-09-10",
+      "airtime": "",
+      "airstamp": "2021-09-10T12:00:00+00:00",
+      "runtime": 47,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/356/890433.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/356/890433.jpg"
+      },
+      "summary": "<p>Not believing that he could have abandoned his future daughter, Lucifer sets out to prove an alternate theory: He must have been murdered.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2080888"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 2080887,
+      "url": "https://www.tvmaze.com/episodes/2080887/lucifer-6x06-a-lot-dirtier-than-that",
+      "name": "A Lot Dirtier Than That",
+      "season": 6,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2021-09-10",
+      "airtime": "",
+      "airstamp": "2021-09-10T12:00:00+00:00",
+      "runtime": 55,
+      "rating": {
+        "average": 7.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/356/890434.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/356/890434.jpg"
+      },
+      "summary": "<p>Wanting to do well on his first day with the LAPD, Amenadiel crosses paths with a racist detective from his past. Also, Lucifer tries to bond with Rory.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2080887"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 2080886,
+      "url": "https://www.tvmaze.com/episodes/2080886/lucifer-6x07-my-best-fiends-wedding",
+      "name": "My Best Fiend's Wedding",
+      "season": 6,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2021-09-10",
+      "airtime": "",
+      "airstamp": "2021-09-10T12:00:00+00:00",
+      "runtime": 59,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/356/890435.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/356/890435.jpg"
+      },
+      "summary": "<p>Just as Eve and Maze's wedding day arrives, Eve's ex, Adam — yes, that Adam — shows up hoping to reconcile. Later, Ella delivers some distressing news.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2080886"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 2080885,
+      "url": "https://www.tvmaze.com/episodes/2080885/lucifer-6x08-save-the-devil-save-the-world",
+      "name": "Save the Devil, Save the World",
+      "season": 6,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2021-09-10",
+      "airtime": "",
+      "airstamp": "2021-09-10T12:00:00+00:00",
+      "runtime": 56,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/356/890436.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/356/890436.jpg"
+      },
+      "summary": "<p>Lucifer says he's finally ready to be God, but his non-functioning wings would tend to disagree. Linda reluctantly shares the first draft of her book.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2080885"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 2080884,
+      "url": "https://www.tvmaze.com/episodes/2080884/lucifer-6x09-goodbye-lucifer",
+      "name": "Goodbye, Lucifer",
+      "season": 6,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2021-09-10",
+      "airtime": "",
+      "airstamp": "2021-09-10T12:00:00+00:00",
+      "runtime": 66,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/356/890437.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/356/890437.jpg"
+      },
+      "summary": "<p>Lucifer tries to enjoy what may be his last day on Earth, Dan's killer escapes from prison, and Chloe drops a serious bombshell.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2080884"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    },
+    {
+      "id": 2060933,
+      "url": "https://www.tvmaze.com/episodes/2060933/lucifer-6x10-partners-til-the-end",
+      "name": "Partners 'Til the End",
+      "season": 6,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2021-09-10",
+      "airtime": "",
+      "airstamp": "2021-09-10T12:00:00+00:00",
+      "runtime": 53,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/356/890438.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/356/890438.jpg"
+      },
+      "summary": "<p>Desperate to rescue Rory, Lucifer and Chloe confront her kidnapper with guns and wings blazing. Lucifer finally comes to terms with his purpose.</p><p><br /> </p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/2060933"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1859",
+          "name": "Lucifer"
+        }
+      }
+    }
+  ]
+}

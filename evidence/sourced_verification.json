@@ -1,0 +1,398 @@
+[
+  {
+    "code": "S01",
+    "name": "Báo cáo, schema, role, SELECT và bốn verify gốc giữ nguyên byte",
+    "passed": true,
+    "actual": "9"
+  },
+  {
+    "code": "S02",
+    "name": "Tất cả snapshot nguồn khớp SHA-256",
+    "passed": true,
+    "actual": "40"
+  },
+  {
+    "code": "S03",
+    "name": "13 bảng nghiệp vụ",
+    "passed": true,
+    "actual": "13"
+  },
+  {
+    "code": "S04",
+    "name": "13 trigger",
+    "passed": true,
+    "actual": "13"
+  },
+  {
+    "code": "S05",
+    "name": "4 view",
+    "passed": true,
+    "actual": "4"
+  },
+  {
+    "code": "S06",
+    "name": "Một thủ tục",
+    "passed": true,
+    "actual": "1"
+  },
+  {
+    "code": "COUNT-users",
+    "name": "Số dòng seed users",
+    "passed": true,
+    "actual": "13/13"
+  },
+  {
+    "code": "COUNT-profiles",
+    "name": "Số dòng seed profiles",
+    "passed": true,
+    "actual": "13/13"
+  },
+  {
+    "code": "COUNT-subscription_tiers",
+    "name": "Số dòng seed subscription_tiers",
+    "passed": true,
+    "actual": "3/3"
+  },
+  {
+    "code": "COUNT-subscriptions",
+    "name": "Số dòng seed subscriptions",
+    "passed": true,
+    "actual": "0/0"
+  },
+  {
+    "code": "COUNT-payments",
+    "name": "Số dòng seed payments",
+    "passed": true,
+    "actual": "0/0"
+  },
+  {
+    "code": "COUNT-contents",
+    "name": "Số dòng seed contents",
+    "passed": true,
+    "actual": "8807/8807"
+  },
+  {
+    "code": "COUNT-movies",
+    "name": "Số dòng seed movies",
+    "passed": true,
+    "actual": "6131/6131"
+  },
+  {
+    "code": "COUNT-tv_series",
+    "name": "Số dòng seed tv_series",
+    "passed": true,
+    "actual": "2676/2676"
+  },
+  {
+    "code": "COUNT-episodes",
+    "name": "Số dòng seed episodes",
+    "passed": true,
+    "actual": "2468/2468"
+  },
+  {
+    "code": "COUNT-genres",
+    "name": "Số dòng seed genres",
+    "passed": true,
+    "actual": "46/46"
+  },
+  {
+    "code": "COUNT-content_genres",
+    "name": "Số dòng seed content_genres",
+    "passed": true,
+    "actual": "26487/26487"
+  },
+  {
+    "code": "COUNT-watch_lists",
+    "name": "Số dòng seed watch_lists",
+    "passed": true,
+    "actual": "0/0"
+  },
+  {
+    "code": "COUNT-watch_histories",
+    "name": "Số dòng seed watch_histories",
+    "passed": true,
+    "actual": "1694/1694"
+  },
+  {
+    "code": "S07",
+    "name": "Bộ chính vượt 20000 dòng không sinh log ngẫu nhiên",
+    "passed": true,
+    "actual": "48338"
+  },
+  {
+    "code": "S08",
+    "name": "Bộ chính không INSERT ba bảng thiếu nguồn",
+    "passed": true,
+    "actual": "['subscriptions', 'payments', 'watch_lists']"
+  },
+  {
+    "code": "S09",
+    "name": "Không tạo tập giả",
+    "passed": true,
+    "actual": "0"
+  },
+  {
+    "code": "S10",
+    "name": "Mọi bộ đếm tập khớp dòng đã nhập",
+    "passed": true,
+    "actual": "0 violations"
+  },
+  {
+    "code": "S11",
+    "name": "Đúng lớp con + ít nhất một thể loại",
+    "passed": true,
+    "actual": "0 violations"
+  },
+  {
+    "code": "S12",
+    "name": "Mỗi hồ sơ nguồn có chủ kỹ thuật riêng, không giả làm danh tính gốc",
+    "passed": true,
+    "actual": "13"
+  },
+  {
+    "code": "S13",
+    "name": "Dòng hồ sơ nguồn được đối chiếu chính xác sau đổi alias",
+    "passed": true,
+    "actual": "source row verified"
+  },
+  {
+    "code": "S14",
+    "name": "905 dòng viewing activity không bị nhân đôi",
+    "passed": true,
+    "actual": "905"
+  },
+  {
+    "code": "S15",
+    "name": "Mọi lịch sử có dòng nguồn thật, không phải trailer",
+    "passed": true,
+    "actual": "1694"
+  },
+  {
+    "code": "S16",
+    "name": "Tiến độ từ bookmark/runtime, FK đích đúng và 0..100",
+    "passed": true,
+    "actual": "1694"
+  },
+  {
+    "code": "S17",
+    "name": "last_watch_at giữ thời điểm kết thúc từ log gốc",
+    "passed": true,
+    "actual": "1694"
+  },
+  {
+    "code": "S18",
+    "name": "Số log đầu vào được giải thích hết: nhận + loại",
+    "passed": true,
+    "actual": "10897"
+  },
+  {
+    "code": "S19",
+    "name": "Unique profile/target được gộp quan sát cuối",
+    "passed": true,
+    "actual": "1694"
+  },
+  {
+    "code": "S20",
+    "name": "Tất cả tập có ID, tên, runtime, ngày từ TVmaze",
+    "passed": true,
+    "actual": "2468"
+  },
+  {
+    "code": "S21",
+    "name": "Không gán ngày 01/01 khi nguồn chỉ có năm",
+    "passed": true,
+    "actual": "8773"
+  },
+  {
+    "code": "S22",
+    "name": "Không lẫn fixture 25000 log vào seed nguồn",
+    "passed": true,
+    "actual": "fixture separated"
+  },
+  {
+    "code": "S23",
+    "name": "File MD dữ liệu để trống và nguồn có sẵn",
+    "passed": true,
+    "actual": "True"
+  },
+  {
+    "code": "SELECT1",
+    "name": "SELECT gốc 1 chạy được trên bộ thiếu dữ liệu",
+    "passed": true,
+    "actual": "0"
+  },
+  {
+    "code": "SELECT2",
+    "name": "SELECT gốc 2 chạy được trên bộ thiếu dữ liệu",
+    "passed": true,
+    "actual": "0"
+  },
+  {
+    "code": "SELECT3",
+    "name": "SELECT gốc 3 chạy được trên bộ thiếu dữ liệu",
+    "passed": true,
+    "actual": "215"
+  },
+  {
+    "code": "SELECT4",
+    "name": "SELECT gốc 4 chạy được trên bộ thiếu dữ liệu",
+    "passed": true,
+    "actual": "2676"
+  },
+  {
+    "code": "SELECT5",
+    "name": "SELECT gốc 5 chạy được trên bộ thiếu dữ liệu",
+    "passed": true,
+    "actual": "0"
+  },
+  {
+    "code": "SELECT6",
+    "name": "SELECT gốc 6 chạy được trên bộ thiếu dữ liệu",
+    "passed": true,
+    "actual": "0"
+  },
+  {
+    "code": "SELECT7",
+    "name": "SELECT gốc 7 chạy được trên bộ thiếu dữ liệu",
+    "passed": true,
+    "actual": "3"
+  },
+  {
+    "code": "SELECT8",
+    "name": "SELECT gốc 8 chạy được trên bộ thiếu dữ liệu",
+    "passed": true,
+    "actual": "0"
+  },
+  {
+    "code": "SELECT9",
+    "name": "SELECT gốc 9 chạy được trên bộ thiếu dữ liệu",
+    "passed": true,
+    "actual": "8501"
+  },
+  {
+    "code": "SELECT10",
+    "name": "SELECT gốc 10 chạy được trên bộ thiếu dữ liệu",
+    "passed": true,
+    "actual": "0"
+  },
+  {
+    "code": "HTTP-LOGIN",
+    "name": "Tài khoản kỹ thuật đăng nhập",
+    "passed": true,
+    "actual": "302"
+  },
+  {
+    "code": "HTTP0",
+    "name": "HTTP /",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "HTTP1",
+    "name": "HTTP /?page=2",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "HTTP2",
+    "name": "HTTP /?page=184",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "HTTP3",
+    "name": "HTTP /?view=list",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "HTTP4",
+    "name": "HTTP /?view=history",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "HTTP5",
+    "name": "HTTP /account",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "HTTP6",
+    "name": "HTTP /content/1",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "HTTP7",
+    "name": "HTTP /data-sources",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "HTTP-NOPLAN",
+    "name": "Gói trống được hiển thị đúng",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "HTTP-BLOCK",
+    "name": "Không có gói thì không ghi tiến độ",
+    "passed": true,
+    "actual": "403"
+  },
+  {
+    "code": "HTTP-OWNER",
+    "name": "Không đọc hồ sơ của chủ khác",
+    "passed": true,
+    "actual": "403"
+  },
+  {
+    "code": "SEARCH0",
+    "name": "Tra cứu users",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "SEARCH1",
+    "name": "Tra cứu profiles",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "SEARCH2",
+    "name": "Tra cứu contents",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "SEARCH3",
+    "name": "Tra cứu monthly",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "SEARCH4",
+    "name": "Tra cứu tier_revenue",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "SEARCH5",
+    "name": "Tra cứu pending_list",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "SEARCH6",
+    "name": "Tra cứu series_progress",
+    "passed": true,
+    "actual": "200"
+  },
+  {
+    "code": "HTTP-EPISODES",
+    "name": "Trang phim bộ có tập nguồn",
+    "passed": true,
+    "actual": "200"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "deterministic": true,
+  "artifacts": {
+    "sql/02_seed.sql": "96e523f3d4bb67a06940f01498e1764ac87de985f2db9c3334b55e5cd53b0679",
+    "datasets/generated/content_provenance.csv": "621484dd013fbc7450d7326a1857702a8e954996607084b598e2e267f006b421",
+    "datasets/generated/rejected_episodes.csv": "36f24cf8664d184d32bf5bd5355a82d5387010837a815869327cd57e8992f571",
+    "datasets/generated/history_provenance.csv": "02cd0b5b22f16102d7e64547cad622360ba7192f414498bb6a7fbdb52f5f2683",
+    "datasets/generated/rejected_watch_events.csv": "c07bdad855266940bc179c7b61840fb4e40091e7e8a9dc0c04326d67a4e6d92e",
+    "datasets/generated/episode_provenance.csv": "fe6e2e51c7b9671bdaeff20f5b280496e451cf6295f80cc20594e1ceea5956d2",
+    "datasets/generated/profile_provenance.csv": "d241a7bc902d9a11f94f036f3612b3a107d95b614085df90d528676abdd5bc0b",
+    "datasets/generated/build_manifest.json": "d40d3f1aff8f40a35099ecb742422dedf9b5e20ccf5edecd8c321dcaed9b8858"
+  }
+}
