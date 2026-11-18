@@ -1,6 +1,6 @@
 # Mini-Netflix · Nhóm G2 — bản dữ liệu có nguồn
 
-Đọc [DATA_SOURCES.md](DATA_SOURCES.md) về nguồn và cách sử dụng; [SOURCE_INVENTORY.md](SOURCE_INVENTORY.md) về nguồn đã xét;. báo cáo đề tài nằm tại [Bao_Cao_Mini_Netflix_G2.pdf](Bao_Cao_Mini_Netflix_G2.pdf) ; 
+Đọc [DATA_SOURCES.md](DATA_SOURCES.md) về nguồn và cách sử dụng; [SOURCE_INVENTORY.md](SOURCE_INVENTORY.md) về nguồn đã xét;. báo cáo đồ án nằm tại [Bao_Cao_Mini_Netflix_G2.pdf](Bao_Cao_Mini_Netflix_G2.pdf) ; 
 
 ## Thông tin nhóm và repo
 
